@@ -1,0 +1,440 @@
+# Haberci kaynak listesi
+# katman: 1 = ajans / kamu yayıncısı, 2 = köklü gazete-kanal, 3 = uzmanlık kaynağı
+# kategori: gundem_tr, dunya, ekonomi, bilim_teknoloji, saglik, spor, kultur
+# Kaynak eklemek için yeni bir [[kaynak]] bloğu ekle; çıkarmak için bloğu sil ya da aktif = false yap.
+
+# ---------- Türkiye gündemi ----------
+[[kaynak]]
+ad = "Anadolu Ajansı"
+url = "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+kategori = "gundem_tr"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "TRT Haber"
+url = "https://www.trthaber.com/manset_articles.rss"
+kategori = "gundem_tr"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "BBC Türkçe"
+url = "https://feeds.bbci.co.uk/turkce/rss.xml"
+kategori = "gundem_tr"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "DW Türkçe"
+url = "https://rss.dw.com/rdf/rss-tur-all"
+kategori = "gundem_tr"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "Euronews Türkçe"
+url = "https://tr.euronews.com/rss"
+kategori = "gundem_tr"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "Independent Türkçe"
+url = "https://www.indyturk.com/rss.xml"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "NTV"
+url = "https://www.ntv.com.tr/son-dakika.rss"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Hürriyet"
+url = "https://www.hurriyet.com.tr/rss/anasayfa"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Habertürk"
+url = "https://www.haberturk.com/rss"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Sabah"
+url = "https://www.sabah.com.tr/rss/anasayfa.xml"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Sözcü"
+url = "https://www.sozcu.com.tr/feeds-son-dakika"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Cumhuriyet"
+url = "https://www.cumhuriyet.com.tr/rss/son_dakika.xml"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Medyascope"
+url = "https://www.medyascope.tv/feed/"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+[[kaynak]]
+ad = "Google Haberler Türkiye"
+url = "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr"
+kategori = "gundem_tr"
+katman = 2
+dil = "tr"
+
+# ---------- Dünya ----------
+[[kaynak]]
+ad = "Reuters"
+url = "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "Associated Press"
+url = "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "AFP"
+url = "https://www.afp.com/en/rss.xml"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "Anadolu Ajansı Dünya"
+url = "https://www.aa.com.tr/tr/rss/default?cat=dunya"
+kategori = "dunya"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "BBC News"
+url = "https://feeds.bbci.co.uk/news/world/rss.xml"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "DW English"
+url = "https://rss.dw.com/rdf/rss-en-all"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "NPR"
+url = "https://feeds.npr.org/1001/rss.xml"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "France 24"
+url = "https://www.france24.com/en/rss"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "Euronews"
+url = "https://www.euronews.com/rss"
+kategori = "dunya"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "The Guardian"
+url = "https://www.theguardian.com/world/rss"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "New York Times"
+url = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "Wall Street Journal"
+url = "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "Le Monde"
+url = "https://www.lemonde.fr/en/rss/une.xml"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "Der Spiegel"
+url = "https://www.spiegel.de/international/index.rss"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "Al Jazeera"
+url = "https://www.aljazeera.com/xml/rss/all.xml"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "Politico Europe"
+url = "https://www.politico.eu/feed/"
+kategori = "dunya"
+katman = 2
+dil = "en"
+
+# ---------- Ekonomi ----------
+[[kaynak]]
+ad = "Anadolu Ajansı Ekonomi"
+url = "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"
+kategori = "ekonomi"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "Bloomberg HT"
+url = "https://www.bloomberght.com/rss"
+kategori = "ekonomi"
+katman = 3
+dil = "tr"
+
+[[kaynak]]
+ad = "Dünya Gazetesi"
+url = "https://www.dunya.com/rss"
+kategori = "ekonomi"
+katman = 3
+dil = "tr"
+
+[[kaynak]]
+ad = "Financial Times"
+url = "https://www.ft.com/rss/home"
+kategori = "ekonomi"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "The Economist"
+url = "https://www.economist.com/latest/rss.xml"
+kategori = "ekonomi"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "CNBC"
+url = "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+kategori = "ekonomi"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "The Guardian Business"
+url = "https://www.theguardian.com/business/rss"
+kategori = "ekonomi"
+katman = 2
+dil = "en"
+
+# ---------- Bilim, Teknoloji, Yapay Zekâ ----------
+[[kaynak]]
+ad = "Anadolu Ajansı Bilim-Teknoloji"
+url = "https://www.aa.com.tr/tr/rss/default?cat=bilim-teknoloji"
+kategori = "bilim_teknoloji"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "Evrim Ağacı"
+url = "https://evrimagaci.org/rss.xml"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "tr"
+
+[[kaynak]]
+ad = "Webtekno"
+url = "https://www.webtekno.com/rss.xml"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "tr"
+
+[[kaynak]]
+ad = "Nature"
+url = "https://www.nature.com/nature.rss"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "Scientific American"
+url = "https://www.scientificamerican.com/platform/syndication/rss/"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "New Scientist"
+url = "https://www.newscientist.com/feed/home/"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "ScienceDaily"
+url = "https://www.sciencedaily.com/rss/all.xml"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "MIT Technology Review"
+url = "https://www.technologyreview.com/feed/"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "Ars Technica"
+url = "https://feeds.arstechnica.com/arstechnica/index"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "The Verge"
+url = "https://www.theverge.com/rss/index.xml"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "TechCrunch"
+url = "https://techcrunch.com/feed/"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "NASA"
+url = "https://www.nasa.gov/news-release/feed/"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "The Conversation"
+url = "https://theconversation.com/global/articles.atom"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+
+[[kaynak]]
+ad = "Hacker News"
+url = "https://hnrss.org/frontpage"
+kategori = "bilim_teknoloji"
+katman = 3
+dil = "en"
+en_fazla = 10
+
+# ---------- Sağlık ----------
+[[kaynak]]
+ad = "Anadolu Ajansı Sağlık"
+url = "https://www.aa.com.tr/tr/rss/default?cat=saglik"
+kategori = "saglik"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "WHO"
+url = "https://www.who.int/rss-feeds/news-english.xml"
+kategori = "saglik"
+katman = 1
+dil = "en"
+en_fazla = 10
+
+[[kaynak]]
+ad = "BBC Health"
+url = "https://feeds.bbci.co.uk/news/health/rss.xml"
+kategori = "saglik"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "STAT News"
+url = "https://www.statnews.com/feed/"
+kategori = "saglik"
+katman = 3
+dil = "en"
+
+# ---------- Spor ----------
+[[kaynak]]
+ad = "Anadolu Ajansı Spor"
+url = "https://www.aa.com.tr/tr/rss/default?cat=spor"
+kategori = "spor"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "BBC Sport"
+url = "https://www.bbc.com/sport/rss.xml"
+kategori = "spor"
+katman = 1
+dil = "en"
+
+[[kaynak]]
+ad = "The Guardian Sport"
+url = "https://www.theguardian.com/sport/rss"
+kategori = "spor"
+katman = 2
+dil = "en"
+
+# ---------- Kültür ----------
+[[kaynak]]
+ad = "Anadolu Ajansı Kültür-Sanat"
+url = "https://www.aa.com.tr/tr/rss/default?cat=kultur"
+kategori = "kultur"
+katman = 1
+dil = "tr"
+
+[[kaynak]]
+ad = "The Guardian Culture"
+url = "https://www.theguardian.com/culture/rss"
+kategori = "kultur"
+katman = 2
+dil = "en"
+
+[[kaynak]]
+ad = "BBC Culture & Arts"
+url = "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+kategori = "kultur"
+katman = 1
+dil = "en"

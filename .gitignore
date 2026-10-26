@@ -1,0 +1,5 @@
+# Ham toplanan haberler her çalışmada yeniden üretilir
+veri/*.json
+!veri/pubmed_gorulen.json
+__pycache__/
+.claude/

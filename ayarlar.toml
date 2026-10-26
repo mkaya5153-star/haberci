@@ -1,0 +1,45 @@
+# Haberci genel ayarları
+
+[toplama]
+geriye_saat = 14          # her çalışmada son kaç saatin haberleri alınsın
+kaynak_basina_en_fazla = 25
+
+# Her kategoride Claude'a en fazla kaç haber kümesi verilsin (çok kaynakta geçenler önce)
+[toplama.kategori_sinir]
+gundem_tr = 60
+dunya = 60
+ekonomi = 40
+bilim_teknoloji = 40
+saglik = 25
+spor = 20
+kultur = 20
+
+[filtre]
+# Bu kelimeler URL'de geçerse haber atılır (magazin, galeri vb.)
+url_yasak = [
+  "/magazin", "/yasam/unluler", "/galeri", "/foto-galeri", "/fotogaleri", "/video/",
+  "/kelebek", "/astroloji", "/burclar", "/ruya", "/celebrity", "/lifestyle", "/fashion",
+  "/horoscope", "/tv-and-radio", "/gossip", "/style/",
+]
+# Başlıkta geçerse haber atılır (küçük harf)
+baslik_yasak = [
+  "magazin", "ünlü", "burç", "astroloji", "rüya tabiri", "aşk yaşıyor", "sevgilisi",
+  "bikinili", "kombin", "estetik operasyon", "dizi oyuncusu", "fenomen", "tiktok",
+  "horoscope", "celebrity", "kardashian", "red carpet", "royal baby",
+  "kripto", "bitcoin", "altcoin", "memecoin",
+  "şans oyunu", "milli piyango sonuç", "sayısal loto", "canlı izle", "maç özeti izle",
+]
+
+[pubmed]
+# Yüksek etkili genel tıp ve bilim dergileri. Yeni eklenen kayıtlar henüz türüne göre
+# etiketlenmediği için tür filtresi yok; en güçlü çalışmaları Claude seçer.
+sorgu = '''
+("N Engl J Med"[ta] OR "Lancet"[ta] OR "JAMA"[ta] OR "BMJ"[ta] OR "Nat Med"[ta]
+ OR "Lancet Oncol"[ta] OR "Lancet Neurol"[ta] OR "Lancet Public Health"[ta]
+ OR "JAMA Intern Med"[ta] OR "JAMA Netw Open"[ta] OR "Ann Intern Med"[ta]
+ OR "Circulation"[ta] OR "Nature"[ta] OR "Science"[ta] OR "Cell"[ta] OR "PLoS Med"[ta])
+AND hasabstract NOT (comment[pt] OR editorial[pt] OR letter[pt] OR news[pt] OR erratum[pt])
+'''
+geriye_gun = 3        # son kaç günde PubMed'e eklenenler
+aday_sayisi = 30      # Claude'un seçmesi için kaç aday getirilsin
+secilecek = 3         # bültende kaç makale olsun

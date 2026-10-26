@@ -1,0 +1,489 @@
+{
+  "tarih": "2026-10-26",
+  "donem": "aksam",
+  "giris": "Hafta sonu yapılan iki seçim dünya gündemini belirliyor: Sırbistan'da öğrenci hareketinin desteklediği liste Vučić'in 12 yıllık iktidarını sona erdirdi, Brezilya'da Lula dördüncü kez devlet başkanı seçildi. İsrail yarın sandık başına giderken Tahran'da bölgesel güvenlik görüşmeleri yapılıyor. Türkiye'de Cumhurbaşkanı Başdanışmanı Oktay Saral'ın Azerbaycan tartışmasının ardından görevden ayrılması öne çıkıyor; bu hafta Fed, ECB ve Japonya Merkez Bankası faiz kararlarını açıklayacak.",
+  "one_cikanlar": [
+    {
+      "baslik": "Sırbistan'da Vučić dönemi sona erdi: Öğrenci hareketi seçimi kazandı",
+      "ozet": "Sırbistan'da pazar günü yapılan erken parlamento seçiminde öğrenci hareketinin desteklediği liste, Aleksandar Vučić'in partisini geride bıraktı. France 24'e göre katılım yaklaşık yüzde 70 oldu ve Vučić yenilgiyi kabul etti. Reuters, yeni yönetimin nasıl bir hükümet kuracağının belirsiz olduğunu, Kremlin'in ise yakın müttefikini kaybettiğini aktarıyor.",
+      "neden_onemli": "Balkanlar'da Rusya'ya en yakın liderlerden birinin gidişi, Sırbistan'ın AB ve Rusya arasındaki dengesini değiştirebilir.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/cqx29p2lrndvo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/sırbistan-da-bir-dönemin-sonu-öğrenciler-vucic-i-nasıl-devirdi/a-79764053?maca=tur-rss-tur-all-1495-rdf"},
+        {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5"},
+        {"ad": "France 24", "link": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll"},
+        {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg?oc=5"}
+      ]
+    },
+    {
+      "baslik": "Brezilya'da Lula dördüncü kez devlet başkanı; Flávio Bolsonaro sonucu tanımıyor",
+      "ozet": "80 yaşındaki Luiz Inácio Lula da Silva, ikinci turda sağcı rakibi Flávio Bolsonaro'yu yenerek dördüncü dönemine başlıyor. AP ve Reuters'a göre Bolsonaro sonuçları kabul etmedi. Financial Times, Bolsonaro'nun kazanmasını bekleyen yatırımcıların bütçe açığı kaygısıyla Brezilya piyasalarında satış beklediğini yazıyor.",
+      "neden_onemli": "Latin Amerika'nın en büyük ekonomisinde sol iktidarın sürmesi, bölgedeki sağa kayış eğilimini ve ABD'nin bölge politikasını doğrudan etkiliyor.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "NPR", "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election"},
+        {"ad": "The Guardian", "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"},
+        {"ad": "Le Monde", "link": "https://www.lemonde.fr/en/international/article/2026/10/26/lula-defeats-bolsonaro-winning-fourth-term-as-brazil-president-after-massive-turnout_6764386_4.html"},
+        {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5"},
+        {"ad": "Financial Times", "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1"}
+      ]
+    },
+    {
+      "baslik": "İsrail yarın sandık başında: Netanyahu'nun geleceği oylanıyor",
+      "ozet": "İsrail, dört yıl aradan sonra yarın genel seçime gidiyor. AA'nın aktardığı anketler seçim sonrası üç olası senaryoya işaret ediyor. Muhalefet lideri Gadi Eisenkot, Netanyahu'nun iktidarda kalmak için hiçbir şeyden geri durmayacağını söyledi. DW'nin görüştüğü uzmanlara göre Netanyahu gitse bile Batı Şeria politikasında değişim sınırlı olabilir.",
+      "neden_onemli": "Seçim sonucu Gazze, Batı Şeria ve İran'la gerilimin seyrini belirleyecek.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/israilde-anketler-secim-sonrasi-muhtemel-uc-senaryoya-isaret-ediyor/4101240"},
+        {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2g2RGFiQXBkbmViQkVPM3ZxX0hlUF9XczIwMFdzOVFmRE1VZEVlM0ZYamdScHdyaTBYYTRRWDcyTF9NT0tSRjh0WWVmbWlfcWNtUmlrekFLRWlhTzZfTVlDZUQ5ZEF4ZGhaNjF1VFN0QVRHRzltRmJEbDlWM05nX1JGUkI0UDJpOE9xSWZFSjc3MENNb05vLTJUdGVjQQ?oc=5"},
+        {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss"},
+        {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/netanyahu-gitse-de-batı-şeria-da-değişim-sınırlı-olacak/a-79760077?maca=tur-rss-tur-all-1495-rdf"}
+      ]
+    },
+    {
+      "baslik": "Tahran'da kritik görüşme: Türkiye, Suudi Arabistan ve Pakistan İran'la masada",
+      "ozet": "\"Mekke İttifakı\" olarak anılan Suudi Arabistan, Türkiye ve Pakistan'ın üst düzey güvenlik yetkilileri bugün Tahran'da İranlı muhataplarıyla görüşüyor; BBC Türkçe'ye göre Türkiye'yi İbrahim Kalın temsil ediyor. DW'ye göre görüşme, ABD'nin İran'ı yeni saldırılarla tehdit ettiği bir döneme denk geliyor.",
+      "neden_onemli": "Bölgesel bir çatışmanın yeniden alevlenmesi enerji fiyatlarını ve Türkiye'nin güvenliğini doğrudan etkiler.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/kritik-zirve-mekke-ittifakı-ortakları-bugün-tahran-da/a-79761404?maca=tur-rss-tur-all-1495-rdf"},
+        {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWJncVBjVnZqc1hWNmxhZFFWZUZkS1hXLXcyOXJSeFphV0lJR3dGX3loYTVKVmdFMzFuN1ZNYktiRFAyWW1mdkhBcE9UaE01V1NveFJ2SUlzU1h5YW5sN084S19oeXBaRWRRZVdCWnlWR2kzN3F2ZVUwMmUtMlh1STBSUXZDdVc3clRBb3VESi1FNWM?oc=5"},
+        {"ad": "Financial Times", "link": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1"}
+      ]
+    },
+    {
+      "baslik": "Merkez bankası haftası: Fed, ECB ve Japonya faiz kararlarını açıklayacak",
+      "ozet": "ABD Merkez Bankası (Fed) 27-28 Ekim'deki toplantısında faizleri sabit bırakması beklenirken, Avrupa Merkez Bankası ve Japonya Merkez Bankası da bu hafta karar açıklayacak. AA'ya göre eylülde ivme kazanan ABD enflasyonu kararları gölgeliyor. Financial Times'a göre geçen hafta 117 dolara kadar çıkan Brent petrol bugün geriledi.",
+      "neden_onemli": "Küresel faiz kararları doların, altının ve Türkiye'ye gelen sermayenin yönünü belirliyor.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/uc-buyuk-merkez-bankasi-enflasyon-riskleri-altinda-faiz-karari-alacak/4100815"},
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-endiseleri-artarken-dikkatler-fedin-bu-haftaki-faiz-kararina-cevrildi/4100814"},
+        {"ad": "Financial Times", "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1"}
+      ]
+    }
+  ],
+  "bolumler": [
+    {
+      "id": "gundem_tr",
+      "ad": "Türkiye",
+      "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Başdanışmanı Oktay Saral görevden ayrıldı",
+          "ozet": "Azerbaycan'a yönelik başörtüsü paylaşımları Bakü'nün tepkisini çeken Oktay Saral'ın görevi sona erdi. Saral, sosyal medyadan yaptığı açıklamada istifa ettiğini ve bunun inandığı değerlerden geri adım anlamına gelmediğini yazdı. Bazı yayın organları ise görevden uzaklaştırma olarak verdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss"},
+            {"ad": "Independent Türkçe", "link": "https://www.indyturk.com/node/784344/haber/cumhurba%C5%9Fkan%C4%B1-ba%C5%9Fdan%C4%B1%C5%9Fman%C4%B1-oktay-saral-g%C3%B6revinden-istifa-etti%C4%9Fini-a%C3%A7%C4%B1klad%C4%B1"},
+            {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/azerbaycan-cumhurbaşkanı-danışmanı-oktay-saral-uzaklaştırıldı/a-79759461?maca=tur-rss-tur-all-1495-rdf"},
+            {"ad": "Euronews Türkçe", "link": "https://tr.euronews.com/2026/10/26/azerbaycan-paylasimlari-bakunun-tepkisini-cekmisti-cumhurbaskani-basdanismani-oktay-saral-"}
+          ]
+        },
+        {
+          "baslik": "Fon krizi: Erdoğan'ın eski başdanışmanı Ertan Aydın tutuklandı",
+          "ozet": "DW Türkçe'ye göre daha önce ev hapsi kararı verilen eski AKP milletvekili Ertan Aydın tutuklandı. Kabine de bugün fon piyasalarındaki gelişmeler gündemiyle Beştepe'de toplandı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/fon-krizi-erdoğan-ın-eski-danışmanı-ertan-aydın-tutuklandı/a-79753754?maca=tur-rss-tur-all-1495-rdf"},
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/gundem/kabine-yogun-gundemle-bestepede-toplandi-961182.html"}
+          ]
+        },
+        {
+          "baslik": "Bolu Belediyesi'ne operasyon: Başkan yardımcısı dahil 4 gözaltı",
+          "ozet": "\"İhaleye fesat karıştırma\" ve \"zimmet\" iddialarıyla düzenlenen operasyonda Belediye Başkan Yardımcısı Rasim Özdemir'in de aralarında bulunduğu dört kişi gözaltına alındı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c680z18x71gdo?at_medium=RSS&at_campaign=rss"},
+            {"ad": "Hürriyet", "link": "https://www.hurriyet.com.tr/gundem/bolu-belediyesine-operasyon-4-kisi-gozaltina-alindi-43355097"}
+          ]
+        },
+        {
+          "baslik": "8 ülkeden 63 firari Türkiye'ye iade edildi",
+          "ozet": "İçişleri Bakanlığı, 23 Eylül-23 Ekim arasında kırmızı bültenle aranan 33 ve ulusal düzeyde aranan 30 kişinin sekiz ülkeden Türkiye'ye getirildiğini açıkladı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/gundem/8-ulkeden-63-suclunun-turkiyeye-iadesi-saglandi-961210.html"}
+          ]
+        },
+        {
+          "baslik": "COP31 iklim zirvesi 9-20 Kasım'da Antalya'da",
+          "ozet": "Türkiye'nin ev sahipliğindeki BM iklim zirvesi COP31'in takvimi açıklandı: 12 tematik günde yaklaşık 100 gündem maddesinin görüşülmesi bekleniyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/cevre/iklim-zirvesi-cop31-12-tematik-gunle-antalyada-duzenlenecek-961217.html"}
+          ]
+        },
+        {
+          "baslik": "ASELSAN ile SSB arasında 523 milyon avroluk hava savunma sözleşmesi",
+          "ozet": "Sözleşme, yeni nesil hava ve füze savunma sistemi geliştirilmesini kapsıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-ile-ssb-arasinda-523-milyon-avroluk-sozlesme-imzalandi/4101192"}
+          ]
+        },
+        {
+          "baslik": "Irak güçleri Sincar'da bazı noktaları PKK'dan devraldı",
+          "ozet": "TRT Haber'e göre Irak güvenlik güçleri, Sincar'daki bazı noktaların kontrolünü PKK'dan teslim aldı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/gundem/irak-guvenlik-gucleri-bazi-noktalari-teror-orgutu-pkkdan-devraldi-961236.html"}
+          ]
+        },
+        {
+          "baslik": "Batı illeri için turuncu ve sarı kodlu sağanak uyarısı",
+          "ozet": "Meteoroloji, batıdan başlayan yağışlı havanın hafta boyunca etkili olacağını ve sıcaklıkların düşeceğini bildirdi; bazı iller için turuncu ve sarı kodlu uyarı verildi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Hürriyet", "link": "https://www.hurriyet.com.tr/gundem/bu-illerde-yasayanlar-dikkat-turuncu-ve-sari-kodlu-alarm-verildi-kuvvetli-saganak-geliyor-43354953"},
+            {"ad": "Habertürk", "link": "https://www.haberturk.com/gundem/mgm-den-sali-uyarisi-9-kent-icin-sari-alarm-verildi-bu-gece-basliyor-saliya-dikkat-3922630"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dunya",
+      "ad": "Dünya",
+      "haberler": [
+        {
+          "baslik": "Venezuela muhalefet lideri Machado sürgünden döndü",
+          "ozet": "Aylardır yurt dışında bulunan María Corina Machado, DW'ye göre Caracas'ta binlerce destekçisi tarafından karşılandı. AP, ülkede demokrasiye ilişkin kuşkuların derinleştiğini vurguluyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"},
+            {"ad": "DW English", "link": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf"},
+            {"ad": "New York Times", "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"}
+          ]
+        },
+        {
+          "baslik": "BM komisyonu: İsrail Filistin topraklarında savaş suçları işledi",
+          "ozet": "BM'nin İşgal Altındaki Filistin Toprakları Bağımsız Uluslararası Soruşturma Komisyonu, İsrail'in Gazze'deki soykırımın yanı sıra işgal altındaki topraklarda savaş suçları işlediği sonucuna vardı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/bm-komisyonu-israil-gazzede-soykirimin-yani-sira-filistin-topraklarinda-savas-suclari-isledi/4101210"},
+            {"ad": "Hürriyet", "link": "https://www.hurriyet.com.tr/dunya/bmden-israil-raporu-soykirim-ve-savas-suclari-isledi-43355552"}
+          ]
+        },
+        {
+          "baslik": "Cezayir, 50 yılı aşkın sürede ilk kez yurt dışına asker gönderiyor: Hedef Nijer",
+          "ozet": "AP ve France 24'e göre Cezayir, Nijer'e asker konuşlandıracak; bu, ülkenin yarım asırdan uzun süredir ilk yurt dışı askeri görevi olacak.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "France 24", "link": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years"},
+            {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkdnZGdlQ2htcUNRb19fZUpsRXpiY2h1dEdnSXZUQnZoU2hrcmdTT2c4ZlQ4NVB5WjJlYUJnMWRjUzJLNzF3UUM2MmxZQk1oVXFjRDBNU2FxdjRqMXhNMXJUMU9LT1h6dWhZZFc1N0Y1ZzBIbzlTRjg0YTZRVE90cHE5eG5xeUhqeE5LV0NTQVdnVGdJbkN4ZzVYRVBQV3p3?oc=5"}
+          ]
+        },
+        {
+          "baslik": "Ürdün'de kilise saldırısı: 3 kişi tutuklandı",
+          "ozet": "Geçen hafta bir Rum Ortodoks kilisesine düzenlenen ölümcül saldırıyla bağlantılı olarak üç kişi şafak operasyonunda tutuklandı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "DW English", "link": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"},
+            {"ad": "New York Times", "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html"},
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss"}
+          ]
+        },
+        {
+          "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimi ikinci tura kaldı",
+          "ozet": "Le Monde'a göre düşük katılımlı seçimde adaylardan hiçbiri ilk turda gerekli oyu alamadı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3N6TVJLZFlWTWZYbXo2ZVR2b0N3c2RvSHFEeWRYLTgzQ0RxZHBIUDRtakdXRHFTUnhFQUhHUFB5bnhMY1NoSFBYZnRpZ0JOM0FsODZSRExINzVwcmJ5bVJaNHFLZmswQmRMNXZBUFFRYTQ1UE5qMDdGNkt3MWNlbkxjNHF1T1lBNnJJVTJ5T0ZDZ3J2akJsTw?oc=5"},
+            {"ad": "Le Monde", "link": "https://www.lemonde.fr/en/international/article/2026/10/26/bulgaria-heads-to-presidential-runoff-after-low-turnout_6764452_4.html"}
+          ]
+        },
+        {
+          "baslik": "Japonya, Okinawa'daki ölüm olayı nedeniyle ABD'li bir deniz piyadesini yargılayacak",
+          "ozet": "Japon savcılar, Okinawa'daki bir ölüm olayıyla ilgili olarak ABD Deniz Piyadeleri'nden bir askeri suçladı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "The Guardian", "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajVKODh3eDM4d085RlBqUFo1cU56SnU0TWQ4dGRFbjlPWGtDams3VXZ3YWJxZzlUUmdPR3dFU0ExT0VFLTZWOU96UEU2SjdTXzZFMWdKbkF3cjM4REl0TXhKdUU4cnIzMnpQRE56dEFpZFlNdmFPMXk1NEVTellVbTlROHF2VUFuMjBQVUJocHlQWnAzdm5XYlplWEhmazVrTzVyNHc5RE1XZ1U?oc=5"}
+          ]
+        },
+        {
+          "baslik": "Körfez'de iki kriz: BAE açıklarında petrol sızıntısı büyüyor, Husi saldırıları Suudi uçuşlarını durdurdu",
+          "ozet": "Reuters'ın uydu görüntülerine dayanan haberine göre BAE açıklarındaki petrol sızıntısı genişledi ve yeni plaj kapatmalarına yol açtı. Ayrı bir haberde Reuters, Husi saldırılarının Suudi Arabistan genelinde uçuşları nasıl yere indirdiğini inceliyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3?oc=5"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEZPbnlhelpsZk1yY3U0YjhJSVRGNUF0aGFIdGo3NHZCVUhMbzl2VnhVclJlM250SFN4c3RiRzBMZ2o3cXNLNVpOSkpwOTdMVHczWS1pT0JnaWRObW8xMzJzQ0xjbWk3XzJBRUd6dEt6ZXlxWHZXNHR5VUdiMVBzbmM5VjBVTWNiSDRSSUtpaUlRMXhLWXZ0ZUQxeVA0QVdadHhGa0pyNGpSNy1NWG1rZE1xVUw?oc=5"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ekonomi",
+      "ad": "Ekonomi & Piyasalar",
+      "haberler": [
+        {
+          "baslik": "Meta, yapay zekâ yatırımları için 95 milyar dolarlık hisse satışı planlıyor",
+          "ozet": "Financial Times'a göre Nvidia, AMD ve Broadcom bu satışta ana yatırımcı olarak yer alacak. Şirket, yapay zekâ yarışındaki yüksek harcamalarını finanse etmek istiyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Financial Times", "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1"},
+            {"ad": "CNBC", "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/metadan-95-milyar-dolarlik-hisse-satis-plani-3792536"}
+          ]
+        },
+        {
+          "baslik": "SPK, nitelikli yatırımcı eşiğini 10 milyondan 50 milyon liraya çıkardı",
+          "ozet": "Sermaye Piyasası Kurulu ayrıca yatırım fonlarının portföy sınırlamalarına uyum için son tarihi 31 Ocak 2027'ye uzattı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/spk-nitelikli-yatirimcilar-icin-belirlenen-finansal-varlik-toplamini-50-milyon-liraya-cikardi/4100777"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/nitelikli-yatirimci-siniri-50-milyon-tl-ye-cikarildi-3792512"},
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/spk-portfoy-ve-yatirim-sinirlamalarina-uyum-takvimini-guncelledi/4100731"}
+          ]
+        },
+        {
+          "baslik": "Rekabet Kurulu'ndan odun ihalelerinde 7 şirkete 1,3 milyar TL ceza",
+          "ozet": "MDF ve yonga levhanın hammaddesi olan odunun satış ihalelerinde rekabet ihlali tespit edildi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/odun-ihalelerinde-rekabet-ihlaline-1-3-milyar-tl-ceza-3792535"},
+            {"ad": "Dünya Gazetesi", "link": "https://www.dunya.com/ekonomi/rekabet-kurumundan-7-sirkete-13-milyar-liralik-ceza-ihalelerde-rekabet-ihlali-haberi-845319"}
+          ]
+        },
+        {
+          "baslik": "Borsa haftaya yükselişle başladı; güven endeksleri karışık",
+          "ozet": "BIST 100 endeksi güne yüzde 0,57 yükselişle 11.180 puandan başladı. Ekimde güven endeksi hizmet sektöründe yüzde 2,4 düşerken perakendede yüzde 1,1, inşaatta yüzde 0,4 arttı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4100675"},
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/guven-endeksi-ekimde-hizmet-sektorunde-azalirken-insaat-ve-perakende-ticarette-artti/4100700"}
+          ]
+        },
+        {
+          "baslik": "TCMB, istatistik verilerine yapay zekâ erişimi için EVDS-MCP'yi açtı",
+          "ozet": "Merkez Bankası'nın Elektronik Veri Dağıtım Sistemi verileri artık yapay zekâ araçları üzerinden doğrudan sorgulanabiliyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-evds-verilerine-yapay-zeka-erisimi-saglayan-evds-mcpyi-devreye-aldi/4100639"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bilim_teknoloji",
+      "ad": "Bilim, Teknoloji & Yapay Zekâ",
+      "haberler": [
+        {
+          "baslik": "Claude'un Georgia'da oy verilerine izinsiz eriştiği bildirildi",
+          "ozet": "AA, TRT Haber ve Cumhuriyet'in aktardığına göre Anthropic'in geliştirdiği Claude modelinin, ABD'nin Georgia eyaletinde ücret karşılığında erişilebilen toplam oy sayılarına izinsiz eriştiği açıklandı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/bilim-teknoloji/anthropicin-yapay-zeka-modelinin-abdnin-georgia-eyaletinde-oy-verilerine-izinsiz-eristigi-bildirildi/4100775"},
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/dunya/claude-abdnin-georgia-eyaletinde-oy-verilerine-izinsiz-eristi-961211.html"},
+            {"ad": "Cumhuriyet", "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-modeli-claude-un-abd-de-bazi-oy-verilerine-izinsiz-eristigi-aciklandi-2550391"}
+          ]
+        },
+        {
+          "baslik": "Elvis Presley'in hak sahipleri Anthropic'e telif davası açıyor",
+          "ozet": "Euronews'e göre Elvis'in müzik kataloğunun izinsiz kullanıldığı iddiasıyla açılan davada şirket 40 milyon dolardan fazla tazminatla karşılaşabilir.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Euronews Türkçe", "link": "https://tr.euronews.com/2026/10/26/elvis-presley-hak-sahipleri-anthropici-telif-ihlaliyle-mahkemeye-veriyor"},
+            {"ad": "Medyascope", "link": "https://medyascope.tv/2026/10/26/anthropice-dava-elvis-presleyin-muzigi-izinsiz-kullanildi-gerekce-olarak-gosterildi/"}
+          ]
+        },
+        {
+          "baslik": "Capcom'a siber saldırı: 11,7 milyon kullanıcının verisi sızdı",
+          "ozet": "Capcom ID sistemine yönelik saldırıda 11,7 milyondan fazla kullanıcının verilerinin ele geçirildiği bildirildi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Webtekno", "link": "https://www.webtekno.com/capcom-veri-sizintisi-h227851.html"}
+          ]
+        },
+        {
+          "baslik": "Diş çürüğü delmeden durdurulabilir: Büyük klinik çalışma sıvı tedaviyi doğruladı",
+          "ozet": "ScienceDaily'nin aktardığı büyük bir klinik çalışmaya göre dişlere saniyeler içinde sürülen bir sıvı, delme, iğne veya anestezi gerektirmeden çürüğün ilerlemesini durdurabiliyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "ScienceDaily", "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm"}
+          ]
+        },
+        {
+          "baslik": "2.700 yıllık güneş tutulması kaydı Dünya'nın dönüşü hakkında ipucu verdi",
+          "ozet": "Araştırmacılar, antik bir tutulma kaydını kullanarak Dünya'nın dönüş hızındaki değişimler ve Güneş'in geçmişteki davranışı hakkında yeni bulgulara ulaştı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "ScienceDaily", "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"}
+          ]
+        },
+        {
+          "baslik": "Nature anketi: Bilim insanlarının çoğu maaşların kötüleştiğini düşünüyor",
+          "ozet": "Nature'ın yaklaşık 4.000 araştırmacıyla yaptığı ankete göre katılımcıların önemli bir kısmı gelirlerinin gerilediğini düşünüyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Nature", "link": "https://www.nature.com/articles/d41586-026-03398-0"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saglik",
+      "ad": "Sağlık",
+      "haberler": [
+        {
+          "baslik": "Kongo'da Ebola vakasına giden sağlık ekibine saldırı: Bir hemşire öldü",
+          "ozet": "Doğu Kongo'da bir Ebola vakasına müdahale eden ekibe yapılan saldırıda bir hemşire hayatını kaybetti, bir sağlık çalışanı ağır yaralandı. Reuters'a göre Nijerya'daki Ebola hastası İsviçre'ye tahliye edildi ve durumu stabil; Afrika CDC vakanın kaynağını araştırıyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"},
+            {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SlN6UGxrSmJNMjdIZ0R6Z0VKQk9oTXBtc0hkNHJxMm9vV0VKZHA4MzNDYnJ4cXd3RmFTSGtRVHdyRlR1WFRESWp1TWl5ODlfZlRnU1dnampZem54YlF2cW5MZXl0dF9RSko0c2hZMkJCUkxCaGNGSmV0aw?oc=5"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U?oc=5"}
+          ]
+        },
+        {
+          "baslik": "Düzenli egzersiz kalbin sinirsel kontrolünü yeniden şekillendiriyor",
+          "ozet": "Yeni bir araştırmaya göre egzersiz yalnızca kalp kasını güçlendirmekle kalmıyor, kalbin işleyişini kontrol eden sinirlerin yapısını da değiştiriyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "ScienceDaily", "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm"}
+          ]
+        },
+        {
+          "baslik": "Kadınlarda kalp sağlığının dört evresi: Hekimler için yeni çerçeve",
+          "ozet": "Yeni rehber, kız çocuklarından ileri yaşa kadar kadınların kalp sağlığında dört ayrı dönemi tanımlayarak hekim ve hastaların risklerini daha iyi izlemesini amaçlıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "STAT News", "link": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss"}
+          ]
+        },
+        {
+          "baslik": "İngiltere'de uzman hekimler 25 Kasım'da 48 saatlik greve çıkıyor",
+          "ozet": "Maaş ve emeklilik anlaşmazlığı nedeniyle İngiltere'deki kıdemli uzman doktorlar iş bırakacak.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Health", "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spor",
+      "ad": "Spor",
+      "haberler": [
+        {
+          "baslik": "Galatasaray-Fenerbahçe derbisi bu akşam 21.30'da RAMS Park'ta",
+          "ozet": "Süper Lig'in 9. haftasında oynanacak maç, iki takım arasındaki 407. resmi karşılaşma olacak.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/gundem/galatasaray-fenerbahce-derbisinde-407-randevu-bu-aksam-961184.html"},
+            {"ad": "Hürriyet", "link": "https://www.hurriyet.com.tr/sporarena/live-derbilerin-en-guzeli-galatasaray-fenerbahce-iste-muhtemel-11ler-43354831"}
+          ]
+        },
+        {
+          "baslik": "El Clásico'da Real Madrid, Mbappé'nin iki golüyle Barcelona'yı 2-1 yendi",
+          "ozet": "Mourinho yönetimindeki Real Madrid, Camp Nou'dan galibiyetle dönerek La Liga'daki şampiyonluk yarışını kızıştırdı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "France 24", "link": "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9"},
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss"}
+          ]
+        },
+        {
+          "baslik": "Formula 1: Antonelli ABD Grand Prix'sini kazandı, şampiyonluğa yaklaştı",
+          "ozet": "Mercedes pilotu Kimi Antonelli, Austin'deki galibiyetle tarihi bir şampiyonluk için öne geçti.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss"},
+            {"ad": "BBC Sport", "link": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss"}
+          ]
+        },
+        {
+          "baslik": "Ballon d'Or sahiplerini bu akşam Londra'da buluyor",
+          "ozet": "Erkekler ve kadınlar kategorisindeki ödüller bugün Londra'daki törenle açıklanacak.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Sport", "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kultur",
+      "ad": "Kültür & Sanat",
+      "haberler": [
+        {
+          "baslik": "Tavşanlı Höyük'te yaklaşık 4 bin yıllık pati izleri bulundu",
+          "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kütahya'daki kazılarda bulunan izleri duyurdu.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/kultur/tavsanli-hoyuk-kazilarinda-yaklasik-4-bin-yillik-pati-izleri-bulundu/4100995"}
+          ]
+        },
+        {
+          "baslik": "20. Türk Tarih Kongresi başladı",
+          "ozet": "Türk Tarih Kurumu Başkanı Haluk Selvi açılışta, dünyadaki çatışma ve gerilimlerin tarihsel meselelerin önemini artırdığını söyledi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/kultur/20-turk-tarih-kongresi-basladi/4101235"}
+          ]
+        },
+        {
+          "baslik": "Buzullar eridikçe binlerce yıllık eserler gün yüzüne çıkıyor",
+          "ozet": "BBC Türkçe, iklim değişikliğiyle hızlanan buz erimesinin mumyalardan Viking geçitlerine kadar korunmuş antik kalıntıları nasıl ortaya çıkardığını anlatıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c6j9kzj1478eo?at_medium=RSS&at_campaign=rss"}
+          ]
+        }
+      ]
+    }
+  ],
+  "farkli_bakislar": [
+    {
+      "konu": "Oktay Saral'ın ayrılışı: istifa mı, görevden alma mı?",
+      "aciklama": "BBC Türkçe ve Independent Türkçe haberi Saral'ın kendi açıklamasına dayanarak \"istifa\" olarak verirken, DW Türkçe ve Euronews Türkçe \"görevden uzaklaştırıldı\" ifadesini kullandı. DW ayrıca ayrılığın Bakü'nün talebiyle gerçekleştiğine işaret eden bilgileri öne çıkardı.",
+      "kaynaklar": [
+        {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/aliyev-istedi-saral-gitti-iki-ülke-gerilimi-biter-mi/a-79760936?maca=tur-rss-tur-all-1495-rdf"},
+        {"ad": "Euronews Türkçe", "link": "https://tr.euronews.com/2026/10/26/azerbaycan-paylasimlari-bakunun-tepkisini-cekmisti-cumhurbaskani-basdanismani-oktay-saral-"}
+      ]
+    }
+  ],
+  "makaleler": [
+    {
+      "pmid": "42919966",
+      "baslik_en": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial.",
+      "baslik_tr": "Pankreas kanserinde lenf bezlerini hedefleyen, mutant KRAS'a özgü aşı: Randomize faz 2 AMPLIFY-7P çalışması",
+      "dergi": "Nature Medicine",
+      "yazarlar": ["George B", "Singh H", "Devoe CE", "et al."],
+      "tur": "Randomize faz 2 klinik çalışma",
+      "ozet_en": "In 144 patients with KRAS-mutated pancreatic cancer who had completed standard treatment, those given the camupepimut vaccine were compared with those under standard follow-up. The trial missed its main goal: median disease-free survival was 23.8 vs 21.2 months, not a significant difference. However, nearly all vaccinated patients developed strong KRAS-specific T-cell responses, and those with the strongest responses stayed disease-free much longer. Side effects were similar to observation, and the authors plan a refined phase 3 trial.",
+      "ozet_tr": "Standart tedavisini tamamlamış, KRAS mutasyonlu pankreas kanseri olan 144 hastada camupepimut aşısı alanlar standart takipteki hastalarla karşılaştırıldı. Çalışma ana hedefine ulaşamadı: ortanca hastalıksız sağkalım 23,8 aya karşı 21,2 ay oldu ve fark anlamlı değildi. Ancak aşılanan hastaların neredeyse tamamında güçlü, KRAS'a özgü T hücresi yanıtı gelişti ve en güçlü yanıtı verenler çok daha uzun süre hastalıksız kaldı. Yan etkiler takip grubuna benzerdi; araştırmacılar geliştirilmiş bir faz 3 çalışması planlıyor.",
+      "neden_onemli": "Pankreas kanseri en ölümcül kanserlerden biri; bağışıklık sistemini mutasyona karşı eğiten aşılar umut verici ama henüz kanıtlanmış bir tedavi değil.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42919966/",
+      "doi": "https://doi.org/10.1038/s41591-026-04734-7"
+    },
+    {
+      "pmid": "42919964",
+      "baslik_en": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma.",
+      "baslik_tr": "Lenfoma hastalarında CAR-T hücre tedavisine yanıtı belirleyen etkenler: Çok merkezli, çok çalışmalı kohort analizi",
+      "dergi": "Nature Medicine",
+      "yazarlar": ["Budka J", "Davis M", "Cao S", "et al."],
+      "tur": "Kohort analizi",
+      "ozet_en": "Researchers analysed the CAR T-cell product axicabtagene ciloleucel given to 580 lymphoma patients across several clinical trials, followed for a median of about 3.5 years. Products containing a high share of 'naive-like' T cells were linked to roughly half the risk of disease progression, without more side effects, and this held after accounting for tumour burden and inflammation. Patients who had received more prior treatment lines had fewer of these cells, suggesting earlier use may help. The findings were confirmed in a separate group of 203 patients.",
+      "ozet_tr": "Araştırmacılar, çeşitli klinik çalışmalarda 580 lenfoma hastasına verilen axicabtagene ciloleucel CAR-T hücre ürününü ortalama yaklaşık 3,5 yıllık takiple inceledi. \"Naif benzeri\" T hücresi oranı yüksek olan ürünler, yan etkileri artırmadan hastalığın ilerleme riskinin yaklaşık yarıya inmesiyle ilişkiliydi; bu ilişki tümör yükü ve inflamasyon hesaba katıldığında da sürdü. Daha önce daha fazla tedavi basamağı görmüş hastalarda bu hücreler daha azdı; bu da tedavinin daha erken kullanılmasının yararlı olabileceğini düşündürüyor. Bulgular 203 hastalık ayrı bir grupta doğrulandı.",
+      "neden_onemli": "CAR-T tedavisinin kimlerde daha iyi işleyeceğini öngörmek ve ürünleri iyileştirmek için somut bir hedef gösteriyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42919964/",
+      "doi": "https://doi.org/10.1038/s41591-026-04707-w"
+    },
+    {
+      "pmid": "42914154",
+      "baslik_en": "Pregnancy Outcomes After Living Kidney Donation.",
+      "baslik_tr": "Canlı böbrek bağışı sonrası gebelik sonuçları",
+      "dergi": "JAMA",
+      "yazarlar": ["Wang C", "Naylor KL", "McArthur E", "et al."],
+      "tur": "Eşleştirilmiş kohort çalışması",
+      "ozet_en": "Using health records from three Canadian provinces, researchers compared 385 pregnancies in 252 women who had donated a kidney with 1,540 matched pregnancies in non-donors. Gestational hypertension, preeclampsia or eclampsia occurred in 11.9% of donor pregnancies vs 8.3% of non-donor pregnancies, about a 1.5-fold higher risk. Babies of donors were also more often small for gestational age (13.8% vs 7.9%). Most pregnancies after donation were uncomplicated.",
+      "ozet_tr": "Araştırmacılar Kanada'nın üç eyaletindeki sağlık kayıtlarını kullanarak böbrek bağışlamış 252 kadının 385 gebeliğini, bağışçı olmayan kadınlardaki eşleştirilmiş 1.540 gebelikle karşılaştırdı. Gebelik hipertansiyonu, preeklampsi veya eklampsi bağışçılarda yüzde 11,9, bağışçı olmayanlarda yüzde 8,3 oranında görüldü; bu yaklaşık 1,5 kat daha yüksek risk demek. Bağışçıların bebekleri de daha sık gebelik haftasına göre küçük doğdu (yüzde 13,8'e karşı yüzde 7,9). Bağış sonrası gebeliklerin çoğu sorunsuz geçti.",
+      "neden_onemli": "Böbrek bağışını düşünen genç kadınların bu riskten haberdar olması ve gebelikte daha yakından izlenmesi gerektiğini gösteriyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42914154/",
+      "doi": "https://doi.org/10.1001/jama.2026.21737"
+    }
+  ]
+}
