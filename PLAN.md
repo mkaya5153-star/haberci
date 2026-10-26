@@ -170,5 +170,8 @@ Bulutta çalıştırmanın iki yolu:
 - ✅ `topla.py`: 61 kaynak + PubMed (anahtarsız E-utilities), magazin filtresi, haber kümeleme
 - ✅ `yayinla.py`: HTML bülten + arşiv sayfası + uydurma link engeli
 - ✅ İlk bülten elle üretildi: `docs/2026-10-26-aksam.html`
-- ⏳ GitHub deposu + Pages
-- ⏳ Bulut rutini (07:30 / 19:00)
+- ✅ GitHub deposu (mkaya5153-star/haberci) + Pages (main/docs)
+- ✅ Bulut rutinleri: Sabah 07:30 (trig_01AWi2JGJePVrZSF2sPdknnj), Akşam 19:00 (trig_01PSukR8sGin7SuLiD9RS6eR)
+- ⚠️ İlk test: bulut ortamının ağ politikası haber sitelerini engelledi (403). Ortamın ağ erişimi
+  "Full" yapılmalı ya da `izinli_alanlar.txt` içindeki alan adları izin listesine eklenmeli.
+  Yeni kaynak eklenirse alan adı bu listeye de eklenmeli.

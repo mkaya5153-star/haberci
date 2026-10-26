@@ -250,9 +250,10 @@ def main():
     dosya.write_text(json.dumps(cikti, ensure_ascii=False, indent=1), "utf-8")
 
     hatali = [ad for ad, b in durum.items() if isinstance(b, str)]
+    hatali_rss = [ad for ad in hatali if ad != "PubMed"]
     toplam = sum(len(v) for v in cikti["haberler"].values())
     print(f"{dosya.name}: {toplam} haber kümesi, {len(pubmed)} PubMed adayı, "
-          f"{len(aktif) - len(hatali)}/{len(aktif)} kaynak çalıştı")
+          f"{len(aktif) - len(hatali_rss)}/{len(aktif)} kaynak çalıştı")
     for ad in hatali:
         print(f"  ! {ad}: {durum[ad]}", file=sys.stderr)
 
