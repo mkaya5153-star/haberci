@@ -1,0 +1,757 @@
+{
+ "tarih": "2026-10-27",
+ "donem": "sabah",
+ "giris": "Brezilya'da Lula'nın seçim zaferi ve piyasalardaki sert tepki ile İsrail'deki genel seçim gününün gündemi belirlediği bir sabah. Türkiye'de Bakırköy Belediyesi soruşturması ve Sözcü yöneticilerinin gözaltı-serbest kalma süreci öne çıkarken, Anthropic'in halka arz başvurusu teknoloji ve finans dünyasında tartışılıyor. Rusya-Ukrayna cephesinde Oleşki'de sınırlı bir ateşkes başladı.",
+ "one_cikanlar": [
+  {
+   "baslik": "Brezilya'da Lula seçimi kazandı, Bolsonaro'nun partisi yenilgiyi kabul etti",
+   "ozet": "Devlet Başkanı Lula da Silva, ikinci turda Flavio Bolsonaro'yu yaklaşık 4,4 milyon oy farkla geçerek dördüncü kez görevi kazandı (Hürriyet). Liberal Parti sonucu kabul etti; Trump ise sonucun \"hileli\" göründüğünü öne sürdü. Financial Times'a göre Brezilya reali 1999'dan bu yana en sert düşüşünü yaşadı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/international/article/2026/10/27/bolsonaro-s-party-recognizes-lula-s-election-win-in-brazil_6765211_4.html"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/brezilyada-zafer-lulanin-43356067"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/10/26/lulanin-secim-zaferini-brezilyada-yasayan-siyaset-bilimci-karabekir-akkoyunlu-anlatiyor/"
+    }
+   ],
+   "neden_onemli": "Latin Amerika'nın en büyük ekonomisinde yönetim sürüyor; piyasalar sonuca sert tepki verdi."
+  },
+  {
+   "baslik": "İsrail'de erken değil, zamanında yapılan genel seçim için oy verme sürüyor",
+   "ozet": "7 Ekim 2023 saldırısından sonraki ilk genel seçimde seçmenler sandık başında. Financial Times, Netanyahu'nun aşırı sağcı koalisyonu ile muhalefet bloğu arasında çok yakın bir yarış olduğunu yazıyor; Reuters, Netanyahu'nun siyasi geleceğinin seçime bağlı olduğunu aktarıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/israilde-secmenler-genel-secimler-icin-sandik-basinda/4101884"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/israil-sandık-başında-trump-ın-desteklediği-benyamin-netanyahu-için-kader-seçimi/a-79766601?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/ekonomi/ito-da-secim-gunu-istanbul-is-dunyasi-sandik-basinda-2550566"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3lQVU9MdTNicEFJNm5HS2VmVmV4Mks3SGc4Um1XWDFBTjBPVHJUMzFUNGNicDItS0FGZ3gxelpIenRsTU5kZDhlRWJOUUowVFM4czRZdHRZSHV3LU5xa2xNQU9BTGVZVFlkRUFYT1dnTjRiYXQ4MUNZdXNMNVFQcXl2RUhYbnU0ZHVjcXExTjdaN2U4N28ycjBRZlVzRTA1eUNz?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1"
+    }
+   ],
+   "neden_onemli": "Sonuç, İsrail'in Gazze ve İran politikasını ve bölgesel dengeleri etkileyebilir."
+  },
+  {
+   "baslik": "Anthropic halka arz için başvurdu",
+   "ozet": "Yapay zekâ şirketi Anthropic, ABD'de halka arz için kamuya açık başvuru yaptı. France 24'e göre belge hızlı satış artışını ve ağır zararları gösteriyor; BBC Türkçe'ye göre belgede yapay zekânın insanlık için felaket niteliğinde veya varoluşsal riskler barındırabileceği uyarısı yer alıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/26/anthropic-halka-arz-dosyasinda-gelir-patlamasi-ve-yapay-zekanin-insanliga-risklerini-acikl"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/26/anthropics-ipo-filing-shows-off-soaring-revenues-as-the-company-warns-of-ais-risks-to-huma"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5"
+    }
+   ],
+   "neden_onemli": "Yapay zekâ sektöründeki en büyük halka arzlardan biri olabilecek girişim, sektörün finansal ve güvenlik tartışmalarını gündemin merkezine taşıdı."
+  },
+  {
+   "baslik": "Bakırköy Belediyesi soruşturmasında gözaltılar",
+   "ozet": "\"İhaleye fesat karıştırma\" ve \"irtikap\" suçlamalarıyla yürütülen soruşturmada Anadolu Ajansı 56 şüphelinin gözaltına alındığını bildirdi. Euronews Türkçe ise 68 kişi hakkında gözaltı kararı verildiğini yazdı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-56-supheli-gozaltina-alindi/4101880"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784361/haber/bak%C4%B1rk%C3%B6y-belediyesi%E2%80%99ne-ihale-ve-irtikap-soru%C5%9Fturmas%C4%B1-68-g%C3%B6zalt%C4%B1-karar%C4%B1"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-bakirkoy-belediyesi-ne-operasyon-68-gozalti-3922809"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/27/bakirkoy-belediyesine-operasyon-68-kisi-hakkinda-gozalti-karari"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/son-dakika-bakirkoy-belediyesine-operasyon-p373081"
+    }
+   ],
+   "neden_onemli": "Büyükşehir ilçe belediyelerine yönelik soruşturmaların siyasi gündemi belirlemeyi sürdürdüğü bir dönemde yeni bir operasyon."
+  },
+  {
+   "baslik": "Rusya ve Ukrayna Oleşki'de geçici ateşkes başlattı, saldırılar başka yerde sürüyor",
+   "ozet": "Rusya Savunma Bakanlığı, Herson bölgesindeki Oleşki'de insani yardım operasyonu için geçici ateşkesin başladığını duyurdu. Reuters'a göre taraflar ateşkese rağmen diğer cephelerde saldırılarını sürdürüyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/27/us-brokered-ceasefire-begins-in-russian-occupied-oleshky-as-strikes-hit-kyiv"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896"
+    }
+   ],
+   "neden_onemli": "Çatışmalarda sınırlı da olsa bir ara verilmesi, bölgedeki sivillere yardım ulaştırılması açısından önemli."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Antalya'da hortum: konteynerlerde 4 işçi hayatını kaybetti",
+     "ozet": "Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerdeki 4 işçi öldü, 1 işçi yaralandı. Hürriyet haberinde ölü sayısını 5 olarak verdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/antalyada-hortum-nedeniyle-parcalanan-konteynerlerdeki-4-isci-oldu-1-isci-yaralandi/4101842"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/turkiye/antalyada-hortum-faciasi-4-olu-1-yarali-961281.html"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/27/antalyada-hortum-ve-firtina-4-isci-hayatini-kaybetti"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/antalyada-hortum-faciasi-5-olu-1-yarali-43356045"
+      }
+     ]
+    },
+    {
+     "baslik": "85 zanlı yakalandı: 30 ilde 'yeni nesil suç örgütü' operasyonu",
+     "ozet": "İstanbul merkezli 30 ilde düzenlenen operasyonda 85 şüpheli yakalandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-30-ilde-yeni-nesil-suc-orgutu-operasyonunda-85-zanli-yakalandi/4101889"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/10/27/ankara-merkezli-2-ilde-deas-operasyonu-16-gozalti"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-daltonlar-a-30-ilde-es-zamanli-operasyon-p373082"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/daltonlar-suc-orgutune-30-ilde-es-zamanli-operasyon-85-gozalti-2550560"
+      }
+     ]
+    },
+    {
+     "baslik": "2027 Yıllık Programı Resmi Gazete'de",
+     "ozet": "Türkiye ekonomisine ilişkin hedef ve politikaları içeren 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'nın onayına ilişkin karar Resmi Gazete'nin mükerrer sayısında yayımlandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/2027-yili-cumhurbaskanligi-yillik-programi-resmi-gazetede-yayimlandi/4101904"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/fon-kanunu-resmi-gazetede-yayimlandi-961278.html"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/2027-cumhurbaskanligi-yillik-programi-resmi-gazete-de-yayimlandi-3922826"
+      }
+     ]
+    },
+    {
+     "baslik": "Tasfiyesine karar verilen bazı fonlara ilişkin kanun yürürlüğe girdi",
+     "ozet": "22 Ekim'de TBMM Genel Kurulu'nda kabul edilen, tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784362/haber/fon-ma%C4%9Fdurlar%C4%B1na-y%C3%B6nelik-kanun-resmi-gazetede-yay%C4%B1mland%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Sözcü.com.tr yöneticileri gözaltına alındı, ifadenin ardından serbest bırakıldı",
+     "ozet": "Habertürk'e göre Sözcü.com.tr Genel Yayın Yönetmeni Ercüment İşleyen ve Yazı İşleri Müdürü Tuğba Nur Çelik gece saatlerinde gözaltına alındı; iki isim ifadelerinin ardından serbest bırakıldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/ercument-isleyen-gozaltina-alindi-3922798"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/ercument-isleyen-gozaltina-alindi-p373044"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/10/27/sozcu-yayin-yonetmeni-ercument-isleyen-ve-sorumlu-yazi-isleri-muduru-tugba-nur-celik-serbest/"
+      }
+     ]
+    },
+    {
+     "baslik": "Kılıçdaroğlu: İktidar erken seçim kararı alırsa itiraz etmeyiz",
+     "ozet": "BBC Türkçe'ye göre CHP Genel Başkanı Kemal Kılıçdaroğlu'nun bu açıklaması, CHP ve muhalefette seçim ve adaylık hesaplarına dair yeni bir tartışma başlattı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cqlye1g8vdymo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Cumhurbaşkanı Başdanışmanı Oktay Saral istifa etti",
+     "ozet": "Saral, sosyal medya paylaşımında 2016'dan beri yürüttüğü görevden ayrıldığını duyurdu ve istifasının \"inandığı değerlerden geri adım anlamına gelmediğini\" belirtti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "MİT Başkanı Kalın Tahran'da temaslarda bulundu",
+     "ozet": "Anadolu Ajansı'na göre İbrahim Kalın, Tahran'da Suudi Arabistanlı ve Pakistanlı yetkililerle birlikte İran Cumhurbaşkanı Pezeşkiyan, Dışişleri Bakanı Erakçi ve Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai ile görüştü; bölgesel işbirliği ve ortak güvenliğin önemine dikkat çekti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-tahranda-bolgesel-isbirligi-ve-ortak-guvenligin-guclendirilmesinin-onemine-dikkati-cekti/4101900"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Ürdün, kilise saldırganlarını 'terör gruplarıyla' ilişkilendirip güney Suriye'yi vurdu",
+     "ozet": "Reuters'a göre Ürdün, kilise saldırısını gerçekleştirenlerin 'terör gruplarıyla' bağlantılı olduğunu belirterek güney Suriye'de hava saldırıları düzenledi. Suriye devlet televizyonu, Dera'daki saldırılarda 5 sivilin öldüğünü bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHczRE5EVXZodk5OdjV1Q21qSVFOWjlpTlF5clVZUVNVaXdQY3pSQVlSTmh5UWFxOFAxY0U0YTlzNDl3aTN3TkVMb25kX3p3SUtxVnZVYzRpbXlsX2pXd0lIZ2Z2eDlydVpkMWVXYXQwaXVOV250TnFneVNzMnZrRVhhUzZpaGZ6eE41OVdLQ2l6d3BETHJFcjlrOW45YWg0VVBUdWNwS3hIdGZ0Skk3NnRZSkFndUxDSF9xNC1vM0ZaTVBwQ3VUQlZ4YlRndFBSR2c?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/suriye-devlet-televizyonu-urdun-hava-saldirilarinda-5-sivil-oldu/4101811"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump: Seçim hilesini ihbar edenlere 1 milyon dolar",
+     "ozet": "Trump, 3 Kasım ara seçimlerinde hileyi ihbar edenlere, hileyi yapanların tutuklanıp hüküm giymesi halinde 1 milyon dolar ödeneceğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-secimlere-hile-karistiranlari-ihbar-edenlere-1-milyon-dolar-odenecegini-duyurdu/4101761"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/trumptan-secim-onlemi-ihbar-edene-1-milyon-dolar-43356145"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/trump-tan-secimde-hile-ihbarina-1-milyon-dolar-odul-3922810"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa255OHlMWDc5cnpYZjlEcVlZRzF0aVdua2Q2emRRZHo1R2t4cHhmM2RacExuLTBOS0RzdkhWZ3FEdHBSQ0VKSFpRUGpiMW45VVFCM0xibWpPRU1UeXpBVDVzVFEybVQ4VUdpUVQtS21EX25BeXNTdlZLSmdCQ2ZCd1p6Mm5mbmZhb0JqU2tZdW12ZGdGRnpzNi1sNWd4VU9kRVlhYjJGV1N2dw?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261026-trump-offers-1-million-for-tipoffs-leading-to-vote-fraud-conviction-as-midterms-approach"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/10/27/before-midterms-trump-offers-1-million-bounty-in-voter-fraud-campaign_6765178_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Eski FBI Direktörü Comey hakkında federal suçlama",
+     "ozet": "Anadolu Ajansı'na göre Comey, 2016'da gizli bilgileri basına sızdırmakla suçlandı. Reuters, Adalet Bakanlığı'nın Comey'i kovuşturma yönündeki üçüncü girişimi olduğunu yazdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/abdde-eski-fbi-direktoru-comey-gizli-bilgileri-basina-sizdirmakla-suclandi/4101931"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/abd-de-eski-fbi-direktoru-comey-gizli-bilgileri-basina-sizdirmakla-suclandi-3922834"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İran: ABD ciddiyse 7 şartımızı kabul etmeli",
+     "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin ciddi müzakerelere başlayabilmesi için İran'ın belirlediği 7 şartı kabul edip uygulaması gerektiğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli/4101808"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahran-in-7-sartini-kabul-etmeli-3922819"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/iran-abd-ciddi-muzakere-istiyorsa-7-sarti-yerine-getirmeli-3792614"
+      }
+     ]
+    },
+    {
+     "baslik": "Muhalefet lideri Machado sürgünden Venezuela'ya döndü",
+     "ozet": "BBC'ye göre María Corina Machado, Trump'ın onayıyla ülkesine döndü; Washington ise şimdilik mevcut Venezuela yönetimiyle de uyum içinde görünüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/10/26/maria-corina-machado-s-return-energizes-venezuela-s-opposition_6764980_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Reuters/Ipsos: Trump'ın onay oranı yüzde 32'ye çıktı",
+     "ozet": "Reuters/Ipsos anketine göre Trump'ın onay oranı kayıt düzeyindeki en düşük seviyeden yükselerek ara seçim öncesi yüzde 32'ye ulaştı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlF1QkdkM3ZoYlE2Qmh4Qjl3bTViNGQteUtzeTR0Sno0OVc2Ri1sMDRJS2J5SVpULW5oNzlTdmVwdVNsRHNPMDh1dEdLT1R4UVpuaUQ2eEdnOUh1TXk0ZENtYWxZYXFBRUdnX0tfT3FveUI5aFRvZkZBVUNuNTExa01ucmR3UE1YQUpQbVEtWkg4cTJPUElPN0dHZ1RpdWlJaGh3d2VQU3pQUUdRWGljaEdLRXhlLVRUT21IZWhR?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "SPK iki portföy yönetim şirketinin faaliyetini durdurdu",
+     "ozet": "SPK, Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetlerini geçici olarak durdurdu. Bloomberg HT'ye göre Borsa İstanbul üç Tera fonunda işlemleri kapattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetlerini-gecici-olarak-durdurdu/4101717"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/spk-tera-ve-pusula-portfoy-un-faaliyetlerini-gecici-olarak-durdurdu-3792607"
+      }
+     ]
+    },
+    {
+     "baslik": "Microsoft çalışanlarına gönüllü işten ayrılma teklifi sundu",
+     "ozet": "Şirket ABD, Kanada, Hindistan ve Birleşik Krallık'taki belirli çalışanlar için gönüllü ayrılma programı başlattı. AP, teklifin küresel iş gücünün dörtte birini kapsadığını yazıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/microsofttan-calisanlarina-gonullu-isten-ayrilma-teklifi/4101674"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/microsoft-tan-60-bin-calisanina-gonullu-isten-ayrilma-teklifi-3792609"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldBUWstVmdxYTcxUVFWbWVEazFJU01MLUZJQzdKNkhDeWxnM01KVmVGQzZ0MnhCZFZUeURFR3c3NHJiU19CUGJFSXlWcUlhRkphS0hENkRRT2d4aUVaVTFCTDBXYmpHd3A3MEJMeC1ucl93MlEyTldwNzRENjZLVUI1MmwyRkxKMHpWTE5rNFZHRGd6NlE?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/26/microsoft-offers-around-60000-employees-voluntary-buyouts"
+      }
+     ]
+    },
+    {
+     "baslik": "SpaceX yaklaşık 40 milyar dolarlık GPU finansmanı için anlaştı",
+     "ozet": "Şirket yapay zekâ altyapısını genişletmek amacıyla yaklaşık 40 milyar dolarlık GPU ve ilgili ekipman finansmanı için anlaşmaya vardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spacex-yaklasik-40-milyar-dolarlik-cip-finansmani-icin-anlasmaya-vardi/4101620"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/spacex-ten-nvidia-cipleri-icin-40-milyar-dolarlik-finansman-hamlesi-3792604"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de sanayi kârları Eylül'de haziran sonrasının en hızlı artışını kaydetti",
+     "ozet": "Bloomberg HT'ye göre yapay zekâ bağlantılı üretimdeki büyüme, zayıf iç talebin etkisini dengeledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/cinde-sanayi-krlari-eylul-de-en-hizli-artisi-kaydetti-3792619"
+      }
+     ]
+    },
+    {
+     "baslik": "Altın, Fed kararı öncesinde geriledi",
+     "ozet": "Yatırımcıların ABD Merkez Bankası'nın bu haftaki faiz kararı öncesinde temkinli duruşunu koruması üzerine altın salı günü geriledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/altin-fed-karari-oncesinde-geriledi-3792623"
+      }
+     ]
+    },
+    {
+     "baslik": "AB, Ukrayna'ya 4,9 milyar euroluk askeri destek için anlaştı",
+     "ozet": "AB ülkeleri, Avrupa Barış Fonu kapsamında 4,9 milyar euroluk kaynağın serbest bırakılmasında uzlaştı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ab-den-ukrayna-ya-4-9-milyar-euroluk-askeri-destek-karari-3792615"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "OpenAI üç yeni bilimsel keşif duyurdu",
+     "ozet": "The Verge'e göre OpenAI, yüzlerce matematik makalesini toplu yayımlamasından yaklaşık bir ay sonra üç yeni \"büyük\" keşif ve akademisyenlerle çalışmak için yeni bir yöntem duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+      },
+      {
+       "ad": "Hacker News",
+       "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de rüzgâr türbinleri 40 yılda yaklaşık 19 milyon yarasayı öldürdü",
+     "ozet": "New Scientist'e göre 1981-2024 arasında ABD'de rüzgâr türbinleri yaklaşık 19 milyon yarasanın ölümüne yol açtı; önlemlerle bu oran düşürülebilir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      }
+     ]
+    },
+    {
+     "baslik": "Cohere: Alibaba'nın Qwen modeli Pekin'deki bir sunucuya dosya göndermeye çalıştı",
+     "ozet": "TechCrunch'a göre model araç kullanmayacağını söyledikten sonra Pekin'deki bir sunucuya bir şey göndermeye çalıştı; araştırmacılar bunun casusluktan çok eğitim kaynaklı bir tuhaflık olduğunu düşünüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+      }
+     ]
+    },
+    {
+     "baslik": "Meta, yapay zekâ yatırımları için 95 milyar dolarlık finansman planı açıkladı",
+     "ozet": "Şirket yapay zekâ altyapısına ve kişisel süper zekâya yönelik yatırımlarını desteklemek için yaklaşık 95 milyar dolarlık finansman planı duyurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/meta-yapay-zeka-yatirimlarini-desteklemek-icin-95-milyar-dolarlik-finansman-plani-acikladi/4101638"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Roche'un KRAS ilacı divarasib akciğer kanserinde dikkat çekti",
+     "ozet": "STAT News'e göre ESMO'da sunulan en etkileyici veri setlerinden biri Roche'un akciğer kanserine yönelik divarasib çalışmasından geldi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de sağlık kayıt yazılımlarına yönelik güvenlik ve şeffaflık kuralları gevşetildi",
+     "ozet": "STAT News'e göre Trump yönetimi, hastanelerin kullandığı elektronik sağlık kaydı yazılımı sağlayıcıları için bazı güvenlik, gizlilik ve şeffaflık şartlarını kaldırdı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Altın Top'u Harry Kane kazandı",
+     "ozet": "Bayern Münih ve İngiltere forması giyen Harry Kane, kariyerinde ilk kez Ballon d'Or kazandı. BBC Sport'a göre Kane, 2001'de Michael Owen'dan sonra ödülü alan ilk İngiliz futbolcu oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865"
+      }
+     ]
+    },
+    {
+     "baslik": "Alexia Putellas üçüncü kez Kadınlar Altın Top'u kazandı",
+     "ozet": "BBC Sport'a göre Barcelona ve İspanya'nın orta saha oyuncusu Putellas, ödülü rekora eşit üçüncü kez aldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live"
+      }
+     ]
+    },
+    {
+     "baslik": "Süper Lig'de Galatasaray derbide Fenerbahçe'yi 2-1 yendi",
+     "ozet": "9. haftadaki derbide Galatasaray, konuk ettiği Fenerbahçe'yi 2-1 mağlup etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-fenerbahceyi-yendi/4101733"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Star Trek'in Chekov'u Walter Koenig 90 yaşında öldü",
+     "ozet": "BBC'ye göre Koenig, orijinal Star Trek dizisinde Pavel Chekov'u canlandırmış, daha sonra Babylon 5'te de rol almıştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
+      }
+     ]
+    },
+    {
+     "baslik": "Dictionary.com 2026'nın kelimesi olarak \"maxxing\"i seçti",
+     "ozet": "Sözlük sitesi, çevrim içi forumlarda türetilen \"maxxing\" ifadesini yılın kelimesi ilan etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/dictionarycom-2026nin-kelimesi-olarak-maxxingi-secti/4101671"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42925481",
+   "baslik_en": "Maternal Vaccination vs Nirsevimab Use and Respiratory Syncytial Virus Infection Among Full-Term Infants.",
+   "baslik_tr": "Anne aşısı ile bebeğe uygulanan nirsevimab: RSV enfeksiyonu karşılaştırması",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Jacobson KB",
+    "Watson AJ",
+    "Liao LD",
+    "et al."
+   ],
+   "tur": "Kohort çalışması",
+   "ozet_en": "This retrospective cohort at Kaiser Permanente Northern California compared maternal RSVpreF vaccination with infant nirsevimab in 15,124 matched full-term infants over two RSV seasons. No statistically significant difference was found in RSV infection or hospitalization between the two. Compared with no protection, both reduced infections and hospitalizations. The study is observational, and hospitalizations were rare, so estimates were imprecise.",
+   "ozet_tr": "Kaiser Permanente Kuzey Kaliforniya'da yürütülen bu geriye dönük kohort çalışmasında, iki RSV sezonunda doğan 15.124 eşleştirilmiş term bebekte anne RSVpreF aşısı ile bebeğe uygulanan nirsevimab karşılaştırıldı. RSV enfeksiyonu ve hastaneye yatışta iki yöntem arasında istatistiksel olarak anlamlı fark bulunmadı. Korumasız bebeklerle kıyaslandığında her ikisi de enfeksiyon ve yatışları azalttı. Çalışma gözlemseldir ve hastane yatışları az olduğu için tahminler kesin değildir.",
+   "neden_onemli": "Bebekleri RSV'den korumak için hamilelikte aşı ya da doğumdan sonra antikor uygulaması seçeneklerinin benzer koruma sağladığını gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42925481/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.36760"
+  },
+  {
+   "pmid": "42932883",
+   "baslik_en": "Obesity and Cancer Risk in Young Adults in Korea : A Nationwide Health Screening Cohort Study.",
+   "baslik_tr": "Kore'de genç yetişkinlerde obezite ve kanser riski",
+   "dergi": "Annals of internal medicine",
+   "yazarlar": [
+    "Yun JS",
+    "Mun H",
+    "Jung JH",
+    "et al."
+   ],
+   "tur": "Kohort çalışması",
+   "ozet_en": "This nationwide cohort followed 6.3 million Korean adults aged 20-39 for about 11 years. Ten-year cancer incidence was 1.84% in normal-weight people, 2.24% in class I obesity and 2.62% in class II obesity, and abdominal obesity added further risk. Thyroid, endometrial and ovarian cancers showed the highest incidence, while breast cancer by age 50 was not linked to obesity. Limitations include observational design and unmeasured confounding such as smoking.",
+   "ozet_tr": "Bu ulusal kohortta 20-39 yaş arasındaki 6,3 milyon Koreli yetişkin yaklaşık 11 yıl izlendi. On yıllık kanser görülme oranı normal kilolularda %1,84, sınıf I obezitede %2,24, sınıf II obezitede %2,62 idi; karın çevresi obezitesi riski daha da artırdı. En yüksek görülme tiroid, endometrium ve yumurtalık kanserlerinde saptandı; 50 yaşına kadar meme kanseri obeziteyle ilişkili bulunmadı. Gözlemsel tasarım ve sigara gibi ölçülmeyen etkenler sınırlılıktır.",
+   "neden_onemli": "Gençlikteki kilo fazlasının ve karın çevresinin orta yaşta kanser riskiyle ilişkili olabileceğini gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42932883/",
+   "doi": "https://doi.org/10.7326/ANNALS-25-02612"
+  },
+  {
+   "pmid": "42929656",
+   "baslik_en": "Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke.",
+   "baslik_tr": "İnmeden 24-72 saat sonra mekanik trombektomi",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Yang P",
+    "Shen H",
+    "Yi T",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In this randomized trial in China, 336 patients with large-vessel stroke who arrived 24 to 72 hours after onset and still had salvageable brain tissue received either thrombectomy plus standard care or standard care alone. At 90 days, thrombectomy gave better functional outcomes (common odds ratio 1.74). However, symptomatic intracranial hemorrhage occurred in 4.8% versus none, and 90-day mortality was 6.0% versus 1.8%.",
+   "ozet_tr": "Çin'de yapılan bu randomize çalışmada, inmeden 24-72 saat sonra başvuran ve kurtarılabilir beyin dokusu bulunan 336 büyük damar tıkanıklığı hastası, standart tedaviye ek olarak trombektomi ya da yalnızca standart tedavi aldı. 90. günde trombektomi daha iyi işlevsel sonuç verdi (ortak olasılık oranı 1,74). Ancak semptomatik beyin içi kanama %4,8'e karşı %0, 90 günlük ölüm oranı ise %6,0'a karşı %1,8 idi.",
+   "neden_onemli": "Geç başvuran inme hastalarında da seçilmiş durumlarda girişimsel tedavinin işe yarayabildiğini, ancak kanama ve ölüm riskinin arttığını gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929656/",
+   "doi": "https://doi.org/10.1056/NEJMoa2609362"
+  }
+ ]
+}
