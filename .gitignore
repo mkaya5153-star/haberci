@@ -3,3 +3,5 @@ veri/*.json
 !veri/pubmed_gorulen.json
 __pycache__/
 .claude/
+
+.netlify

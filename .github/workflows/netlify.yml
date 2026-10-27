@@ -1,0 +1,30 @@
+name: Netlify yayını
+
+on:
+  push:
+    branches: [main]
+    paths: ["docs/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: netlify-yayin
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Token var mı?
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ]; then
+            echo "NETLIFY_AUTH_TOKEN secret'i tanımlı değil (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+      - name: docs/ klasörünü Netlify'a yükle
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: a83eb843-733c-4c2d-b9e3-9cd2183af95c
+        run: npx -y netlify-cli@23.11.0 deploy --dir=docs --prod --no-build
