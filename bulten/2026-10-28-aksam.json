@@ -1,0 +1,646 @@
+{
+ "tarih": "2026-10-28",
+ "donem": "aksam",
+ "giris": "Akşamın öne çıkan gündemi İspanya'daki ağır hızlı tren kazası ile henüz net kazananı olmayan İsrail seçimleri. Yurt içinde Sarıgül soruşturması ve fon tasfiye ödemeleri öne çıkarken, ekonomide Avrupa'da gaz fiyatı 100 avroya ulaştı ve Kanada Merkez Bankası faiz artırdı.",
+ "one_cikanlar": [
+  {
+   "baslik": "İspanya'da iki hızlı tren çarpıştı: en az 68 ölü",
+   "ozet": "İspanya'da iki hızlı trenin çarpışması sonucu bazı vagonlar raydan çıktı. Yerel yetkililer en az 68 kişinin öldüğünü ve en az 50 kişinin ağır yaralandığını açıkladı. AP, olayı ülkede bu yıl yaşanan ikinci ölümcül tren kazası olarak aktarıyor; ilk saatlerde verilen can kaybı rakamları kaynaklara göre farklılık gösterdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/ispanya-da-hızlı-tren-kazası-en-az-68-kişi-öldü/a-79784336?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/son-dakika-ispanyada-tren-kazasi-46-olu-150-yarali-43357848"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/dunya/ispanyada-2-tren-carpisti-cok-sayida-olu-7690095"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": "Avrupa'daki ölümcül demiryolu kazalarının en ağırlarından biri; hızlı tren güvenliği tartışmasını yeniden gündeme getirebilir."
+  },
+  {
+   "baslik": "İsrail seçimlerinde net kazanan çıkmadı, Netanyahu önde",
+   "ozet": "İsrail'de yüksek katılımlı seçimde oyların yüzde 77'si sayıldığında, Merkez Seçim Komitesi'nin kısmi sonuçlarına göre Netanyahu'nun bloğu 54, rakibi Eisenkot'un bloğu 49 sandalyede. BBC Türkçe ve DW Türkçe'ye göre hiçbir blok tek başına çoğunluğa ulaşamıyor; France 24 ise nihai sonuçların bu gece ya da yarın sabah beklendiğini ve Netanyahu'nun çoğunluğa yaklaştığını aktarıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/live-israilde-basa-bas-secim-yarisi-iste-son-durum-43357419"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/israil-seçimleri-netanyahu-önde-hükümet-kurabilecek-mi/a-79782571?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/28/israil-secimleri-netanyahunun-gelecegini-belirleyecek-uc-senaryo"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/yasam/canli-son-dakika-israil-secimlerinde-kritik-saatler-sandiktan-hangi-sonuc-cikacak-iste-netanyahu-ve-muhalefet-bloklarinin-son-durumu-7689955"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/israel-netanyahu-edges-closer-to-a-majority"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb"
+    }
+   ],
+   "neden_onemli": "Koalisyon aritmetiği, Gazze ateşkesi ve bölgesel politikaların yönünü belirleyecek."
+  },
+  {
+   "baslik": "Bolsonaro, çıkış yasağına rağmen ABD'ye geçti",
+   "ozet": "Anadolu Ajansı'na göre Brezilya'da devlet başkanlığı seçimini kaybeden Bolsonaro, hakkındaki yurt dışına çıkış yasağına rağmen önce Arjantin'e geçti. Reuters, Flavio Bolsonaro'nun seçim yenilgisinin ardından ABD'ye vardığını bildiriyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/brezilyada-secimi-kaybeden-bolsonaro-yurt-disi-cikis-yasagina-ragmen-arjantin-uzerinden-abdye-kacti/4103987"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTFNc0szNTA2RXdkb1BURmJ2bnB2R1BIVkdpN0hEcXlBclpLel9TdVVmbzdFTjNJU291aHlnZlFUdkx5OHdVN3ZndXNmaEVtUmZGQU8tQ3J1RmhFQVZQLWNaTlNDdXUwd0R6US1mMDd3a0w4TVRJdWpic2RxaHFtSXItcFpHNzFiUUs3MXFVQWlZb21sN2x1eHQ1ZlY0bmFpS3NyYkxXb1FlSWZN?oc=5"
+    }
+   ]
+  },
+  {
+   "baslik": "Avrupa'da doğalgaz fiyatı 2022 enerji krizinden bu yana ilk kez 100 avroya çıktı",
+   "ozet": "Reuters'a göre Avrupa'da gaz fiyatı 2022 enerji krizinden sonra ilk kez 100 avroya ulaştı; tüketiciler ve sanayi fiyat artışından etkileniyor. Dünya Bankası ise Orta Doğu'daki savaş ve diğer şoklar nedeniyle emtia fiyatlarının 2026'da yüzde 23,1 artmasını bekliyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+    },
+    {
+     "ad": "Anadolu Ajansı Ekonomi",
+     "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-emtia-fiyatlarinin-2026da-yuzde-23-artmasini-bekliyor/4103965"
+    }
+   ],
+   "neden_onemli": "Enerji ve emtia fiyatları enflasyon ve sanayi maliyetleri üzerinden hane bütçelerine yansıyor."
+  },
+  {
+   "baslik": "Sarıgül soruşturması: Yeni Parti üyeliği askıya alınıyor, üç şüpheli tutuklandı",
+   "ozet": "Erzincan Milletvekili Mustafa Sarıgül, 16 Ekim'de başlatılan soruşturma tamamlanana kadar Yeni Parti üyeliğinin askıya alınması için başvurdu ve suçlamaları reddetti. Hürriyet'e göre İstanbul Cumhuriyet Başsavcılığı'nın Sarıgül ailesine yönelik 'kara para aklama' soruşturmasında gözaltına alınan 15 şüpheliden 3'ü tutuklandı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/mustafa-sarıgül-yeni-parti-üyeliğini-askıya-alıyor/a-79783244?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/mustafa-sarigul-yeni-parti-uyeligini-askiya-alacak-p373477"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/kara-para-iddiasinda-3-supheli-tutuklandi-43357360"
+    }
+   ]
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Erdoğan, Tokayev ile heyetler arası görüşmeye başkanlık etti",
+     "ozet": "Cumhurbaşkanı Erdoğan, Kazakistan Cumhurbaşkanı Tokayev ile baş başa görüşmenin ardından heyetler arası görüşmeye başkanlık etti. İletişim Başkanlığı ayrıca 30-31 Ekim'de 'Türk Dünyası Diyalog Forumu' düzenleyecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kazakistan-cumhurbaskani-tokayev-ile-heyetler-arasi-gorusmeye-baskanlik-etti/4104118"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/kazakistan-cumhurbaskani-tokayev-ankarada-961513.html"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-tokayev-ile-bir-araya-geldi-3923249"
+      }
+     ]
+    },
+    {
+     "baslik": "MSB: Mısır ile de deniz yetki alanları anlaşmasına hazırız",
+     "ozet": "Milli Savunma Bakanlığı, Libya Temsilciler Meclisi'nin deniz yetki alanları mutabakatını onaylamasını memnuniyetle karşıladı. Bakanlık, Mısır ile de benzer bir anlaşma imzalamaya hazır olduklarını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/msb-misir-ile-anlasma-imzalamaya-haziriz-961464.html"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/msbden-libya-anlasmasi-mesaji-misir-ile-de-anlasmaya-haziriz-43357811"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/yasam/msb-misir-ile-deniz-yetki-anlasmasina-haziriz-7690087"
+      }
+     ]
+    },
+    {
+     "baslik": "Bulgaristan, Romanya ve Türkiye savunma bakanlarından ortak açıklama",
+     "ozet": "Üç ülkenin savunma bakanları Sofya'daki toplantının ardından ortak açıklama yayımladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/bulgaristan-romanya-ve-turkiye-savunma-bakanlarindan-sofyadaki-toplantinin-ardindan-ortak-aciklama/4104078"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784457/d%C3%BCnya/bulgaristan-romanya-ve-t%C3%BCrkiye-savunma-bakanlar%C4%B1ndan-sofyadaki-toplant%C4%B1n%C4%B1n"
+      }
+     ]
+    },
+    {
+     "baslik": "Fonlarda tasfiye ödemeleri: ilk ara ödeme cuma günü",
+     "ozet": "TRT Haber'e göre tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler 30 Ekim Cuma günü başlayacak. Yatırımcı Tazmin Merkezi de Tera Yatırım Menkul Değerler yatırımcılarının tazmin sürecine ilişkin duyuru yayımladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ytm-tera-yatirim-menkul-degerler-as-yatirimcilarinin-tazmin-surecine-iliskin-duyuru-yayimladi/4104058"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/yatirimci-tazmin-merkezi-nden-tera-yatirim-aciklamasi-3923238"
+      }
+     ]
+    },
+    {
+     "baslik": "Meteoroloji'den 29 kente kuvvetli yağış uyarısı",
+     "ozet": "Yarın için Adana, Antalya, Mersin ve Muğla'da 'turuncu', İstanbul ve İzmir'in de aralarında bulunduğu 25 ilde 'sarı' kodlu uyarı verildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/meteorolojiden-29-kente-kuvvetli-yagis-uyarisi-961493.html"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/kuvvetli-yagis-etkili-olacak-meteoroloji-saat-verdi-sel-su-baskini-yagis-aninda-kuvvetli-ruzgar-ve-hortum-sari-ve-turuncu-alarm-43357422"
+      }
+     ]
+    },
+    {
+     "baslik": "ÖSYM'nin 2027 sınav takvimi açıklandı",
+     "ozet": "TRT Haber'e göre YKS 19-20 Haziran 2027'de yapılacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/egitim/osymnin-2027-sinav-takvimi-belli-oldu-961445.html"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-osym-baskani-duyurdu-2027-yks-takvimi-belli-oldu-p373487"
+      }
+     ]
+    },
+    {
+     "baslik": "Uluslararası uyuşturucu ağının elebaşı İstanbul'da yakalandı",
+     "ozet": "Belçika adli makamlarınca difüzyon kararıyla aranan ve Kolombiya'dan Avrupa'ya uzanan kokain ağını yönettiği belirtilen S.G., İstanbul'da yakalandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/uluslararasi-uyusturucu-baronu-turkiyede-yakalandi-961448.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Ulusal dijital kimlik cüzdanının ilk örneği 2027'de",
+     "ozet": "Temel kimlik ve diploma belgelerini içeren ulusal dijital kimlik cüzdanının ilk örneğinin gelecek yıl geliştirilip bir yükseköğretim kurumunda pilot olarak test edilmesi planlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ulusal-dijital-kimlik-cuzdaninin-ilk-ornegi-2027de-gelistirilecek/4103433"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Yemen: Husiler Aden Havalimanı'nı birkaç saat arayla iki kez hedef aldı",
+     "ozet": "Yemen hükümetine göre İran destekli Husiler Aden Uluslararası Havalimanı'na birkaç saat arayla ikinci kez saldırı düzenledi. Reuters, saldırının tahliye uyarısının ardından geldiğini bildiriyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-husiler-aden-uluslararasi-havalimanini-birkac-saat-arayla-2-kez-hedef-aldi/4104086"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "WSJ: ABD, Körfez ülkelerini seçimlerden sonra olası İran harekatına karşı uyardı",
+     "ozet": "Wall Street Journal'ın bilgi sahibi kaynaklara dayandırdığı habere göre ABD, bazı Körfez ülkelerine ara seçimlerin ardından kısa ve yoğun bir askeri harekata hazırlıklı olmalarını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/wsj-abd-korfez-ulkelerini-irana-yeni-saldiri-icin-uyardi-3792716"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/wsj-abd-ve-israil-irana-yeni-saldiriya-hazirlaniyor-haberi-845641"
+      }
+     ]
+    },
+    {
+     "baslik": "UAEA Başkanı: İran hasar gören nükleer tesisleri onarmaya çalışmadı",
+     "ozet": "AP'ye göre BM nükleer gözetim kuruluşunun başkanı, İran'ın ABD saldırılarında hasar gören nükleer tesislerini onarmaya girişmediğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazze'de ateşkese rağmen saldırılar: 4 ölü, 19 yaralı",
+     "ozet": "Gazze Şeridi'nde İsrail ordusunun düzenlediği saldırılarda en az 4 Filistinli yaşamını yitirdi, 19 kişi yaralandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-duzenledigi-saldirilarda-4-kisi-hayatini-kaybetti-19-kisi-yaralandi/4104024"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump, ABD petrol ve gaz sektörüne yönelik metan kurallarını gevşetiyor",
+     "ozet": "Euronews'e göre Trump, gelecek haftaki ara seçimler öncesinde enerji maliyetlerini düşürmeyi hedefliyor; ABD'nin İran ile savaşına bağlanan petrol fiyatı artışı seçmen memnuniyetsizliğini besliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/environment/article/2026/10/28/trump-drastically-rolls-back-oil-and-gas-methane-rules_6765739_114.html"
+      }
+     ]
+    },
+    {
+     "baslik": "AB, Kanada bildirisinden 'ortak üyelik' ifadesini çıkardı",
+     "ozet": "Euronews'e göre Almanya'nın itirazları üzerine AB, AB-Kanada zirvesi taslak bildirisinden 'ortak üyelik' ifadesini çıkarıp yerine 'giderek yakınlaşan ilişki' ifadesini koydu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de yaşlı nüfus ilk kez çocuk nüfusunu geçti",
+     "ozet": "Çin'de 65 yaş ve üstü nüfus, ülke tarihinde ilk kez 14 yaş ve altı çocuk nüfusunu geride bıraktı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/cinde-yasli-nufusu-ilk-kez-cocuk-nufusunu-gecti/4104049"
+      }
+     ]
+    },
+    {
+     "baslik": "Etiyopya, Rus Su-35 uçaklarını teslim aldığını açıkladı",
+     "ozet": "Reuters'a göre Etiyopya, Rus yapımı Su-35 savaş uçaklarını teslim aldığını, S-400 hava savunma sistemlerinin de arkadan geleceğini bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Kanada Merkez Bankası 2023'ten beri ilk kez faiz artırdı",
+     "ozet": "Kanada Merkez Bankası politika faizini 25 baz puan artırarak yüzde 2,50'ye çıkardı. Reuters'a göre banka yeni bir artışın mümkün olduğunu belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/kanada-merkez-bankasi-ndan-2023-ten-beri-ilk-faiz-artirimi-3792731"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/kanada-merkez-bankasi-3-yil-sonra-faiz-artirdi-haberi-845646"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNfMFh2VXFuRUpyWjNldzQ4dmZROU5kNjhfUlNoXzd1UXNWV0NiTXJiclpmYUlnS1dFUXJ0QkVPVno1VkJxaEpOUDc5Qk5PS2ZBR1NUbE5RSU5ja2FRQmVpd1VZZWhmdjl6dzRFTE9hNGJvWHNCc2VFN2NFQlNvYzNtdjYwWnVoNmdIZUdMRkZBbHY2OTJ1OEpvMFlRYkRHY2ZVZmZKM2RUdU9IckpCMzV2Wm4?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Fed'in faiz konusunda bekle-gör moduna geçmesi bekleniyor",
+     "ozet": "Reuters ve AP'ye göre Fed, enflasyonun yüksek seyrine rağmen faiz artırımına gitmeyecek gibi görünüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Eylülde ikinci en yüksek aylık ihracat",
+     "ozet": "Ticaret Bakanı Ömer Bolat, eylülde çift haneli artışla Cumhuriyet tarihinin en yüksek ikinci aylık ihracatına ulaşıldığını açıkladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-103-yillik-cumhuriyet-tarihimizin-en-yuksek-ikinci-aylik-ihracatina-ulasildi/4103745"
+      }
+     ]
+    },
+    {
+     "baslik": "AA Finans anketi: ekimde TÜFE'nin yüzde 2,20 artması bekleniyor",
+     "ozet": "Ankete katılan ekonomistler Tüketici Fiyat Endeksi'nin ekimde yüzde 2,20 artacağını tahmin ediyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/aa-finansin-ekim-ayi-enflasyon-beklenti-anketi-sonuclandi/4103802"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa'daki protestolar perakende sektörünü vurdu",
+     "ozet": "AA'ya göre devam eden kitlesel protestolar ve şiddet olayları alışverişleri olumsuz etkiliyor; protestolardan etkilenen şehir merkezlerindeki mağaza satışları düştü. Sarı Yelekliler eylemlerinin maliyetinin 1 milyar avroyu aşacağı tahmin ediliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/fransadaki-protestolar-perakende-sektorunu-de-vurdu/4103607"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemlerinin-maliyetinin-1-milyar-avroyu-asacagi-tahmin-ediliyor/4104002"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Rusya ve ABD'nin ISS'ye karşılıklı uçuş programı 2030'a uzatıldı",
+     "ozet": "Roscosmos Başkanı Dmitriy Bakanov, Rus ve Amerikalı personelin birbirlerinin uzay araçlarıyla ISS'ye taşınmasını sağlayan programın 2030'a uzatıldığını bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/rusya-ve-abdnin-issye-karsilikli-ucus-programi-2030a-uzatildi/4103792"
+      }
+     ]
+    },
+    {
+     "baslik": "Güney Kore, Google ve Apple'a toplam 47,5 milyon dolar ceza verdi",
+     "ozet": "Uygulama mağazası pazarındaki konumlarını kötüye kullandıkları gerekçesiyle iki şirket para cezasına çarptırıldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/guney-kore-google-ve-applea-uygulama-magazalarindaki-ihlaller-nedeniyle-47-5-milyon-dolar-ceza-kesti/4103757"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMndnaEFOR0U3d1ZnRlpLR2VOWlhPanhKSmZPNXNqUzRmRC11dGF6WmV0VVpWUHNncGRtRGUyZHhRWVkzcVBvbTgyRENrUzFpM1dUT201MmdqQVl5NjNIYnR6TldmZjBPNmtMVHFLMXlBaXpXUFVGenpieGd5RUpGeXFUZnRhTWtJNmtHMHF6d3hNLUV6WWpR?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'den 2027 uzay hedefleri",
+     "ozet": "Türkiye, gelecek yıl Uzay Havası Uygulama Merkezi'ni kurmak için gerekli ön çalışmaları başlatmayı ve ilk uzay aracını Ay'a ulaştırmayı hedefliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-gelecek-yil-hem-uzayin-havasini-arastiracak-hem-aya-ulasacak/4103416"
+      }
+     ]
+    },
+    {
+     "baslik": "OpenAI'a ChatGPT nedeniyle ölüm iddiasıyla dava",
+     "ozet": "Açılan davada ChatGPT'nin epilepsi hastası genç bir kadına ilacını bıraktırarak ölümüne yol açtığı öne sürüldü. İddialar davacılara aittir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/openai-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-acti-h227998.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Lilly'nin retatrutid adlı ilacı Ozempic'ten üstün çıktı",
+     "ozet": "STAT News'e göre Eli Lilly, deneysel ilacı retatrutidin geniş bir diyabet çalışmasında kan şekerini düşürmede ve kilo vermede Novo Nordisk'in Ozempic'ine göre daha etkili olduğunu açıkladı. Sonuçlar şirket açıklamasına dayanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de aşırı doz ölümlerindeki düşüşün nedeni ne?",
+     "ozet": "STAT News'e göre ABD'de aşırı doz ölümleri 2024'te yüzde 27 azaldı; 2025'e ilişkin ön veriler bir düşüşe daha işaret ediyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Milli halterci Muhammed Furkan Özbek dünya ikincisi",
+     "ozet": "Dünya Halter Şampiyonası'nda erkekler 65 kiloda koparmada ve toplamda gümüş, silkmede bronz madalya kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/milli-halterci-muhammed-furkan-ozbek-dunya-ikincisi-oldu/4103892"
+      }
+     ]
+    },
+    {
+     "baslik": "Arsenal, Lig Kupası'nda 4. Lig ekibi Fleetwood Town'a penaltılarla elendi",
+     "ozet": "Arsenal, İngiltere Lig Kupası'nda EFL League Two ekibi Fleetwood Town'a penaltılarla elendi; kulüp Max Dowman'ın kırmızı kartına itiraz edecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/ingiltere-lig-kupasindaki-olayli-macta-arsenal-4-lig-ekibine-elendi/4103639"
+      },
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Altın Portakal'da 'Kadim Mavi'nin dünya prömiyeri",
+     "ozet": "63. Antalya Altın Portakal Film Festivali'nde Ulusal Uzun Metraj Film Yarışması'ndaki 'Kadim Mavi'nin dünya prömiyeri yapıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/antalya-altin-portakal-film-festivalinde-kadim-mavi-filminin-dunya-promiyeri-yapildi/4104046"
+      }
+     ]
+    },
+    {
+     "baslik": "Gölyazı antik tiyatrosunda mezar bulundu",
+     "ozet": "Bursa Nilüfer'deki Apollonia ad Rhyndacum Antik Kenti'nin tiyatro bölümündeki kazılarda seyirci basamakları arasında mezar bulundu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/golyazidaki-antik-tiyatroda-seyirci-basamaklarinin-arasinda-mezar-bulundu/4103626"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42925880",
+   "baslik_en": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",
+   "dergi": "Lancet (London, England)",
+   "yazarlar": [
+    "Sakakida T",
+    "Taniguchi H",
+    "Asayama M",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42925880/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01782-4",
+   "baslik_tr": "PRABITAS: Dirençli metastatik kolorektal kanserde 14 günlük ile 28 günlük trifluridin-tipirasil + bevasizumab şeması",
+   "ozet_en": "This randomised phase 3 non-inferiority trial in 178 Japanese hospitals assigned 970 patients with refractory metastatic colorectal cancer to a 14-day or conventional 28-day schedule of trifluridine-tipiracil plus bevacizumab. Median overall survival was 11.3 months with the 14-day schedule and 10.3 months with the 28-day schedule (hazard ratio 0.93), meeting the non-inferiority margin. Severe neutropenia was less common with the 14-day schedule (13% vs 39%). Two treatment-related deaths occurred in the 14-day group and none in the 28-day group; the trial was open-label.",
+   "ozet_tr": "Japonya'daki 178 hastanede yürütülen bu randomize faz 3 eşdeğerlik çalışmasında, dirençli metastatik kolorektal kanserli 970 hasta trifluridin-tipirasil + bevasizumabın 14 günlük veya geleneksel 28 günlük şemasına atandı. Medyan genel sağkalım 14 günlük şemada 11,3 ay, 28 günlük şemada 10,3 ay bulundu (risk oranı 0,93) ve eşdeğerlik sınırı karşılandı. Ağır nötropeni 14 günlük şemada daha seyrekti (%13'e karşı %39). 14 günlük grupta tedaviyle ilişkili iki ölüm görüldü, 28 günlük grupta görülmedi; çalışma açık etiketliydi.",
+   "neden_onemli": "Daha basit bir tedavi takvimi, sağkalımdan ödün vermeden yan etki yükünü azaltabiliyor."
+  },
+  {
+   "pmid": "42945982",
+   "baslik_en": "Global, regional, and national burden of unintentional poisoning, 1990-2023: results from the Global Burden of Disease Study 2023.",
+   "dergi": "The Lancet. Public health",
+   "yazarlar": [],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42945982/",
+   "doi": "https://doi.org/10.1016/S2468-2667(26)00173-8",
+   "baslik_tr": "Kasıtsız zehirlenmenin küresel, bölgesel ve ulusal yükü, 1990-2023: Küresel Hastalık Yükü Çalışması 2023 sonuçları",
+   "ozet_en": "Using Global Burden of Disease 2023 estimates for 204 countries, the study found that carbon monoxide and other unintentional poisoning caused 2.54 million poisonings and 69,805 deaths worldwide in 2023. Age-standardised DALY rates fell by 47.5% since 1990, and carbon monoxide poisoning rates fell by 58.2%. The burden was highest in sub-Saharan Africa for poisoning by other means, and deaths were inversely related to socio-demographic level. Medicine and illicit-drug poisonings are not included, and uncertainty is wide in several regions.",
+   "ozet_tr": "204 ülke için Küresel Hastalık Yükü 2023 tahminlerini kullanan çalışma, karbonmonoksit ve diğer kasıtsız zehirlenmelerin 2023'te dünya genelinde 2,54 milyon zehirlenmeye ve 69.805 ölüme yol açtığını buldu. Yaşa göre standardize DALY oranları 1990'dan bu yana %47,5, karbonmonoksit zehirlenmesinde ise %58,2 azaldı. Diğer zehirlenmelerde yük en çok Sahra Altı Afrika'daydı ve ölümler sosyo-demografik düzeyle ters ilişkiliydi. İlaç ve yasa dışı madde zehirlenmeleri kapsam dışıdır ve birçok bölgede belirsizlik geniştir.",
+   "neden_onemli": "Karbonmonoksit alarmı ve havalandırma gibi basit önlemler zehirlenme ölümlerini azaltan uzun vadeli kazanımlar arasında."
+  },
+  {
+   "pmid": "42931771",
+   "baslik_en": "Stroke and Bleeding Risk in Long-Term Care Residents With Atrial Fibrillation Who Discontinue Anticoagulation.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Kapoor A",
+    "Chen Z",
+    "Patel J",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931771/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.40964",
+   "baslik_tr": "Antikoagülasyonu bırakan atriyal fibrilasyonlu uzun süreli bakım sakinlerinde inme ve kanama riski",
+   "ozet_en": "This claims-based target trial emulation followed 15,426 long-term care residents with atrial fibrillation (mean age 82.6) who were taking anticoagulants when they entered care. Those who stopped anticoagulation had stroke risk (sHR 1.07) and bleeding risk (sHR 1.02) similar to those who continued, but higher mortality (HR 1.27). The authors note very high mortality, unmeasured confounding and reliance on claims data as limitations.",
+   "ozet_tr": "Claims verisine dayanan bu hedef çalışma emülasyonu, bakım evine girerken antikoagülan kullanan, atriyal fibrilasyonlu 15.426 uzun süreli bakım sakinini (ortalama yaş 82,6) izledi. İlacı bırakanlarda inme (sHR 1,07) ve kanama (sHR 1,02) riski sürdürenlerle benzerdi, ölüm riski ise daha yüksekti (HR 1,27). Yazarlar çok yüksek ölüm oranını, ölçülemeyen karıştırıcı etkenleri ve claims verisine dayanmayı sınırlılık olarak belirtiyor.",
+   "neden_onemli": "Yaşlı hastalarda kan sulandırıcı kararlarının tek tek ve doktorla birlikte değerlendirilmesi gerektiğini gösteriyor."
+  }
+ ]
+}
