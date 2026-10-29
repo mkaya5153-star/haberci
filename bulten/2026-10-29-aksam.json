@@ -1,0 +1,650 @@
+{
+ "tarih": "2026-10-29",
+ "donem": "aksam",
+ "giris": "Cumhuriyet'in 103. yılı kutlanırken Kapadokya'daki peribacası çökmesi 3 can aldı. Dünyada Ukrayna'da bir tren istasyonuna yönelik saldırı ve İspanya'daki yüksek hızlı tren kazası öne çıktı; Lagarde'ın ECB'den erken ayrılacağını açıklaması ve İsrail seçiminde net bir sonucun çıkmaması ekonomi ve diplomasi gündemini belirledi. Bir kaynağa (NPR, CNBC) erişilemedi.",
+ "one_cikanlar": [
+  {
+   "baslik": "Nevşehir'de peribacası çöktü: 3 ölü, 5 yaralı",
+   "ozet": "Nevşehir'in Göreme beldesinde bir peribacasından kopan kaya parçalarının altında kalan 3 kişi hayatını kaybetti, 5 kişi yaralandı. Reuters, olayın turistik Kapadokya bölgesinde ağır yağışın ardından yaşandığını bildirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/nevsehirde-peribacasi-coktu-3-olu-961636.html"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784501/haber/kapadokyada-peribacas%C4%B1-%C3%A7%C3%B6kt%C3%BC-%C3%B6l%C3%BC-ve-yaral%C4%B1lar-var"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/son-dakika-peribacasi-coktu-yaralilar-var-43359559"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/goremede-peribacasi-coktu-olu-ve-yaralilar-var-p374013"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGhRN204Yk1ya0hnbnBjX0E3NWxtUmRpWEJBcngyT09MSFZDZWxIU2VldDdlVWw3Nk9TM2FpRVl6YmlMM2VXS1plMXFrQk04dlk5SUh5dGQ1X1FGRGZvcTBFakE4NmtwUFdOdllkM0pJcmFTQ0E4S1hlUEZRbTZCX2E1WGZCdU1lejN5Y3VFR1R1eXdTZDRqSVozS0RwOWxYVi05XzZmSmhlRW1Vd01NcjFSUlFlYjd0SXpNZ1cxaGVfZzE2eDRjRUxpckg0dw?oc=5"
+    }
+   ],
+   "neden_onemli": "Kapadokya'nın en çok ziyaret edilen noktalarında yağışlı havanın doğurduğu güvenlik riskini gösteriyor."
+  },
+  {
+   "baslik": "Rus İHA saldırısı Ukrayna'da bir tren istasyonunda 14 kişiyi öldürdü",
+   "ozet": "Reuters ve DW'ye göre Rusya'nın düzenlediği insansız hava aracı saldırısında Ukrayna'da kalabalık bir tren peronunda 14 kişi öldü. DW saldırının Dnipro tren istasyonunda olduğunu bildiriyor; Euronews ise ilk bilançoda en az 13 ölü bildirmişti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/29/at-least-13-killed-several-injured-in-russian-drone-strike-on-ukrainian-railway-station"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html"
+    }
+   ],
+   "neden_onemli": "Savaşın sivil altyapıyı ve yolcu trafiğini hedef alan boyutunu gösteriyor."
+  },
+  {
+   "baslik": "İspanya'da yüksek hızlı tren çarpışması: ölü sayısı 68-69'a ulaştı",
+   "ozet": "AP'ye göre bu yıl İspanya'da yaşanan ikinci ölümcül tren kazasında iki yüksek hızlı tren çarpıştı ve en az 68 kişi öldü; DW Türkçe ölü sayısını 69 olarak veriyor. BBC'nin yayımladığı ses kayıtlarına göre kontrol merkezi, ilerideki tren durmuşken bir diğerine hareket izni vermiş görünüyor. Başbakan Sanchez kapsamlı soruşturma sözü verdi ve ulusal yas ilan edildi; seçimlere haftalar kala kaza hükümet üzerindeki baskıyı artırdı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/tv-shows/perspective/20261029-real-questions-to-be-asked-after-deadly-train-collision-in-spain-journalist-says"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/ispanya-da-tren-faciası-sanchez-üzerindeki-baskı-artıyor/a-79795787?maca=tur-rss-tur-all-1495-rdf"
+    }
+   ],
+   "neden_onemli": "Avrupa'nın en gelişmiş demiryolu ağlarından birinde güvenlik ve siyasi sorumluluk tartışması başladı."
+  },
+  {
+   "baslik": "ECB Başkanı Lagarde 7 Şubat 2027'de görevden ayrılıyor",
+   "ozet": "Avrupa Merkez Bankası Başkanı Christine Lagarde, görev süresi dolmadan 7 Şubat 2027'de ayrılacağını AB Konseyi Başkanı Costa'ya bildirdi. Lagarde ayrıca ECB'nin faizleri sabit tuttuğunu, ancak enflasyon riskleri nedeniyle aralıkta artışın gündemde olduğunu belirtti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/economy/article/2026/10/29/ecb-president-christine-lagarde-to-step-down-early-in-february-2027_6766735_19.html"
+    },
+    {
+     "ad": "Anadolu Ajansı Ekonomi",
+     "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskani-lagarde-7-subat-2027de-gorevinden-ayrilacak/4104885"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/29/tarafsiz-kalamam-lagarde-ecbden-erken-ayrilisini-acikladi"
+    }
+   ],
+   "neden_onemli": "Avro Bölgesi'nin para politikasında liderlik değişimi ve olası faiz artışı anlamına geliyor."
+  },
+  {
+   "baslik": "İsrail seçiminde net bir kazanan çıkmadı",
+   "ozet": "AP'ye göre İsrail'deki seçim sonuçları belirginleşirken açık bir galip ortaya çıkmadı. Reuters, tıkanıklığın nasıl aşılabileceğini inceleyen bir analiz yayımladı. Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, Türkiye'nin seçimlere müdahale ettiği yönündeki iddiaları asılsız olarak nitelendirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU?oc=5"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmd1MXZMRF9mb3JPLXFuaUViRXVEX0ZpdUF1LXBWRFZPWkt2VE1TLVlsZk54ckJUd0huTlBSd3ctUm50T2xxRmtPNnQ2Znhaak1sR09jWkgxMDFiV09scHUzek5MbmI4SXRWRzdWMnBuNnVzUnRNbWdUcHFsTENKeU5rZWlrYVN1NXZDX2kzMjN4TWNKelRaX2R3?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/dmm-turkiyenin-israildeki-secimlere-mudahale-ettigi-iddialarini-yalanladi/4105106"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/dmm-turkiye-nin-israil-deki-secimlere-mudahale-ettigi-iddialarini-kesin-dille-yalanladi-3923544"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/iletisim-baskanligi-ndan-israil-secimlerine-mudahale-iddialarina-yalanlama-2551503"
+    }
+   ],
+   "neden_onemli": "Koalisyon kurma süreci belirsiz; bölgesel diplomasiyi etkileyebilir."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Sinem Dedetaş ev hapsiyle tahliye edildi",
+     "ozet": "Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. BBC Türkçe'ye göre Dedetaş 31 Temmuz'dan bu yana tutukluydu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/sinem-dedetaş-ev-hapsi-şartıyla-tahliye-edildi/a-79795251?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/29/sinem-dedetas-hakkinda-ev-hapsiyle-tahliye-karari-verildi"
+      },
+      {
+       "ad": "NTV",
+       "link": "https://www.ntv.com.tr/turkiye/sinem-dedetasa-ev-hapsiyle-tahliye-1748516"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan'dan Cumhuriyet'in 103. yılı mesajı",
+     "ozet": "Cumhurbaşkanı Erdoğan 29 Ekim Cumhuriyet Bayramı mesajında, \"Türkiye hamdolsun bugün dünden daha güçlüdür\" dedi. Yurdun çeşitli yerlerinde törenler düzenlendi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/kadikoyde-klasik-otomobillerle-29-ekim-cumhuriyet-bayrami-korteji-43359214"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-dan-aciklamalar-3923543"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/10/29/baskan-erdogandan-29-ekim-mesaji"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye ile Özbekistan arasında 5 anlaşma imzalandı",
+     "ozet": "Ticaret, sosyal güvenlik ve iş dünyasının desteklenmesini kapsayan 5 anlaşma imzalandı. Ankara'da Türk Devletleri Teşkilatı'nın 13. Devlet ve Hükümet Başkanları Zirvesi yapılıyor; liderler Türk Devletleri Medeniyet Parkı'nda fidan dikti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi/4105022"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-961641.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'nin Mısır'a deniz yetki alanı teklifi Atina'yı rahatsız etti",
+     "ozet": "Milli Savunma Bakanlığı yetkilileri, Mısır ile karşılıklı menfaatler doğrultusunda deniz yetki alanlarının sınırlandırılması anlaşması imzalamaya hazır olduklarını yineledi. Euronews Türkçe'ye göre açıklama Atina'da tepki yarattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/29/turkiyenin-misira-dogu-akdenizde-sundugu-teklif-atinayi-kizdirdi"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/turkiyenin-hamlesi-atinada-panik-yaratti-43359599"
+      }
+     ]
+    },
+    {
+     "baslik": "19 il için turuncu ve sarı kodlu kuvvetli yağış uyarısı",
+     "ozet": "Doğu Akdeniz, Antalya çevresi, Marmara'nın doğusu, Balıkesir ve Çanakkale çevreleri ile doğu kesimlerde kuvvetli yağış bekleniyor; 19 il için turuncu ve sarı uyarı verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-turuncu-ve-sari-uyari-kuvvetli-yagisa-dikkat-961594.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Oleshky'e yardım ulaştırılacak, yerel ateşkes üçüncü gününde sürüyor",
+     "ozet": "AP ve France 24'e göre Rusya-Ukrayna arasındaki yerel ateşkes üçüncü gününde sürerken Oleshky'e bir yardım misyonunun girmesi bekleniyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2MtSXRKR3A1UnBUNExfMWVBTnl1VFVOMTRXa1JRb191N2xlQ2RMM1JLUjA3MXNodVRYRnNZR3lKSXlMVXRqdFEyZEJRaHNHR1pfMGF6eTdkdS1zX1lsaGNaM0lROWNkTDhjQUFWaDBJZUY4V201alNIVHpMYXA0MnpiUkhwamM4YmZvaFpxbnJ5OVN5LV93M0RnRFh1d1JKeXM3WTZYcjJwUQ?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day"
+      }
+     ]
+    },
+    {
+     "baslik": "Yunan konteyner gemisi Bulgaristan açıklarında dron saldırısı sonrası battı",
+     "ozet": "Reuters ve AP'ye göre Yunan bayraklı bir konteyner gemisi Bulgaristan açıklarında dron saldırısının ardından battı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFVkeGE0Tmxsa1RWWmRlM2g0Y29GRTNfUmxoUm5qME01RFhJbVd5YjlDdUpVS3FDakd0WHphVmkyQXV5Ry1xZTl4RnJtcEJFX1ZxMGxlYlhLbmE2dmdiQkt6OEhmSVNOa0RkQVhuVGFzNVN1Uk5qbVk4TXdMSkdmcEhWaE5BOHREajl3bnQ0UmE0bkRzRHdYX1g4ODdTdzdjTjRhZFhOTjI2Zw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Kuzey Kore denize füze yağmuru fırlattı",
+     "ozet": "AP ve DW'ye göre Kuzey Kore, Güney Kore ile gerilimin arttığı bir dönemde denize doğru yaklaşık 10 balistik füze ateşledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD, Ruanda Savunma Bakanlığı'na yaptırım uyguladı",
+     "ozet": "BBC'ye göre Kongo, Ruanda'yı doğuda M23 isyancılarını desteklemek ve madenleri yağmalamakla suçluyor; ABD bu çatışma nedeniyle Ruanda Savunma Bakanlığı'nı yaptırım listesine aldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html"
+      }
+     ]
+    },
+    {
+     "baslik": "AB-Kanada zirve metninden \"ortak üyelik\" ifadesi çıkarıldı",
+     "ozet": "Euronews'e göre Almanya'nın itirazı üzerine \"ortak üyelik\" terimi zirve metninden çıkarıldı. Bu, von der Leyen için önemli bir geri adım olarak yorumlanıyor; iki taraf yine de yakın ilişkiyi sürdürmek istiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/29/is-von-der-leyens-associate-membership-for-canada-already-dead"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa'daki silahlı saldırılarda şüpheli, Müslümanları ve Afrikalıları hedef aldığını söyledi",
+     "ozet": "NYT'ye göre savcı, yalnızca Kévin T. olarak anılan şüphelinin geçen hafta Paris yakınlarındaki saldırıları planladığını kabul ettiğini açıkladı. Saldırılarda bir kişi öldü, yedi kişi yaralandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/france/article/2026/10/29/suspect-in-racist-trappes-shooting-admits-targeting-muslims-africans-or-north-africans-french-prosecutor-says_6766828_7.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "ABD ekonomisi üçüncü çeyrekte yüzde 3,4 büyüdü",
+     "ozet": "ABD ekonomisi yılın üçüncü çeyreğinde yüzde 3,4 büyüyerek beklentilerin üzerinde kaldı. Reuters'e göre büyümeyi güçlü tüketici harcamaları ve yapay zekâyla ilişkili yatırımlar taşıdı; eylülde enflasyon yeniden hızlandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-ucuncu-ceyrekte-yuzde-3-4-buyudu/4104965"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/abd-ekonomisi-beklentileri-asti-onceki-ceyregi-geride-birakti-haberi-845734"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "ECB faizleri sabit tuttu, aralıkta artış ihtimali masada",
+     "ozet": "ECB, Orta Doğu'daki gerilimin tetiklediği enerji krizi ve fiyat baskılarına rağmen üç temel politika faizini beklentilere uygun biçimde sabit tuttu. Reuters'e göre aralık ayı artışı seçenekler arasında.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Volkswagen üçüncü çeyrekte 5,9 milyar avro faaliyet zararı açıkladı",
+     "ozet": "VW Grubu, 2026'nın üçüncü çeyreğinde 5,9 milyar avro faaliyet zararı, ocak-eylül döneminde 2,72 milyar avro net zarar bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/volkswagenden-ucuncu-ceyrekte-5-9-milyar-avro-faaliyet-zarari/4104768"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/volkswagen-grubu-ndan-3-ceyrekte-zarar-3792800"
+      }
+     ]
+    },
+    {
+     "baslik": "Shell'in üçüncü çeyrek net karı yüzde 99 artışla 10,81 milyar dolar oldu",
+     "ozet": "Shell'in net karı geçen yılın aynı dönemine göre yüzde 99 artarak piyasa beklentilerini aştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-shellin-kari-ucuncu-ceyrekte-ikiye-katlanarak-10-8-milyar-dolar-oldu/4104619"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/shell-in-ucuncu-ceyrek-net-kri-ikiye-katlandi-3792797"
+      }
+     ]
+    },
+    {
+     "baslik": "AB yüksek enerji fiyatları nedeniyle zorlu bir kışa hazırlanıyor",
+     "ozet": "AB Komisyonu Enerji Üyesi Dan Jorgensen, Avrupa'da yaklaşık 50 milyon kişinin normal bir yılda bile evini yeterince ısıtamadığını belirtti ve yüksek fiyatların kışı zorlaştıracağı uyarısında bulundu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kisa-hazirlaniyor/4104718"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ab-yi-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kis-bekliyor-3792795"
+      }
+     ]
+    },
+    {
+     "baslik": "DoorDash, Instacart'ı 17 milyar dolara satın alıyor",
+     "ozet": "Reuters, AP ve Guardian'a göre DoorDash, rakibi Instacart'ı 17 milyar dolarlık anlaşmayla satın alacak; Financial Times anlaşmanın ABD yemek ve market teslimatı pazarındaki birleşmeyi güçlendirdiğini yazdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORW5SOWQwSzcyUFRocHlTSmRhdWJtN2QzXzRCM3FPSjdXeDlBREVZSERWdGRiZUQ3OU1kMldlT3J1TnpwUFl3dEk1S1hkM0lpYmlDTlNfcllDdWc4VkYzZ2hzT0FmNm4zY2JNOEtJYUx4OVN4X045a2pXLWs5Wk9sMHdrMWFFMFI5R0VXV09uLTV4TFpnNTBPV3BNUHMxM2o2dEloNlJpWks2NjJUci13Vzd3QXlPeXdVQVpsUlhaQ1JyZk81aU5sdw?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDdlS1JnRGhISk0zVUdvN2dfbmV4cVJPM3BheUNERHNJekZLU195TUZtcm5OZ2ZfS05SckFRSWVhVmxsMV95RGxXWGNDUXExZ0xVdkRvM2REZHVnczI3VnEwMy1WenpSUlM3YzdCTk4ycnhBMkpRZ3ZHbjFETFJrb3I3N3lhU0NzY25mSmhLaVk?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Google, kodlama ve siber güvenliğe odaklı Gemini 4 Carbon modelini tanıttı",
+     "ozet": "Webtekno'ya göre Google, kodlama ve siber güvenlik alanlarına odaklanan yeni yapay zekâ modeli Gemini 4 Carbon'u duyurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/google-gemini-4-carbon-tanitti-yeni-modelin-ozellikleri-h228037.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Eski Google mühendisi Soares: Yapay zekâ riskleri nedeniyle emeklilik birikimi yapmıyorum",
+     "ozet": "MIRI Başkanı Nate Soares, yapay zekâ nedeniyle insanların 10 yıl sonra var olmayabileceğini söyleyerek emeklilik birikimi yapmadığını belirtti. Bu, Soares'in kişisel görüşüdür.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emeklilik-birikimi-yapmadigini-belirtti/4105050"
+      }
+     ]
+    },
+    {
+     "baslik": "Finlandiya, Google veri merkezi için yapılan arazi temizliğine ceza soruşturması başlattı",
+     "ozet": "Reuters ve Guardian'a göre Finlandiya, Google veri merkezi için yapılan arazi temizliğine ilişkin ceza soruşturması başlattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk1Mbjlqa3B2RFBxMXpXbTcwVjdMYVpwYkhDVmcyWkpKSEpDTDFzZG9QeHVWOERzNDRJYmNwRHFYWUY0dHV6RDRvaEl4QUYxVVZtOTFZNUNqa18zR2ZiVlJ5eTYtQ0hOcEswMGt3TzdCV0tJazJnMzlBZmZuWXdLZUhQRURmbEZfVTJFbUJKdUJGekNIY28zT182eFBlM2FnaWRJN0dRa3JhX0Exbm9xRTV5T1ptMl8tLUVYUFNmWUthLVQ0YVhMaFU1cw?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre"
+      }
+     ]
+    },
+    {
+     "baslik": "Apple-OpenAI ticari sır davasında duruşma tarihi 19 Temmuz 2027",
+     "ozet": "Webtekno'ya göre Apple ile OpenAI arasındaki ticari sır davasında mahkeme duruşma tarihini 19 Temmuz 2027 olarak belirledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/apple-openai-mahkemede-durusma-tarihi-aciklandi-h228034.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "HHS, FDA bilim insanlarının çekincelerine rağmen altı peptide onay verdi",
+     "ozet": "STAT News'e göre Trump yönetimi, FDA'deki kariyer bilim insanlarının itirazlarına rağmen altı peptit için düzenleyici kolaylık sağladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Vertex'in böbrek hastalığı ilacı enfeksiyon riski açısından mercek altında",
+     "ozet": "STAT News'e göre FDA'nın 30 Kasım'da vereceği onay kararı öncesinde Vertex'in böbrek hastalığı ilacı enfeksiyon riski nedeniyle yakından inceleniyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İskoçya'da Western Isles kilo verme ilaçlarını diğer sağlık kurullarının üç katı oranında reçete ediyor",
+     "ozet": "BBC'ye göre yeni bir rapor, İskoçya'daki sağlık kurulları arasında yeni ilaçların reçetelenmesinde belirgin farklar olduğunu ortaya koydu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c98rz4g0zgldo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Milwaukee Brewers tarihinde ilk kez World Series şampiyonu oldu",
+     "ozet": "BBC Sport'a göre Brewers, finalin beşinci maçında Tampa Bay Rays'i yenerek kulübün 57 yıllık tarihindeki ilk World Series kupasını kazandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/oct/29/pat-murphy-new-york-yankees-milwaukee-brewers"
+      }
+     ]
+    },
+    {
+     "baslik": "Jokic NBA'de 200. triple-double'a ulaşan ikinci oyuncu oldu",
+     "ozet": "Nikola Jokic, Denver Nuggets'ın New Orleans Pelicans'ı 104-91 yendiği maçta NBA tarihinde 200 triple-double'a ulaşan ikinci oyuncu oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/nikola-jokic-nbade-200-triple-doublea-ulasan-ikinci-oyuncu-oldu/4104617"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Yayıncı ve çevirmen Cem Akaş son yolculuğuna uğurlandı",
+     "ozet": "Can Yayınları Genel Yayın Yönetmeni, yazar, editör ve çevirmen Cem Akaş, 58 yaşında hayatını kaybetti ve son yolculuğuna uğurlandı. Akaş, bir hafta önce 19 yaşındaki oğlunu kaybetmişti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/oglunu-kaybettikten-1-hafta-sonra-yasamini-yitirmisti-cem-akas-son-yolculuguna-ugurlandi-43359524"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42929693",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Lu S",
+    "Girard N",
+    "Yang JC",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929693/",
+   "doi": "https://doi.org/10.1056/NEJMoa2611335",
+   "baslik_en": "Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy.",
+   "baslik_tr": "EGFR-TKİ tedavisi sırasında ilerleyen ileri evre küçük hücreli dışı akciğer kanserinde osimertinib-savolitinib",
+   "ozet_en": "This international phase 3 open-label trial randomly assigned 338 patients with EGFR-mutated advanced lung cancer, whose disease progressed on osimertinib and whose tumors showed MET overexpression or amplification, to osimertinib plus savolitinib or platinum-pemetrexed chemotherapy. The combination reduced the risk of progression or death (hazard ratio 0.55) and of death (hazard ratio 0.68). At 12 months, 36% vs 10% were progression-free and 70% vs 53% were alive. Grade 3 or higher adverse events occurred in about 64% vs 63% of patients, and the study was open-label and industry-funded.",
+   "ozet_tr": "Bu uluslararası, açık etiketli faz 3 çalışmada, osimertinib tedavisi sırasında hastalığı ilerleyen ve tümöründe MET aşırı ifadesi ya da amplifikasyonu bulunan, EGFR mutasyonlu ileri evre akciğer kanserli 338 hasta; osimertinib-savolitinib ya da platin-pemetrexed kemoterapisi almak üzere rastgele ayrıldı. Kombinasyon, hastalığın ilerleme veya ölüm riskini (risk oranı 0,55) ve ölüm riskini (risk oranı 0,68) azalttı. 12. ayda hastaların %36'sı ile %10'u hastalıksız ilerlemişti, %70'i ile %53'ü hayattaydı. Derece 3 veya üzeri yan etkiler yaklaşık %64 ve %63 oranında görüldü; çalışma açık etiketli ve sanayi destekliydi.",
+   "neden_onemli": "Belirli bir genetik alt tipteki akciğer kanseri hastaları için ilaç tedavisinde yeni bir seçeneğin kanıtını sunuyor."
+  },
+  {
+   "pmid": "42931770",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Stager CH",
+    "Dorough L",
+    "Steele M",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931770/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.40971",
+   "baslik_en": "Enteric Fever and Antimicrobial Resistance.",
+   "baslik_tr": "Tifo ve paratifo ateşi ile antimikrobiyal direnç",
+   "ozet_en": "This cross-sectional CDC study analysed 2,342 culture-confirmed typhoid and paratyphoid cases in the US between 2016 and 2020, mostly in people who had recently travelled abroad. Most Typhi (78.4%) and Paratyphi A (94.2%) isolates were not susceptible to ciprofloxacin, and 5.5% of Typhi isolates were resistant to ceftriaxone. The authors suggest ciprofloxacin should be avoided as empiric therapy for most travel-associated cases. The study is descriptive and covers only US cases.",
+   "ozet_tr": "ABD Hastalık Kontrol ve Önleme Merkezi'nin bu kesitsel çalışması, 2016-2020 arasında ABD'de kültürle doğrulanmış 2.342 tifo ve paratifo olgusunu inceledi; olguların çoğu yakın zamanda yurt dışına seyahat etmişti. Typhi izolatlarının %78,4'ü ve Paratyphi A izolatlarının %94,2'si siprofloksasine duyarlı değildi; Typhi izolatlarının %5,5'i seftriaksona dirençliydi. Yazarlar, seyahatle ilişkili olguların çoğunda ampirik tedavide siprofloksasinden kaçınılmasını öneriyor. Çalışma tanımlayıcıdır ve yalnızca ABD olgularını kapsar.",
+   "neden_onemli": "Antibiyotik direncinin, seyahatle bulaşan yaygın bir enfeksiyonda tedavi seçimini nasıl değiştirdiğini gösteriyor."
+  },
+  {
+   "pmid": "42950203",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Tamma PD"
+   ],
+   "tur": "Journal Article, Review",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42950203/",
+   "doi": "https://doi.org/10.1056/NEJMra2506114",
+   "baslik_en": "Gram-Negative Bacterial Resistance.",
+   "baslik_tr": "Gram-negatif bakteri direnci",
+   "ozet_en": "This NEJM review describes how antimicrobial resistance in gram-negative bacteria is spreading worldwide, driven by human, environmental and health care factors and by mobile genetic elements. Resistance mainly arises from reduced drug entry, drug efflux, altered targets and enzymes such as beta-lactamases. The review highlights ESBL-producing and carbapenem-resistant Enterobacterales, difficult-to-treat Pseudomonas aeruginosa and carbapenem-resistant Acinetobacter baumannii. It stresses timely diagnostics, targeted use of newer beta-lactams, source control and careful choice of treatment duration.",
+   "ozet_tr": "Bu NEJM derlemesi, gram-negatif bakterilerdeki antimikrobiyal direncin insan, çevre ve sağlık hizmeti kaynaklı etkenlerle ve hareketli genetik elemanlarla dünya genelinde nasıl yayıldığını anlatıyor. Direnç esas olarak ilacın girişinin azalması, ilacın dışarı pompalanması, hedeflerin değişmesi ve beta-laktamaz gibi enzimlerle ortaya çıkıyor. Derleme, GSBL üreten ve karbapenem dirençli Enterobacterales, tedavisi zor Pseudomonas aeruginosa ve karbapenem dirençli Acinetobacter baumannii üzerinde duruyor. Zamanında tanı, yeni beta-laktamların hedefli kullanımı, kaynak kontrolü ve tedavi süresinin dikkatli seçimini vurguluyor.",
+   "neden_onemli": "Dirençli bakteri enfeksiyonlarının hastanelerde neden daha zor tedavi edildiğini anlamaya yardımcı oluyor."
+  }
+ ]
+}
