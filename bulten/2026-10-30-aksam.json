@@ -1,0 +1,704 @@
+{
+ "tarih": "2026-10-30",
+ "donem": "aksam",
+ "giris": "Akşam gündeminde Binance'te yaşanan 6,3 milyar dolarlık rekor siber soygun ile Hürmüz Boğazı'ndaki tanker saldırıları öne çıktı. Yurtiçinde Türk Devletleri Teşkilatı zirvesi, Aliyev'in katılmaması ve Zelenskiy'nin yarınki ziyareti izlenirken, Intel öncülüğündeki çip satışıyla BIST 100 yüzde 3,64 geriledi.",
+ "one_cikanlar": [
+  {
+   "baslik": "Binance'te 6,3 milyar dolarlık rekor siber soygun",
+   "ozet": "Dünyanın en büyük kripto borsalarından Binance, 6,3 milyar dolarlık varlığın çalındığı bir saldırıya uğradığını ve para çekme işlemlerini durdurduğunu duyurdu. Blokzincir analiz şirketleri saldırıyı Kuzey Kore bağlantılı gruplara atfediyor; Reuters'a göre şirket kayıpları karşılamak için 6,34 milyar doların üzerinde kaynak ayırdı ve FBI ile ABD Gizli Servisi olayla ilgili çalışıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/pixels/article/2026/10/30/binance-hack-what-we-know-about-the-largest-cryptocurrency-theft-in-history_6767471_13.html"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVBjUl9KRVc4d0NVN1pRQ1cwOWJpdk1TTWhBbWFxUEtYeldXOTktMlp2cEk1QWZZT0ZDLXRkVmlXWUFvcVJGNk4wZUR6WWFTQzNPNDl2OTgtTDVIOXphbDJEMGtqOVpnMFg1V3VPRjNCRGhIQi1vMW5iajZFY2xqSDdWdFpGSmxqaUJkcVc2b1FUZXluREw0RjJaLWhqMGU4cVkzeGQwVTdlVzhMV2tGNw?oc=5"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/30/how-the-binance-hack-happened-and-who-was-behind-it"
+    }
+   ],
+   "neden_onemli": "Tarihin en büyük kripto hırsızlığı olarak anılan olay, kullanıcı varlıklarının güvenliği ve sektörün sigorta mekanizmaları üzerine soru işaretleri doğuruyor."
+  },
+  {
+   "baslik": "Hürmüz Boğazı'nda tankerler hedef alındı",
+   "ozet": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nda tankerlerde yangın çıktığını bildirdi. Reuters'ın güvenlik kaynaklarına dayandırdığı habere göre bir tanker mıknatıslı mayınla vuruldu. ABD Başkanı Trump ise İran'la savaşın yakında sona ereceğini söyledi ve İran'dan nükleer silah edinmeyeceğine dair güvence istediklerini belirtti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjdDdUxXVENSNGdpbWJZOEp2QXMtSy1WSUdCVFdHc21FVnMwTE9uMC1xMkFEaS1wTHRjd2JMQzFTZEtPX0drQ3hPMlZVeDlITnc2RndQRElNUy13Ny1UdXpROVVpejNQRHJ4a3l6Q0t3TTZwOUptZDNKdlRVQWJXLXBxTldad19oZUFGS3BKSUlLWlk3d055R290THF3ckRWb3hRYjlR?oc=5"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-savasin-yakinda-sona-erecegini-belirtti/4106778"
+    }
+   ],
+   "neden_onemli": "Boğaz dünya petrol sevkiyatının kritik geçiş noktası; saldırılar enerji fiyatlarını ve savaşın seyrini doğrudan etkiliyor."
+  },
+  {
+   "baslik": "Mustafa Sarıgül Yeni Parti'den istifa etti",
+   "ozet": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül partisinden istifa ettiğini açıkladı. Gelişme, Sarıgül ailesinden isimlerin de aralarında bulunduğu kara para aklama soruşturmasının sürdüğü bir dönemde yaşandı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/ertugrul-kaya-deva-partisi-istifa-etti-p374416"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/deva-partili-ertugrul-kaya-neden-istifa-etti-ertugrul-kaya-kimdir-kac-yasinda-2551791"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/istanbul-daki-kara-para-sorusturmasinda-2-supheli-hakkinda-tutuklama-talep-edildi-3923786"
+    }
+   ],
+   "neden_onemli": "Meclis'teki sandalye dengesini ve muhalefet partilerinin iç dinamiklerini etkileyen bir gelişme."
+  },
+  {
+   "baslik": "Türk Devletleri Teşkilatı zirvesi Ankara'da; Aliyev katılmadı, Zelenskiy yarın geliyor",
+   "ozet": "Cumhurbaşkanı Erdoğan, Türk Devletleri Teşkilatı 13. Zirvesi'ne ev sahipliği yaptı ve Türk dünyasında ayrılığa yer olmadığını söyledi. Azerbaycan Cumhurbaşkanı Aliyev'in zirveye katılmaması Azerbaycan-Türkiye ilişkilerindeki gerginliğe dair yorumlara yol açtı. İletişim Başkanı Duran, Ukrayna Devlet Başkanı Zelenskiy'nin yarın Türkiye'ye çalışma ziyareti yapacağını duyurdu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-dunyasinda-ayriliga-gayriliga-yer-yok-961711.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cmrlypdepxy4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/turk-devletleri-teskilatindan-ortak-bildiri-turk-dunyasinin-is-birligi-stratejik-onemde-43360616"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cq4g10jx8xj6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTVqWG5FdTh4RHBJUWZJYV9CT1FKZnhGcHRPTFdFZElBbTNJU2hxSFp5SzdkdjRteUtYRXlyTU9jWXNJX0pOYTdvZEpfZ2dEbW9NOUYwZzZqWnNJS3N4WTd3V1cxNWZGT2xqSlI1RXhXNXNkTHhDR1Z0Sjg0cS1UYV9hZGRCeXMta0dvVmNUa0xTZWRwTTMza1pMTHNOdnlfb2dMaTlBVEgySmhZY05jb1lCT3NoZWwxTUVz?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-yarin-turkiyeyi-ziyaret-edecek/4106636"
+    }
+   ],
+   "neden_onemli": "Bölgesel diplomasi ve Ukrayna savaşına yönelik arabuluculuk açısından yakından izlenen bir gündem."
+  },
+  {
+   "baslik": "Intel'de rekor düşüş küresel çip satışını tetikledi",
+   "ozet": "Reuters'a göre Intel hisseleri 1974'ten bu yana en sert günlük düşüşe doğru ilerliyor ve çip hisselerinde küresel bir satış dalgası başladı. Financial Times, ABD teknoloji hisselerindeki düşüşü yapay zekâ harcamalarına ilişkin endişelerle ilişkilendirdi. Borsa İstanbul'da BIST 100 endeksi ise günü yüzde 3,64 değer kaybederek 10.759,56 puandan tamamladı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4106741"
+    }
+   ],
+   "neden_onemli": "Teknoloji hisselerindeki sert satış küresel piyasalara yayılıyor; yurt içinde de borsa belirgin şekilde geriledi."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Olağanüstü tasfiyedeki fonlarda ilk ara ödemeler başladı",
+     "ozet": "Olağanüstü tasfiyeye konu fonlarda yer alan 235 bin 705 yatırımcıya 30 Ekim itibarıyla 29,3 milyar liralık ara ödeme yapıldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/ekonomi/olaganustu-tasfiyeye-konu-fonlardaki-ilk-ara-odemeler-basladi-961744.html"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/10/30/tasfiyedeki-fonlarda-ara-odemeler-basliyor/"
+      }
+     ]
+    },
+    {
+     "baslik": "Çukurova Belediyesi başkanvekilliğini CHP'nin adayı kazandı",
+     "ozet": "Sözcü'ye göre CHP'nin adayı Çukurova Belediyesi başkanvekili seçiminde Yeni Parti'nin adayıyla yarıştı ve Cumhur İttifakı'nın oylarıyla seçimi kazandı. Medyascope, CHP adayı Sıtkı Keskin'in başkanvekili seçildiğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/cukurova-belediye-baskan-vekili-belli-oldu-p374304"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/10/30/chpnin-adayi-sitki-keskin-cukurova-belediye-baskanvekili-secildi/"
+      }
+     ]
+    },
+    {
+     "baslik": "Borsa İstanbul, Barikat ile sözleşmeyi erken feshetti",
+     "ozet": "Borsa İstanbul, 2017'de başlayan sözleşme ilişkisinin şirketin ortaklık yapısındaki değişikliğin öğrenilmesi üzerine süresinden önce sonlandırıldığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/borsa-istanbul-barikat-internet-guvenligi-ile-sozlesmeyi-sonlandirdi-3792933"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-barikat-ile-sozlesmesini-suresinden-once-feshetti-haberi-845869"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/borsa-istanbul-dan-barikat-aciklamasi-sozlesme-suresinden-once-feshedildi-2551773"
+      }
+     ]
+    },
+    {
+     "baslik": "İstanbul merkezli 30 ilde suç örgütü operasyonu",
+     "ozet": "Gözaltına alınan 89 şüpheliden 52'si tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-30-ilde-yeni-nesil-suc-orgutu-operasyonunda-52-zanli-icin-tutuklama-talebi/4106745"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784551/haber/i%CC%87stanbul-merkezli-30-ilde-su%C3%A7-%C3%B6rg%C3%BCt%C3%BC-operasyonu-52-%C5%9F%C3%BCpheli-i%C3%A7in-tutuklama-talebi"
+      }
+     ]
+    },
+    {
+     "baslik": "21 il için kuvvetli yağış nedeniyle sarı uyarı",
+     "ozet": "Marmara'nın doğusu ile doğu ve güneydoğu bölgelerde beklenen kuvvetli yağış nedeniyle 21 ilde sarı kodlu uyarı verildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/turkiye/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961698.html"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/balkanlardan-gelen-soguk-hava-etkisini-surduruyor-kuvvetli-saganak-yagis-uyarisi-istanbul-dahil-bircok-ilde-sari-alarm-ani-sel-43360062"
+      }
+     ]
+    },
+    {
+     "baslik": "2027 LGS merkezi sınavı 13 Haziran'da",
+     "ozet": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav 13 Haziran 2027 Pazar günü yapılacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/egitim/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak-961737.html"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFJwd0Vkdm9ldXRaMzdSUzA0S1FKZEc5ZktmUUtSZHdsSjZWRVR6RWVJQzFRVGhydUNaMHEzN1lQVzNYNmMtM0N1VU5qSmRQbVZMRHc5dE1lRDYtS19nWGw3MGc2SE5GLVJnbXRlTmFkYnVhd3NYeDlrR2tzanM1Tm9OcnZLS2o4NUlBSFFDOVIzdw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "KPSS ön lisans sonuçları açıklandı",
+     "ozet": "ÖSYM, 2026 KPSS ön lisans düzeyi sonuçlarını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/kpss-on-lisans-sonuclari-aciklandi-961692.html"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/2026-kpss-on-lisans-sonuclari-aciklandi-p374159"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Rusya'da bağımsız Novaya Gazeta kapanıyor",
+     "ozet": "Rusya'nın kalan bağımsız yayın organlarından Novaya Gazeta, yetkililerin baskısı altında kapanacağını duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/10/30/russia-s-last-free-newspaper-novaya-gazeta-closes-as-press-freedom-faces-its-swan-song_6767422_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Oleşki'de yerel ateşkes: sivil tahliyesi başladı",
+     "ozet": "BBC'ye göre ateşkes, Rusya'nın işgali altındaki cephe kenti Oleşki'den tahliyeye imkân tanıdı; gaz, elektrik ve su olmamasına rağmen birkaç yüz kişinin kentte kalmayı seçtiği anlaşılıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/30/residents-leave-russian-occupied-oleshky-amid-local-ceasefire"
+      }
+     ]
+    },
+    {
+     "baslik": "G20 Dışişleri toplantısı Ukrayna ve Orta Doğu ayrılıklarının gölgesinde",
+     "ozet": "Atlanta'daki toplantı, Rusya ile bazı Avrupa ülkeleri arasındaki anlaşmazlıklar nedeniyle aile fotoğrafı çekilmeden başladı. Toplantıya Dışişleri Bakanı Hakan Fidan da katılıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3Nnem5Na1FORmx1bjdhbkkxdU9mQnFIT1ZGcU5sTDlSWERVMkNsc2VHN3VCVWJpckZJU1VkRWdwYlN1WnBjOHdINDhMdmxKc1pUczBGSTNQLTJSTmxlYkk5THNxZ29qZFBzN2w4Z0xtNmNsMTJna3UzYTlNb2ppTjB3X3lza1dxeWdSaGI3OF9fY2I2WkRJN0NiZVh2R05fNkZDTTB0aHhpdFhp?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail seçim sonuçları belli oldu",
+     "ozet": "AP, sonuçların ardından olası koalisyon senaryolarını ele aldı; New York Times da seçmen verilerinden çıkan sonuçları analiz etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVVeUpwMzVxRDdSZ3V5aEdiRjFqYnhtek9XSEh3WVRjNkpjdVFkY3JSS0o5NC0yWEd5V0ctWkhycWt5dHJKdFNSM1Y0bnI3dGExanhKMTQxeWxYWkxzM0tkWXVpb19qczU4b3JmNExfZTRjZGdNbm45VjhnRHcxTEo5eTFKNlpmN3RFbl9rT3cxckM3VHlDS1RmSGpZYllOTmpSdXJyMA?oc=5"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de Parti Merkez Komitesi toplantısında rekor ihraç",
+     "ozet": "BBC'ye göre Xi Jinping 'parti disiplinini' vurguladı; gözlemciler yolsuzlukla mücadele kampanyasını otoriteyi pekiştirme çabası olarak değerlendiriyor. Guardian, Komünist Parti'nin rekor sayıda üyeyi ihraç ettiğini yazdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin, Nvidia CEO'suna yönelik casusluk iddialarını reddetti",
+     "ozet": "New York Times'ın haberine göre ABD istihbaratı, bir Çinli iş kadınının Pekin adına Nvidia hakkında bilgi topladığına inanıyor. Çin iddiaları reddetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang"
+      }
+     ]
+    },
+    {
+     "baslik": "İspanya'daki ölümlü tren kazası siyasete yansıdı",
+     "ozet": "AP, kazanın insan hatası ve sistemsel aksaklıklar açısından incelendiğini yazdı; Al Jazeera kazanın seçim mücadelesini yeniden şekillendirdiğini belirtti. BBC Türkçe'ye göre Ulaştırma Bakanı istifa etmeyecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss"
+      },
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa XIV. Leo, ABD ara seçimlerinde oy kullanan ilk papa oldu",
+     "ozet": "Vatikan, Papa'nın ABD ara seçimleri için posta yoluyla oy kullandığını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGtJQXdjdzUwNWRVSDhJZGpLbEhhQ1V5aHlfa0R3czdQdmZLMGUtcHNJY2lxaU1GNktWQ1BCYjNYb0xXQUM0c3pMeTU5Y3Y5RlEzT3F4b3NSQi1HUXhLTkYxVDlkVkR0SEh2VkZMQWY5ODZtLW1mX0F0WXI1bFBFRWhJVlpyR1BBLXRSeXlicUtUWlk?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/30/pope-leo-xiv-has-voted-in-us-midterm-elections-vatican-says"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Euro Bölgesi üçüncü çeyrekte yüzde 0,4 büyüdü",
+     "ozet": "Euro Bölgesi ekonomisi, Fransa'daki daralmaya rağmen beklentilerin iki katı hızla büyüdü. AA'ya göre bölgede işsizlik eylülde yüzde 6,5 oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/euro-bolgesi-fransa-daki-daralmaya-ragmen-beklentilerin-uzerinde-buyudu-3792908"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/euro-bolgesi-ucuncu-ceyrekte-yuzde-04-buyudu-haberi-845858"
+      },
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-issizlik-eylulde-yuzde-6-5-oldu/4106377"
+      }
+     ]
+    },
+    {
+     "baslik": "Hazine Kasım-Ocak döneminde 912,4 milyar lira borçlanacak",
+     "ozet": "Hazine ve Maliye Bakanlığı, 946,9 milyar liralık iç borç servisine karşılık 912,4 milyar liralık iç borçlanma planladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/hazine-912-4-milyar-liralik-ic-borclanmaya-gidecek-3792951"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/hazinenin-uc-aylik-borclanma-takvimi-aciklandi-9124-milyar-liralik-plan-haberi-845877"
+      }
+     ]
+    },
+    {
+     "baslik": "TCMB toplantı özeti: enerji fiyatlarında yüksek ve dalgalı seyir sürüyor",
+     "ozet": "PPK toplantı özetinde, jeopolitik belirsizlikler nedeniyle enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğü belirtildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4106218"
+      }
+     ]
+    },
+    {
+     "baslik": "Bankacılık sektörünün kredi hacmi 28,8 trilyon liraya çıktı",
+     "ozet": "Sektörün toplam kredi hacmi 23 Ekim itibarıyla 28,8 trilyon lira oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bankacilik-sektorunun-kredi-hacmi-28-8-trilyon-liraya-yukseldi/4106223"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomik-veriler/bankacilik-sektorunun-kredi-hacmi-288-trilyon-liraya-yukseldi-haberi-845855"
+      }
+     ]
+    },
+    {
+     "baslik": "Dokuz aylık turizm geliri 51,3 milyar dolar",
+     "ozet": "Bakan Ersoy, ilk dokuz ayda turizm gelirinin 51 milyar 278 milyon dolara ulaştığını bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-turizm-geliri-51-milyar-278-milyon-dolara-ulasti/4106014"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Dünyanın büyük şehirleri çöküyor",
+     "ozet": "Scientific American'ın aktardığı yeni bir araştırmaya göre küresel şehirler yılda birkaç inç'e varan oranlarda çöküyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/the-worlds-biggest-cities-are-sinking-is-yours-one-of-them/"
+      }
+     ]
+    },
+    {
+     "baslik": "Ekim ayı kayıtlardaki en sıcak ekim olmaya aday",
+     "ozet": "Küresel projeksiyonlara göre bu ekim, sanayi öncesi ortalamaların 1,76 derece üzerinde seyrediyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/this-october-is-on-track-to-be-the-hottest-ever-recorded/"
+      }
+     ]
+    },
+    {
+     "baslik": "Mars'ın sıcak ve ıslak geçmişi için 'pas' açıklaması",
+     "ozet": "New Scientist'e göre yeni bir fikir, Mars'ın bir dönem yüzeyinde su akacak kadar ısınmasını yüzey altındaki pasa bağlıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2596726-rusty-crust-made-mars-warm-and-wet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa XIV. Leo yapay zekânın 'silahsızlandırılmasını' istedi",
+     "ozet": "The Verge'e göre Papa, yapay zekâ sistemlerinin 'silahsızlandırılması' gerektiğini, makinelerin araç olduğunu ve insanların uygulamaları yönlendirme, gerekirse reddetme sorumluluğu taşıdığını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+      }
+     ]
+    },
+    {
+     "baslik": "Waymo Tokyo'da Toyota bZ4X ile robotaksi hizmeti verecek",
+     "ozet": "Waymo, 2027'de Tokyo'da başlatacağı hizmette Japonya'da üretilen Toyota bZ4X araçlarını kullanacağını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Yeme bozuklukları artıyor; GLP-1 ilaçları riski büyütebilir mi?",
+     "ozet": "MIT Technology Review'a göre bazı klinik psikologlar, kilo verme amaçlı GLP-1 ilaçlarının yeme bozuklukları için tetikleyici olabileceği görüşünde.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "MIT Technology Review",
+       "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+      }
+     ]
+    },
+    {
+     "baslik": "Merck ve Moderna'nın mRNA kanser aşısı verileri değerlendirildi",
+     "ozet": "STAT, Avrupa Tıbbi Onkoloji Derneği toplantısında sunulan son kanser verilerini tartıştı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Arteta'dan Dowman'a uyarı",
+     "ozet": "Arsenal Teknik Direktörü Mikel Arteta, Fleetwood maçında kırmızı kart gören genç oyuncu Max Dowman'ın diğer birinci takım oyuncularıyla aynı standartlarla değerlendirileceğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/oct/30/max-dowman-red-card-suspension-mikel-arteta-arsenal-fleetwood-liverpool-premier-league"
+      }
+     ]
+    },
+    {
+     "baslik": "Afrika Uluslar Kupası iki yılda bir yapılacak",
+     "ozet": "CAF, turnuvanın iki yılda bir düzenlenmesine devam edileceğini açıkladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/afrika-uluslar-kupasi-iki-yilda-bir-yapilmaya-devam-edecek/4106184"
+      }
+     ]
+    },
+    {
+     "baslik": "PFDK'den dört Süper Lig kulübüne ceza",
+     "ozet": "TFF Profesyonel Futbol Disiplin Kurulu dört Süper Lig kulübüne ceza verdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/pfdkden-4-super-lig-kulubune-ceza/4106027"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Sir Patrick Stewart 86 yaşında hayatını kaybetti",
+     "ozet": "BBC'ye göre oyuncu, Los Angeles'ta Alzheimer ve Lewy cisimcikli demansla geçen bir sürecin ardından öldü. Sir Ian McKellen anma mesajı yayımladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Gruffalo çizeri Axel Scheffler yapay zekâ şirketlerine dava açmayı düşünüyor",
+     "ozet": "Scheffler, yapay zekâ şirketlerinin çalışmalarını yeniden üreterek telif hakkını ihlal ettiği görüşünde.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cj04032rp5wro?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42944682",
+   "baslik_en": "School Phone Bans and Adolescent Mental Health in Iceland.",
+   "baslik_tr": "Okul telefon yasakları ve İzlanda'daki ergenlerin ruh sağlığı",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Bonilla Aparicio E",
+    "Sigmarsdottir B",
+    "Haskell E",
+    "et al."
+   ],
+   "tur": "Gözlemsel (tekrarlı kesitsel) çalışma",
+   "ozet_en": "Researchers used survey data from 70 Icelandic schools (23,938 adolescent observations, ages 13–15) collected in 2016, 2018 and 2023, comparing 22 schools that introduced phone bans with those that did not. Bans were not associated with meaningful changes in depressive symptoms, anxiety, hostility or well-being, nor in screen use or bullying. The authors conclude that bans alone may be insufficient; the design is observational, so causal effects cannot be proven.",
+   "ozet_tr": "Araştırmacılar, 2016, 2018 ve 2023'te toplanan İzlanda verilerini (70 okul, 13-15 yaş arası 23.938 gözlem) kullanarak telefon yasağı getiren 22 okulu getirmeyenlerle karşılaştırdı. Yasaklar; depresif belirtiler, kaygı, düşmanlık ve iyi oluşta anlamlı bir değişiklikle ilişkili bulunmadı; ekran kullanımı ve zorbalıkta da fark çıkmadı. Yazarlar tek başına yasakların yetersiz kalabileceğini belirtiyor; çalışma gözlemsel olduğundan nedensellik kanıtlanamaz.",
+   "neden_onemli": "Okullarda telefon yasağı tartışmasına veri katıyor: yasak tek başına ergen ruh sağlığını iyileştirmiyor olabilir.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42944682/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.40893"
+  },
+  {
+   "pmid": "42949746",
+   "baslik_en": "Exercise Training During Neoadjuvant Treatment for Gastroesophageal Cancer and Tumor Surgery: A Randomized Clinical Trial.",
+   "baslik_tr": "Mide-yemek borusu kanserinde ameliyat öncesi egzersiz eğitimi (PRESET-RCT)",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Simonsen C",
+    "de Heer P",
+    "Thomsen SN",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In this Danish randomized trial, 202 patients with gastroesophageal cancer received either twice-weekly aerobic and resistance exercise or usual care during neoadjuvant treatment. Exercise did not raise the chance of undergoing curative surgery (9.9% vs 7.9% did not have surgery) and did not change treatment discontinuation or complications. Three-year survival was 51.0% in the exercise group versus 65.0% in controls, a difference the authors flag as needing further study.",
+   "ozet_tr": "Danimarka'da yapılan bu randomize çalışmada mide-yemek borusu kanseri olan 202 hasta, neoadjuvan tedavi sırasında haftada iki kez aerobik ve direnç egzersizi ya da olağan bakım aldı. Egzersiz, iyileştirici amaçlı ameliyat olma olasılığını artırmadı (ameliyat olamayanlar %9,9'a karşı %7,9); tedavi bırakma ve komplikasyonlar da değişmedi. Üç yıllık sağkalım egzersiz grubunda %51,0, kontrol grubunda %65,0 idi; yazarlar bu farkın ileri araştırma gerektirdiğini belirtiyor.",
+   "neden_onemli": "Kanser tedavisi sırasında egzersizin ameliyat şansını artırmadığı görüldü; hastalar programları hekimleriyle konuşmalı.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42949746/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.40136"
+  },
+  {
+   "pmid": "42946338",
+   "baslik_en": "Comparative effectiveness of three splints for rehabilitation after finger flexor tendon repair (FIRST): randomised controlled trial.",
+   "baslik_tr": "El parmağı fleksör tendon onarımı sonrası üç atel türünün karşılaştırılması (FIRST)",
+   "dergi": "BMJ (Clinical research ed.)",
+   "yazarlar": [
+    "Bamford E",
+    "Berntsson H",
+    "Beale S",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "This UK trial randomized 430 adults across 26 hospitals to one of three splints (long, short or mini) after finger flexor tendon repair. Patient-rated hand function scores over 52 weeks did not differ significantly between groups (about 22–25 points), and serious adverse events occurred in 10–11% of each group. The authors conclude that no splint was clearly superior.",
+   "ozet_tr": "Birleşik Krallık'ta 26 hastanede yürütülen bu çalışmada 430 yetişkin, parmak fleksör tendon onarımı sonrası uzun, kısa ya da mini atel gruplarına rastgele atandı. 52 hafta boyunca hastaların bildirdiği el işlevi puanları gruplar arasında anlamlı farklılık göstermedi (yaklaşık 22-25 puan); ciddi yan etkiler her grupta %10-11 oranında görüldü. Yazarlara göre hiçbir atel açıkça üstün değildi.",
+   "neden_onemli": "Tendon onarımı sonrası daha küçük ve rahat bir atel seçmek sonuçları kötüleştirmiyor gibi görünüyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42946338/",
+   "doi": "https://doi.org/10.1136/bmj-2026-100953"
+  }
+ ]
+}
