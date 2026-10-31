@@ -1,0 +1,824 @@
+{
+ "tarih": "2026-10-31",
+ "donem": "aksam",
+ "giris": "Günün öne çıkan gelişmeleri Ukrayna cephesinden geldi: Oleşki'den sivillerin yerel ateşkesle tahliyesi ve ABD'nin 500 Patriot füzesi satışını onaylaması. Polonya'da Anayasa Mahkemesi krizi sokağa taşarken İran-ABD gerilimine dair yeni açıklamalar geldi. Türkiye'de 15 yaş altına sosyal medya yasağı yarın başlıyor; Fitch ise Fransa'nın kredi notu görünümünü negatife çevirdi.",
+ "one_cikanlar": [
+  {
+   "baslik": "Oleşki'de mahsur kalan siviller yerel ateşkesle tahliye edildi",
+   "ozet": "Rus işgali altındaki Oleşki'de mahsur kalan yüzlerce sivil, nadir görülen yerel bir ateşkes sırasında bölgeden çıkarıldı; ilk grup Belarus'a ulaştı ve Ukrayna-Belarus sınırında yakınlarıyla buluştu. DW'nin aktardığına göre tahliyenin arkasında ABD Başkanı'nın eşi Melania Trump'ın arabuluculuğu olduğu bildirildi; bu iddia ayrıca bağımsız biçimde doğrulanmış değil.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/melania-trump-aracı-oldu-siviller-oleşki-den-tahliye-edildi/a-79817044?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/31/kiev-moskova-ateskesi-oleskiden-tahliye-edilenler-belarusa-ulasti"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/31/oleshky-evacuees-arrive-in-belarus-amid-localised-truce-between-kyiv-and-moscow"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1"
+    }
+   ],
+   "neden_onemli": "Savaş koşullarında nadir görülen bir insani ara verme örneği."
+  },
+  {
+   "baslik": "ABD, Ukrayna'ya 500 Patriot füzesi satışını onayladı",
+   "ozet": "ABD'nin Ukrayna'ya 500 adet Patriot önleme füzesinin satışını onayladığı bildirildi; Financial Times satışın değerini 2,1 milyar dolar olarak veriyor. Ukrayna Devlet Başkanı Zelenskiy kararı memnuniyetle karşıladı ve ABD'ye teşekkür etti; Euronews'e göre teslimatların yıllar sürebileceği belirtiliyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/ck87zqz878ydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/31/zelenskiy-500-patriot-fuzesi-icin-abdye-tesekkur-etti-teslimat-yillar-surebilir"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1"
+    }
+   ],
+   "neden_onemli": "Ukrayna'nın Rusya'nın hava saldırılarına karşı savunma kapasitesini doğrudan ilgilendiriyor."
+  },
+  {
+   "baslik": "Polonya'da Anayasa Mahkemesi krizi sokağa taştı",
+   "ozet": "Polonya'da Anayasa Mahkemesi çevresindeki kriz sürüyor: polis mahkeme binasının çevresini güvenlik altına aldı ve protestolar yaşandı. Cumhurbaşkanı, Başbakan Tusk'ı ülkenin en yüksek mahkemesini zorla ele geçirmekle suçladı. Muhalefetten Mateusz Morawiecki hükümete karşı güven oylaması talep etti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1FQZ3BaNHVzYUlJRnloRE0wc0hFS2xrV3RJb2pkLXlXbXpBX1Y1eURkSUpCTVFhQjc3cWJmS2ZnNGM5eE1YTmxqN0t3cHVNM3NLMjlvSFpMMXJ4TkxjS2N6XzV6bVhlcExudmpBdzZPWHdyVHVYVExqZVVuNkdlVE1Mb1dpel8xdDNWSGlOS2o1R0tQVU5wWnE5WWJ5VmJ5cmsyYjA0cTJ0d1U?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/anayasa-krizinin-yasandigi-polonyada-muhalefet-hukumeti-guven-oylamasiyla-dusurmek-istiyor/4107448"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/polonyada-anayasa-mahkemesi-krizi-neler-oldu-961792.html"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/polonya-da-kriz-polis-anayasa-mahkemesi-ni-kuşattı/a-79815095?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/31/polonyada-anayasal-kriz-derinlesiyor-nawrocki-hukumeti-iktidari-ele-gecirmeye-calismakla-s"
+    }
+   ],
+   "neden_onemli": "Polonya'da hukuk devleti ve iktidar-cumhurbaşkanlığı çatışması AB gündemini de etkiliyor."
+  },
+  {
+   "baslik": "İran-ABD geriliminde yeni açıklamalar",
+   "ozet": "AP'nin analizine göre İran, Orta Doğu'daki 20'den fazla ABD üssüne düzenlediği saldırılarda önce hava savunma sistemlerini hedef aldı, ardından uçaklara ve binalara isabet ettirdi; AA'nın aktardığına göre hasar milyarlarca doları buluyor. İran Dışişleri Bakanı Erakçi ABD ile görüşme planı olmadığını söyledi. İran lideri Hamaney ise saldırıya uğranması halinde karşılığın 'ani ve coğrafi sınırı olmayan' olacağını bildirdi. Bir İranlı yetkili, ABD'nin Keşm Adası açıklarında balıkçı teknelerine saldırdığını öne sürdü (devlet medyası aktardı).",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/ap-iranin-orta-dogudaki-20den-fazla-abd-ussune-yaptigi-saldirilar-milyarlarca-dolar-hasara-yol-acti/4107433"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dizi-izle/irandan-abdye-agir-darbe-orta-dogudaki-milyarlarca-dolarlik-zarar-ortaya-cikti-43361833"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnA4dnBfVkNUZ1dxQWFVbGtlSWpSMDVfWnBXUHI2Qk5wWE9jUWlUZFpySkhzZVVuQ0pfOURlM0Q3RFlNbHNvaFh2Snk2TndhNnhQckdpQW92VjMwUXpZTVVyMUVuSEpzNkhzdEZPXzV2aVpHWVJ0WThGSHp6cE9ISm5HMngxNlgtckcwUFdqY2hRUHc?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-abd-makamlari-ile-gorusme-planlarinin-olmadigini-acikladi-/4107389"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/hamaney-den-askeri-yetkililere-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati/4107261"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONll1eGZDNWJMVXFsdzlXTEs4WnlXRGJONjZ4eUQ1eGlaWGs5bVB0SnR6cUlhd1U0ZHl1bUxpM0ItUUl3cEdxdEhjTHBfZHZIc3ZQY2xMM2g1eGNkbVNfanFmVFY4R0JUeFVtb0pyb3JzSllCTG05S19HdkVzVXFTVlRaaDZidS01UVJ5SVpvUC00SlNpNUxOZXIyTnFaMGVNMmJoOWpCZ1RKRWxqam9UbG9Yb1pYWERLTkR0OG0xOE9Vc0c1U0lvbGNQZzI?oc=5"
+    }
+   ],
+   "neden_onemli": "Bölgesel çatışmanın yeniden tırmanma riskini gösteriyor."
+  },
+  {
+   "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği'ne aday gösterdi",
+   "ozet": "Ankara, Büyükelçi Feridun Sinirlioğlu'nu yeni BM Genel Sekreteri adayı olarak önerdi. DW Türkçe'ye göre yarışta başka 10 aday daha bulunuyor; Genel Sekreter Antonio Guterres'in görev süresi bu yıl sonunda bitiyor. BBC Türkçe ise hamlenin ne anlama geldiğini ele alıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/türkiye-feridun-sinirlioğlu-nu-bm-genel-sekreterliği-ne-aday-gösterdi/a-79814624?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/10/31/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/10/31/feridun-sinirlioglu-turkiye-tarafindan-bm-genel-sekreterligine-aday-gosterildi/"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cmy0e2x95l48o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": "Türkiye'nin BM'deki diplomatik ağırlığı açısından dikkat çekici bir adım."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "15 yaş altına sosyal medya yasağı yarın başlıyor",
+     "ozet": "Türkiye'de 15 yaş altı çocuklar için sosyal medya yasağı, 15-18 yaş grubu için ise yaş doğrulama ve kullanım kısıtlamaları getiren yönetmelik yarın yürürlüğe giriyor. Cumhurbaşkanlığı Siber Güvenlik Başkanlığı'nın hazırladığı düzenleme sosyal ağ platformlarına yaş doğrulama zorunluluğu getiriyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/yarın-başlıyor-türkiye-de-çocuklara-sosyal-medya-yasağı/a-79654514?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/sosyal-medyada-yas-dogrulamaya-iliskin-yonetmelik-yarin-yururluge-girecek/4107341"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan, Zelenskiy ile görüştü",
+     "ozet": "Cumhurbaşkanı Erdoğan, İstanbul'a gelen Ukrayna Devlet Başkanı Zelenskiy ile görüştü. AA'nın aktardığına göre Erdoğan görüşmede Ukrayna'da barışın sağlanması çabalarını ve Karadeniz'deki güvenlik durumunu ele aldıklarını belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-gorustu/4107401"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-istanbula-geldi/4107359"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-gorustu-3923956"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmak-icin-elimizden-gelen-her-turlu-gayreti-gostermeye-haziriz/4107374"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakırköy Belediyesi soruşturmasında tutuklamalar",
+     "ozet": "Bakırköy Belediyesi'ne yönelik yolsuzluk soruşturmasında, aralarında belediye başkan yardımcılarının da bulunduğu şüphelilerin tutuklandığı bildirildi. TRT Haber ve Euronews Türkçe tutuklu sayısını 39, Sözcü 40 olarak veriyor; 18 kişi adli kontrolle serbest bırakıldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-yolsuzluk-sorusturmasi-39-tutuklama-961788.html"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/31/bakirkoy-belediyesi-sorusturmasi-39-kisi-tutuklandi-18-kisi-adli-kontrolle-serbest"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-bakirkoy-belediyesi-sorusturmasinda-40-kisi-tutuklandi-p374518"
+      }
+     ]
+    },
+    {
+     "baslik": "İçişleri Bakanlığı bünyesinde 112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu",
+     "ozet": "AA'ya göre İçişleri Bakanlığı bünyesinde 112 Acil Çağrı ve Koordinasyon Genel Müdürlüğü kuruldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/112-acil-cagri-ve-koordinasyon-genel-mudurlugu-kuruldu/4107462"
+      }
+     ]
+    },
+    {
+     "baslik": "Sapanca Gölü Eylem Planı: 5 yılda 25,5 milyar liralık yatırım",
+     "ozet": "Tarım ve Orman Bakanı Yumaklı, Sapanca Gölü Eylem Planı'nda 6 ana eylem ve 12 tedbir bulunduğunu, bu tedbirler için 5 yıl içinde yaklaşık 25,5 milyar liralık yatırım yapılacağını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-sapanca-golu-eylem-plani-5-yil-icinde-25-5-milyar-liralik-yatirim-yapilacak/4107421"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/ekonomi/bakanlik-dugmeye-basti-sapanca-golu-alarm-veriyor-255-milyar-tllik-eylem-plani-7692284"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31'e şu ana kadar 91 devlet başkanı katılacağını bildirdi",
+     "ozet": "Bakan Murat Kurum'a göre Antalya'da yapılacak COP31'e şimdiye kadar 91 devlet başkanı geleceğini bildirdi. Sabah'a göre Türkiye, COP31 kapsamında 1,1 milyon metrekarelik bir açık hava sanat organizasyonuna da ev sahipliği yapacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kurum-cop31e-su-ana-kadar-91-devlet-baskani-gelecegini-bildirdi/4107426"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/ekonomi/bakan-kurum-duyurdu-cop31de-doga-ve-sanat-bulusuyor-11-milyon-metrekarelik-acik-hava-sahnesi-kurulacak-7692186"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakanlıktan kışın sokakta yaşayanlar için genelge",
+     "ozet": "Aile ve Sosyal Hizmetler Bakanlığı, kışın sokakta yaşayan kimsesizlerin barınma ve temel ihtiyaçlarının karşılanması için valiliklere ve ilgili kurumlara genelge gönderdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/bakanliktan-kimsesizler-icin-genelge-3923968"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/aile-bakanligi-ndan-kimsesizler-icin-genelge-2552022"
+      }
+     ]
+    },
+    {
+     "baslik": "İstanbul'da 310 milyon liralık kaçak elektronik sigara yakalandı",
+     "ozet": "TRT Haber'e göre Ticaret Bakanlığı Gümrükler Muhafaza ekiplerinin İstanbul'da düzenlediği iki ayrı operasyonda, Türkiye tarihinin en büyük elektronik sigara kaçakçılığı engellendi; ele geçirilenlerin piyasa değeri 310,5 milyon lira olarak belirtildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/istanbulda-tarihi-operasyon-310-milyonluk-kacak-elektronik-sigara-yakalandi-961789.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Fransa'da üçüncü hafta sonu protestoları",
+     "ozet": "Fransa, 17 Ekim'deki şiddetin tekrarlanmaması için 70 bin güvenlik görevlisinin görevlendirildiği üçüncü bir protesto hafta sonuna hazırlanıyor. France 24'e göre dükkânlar vitrinlerini kapattı; Le Monde'a göre İçişleri Bakanı sokak şiddeti konusunda uyardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/third-weekend-of-protests-in-france"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/france/article/2026/10/31/france-braces-for-third-saturday-of-protests-as-interior-minister-warns-of-street-violence-on-halloween_6767950_7.html"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/10/31/france-to-deploy-70000-security-personnel-as-it-prepares-for-halloween-protests"
+      }
+     ]
+    },
+    {
+     "baslik": "Birleşik Krallık Başbakanı Burnham köleliğe resmi özrü dışlamıyor, tazminata karşı",
+     "ozet": "Başbakan Andy Burnham, Birleşik Krallık'ın köle ticaretine ilişkin resmi bir özre 'açık' olduğunu, ancak mali tazminatı dışarıda bıraktığını söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/andy-burnham-open-to-formal-apology-for-britain-slave-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "İspanya'daki tren faciası Sánchez'in seçim şansını gölgeliyor",
+     "ozet": "BBC'ye göre İspanya Başbakanı Pedro Sánchez, erken genel seçime haftalar kala art arda gelen krizlerle karşı karşıya; tren faciası yeniden seçilme şansını gölgeliyor. Euronews Türkçe'ye göre sendikalar acil önlem çağrısı yapıyor ve ülke üçüncü yas gününde.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/31/ispanyada-tren-faciasi-sonrasi-ucuncu-yas-gunu-sendikalardan-acil-onlem-cagrisi"
+      }
+     ]
+    },
+    {
+     "baslik": "G20 dışişleri bakanları Atlanta'da ortak sonuca varamadan toplantıyı bitiriyor",
+     "ozet": "AP'ye göre G20 dışişleri bakanları, Atlanta'daki toplantıyı önemli konularda uzlaşmaya varılamadan tamamlıyor. Reuters, ABD Dışişleri Bakanı Rubio'nun toplantının ardından Hint-Pasifik'teki Quad ülkelerinin bir toplantısına ev sahipliği yaptığını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-quad-ulkelerinin-hint-pasifikteki-isbirliginde-somut-ilerleme-kaydettigini-belirtti/4107452"
+      }
+     ]
+    },
+    {
+     "baslik": "Flavio Bolsonaro: 'Zulüm gördüğüm için Brezilya'dan kaçtım'",
+     "ozet": "Brezilya'daki başkanlık seçimini kaybeden sağcı aday Flavio Bolsonaro, yayımladığı video mesajda ABD'ye 'zulüm' nedeniyle kaçtığını söyledi. Euronews Türkçe'ye göre Bolsonaro'nun Arjantin üzerinden ABD'ye gidişi diplomatik krize dönüştü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/10/31/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution_6767920_4.html"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/10/31/bolsonaronun-arjantin-uzerinden-abdye-gidisi-diplomatik-krize-donustu"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de ara seçimlere son hafta sonu",
+     "ozet": "Reuters'a göre Kongre'nin denetimi için yürütülen kampanya son hafta sonuna girdi. Aynı ajans, bir yargıcın Trump yönetimine seçim görevlilerini kovuşturmakla tehdit etmeyi bırakma emri verdiğini bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw?oc=5"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTNRRm1aNHlxQUJIU2doMEdoZnBOVVNyc0U2QXk1NjA1am9nZmZYQ3F5TW5BcDJQcEZqVV82TG1vQVFmVFAySkpfRDZlODVVYXpSTVFialFSTXhpSmYtbXBwSFQzdDhpdGY3SFlsaXE2MG1zUGhvQVB1T2ZRd0llbDdwTS1YN0FaNVQtMkc2Tld5RTQyWjZ0UlBxdlhmX3JzYlhQUzNBZE45TXNBVzY0ZVJ1SzM5Sy1Nd3Jtam9nZ2dhUnRzZjhGYg?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Fitch, Fransa'nın kredi notu görünümünü negatife çevirdi",
+     "ozet": "Fitch Ratings, Fransa'nın uzun vadeli kredi notunu 'A+' olarak teyit ederken görünümü 'durağan'dan 'negatif'e çevirdi. Financial Times'a göre karar takvim dışı geldi ve üçüncü çeyrekte beklenmedik daralmayı gösteren verilerden saatler sonra açıklandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/fitch-fransa-nin-kredi-notu-gorunumunu-negatife-revize-etti-3792981"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Lagarde görevi erken bırakıyor; halefini 'Fransa krizi' bekliyor",
+     "ozet": "AA'ya göre Avrupa Merkez Bankası Başkanı Christine Lagarde'ın normal süresinin dolmasından yaklaşık 9 ay önce görevi bırakacağını açıklaması piyasalarda ve Avrupa siyasetinde yankı uyandırdı; halefini faiz kararlarından çok Fransa'daki kriz bekliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ecbde-lagarde-donemi-sona-yaklasirken-halefini-faiz-degil-fransa-krizi-bekliyor/4107098"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/lagarde-in-halefini-fransa-krizi-bekliyor-3792984"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de imalat PMI Ekim'de 49,3'e geriledi",
+     "ozet": "Çin'de imalat sanayi PMI endeksi Ekim'de bir önceki aya göre 0,8 puan azalarak 49,3'e, imalat dışı PMI 0,5 puan azalarak 49,7'ye düştü. AP, yeni ihracat siparişlerinin zayıflamasına dikkat çekiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/cin-de-ekonomik-aktivite-ekim-de-yeniden-daralma-seyrine-girdi-3792985"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/cin-ekonomisinde-yeniden-daralma-imalat-ve-hizmetlerde-gerileme-haberi-845934"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjYxcFNzbUhDZ2VfVXowN2ZEM0ppaVNFV2NMT0h1aHBZZGZSRkVRMGQwNGpGc0ZBb2hYbXdjSWVoc0VoNE1xWENGLTdOcWswcWdVaW55TmlybjFNVnUzMGMyQ1lLVTM0Q0FWNDdILWx4cUszekVUMGRSenVnNXdfZXpOTmVnSW16bWVzTGFqRHFoMDNtUWFfUUxsYlQ5U3ZZ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Binance'e 6,3 milyar dolarlık siber saldırı",
+     "ozet": "AP, saldırıyı muhtemelen en büyük kripto hırsızlığı olarak tanımlıyor ve tutarı 6,3 milyar dolar olarak veriyor. Reuters'a göre Binance çalınan varlıkların yüzde 90'ının yerine konduğunu söyledi. ABD Başkanı Trump saldırıyı inceleyeceklerini, bir Kuzey Koreli hacker grubunun sorumlu olup olmadığını ise bilmediklerini belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/trump-binance-e-yonelik-siber-saldiriyi-inceliyoruz-3792979"
+      }
+     ]
+    },
+    {
+     "baslik": "Rusya dizel ihracat yasağını 31 Ocak 2027'ye uzattı",
+     "ozet": "Rus hükümeti dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti-3792987"
+      }
+     ]
+    },
+    {
+     "baslik": "Yatırımcılar ABD ekonomisinin yapay zekâ bağımlılığı endişesiyle büyüme bahislerini azaltıyor",
+     "ozet": "Financial Times'a göre uzun süren satışın ardından tahvillere dönüş görülüyor; yatırımcılar teknoloji harcamalarına aşırı bağımlılık kaygısıyla büyüme beklentilerini kısıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Mali'de bulunan Mars göktaşının 4,1 milyar yıldan eski olduğu belirlendi",
+     "ozet": "NASA öncülüğündeki araştırmaya göre Mali'de bulunan Mars kökenli bir göktaşı 4,1 milyar yıldan daha eski; bu, gezegenin geçmişine ilişkin yeni bilgiler sunuyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/bulunan-mars-goktasinin-4-1-milyar-yildan-daha-eski-oldugu-belirlendi-2552040"
+      }
+     ]
+    },
+    {
+     "baslik": "Yaygın bir bağırsak bakterisinin kolon kanserini nasıl tetiklediği çözüldü",
+     "ozet": "ScienceDaily'ye göre Johns Hopkins'teki araştırmacılar, yaygın bir bağırsak bakterisi ile kolorektal kanser arasındaki, yaklaşık yirmi yıldır merak edilen eksik halkayı buldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "75 bin yıllık Neandertalin kalbe nişanlanmış bir mızrakla öldürülmüş olabileceği öne sürüldü",
+     "ozet": "ScienceDaily'ye göre 75 bin yıl önce ölen bir Neandertalin omuz kemiğindeki dairesel delik, tarih öncesi şiddete dair nadir bir kanıt olarak, ahşap bir mızrağın kalbe yönelik atıldığına işaret edebilir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Eksi 253 °C'de çatlamaya direnen metaller keşfedildi",
+     "ozet": "Bilim insanları, bazı metallerin -253 °C'ye (-424 °F) varan sıcaklıklarda, benzer malzemelerin kırılgan hale geldiği koşullarda bile çatlamaya direnmesini sağlayan bir mekanizma keşfetti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "A vitamininin doğum öncesi görme gelişimindeki beklenmedik rolü",
+     "ozet": "Johns Hopkins araştırmacıları, insan gözünün doğumdan önce keskin görme yeteneği geliştirmesine yardım eden ve göz oluşumuna dair onlarca yıllık varsayımlara meydan okuyan bir süreç buldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Talos: Volta kötü amaçlı yazılımı, kurbanları yapay zekâ modeliyle değerine göre sıralıyor",
+     "ozet": "Talos Intelligence'ın bloguna göre Volta bilgi hırsızı kötü amaçlı yazılım, kurbanları önceliklendirmek için büyük dil modellerinden yararlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hacker News",
+       "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Kongo'da Ebola ölümleri 5 bini aştı",
+     "ozet": "AP'ye göre Kongo'da Ebola nedeniyle ölenlerin sayısı 5 bini geçti; kıta genelinde yayılma korkusu artıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2dLZS1NaklPODk2amZTY2YtUG5obEdwWW1hSWx1RFpQQWdWNDZFQkxFM3JxU2ZhaTVMdFI2X25GV1FfeVZTRkhoNUlNc3plQXQ5SWtqZEx4M0llYUhzeGVVMHE5cGZaczF5V2JDRTN6eXF3RGF1azU0TUlIUVg0aEp1TC1XY3R1cmJj?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Bangladeş'te dang humması ölümleri artıyor",
+     "ozet": "Reuters'a göre Bangladeş'te dang humması nedeniyle ölenlerin sayısı artıyor ve vakaların Aralık'a kadar azalması beklenmiyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "FDA, Tavneos ilacının onayını geri çekmek istiyor",
+     "ozet": "Ars Technica'ya göre FDA, Tavneos'un onayının manipüle edilmiş çalışma verilerine dayandığını söylüyor ve onayı geri çekmek istiyor; ancak bu süreç kolay değil ve hastaların ilaca erişimi sorusu açık.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Milli halterci Kaan Kahriman dünya şampiyonasında gümüş madalya kazandı",
+     "ozet": "Milli halterci Kaan Kahriman, Çin'deki Dünya Halter Şampiyonası'nda erkekler 75 kiloda koparmada gümüş madalya kazandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/milli-halterci-kaan-kahriman-cindeki-dunya-sampiyonasinda-gumus-madalya-kazandi/4107419"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/kaan-kahriman-dan-gumus-madalya-3923959"
+      }
+     ]
+    },
+    {
+     "baslik": "Harry Kane Ballon d'Or'u Mbappe'ye 28 puan farkla kazandı",
+     "ozet": "BBC Sport'a göre oy dağılımı, Harry Kane'in erkekler Ballon d'Or ödülünü ikinci sıradaki Kylian Mbappe'nin yalnızca 28 puan önünde kazandığını gösterdi; bu, ödülün tarihindeki en dar farklardan biri.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Güney Afrika, Avustralya'yı son gün hedefiyle yenip seriyi aldı",
+     "ozet": "BBC Sport'a göre Avustralya son gün koşusunda baskıya yenik düştü; Güney Afrika Test maçını ve seriyi kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/cricket/articles/cmdx3p354v04o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "MotoGP Malezya GP sprint yarışını Pedro Acosta kazandı",
+     "ozet": "MotoGP'nin sezonun 19. etabı Malezya Grand Prix'sinde sprint yarışını Red Bull KTM'den İspanyol pilot Pedro Acosta kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/motogp-malezya-grand-prixsinde-sprint-yarisini-pedro-acosta-kazandi/4107188"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "37. Ankara Film Festivali 12-20 Kasım'da",
+     "ozet": "Ankara Film Festivali bu yıl 37'nci kez, 12-20 Kasım'da Kızılay Büyülü Fener Sineması'nda düzenlenecek; program ulusal ve uluslararası yapımları ve yapay zekâ odaklı etkinlikleri içeriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/37-ankara-film-festivali-sinemaseverleri-dunya-sinemasinin-seckin-yapimlariyla-bulusturacak/4107198"
+      }
+     ]
+    },
+    {
+     "baslik": "Yahya Kemal Beyatlı vefatının 68. yılında anılıyor",
+     "ozet": "'Kendi Gök Kubbemiz' ve 'Aziz İstanbul' gibi eserlerin yazarı şair Yahya Kemal Beyatlı'nın ölümünün üzerinden 68 yıl geçti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/siirlerinde-istanbulu-ve-tarihi-yasatan-usta-sair-yahya-kemal-beyatli/4107256"
+      }
+     ]
+    },
+    {
+     "baslik": "Bradford'da Brit School North sanat koleji planına onay çıktı",
+     "ozet": "BBC'ye göre ünlü Brit School'dan esinlenen kolej Bradford'un merkezinde inşa edilecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42956772",
+   "baslik_en": "Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study.",
+   "dergi": "Lancet (London, England)",
+   "yazarlar": [
+    "Vali Y",
+    "Wonders K",
+    "Lee J",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42956772/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01145-1",
+   "baslik_tr": "MASLD'de non-invaziv testler: LITMUS prospektif çok merkezli tanı doğruluğu çalışması",
+   "tur": "Prospektif, çok merkezli tanı doğruluğu çalışması",
+   "ozet_en": "Researchers followed 1,590 adults with biopsy-confirmed metabolic dysfunction-associated steatotic liver disease (MASLD) across 13 countries in Europe and the USA and compared 12 single markers and 18 multimarker panels against centrally scored liver biopsies. The SomaSignal proteomic panel performed best, with an AUC of 0.83 for at-risk MASH and 0.92 for advanced fibrosis, and no other test reached the 0.80 threshold for MASH alone. A two-step approach starting with a gamma-glutamyl transferase blood test also met the threshold for advanced fibrosis and at-risk MASH. Single markers performed variably and were limited.",
+   "ozet_tr": "Araştırmacılar, Avrupa ve ABD'de 13 ülkede biyopsiyle doğrulanmış metabolik disfonksiyonla ilişkili steatotik karaciğer hastalığı (MASLD) olan 1.590 yetişkini izledi ve 12 tekil belirteç ile 18 çoklu belirteç panelini, merkezi olarak puanlanan karaciğer biyopsisiyle karşılaştırdı. SomaSignal proteomik paneli en iyi sonucu verdi (riskli MASH için AUC 0,83; ileri fibrozis için 0,92); tek başına MASH için eşik olan 0,80'e başka hiçbir test ulaşmadı. Gama-glutamil transferaz kan testiyle başlayan iki aşamalı yaklaşım da ileri fibrozis ve riskli MASH için eşiği karşıladı. Tekil belirteçlerin performansı değişkendi ve sınırlıydı.",
+   "neden_onemli": "Karaciğer yağlanması için biyopsi yerine kan testleriyle tanı konmasının yolunu açabilecek bir bulgu."
+  },
+  {
+   "pmid": "42949744",
+   "baslik_en": "Bias-Adjusted Prevalence of Chronic Traumatic Encephalopathy Among Deceased National Football League Players.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Gallini J",
+    "Alosco ML",
+    "Abdolmohammadi B",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42949744/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.40884",
+   "baslik_tr": "Ölmüş Ulusal Futbol Ligi (NFL) oyuncularında kronik travmatik ensefalopati (KTE) prevalansının yanlılığa göre düzeltilmiş tahmini",
+   "tur": "Nüfus temelli kesitsel çalışma",
+   "ozet_en": "This cross-sectional study combined brain bank data with National Death Index records for 2,362 former NFL players who died between 2008 and 2023, of whom 396 had donated their brains. Among 387 donors, 93.5% had CTE neuropathology. After adjusting for selection bias, the estimated population prevalence of CTE at death was 74.5%, with a conservative lower bound of 63.7%, and 27.2% had a history of dementia during life. The authors conclude that selection bias inflates donor-based estimates but does not fully explain the high burden, and the clinical impact still needs study.",
+   "ozet_tr": "Bu kesitsel çalışma, 2008-2023 arasında ölen 2.362 eski NFL oyuncusunun beyin bankası verilerini Ulusal Ölüm Endeksi kayıtlarıyla birleştirdi; bunların 396'sı beyin bağışçısıydı. İncelenen 387 bağışçının yüzde 93,5'inde KTE nöropatolojisi vardı. Seçilim yanlılığı düzeltildiğinde ölüm anında KTE'nin nüfus düzeyindeki prevalansı yüzde 74,5 (temkinli alt sınır yüzde 63,7), yaşam boyu demans öyküsü ise yüzde 27,2 olarak tahmin edildi. Yazarlar, seçilim yanlılığının bağışçı temelli tahminleri şişirdiğini ama yüksek yükü tek başına açıklamadığını, klinik etkinin ise daha fazla araştırma gerektirdiğini belirtiyor.",
+   "neden_onemli": "Tekrarlayan kafa darbeli spor dallarının uzun vadeli beyin sağlığı riskleri hakkındaki tartışmaya sayısal veri ekliyor."
+  },
+  {
+   "pmid": "42961417",
+   "baslik_en": "AI-Generated Draft Response Tool, Message Turnaround Time, and After-Hours Replies Among Health Care Professionals.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Jeanselme V",
+    "Austin C",
+    "Han J",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961417/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41364",
+   "baslik_tr": "Yapay zekâ destekli taslak yanıt aracı, mesaj yanıt süresi ve sağlık çalışanlarında mesai dışı yanıtlar",
+   "tur": "Retrospektif kohort çalışması",
+   "ozet_en": "This retrospective cohort study analysed 983,154 first responses to patient portal messages from 1,542 clinicians at Columbia University Irving Medical Center between March 2023 and May 2025, around the deployment of an AI draft-reply tool. Tool adoption was associated with an 8.6% increase in overall message turnaround time, whereas using the tool for a given message was associated with a 29.5% reduction. The tool was not associated with an overall reduction in after-hours replies, and for messages received after hours it was linked to more after-hours responses. The study is observational and from a single institution.",
+   "ozet_tr": "Bu retrospektif kohort çalışması, Columbia Üniversitesi Irving Tıp Merkezi'nde Mart 2023-Mayıs 2025 arasında 1.542 hekim ve sağlık çalışanının hasta portalı mesajlarına verdiği 983.154 ilk yanıtı, yapay zekâ destekli taslak yanıt aracının devreye girmesi çevresinde inceledi. Aracın benimsenmesi genel mesaj yanıt süresinde yüzde 8,6 artışla, belirli bir mesajda kullanılması ise yüzde 29,5 azalmayla ilişkiliydi. Araç, mesai dışı yanıtlarda genel bir azalmayla ilişkili değildi; mesai dışı gelen mesajlarda ise mesai dışı yanıtların artmasıyla ilişkiliydi. Çalışma gözleme dayalıdır ve tek bir kurumdan gelmektedir.",
+   "neden_onemli": "Hasta mesajlarında yapay zekâ taslaklarının doktorların iş yükünü ve yanıt hızını ne ölçüde değiştirdiğini gösteriyor."
+  }
+ ]
+}
