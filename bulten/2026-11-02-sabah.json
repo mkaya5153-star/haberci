@@ -1,0 +1,616 @@
+{
+ "tarih": "2026-11-02",
+ "donem": "sabah",
+ "giris": "Bulgaristan'da Yotova cumhurbaşkanlığı seçimini kazandı, Florida'da özel jet kazasında 9 kişi öldü. Hürmüz Boğazı'ndaki gerilim ile İran'la süren görüşmeler enerji piyasalarını belirlerken Herson'daki yerel ateşkes sona erdi. ABD'de ara seçimlere günler kala kampanya hız kazandı; Erdoğan Güney Kore'de temaslarda bulunuyor.",
+ "one_cikanlar": [
+  {
+   "baslik": "Bulgaristan'da cumhurbaşkanlığı seçimini Yotova kazandı",
+   "ozet": "Bulgaristan'daki ikinci tur cumhurbaşkanlığı seçiminde görevdeki Cumhurbaşkanı İliyana Yotova, sandık çıkış anketlerinde ve ilk sonuçlarda önde çıktı; Yotova ve yardımcısı adayı Kiril Valchev zaferlerini ilan etti. AP'nin aktardığı ilk sonuçlara göre Yotova, ülkenin seçimle gelen ilk kadın cumhurbaşkanı oluyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/bulgaristandaki-cumhurbaskani-secimini-mevcut-cumhurbaskani-yotova-acik-farkla-kazandi/4108231"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/bulgaristan-da-iliyana-yotova-yeniden-kazandi-3924179"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784630/d%C3%BCnya/bulgaristanda-sand%C4%B1k-%C3%A7%C4%B1k%C4%B1%C5%9F-anketlerine-g%C3%B6re-yotova-se%C3%A7imi-%C3%B6nde-g%C3%B6t%C3%BCr%C3%BCyor"
+    }
+   ],
+   "neden_onemli": "Bulgaristan AB ve NATO üyesi; seçim sonucu ülkenin siyasi yönünü ilgilendiriyor."
+  },
+  {
+   "baslik": "Florida'da özel jet yerleşim bölgesine düştü: 9 ölü",
+   "ozet": "Texas'ın Austin kentinden Bahamalar'a gitmekte olan Learjet 60 tipi özel uçak, Florida'da Palm Beach çevresinde yerleşim bölgesine düştü. Yetkililere göre uçaktaki 9 kişinin hepsi hayatını kaybetti; havacılık makamları kazayı soruşturacak.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXAwdVdXLUJnR3JHYmUzeFlIQjFKeVB4RmR3QWVoS1F5bVFJaXpaN0JFS05hTFV2THZCUlgtY1JMS2lmWHMxdWNxMWRQRldTZThyZUdJSmJrMVhpRWQ2dTcwSFQ2by1SbXBma1JqckV3U3FtTE9ZZ0ZFN0ZzUHItXy14WTlGY3hwVEU5T0k4TEVZbXZCQ2ZaeExtWGpJV2xYRUFHZFE4cldUMVB0VDlWYU1vLXU0T0xnZzZMb1lB?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "baslik": "Hürmüz Boğazı'nda gerilim sürerken İran'la barış görüşmeleri devam ediyor",
+   "ozet": "UKMTO, Hürmüz Boğazı'nda bir gemiye bilinmeyen bir cismin isabet ettiğini bildirdi; İran Devrim Muhafızları donanması ise iki tankerin mayına çarpıp patladığını açıkladı. Aynı sırada İran ile Katarlı arabulucular ABD-İran savaşını sona erdirmeye yönelik görüşmelerin üçüncü gününü yaptı; Reuters'e göre petrol fiyatları bu diplomasi beklentisiyle geriledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemiye-bilinmeyen-cisim-isabet-etti/4108186"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/hurmuz-bogazindan-gecen-gemiye-saldiri-3924192"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5"
+    }
+   ],
+   "neden_onemli": "Boğazdaki gelişmeler küresel enerji fiyatlarını ve deniz ticaretini doğrudan etkiliyor."
+  },
+  {
+   "baslik": "Herson'da yerel ateşkes sona erdi, Rus saldırıları Ukrayna'da elektriği kesti",
+   "ozet": "Rus işgalindeki bölgeden sivillerin tahliyesine imkân veren nadir insani ateşkes sona erdi. BBC'ye göre Rus saldırıları Ukrayna'da binlerce kişinin elektriğini kesti; AP, Herson'daki sivillerin savaşın geri dönüşüne hazırlandığını aktardı. Kremlin danışmanı Uşakov ise Zelenskiy arayacak olursa Putin'in telefonu açacağını söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Politico Europe",
+     "link": "https://www.politico.eu/article/russia-strikes-leave-thousands-without-power-ukraine-volodymyr-zelenskyy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "baslik": "Erdoğan Güney Kore'de; Sinop nükleer projesinde ortaklık mesajı",
+   "ozet": "Cumhurbaşkanı Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine Seul'e geldi. Yonhap'a dayandırdığı haberde Reuters, Erdoğan'ın Güney Kore'nin Türkiye'nin Sinop nükleer projesinde ortak olabileceğini söylediğini aktardı. Dünya Gazetesi'ne göre gündemde stratejik ortaklık ve yeni anlaşmalar var; Cumhurbaşkanlığına bu sürede Cevdet Yılmaz vekalet edecek.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-geldi/4108266"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-koreye-gitti-961897.html"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gitti-3924165"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWlldndLdklSWDlnQjF3TFRqT0toSUlZUE1yQmNTem9aTDd0OE9WWlk1cy00aWpGYTFaWXdkLURmTkRMbUZOTWFxRFdZeUJfWTZMdlJUdHQ4MVcxb194VThjaFprTmk3NWNFWlFtX3VZS0NCV1FaM0RLaUNqcHl5SHRHUHZmQXFyWU5OV3hnUW0tNVlVSTRNUjAwTUYxMmZjM1dNc0RPc1VSaF9rd21BZy1zOEhHZ21NQkpxbC1WMHlGQVRocEE3NU9n?oc=5"
+    }
+   ]
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "İçişleri Bakanı Çiftçi: İstanbul'da yeni nesil suç örgütlerine 190 operasyon",
+     "ozet": "İçişleri Bakanı Mustafa Çiftçi, İstanbul'da düzenlenen güvenlik toplantısında bu yıl yeni nesil suç örgütlerine yönelik 190 operasyon yapıldığını, 2 bin 67 şüphelinin yakalandığını ve 1545'inin tutuklandığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-baskanliginda-istanbulda-guvenlik-toplantisi-yapildi/4108212"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784633/haber/bakan-%C3%A7ift%C3%A7i-i%CC%87stanbul%E2%80%99daki-g%C3%BCvenlik-toplant%C4%B1s%C4%B1na-ba%C5%9Fkanl%C4%B1k-etti"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/istanbul-da-guvenlik-toplantisi-yapildi-3924177"
+      }
+     ]
+    },
+    {
+     "baslik": "Öcalan'ın İmralı'da yeni bir yere geçtiği açıklandı, tepki geldi",
+     "ozet": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini söyledi. Zafer Partisi Genel Başkanı Ümit Özdağ açıklamaya tepki göstererek Öcalan'ın artık hapishanede olmadığını savundu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784631/haber/%C3%B6zda%C4%9F%E2%80%99dan-%C3%B6calan%E2%80%99%C4%B1n-i%CC%87mral%C4%B1%E2%80%99daki-yeni-yerle%C5%9Fkesine-tepki-art%C4%B1k-hapishanede-de%C4%9Fil"
+      }
+     ]
+    },
+    {
+     "baslik": "Babacan'dan fon soruşturmasında zarar gören yatırımcılar için çağrı",
+     "ozet": "DEVA Partisi Genel Başkanı Ali Babacan, fon dolandırıcılığı iddialarına ilişkin hükümete çağrı yaparak zarar gören yatırımcıların parasının sorumlulardan tahsil edilmesini istedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784632/haber/babacan%E2%80%99dan-fon-soru%C5%9Fturmas%C4%B1na-ili%C5%9Fkin-h%C3%BCk%C3%BCmete-%C3%A7a%C4%9Fr%C4%B1-ucu-kime-dokunursa-dokunsun"
+      }
+     ]
+    },
+    {
+     "baslik": "Sarıgül soruşturması siyasi boyut kazandı",
+     "ozet": "Hürriyet'e göre Emir Sarıgül'ün verdiği ifadeyle birlikte Sarıgül soruşturması, dolandırıcılık ve cinsel saldırı iddialarının ötesine geçerek siyasi nitelik kazandı; haber CHP Genel Başkanı Özgür Özel'in de soruşturmaya dahil edildiğini öne sürüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/sarigul-sorusturmasi-ozgur-ozele-uzandi-43362814"
+      }
+     ]
+    },
+    {
+     "baslik": "15 yaş altı sosyal medya yasağı yürürlüğe girdi",
+     "ozet": "Webtekno'ya göre Cumhurbaşkanlığı Siber Güvenlik Başkanlığı tarafından hazırlanan 15 yaş altı sosyal medya yasağı yürürlüğe girdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/turkiye-15-yas-alti-sosyal-medya-yasagi-yururluge-girdi-h228076.html"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 için Antalya'da trafik düzenlemesi",
+     "ozet": "Antalya Valiliği, 9-20 Kasım'da düzenlenecek COP31 Türkiye İklim Zirvesi kapsamında 10, 11 ve 12 Kasım'da bazı güzergahlarda geçici trafik düzenlemeleri uygulanacağını duyurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-antalyada-bazi-guzergahlarda-trafik-duzenlemesi-yapilacak/4108224"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "ABD ara seçimleri öncesi Trump sahada",
+     "ozet": "Trump seçim kampanyasının son günlerinde Iowa ve Kansas'ta miting yaptı; Cumhuriyetçiler Senato ve Meclis çoğunluğunu korumaya çalışıyor. AP ayrıca yönetimin seçimlerden önceki haftalarda ABD'li çiftçilere 15 milyar dolar vaat ettiğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC13c2s2am5reGJsV1BBRXVWdjdfakxxb1RITFltVWdlVTZfX0lrUUN1MDZULUVvYktETVZtMHM5LUtWU3ZfbDdoYlZ1dDJfa0pPeS01ZEhKXzFBbU9hbWdlNXR1VGZPLVJFVlRCc1Zqd3VVNG5Xdm9BQ1VXdzk0dUVxOTVIV1ZjTkptV3NmNW91cGpWQmZuNXptcEdaUkE?oc=5"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Michigan'da Demokrat Stevens'ın Cumhuriyetçi adaya desteği tepki çekti",
+     "ozet": "Michigan'da Demokrat siyasetçi Haley Stevens, Senato seçiminde kendi partisinin adayı Abdul El-Sayed yerine Cumhuriyetçi aday Mike Rogers'ı destekleyeceğini açıkladı. Guardian'a göre hamle parti içinde tepkiyle karşılandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump: ABD ve Kanada yeni bir ticaret anlaşması için 'konsept' üzerinde",
+     "ozet": "Reuters'e göre Trump, ABD ile Kanada'nın yeni bir ticaret anlaşmasına dair bir 'konsept'e sahip olduğunu söyledi. Kanada Başbakanı Mark Carney ile Trump uzun süredir süren ikili ticaret anlaşmazlığını telefonda görüştü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjB2S2lsdl9NVjBZT3VncEd6dW5ZcERBNkh2MC1FVUZzUUlxZU9lVHp4eFAxUlZLeldNcElJMDNPLU9RTnkwZ2NCbkNud3V4ekZtdndIcFZ1REFPSU9qdEZyTHFaU3hnWVpVVThGN2htTDFJWnhrTFhhZWR0Q0R2cUNvZlFTSVJiTk1ybzdRcHVydw?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa'da protestolar üçüncü hafta sonunda sürdü",
+     "ozet": "BBC'ye göre Fransa'da yüzlerce gözaltı yapılan protestolar üst üste üçüncü hafta sonu da kentlerde sürdü; polise molotof atılmasının ardından cinayete teşebbüs soruşturması açıldı. AP'ye göre Fransa'da şiddet azalırken Almanya'da dağınık olaylar yaşandı; Almanya'da bakanlar Frankfurt'taki ayaklanma ve yağmaya sert yanıt sözü verdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/france/article/2026/11/01/france-launches-attempted-murder-probe-after-molotov-cocktail-attacks-on-riot-police_6768874_7.html"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0QtNjJvRnpjT3Y5eTVBcEI5dkZMaFNuZnJDMkR1cWY5aWRWV2FjX3QxVVVHNUZRMlp1VFBYYnpCdE1NcmRqQlUtbVV0akY5RUF5WXdjaXcxYnBtNk4xZDhJNmtKWGlaTGhkcTltaW9TTHlBTmdlU0I1cFlVbjdmckVaMDBaTllsNmJCYWlZM0NCaFZsdk00b3Z4bV9BYlhiSnhZ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail'de seçim sonrası koalisyon arayışı",
+     "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, 27 Ekim seçimlerinin ardından ortaya çıkan koalisyon belirsizliğinde liderlerle yapacağı istişarelerde uzlaşma için çaba göstereceğini söyledi. Anadolu Ajansı'na göre muhalefet bloku Meclis başkanlığını alıp Netanyahu aleyhine düzenlemeler çıkarmayı hedefliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-liderlerle-istisarelerde-koalisyon-uzlasmasi-icin-caba-gosterecegini-soyledi/4108127"
+      }
+     ]
+    },
+    {
+     "baslik": "Ukrayna ve Rusya acil durum uyarı uygulamalarına siber saldırı bildirdi",
+     "ozet": "DW'ye göre Ukrayna ve Rusya, acil durum uyarısı için kullanılan uygulamalara yönelik siber saldırılar bildirdi. Ukrayna, hava saldırısı uyarı uygulamasının hacklenerek yanlış uyarı gönderdiğini; Rusya'nın acil durumlar bakanlığının mobil uygulamasının da saldırıya uğradığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZi1aMkJteVQ4cUFfOFVOM3U5T0x5NHhEUGFnWHRsUHRZVy1Ha2pmMmFBOVlYN0YybUZSZHRRS2ZMZjduSmFraHZnUmZOVFF2ZHpvd1BIQV9obEdBYXV0MXJLTVM5OTNjOUgteVhrYlExM3B1MkN5aDlMOHZSVGJJWGVSaFp5MEdDZ2s0Q3lmSEZuR1ZRNXZJUEoxNTVuSmJaZkNxbnJQVUJROVZRXzd5WmJzTHZPWTA?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'li Senatör Chris Murphy felç geçirdi",
+     "ozet": "Connecticut Senatörü Chris Murphy, felç geçirmesinin ardından hastaneye kaldırıldı; ofisi durumu açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1NiRk5MRXE1STVPM1NFMEx5bWRKR3Z3VFpCenRzSm5BaHoxRFB3REF0Z05UMi1adU9mTGVGVTVLUlk5cDdLRlJaRGR1TGJ3cWR6WmZVRnpCMGhCdUFIMzBwTXFsSzhQczdDYnJvRVRHWjFmblZtWXYwTWd4cWJlaTVZbjEwU1VCMG5uRElwNGhRZ0wzb1NDazBVdzFCX1E?oc=5"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "ABD'nin Rus gazını Ukrayna üzerinden Avrupa'ya yeniden satma planını desteklediği bildirildi",
+     "ozet": "Wall Street Journal'a göre ABD'li yetkililer, Rusya'nın Ukrayna üzerinden geçen boru hatlarıyla Avrupa'ya doğalgaz satışını yeniden başlatmasına yönelik bir planı destekliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/wsj-abd-rus-gazi-icin-baski-yapiyor-3793010"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkQyS0lzcURKNWt5Rk9fQlRvMGx5ejJiMTBRSnFsdTA1SWl6cncxdHNHR28wWDdCelVyWVctTkx3TjB6T3pCaHBDdm5veGVtZnJQWnRGNXVIQlRpamRENktDTU5SQ0JtZGFyWGFNYloyTTg5LTM5eTVKaklmZWlqRTNBM1FHRGdPYW9HS05QWlg3aEU5cXFjbVNvbm1BeVZBSk94RWFQbW9Cc2RGTVlGejBsT1RNZ0hZdlE?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Petrol diplomasi umuduyla geriledi, Goldman tahminlerini yükseltti",
+     "ozet": "Reuters'e göre petrol fiyatları İran savaşını bitirmeye yönelik görüşmeler sürerken yüzde 1'in üzerinde düştü. Goldman Sachs ise arz riskleri nedeniyle yıl sonu ve 2027 petrol fiyatı tahminlerini yükseltti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/petrol-fiyatlari-diplomasi-umuduyla-dustu-3793006"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Altın bir yılın en düşük seviyesinden toparlandı",
+     "ozet": "Altın fiyatları cuma günü bir yılın en düşük seviyesine gerilemesinin ardından yeniden toparlandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/altin-bir-yilin-en-dusuk-seviyesinden-toparlandi-3793007"
+      }
+     ]
+    },
+    {
+     "baslik": "Binance çekimleri yeniden açtı",
+     "ozet": "Binance, 6,3 milyar dolarlık hırsızlığın ardından çekimleri yeniden başlattı; TechCrunch'a göre borsa çalınan varlıkların yüzde 95'ini karşılamış durumda. Reuters, çıkışların dengelendiğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/binancete-cekimler-acilinca-milyarlar-cikti-ilk-95-saatin-bilancosu-haberi-846048"
+      }
+     ]
+    },
+    {
+     "baslik": "Japon şirketlerden gaz tedariki için 21 milyar dolarlık anlaşma serisi",
+     "ozet": "Financial Times'a göre dünyanın ikinci büyük LNG alıcısı Japonya'nın şirketleri, ABD Körfezi kıyısındaki şeyl kaynaklarını hedefleyen toplam 21 milyar dolarlık anlaşmalar yaptı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/9652cb30-c8b1-4f36-993f-54f7827d2174?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Nature: Pandemi sonrası aşılama oranlarındaki düşüş kızamığı geri getirdi",
+     "ozet": "Nature'a göre COVID-19 pandemisinin halk sağlığı programlarını ve finansmanını aksatması sonrası aşılama oranları düştü ve kızamık sessizce geri döndü.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Nature",
+       "link": "https://www.nature.com/articles/d41586-026-03387-3"
+      }
+     ]
+    },
+    {
+     "baslik": "NASA, Hubble'ı kurtarmak için ticari uzay sektöründen umutlu",
+     "ozet": "The Verge'e göre NASA, yörüngesi giderek alçalan Hubble Uzay Teleskobu'nun kurtarılmasında ticari uzay sektörünün yardımcı olabileceğini umuyor; teleskop şu an acil bir tehlikede değil.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin 2030'a kadar Ay'a insanlı iniş hedefliyor",
+     "ozet": "Çin devlet medyasına göre Pekin'deki 7. İnsanlı Uzay Sempozyumu'nda 2030'a kadar Ay'a ilk insanlı inişin hedeflendiği belirtildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784627/haber/%C3%A7in-2030-y%C4%B1l%C4%B1na-kadar-ay%E2%80%99-ilk-insanl%C4%B1-ini%C5%9Fini-hedefliyor"
+      }
+     ]
+    },
+    {
+     "baslik": "NASA'nın simüle Mars görevinin ekibi 378 günlük izolasyonun ardından çıktı",
+     "ozet": "Reuters'e göre NASA'nın simüle Mars görevinin mürettebatı 378 günlük izolasyonun ardından dışarı çıktı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "İngiltere'de acil servislerde çocukların durumunun kötüleşmesini işaretleyecek uyarı sistemi",
+     "ozet": "BBC'ye göre İngiltere'de başlatılan girişim, acil bekleyen çocuklardan hızla kötüleşenleri yoğun çalışan personelin fark etmesine yardımcı olacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Galler'de radyolog açığı kanser hastalarını etkiliyor",
+     "ozet": "Radyologlar, Galler'in kuzey ve batısında uzman radyolog sayısında yüzde 42'lik açık olduğunu (güneyde yüzde 22) ve bunun kanser hastalarını etkilediğini uyardı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cmly0xle2rddo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Kimi Antonelli, tarihin en genç Formula 1 dünya şampiyonu oldu",
+     "ozet": "Mercedes'in İtalyan pilotu Kimi Antonelli, 20 yaşında Formula 1 dünya şampiyonu oldu. Meksika Grand Prix'sini ise Max Verstappen kazandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBCt",
+       "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/01/kimi-antonelli-youngest-f1-champion-mexican-gp"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/2026-dunya-gures-sampiyonasinin-enleri/4108137"
+      }
+     ]
+    },
+    {
+     "baslik": "Arsenal, Anfield'da Liverpool'u yenip liderliğini sürdürdü",
+     "ozet": "BBC Sport'a göre Arsenal, 2012'den beri ilk kez Anfield'da kazandı ve zirvede farkı üç puana çıkardı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBCt",
+       "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Real Madrid Racing Santander'i 3-0 yendi",
+     "ozet": "Mbappe, Bellingham ve Yan Diomande'nin golleriyle Real Madrid, Racing Santander'i 3-0 yenerek La Liga'da lider Barcelona'nın üç puan gerisine yaklaştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBCt",
+       "link": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42951976",
+   "baslik_en": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+   "baslik_tr": "Alzheimer hastalığı genetiği mikroglia ve nöron düzensizliğinde birleşiyor",
+   "dergi": "Nature",
+   "yazarlar": [
+    "Uffelmann E",
+    "Wightman DP",
+    "Bahrami S",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "ozet_en": "Researchers pooled genetic data from roughly 109,000 cases, 74,000 proxy cases and about 2.6 million controls across ancestries. They found 118 risk loci in the multi-ancestry analysis and 9 more in ancestry-specific analyses, 48 of them new. Risk was enriched in genes more active in microglia and less active in neurons in cases. The common-variant share of heritability was estimated at 16%, nearly three times earlier estimates.",
+   "ozet_tr": "Araştırmacılar, farklı kökenlerden yaklaşık 109 bin vaka, 74 bin proxy vaka ve yaklaşık 2,6 milyon kontrolün genetik verilerini birleştirdi. Çok-kökenli analizde 118, köken-özgül analizlerde 9 ek risk bölgesi buldular; bunların 48'i yeni. Risk, vakalarda mikrogliada daha aktif, nöronlarda daha az aktif genlerde yoğunlaştı. Yaygın varyantların kalıtılabilirliğe katkısı yüzde 16 olarak tahmin edildi; bu önceki tahminlerin yaklaşık üç katı.",
+   "neden_onemli": "Alzheimer'ın genetik temellerini ve gelecekteki ilaç hedeflerini daha iyi anlamaya katkı sağlıyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42951976/",
+   "doi": "https://doi.org/10.1038/s41586-026-11206-y"
+  },
+  {
+   "pmid": "42956785",
+   "baslik_en": "Prevalence and spectrum of skin diseases in adults in China: a nationwide cross-sectional study.",
+   "baslik_tr": "Çin'de yetişkinlerde cilt hastalıklarının yaygınlığı ve çeşitliliği: ulusal kesitsel çalışma",
+   "dergi": "The Lancet. Public health",
+   "yazarlar": [
+    "Li J",
+    "Jin H",
+    "Zhang Y",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "ozet_en": "This nationwide cross-sectional study examined 153,593 adults in five Chinese provinces, with dermatologists checking for more than 60 skin conditions. The age-standardised prevalence was 55.6%, or an estimated 618 million adults, rising from 42.0% at ages 18-29 to 79.5% at 80 and over. Benign skin tumours and fungal infections were most common. Only 5.8% of affected people had sought medical care; diagnoses were based on clinical observation.",
+   "ozet_tr": "Bu ulusal kesitsel çalışmada, Çin'in beş ilinde 153 593 yetişkin incelendi ve dermatologlar 60'tan fazla cilt hastalığını taradı. Yaşa göre standardize yaygınlık yüzde 55,6 (tahminen 618 milyon yetişkin) bulundu; oran 18-29 yaşta yüzde 42,0'den 80 yaş ve üstünde yüzde 79,5'e çıktı. En yaygın durumlar iyi huylu cilt tümörleri ve mantar enfeksiyonlarıydı. Etkilenenlerin yalnızca yüzde 5,8'i tıbbi yardım aramıştı; tanılar klinik gözleme dayanıyor.",
+   "neden_onemli": "Cilt hastalıkları çok yaygın olmasına rağmen çoğu kişi doktora başvurmuyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42956785/",
+   "doi": "https://doi.org/10.1016/S2468-2667(26)00126-X"
+  },
+  {
+   "pmid": "42957776",
+   "baslik_en": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas of colorectal cancer across the age continuum.",
+   "baslik_tr": "Erken başlangıçlı kolorektal kanser: yaş sürekliliği boyunca kolorektal kanserin tek çekirdek RNA-seq atlasından görüşler",
+   "dergi": "Nature medicine",
+   "yazarlar": [
+    "Porter CBM",
+    "Murphy SP",
+    "Cazaubiel J",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "ozet_en": "Investigators built a single-nucleus RNA-sequencing atlas of 189 primary colorectal tumours (54 early-onset, 135 average-onset) and checked findings in an external cohort of 712 tumours. In microsatellite-stable tumours from younger patients, stromal cells made up a larger share and epithelial cells a smaller one. Tumour cells from young patients showed higher FN1 and long noncoding RNA expression. The work describes tumour biology rather than treatment, and the early-onset group was small in the validation cohort.",
+   "ozet_tr": "Araştırmacılar 189 primer kolorektal tümörden (54 erken başlangıçlı, 135 ortalama yaşta başlangıçlı) tek çekirdek RNA dizileme atlası oluşturdu ve bulguları 712 tümörlük harici bir kohortta doğruladı. Genç hastaların mikrosatellit-kararlı tümörlerinde stromal hücre oranı daha yüksek, epitel hücre oranı daha düşüktü. Genç hastaların tümör hücrelerinde FN1 ve uzun kodlamayan RNA ifadesi artmıştı. Çalışma tedaviyi değil tümör biyolojisini anlatıyor; doğrulama kohortunda erken başlangıçlı grup küçüktü.",
+   "neden_onemli": "Genç yaşta artan bağırsak kanserinin neden farklı seyredebileceğine dair ipuçları veriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42957776/",
+   "doi": "https://doi.org/10.1038/s41591-026-04721-y"
+  }
+ ]
+}
