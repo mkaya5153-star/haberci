@@ -1,0 +1,603 @@
+{
+ "tarih": "2026-11-02",
+ "donem": "aksam",
+ "giris": "Akşam gündeminde Avrupa'da marketlerin soğutma sistemlerine ve Rusya-Ukrayna'daki uyarı uygulamalarına yönelik siber saldırılar öne çıkıyor. İran'ın Hürmüz Boğazı için verdiği mesajlar petrol fiyatlarını aşağı çekerken, Türkiye'de Sarıgül soruşturması ve Erdoğan'ın Güney Kore ziyareti gündemde. Bilimde ise kalp kapağı ve meme kanseri tedavisine dair üç klinik makale seçildi.",
+ "one_cikanlar": [
+  {
+   "baslik": "Avrupa'da marketlerin soğutma sistemlerine siber saldırı",
+   "ozet": "Estonya, İrlanda ve Hollanda'da marketlerin soğutma sistemlerine yönelik siber saldırılar bildirildi; Finlandiya'da bazı marketlerdeki soğutma sorunlarının da siber saldırıdan kaynaklandığı belirtiliyor. Euronews'e göre Belçika'da onlarca süpermarketin soğutucuları etkilendi ve gıdalar çöpe gitti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/avrupa-ulkelerinde-marketlerin-sogutma-sistemlerinde-siber-saldiri-alarmi/4108868"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/02/belcikada-onlarca-supermarketin-sogutucularina-siber-saldiri-gidalar-cope-gitti"
+    }
+   ],
+   "neden_onemli": "Gıda tedarik zincirindeki altyapının siber saldırılara açık olduğunu gösteriyor."
+  },
+  {
+   "baslik": "Rusya ve Ukrayna'da acil durum uygulamaları hacklendi",
+   "ozet": "Siber saldırganlar, Rusya ve Ukrayna'da halkı tehlikelere karşı uyarmak için kullanılan hava saldırısı uyarı uygulamalarını hedef aldı. Her iki ülkede de halka nükleer ve radyasyon tehdidine ilişkin sahte uyarılar gönderildi. BBC'ye göre iki hükümet de saldırının sorumlusunu açıklamadı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-ukraynada-acil-durum-uygulamalarina-siber-saldirilar-duzenlendi/4108926"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/dunyada-kiyamet-gunu-panigi-acil-durum-uyarilari-sonrasi-rusya-ve-ukraynada-nukleer-alarm-43363419"
+    }
+   ],
+   "neden_onemli": "Sivillere yönelik uyarı sistemlerinin ele geçirilmesi, savaşta bilgi güvenliğinin boyutunu gösteriyor."
+  },
+  {
+   "baslik": "Sarıgül ailesine yönelik soruşturmada 4 tutuklama",
+   "ozet": "\"Kara para aklama\" iddiasıyla yürütülen soruşturmada gözaltına alınan 10 şüpheli adliyeye sevk edildi. Hürriyet'e göre mahkeme 4 kişi hakkında tutuklama kararı verdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/sarigul-ailesine-yonelik-sorusturmada-10-kisi-adliyede-43363026"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasi-10-supheli-adliyede-3924251"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/sarigul-sorusturmasi-yeni-gelisme-2-kasim-2026-p375307"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-sarigul-sorusturmasinda-yeni-gelisme-4-kisiye-tutuklama-istemi-2552592"
+    }
+   ],
+   "neden_onemli": "Soruşturmanın siyasi yansımaları sürüyor; Yeni Parti ifadelerdeki iddiaları reddetti."
+  },
+  {
+   "baslik": "İran: ABD şartları karşılarsa Hürmüz iki günde açılabilir",
+   "ozet": "İran Dışişleri Sözcüsü Esmaili Bekayi, ABD'nin koşulları yerine getirmesi halinde Hürmüz Boğazı'nın iki gün içinde yeniden açılabileceğini söyledi. Bekayi'ye göre süre, Eylül'de önerilen yedi günden kısaldı ve bu, İran'ın iyi niyetinin göstergesi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
+    }
+   ],
+   "neden_onemli": "Hürmüz'ün durumu enerji fiyatlarını ve bölgesel gerginliği doğrudan etkiliyor."
+  },
+  {
+   "baslik": "Erdoğan Güney Kore'de: Sinop nükleer santrali gündemde",
+   "ozet": "Cumhurbaşkanı Erdoğan'ın Güney Kore ziyaretinde Sinop'ta planlanan nükleer santral de ele alınıyor. Ankara'nın daha önce Japonya ile ilerletemediği proje için finansman ve teknoloji seçenekleri değerlendiriliyor. Erdoğan, ziyaretin önceliğinin diyalog ve ekonomik ilişkileri güçlendirmek olduğunu belirtti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/erdoğan-seul-de-sinop-ta-nükleer-santrali-güney-kore-mi-yapacak/a-79827262?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/02/erdogandan-guney-kore-ile-nukleer-enerji-ve-savunma-sanayii-is-birligi-mesaji"
+    }
+   ],
+   "neden_onemli": "Enerji ve ticaret ilişkilerinde yeni bir ortaklık ihtimali doğuyor."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Türk Eximbank Yönetim Kurulu Başkanı Osman Çelik istifa etti",
+     "ozet": "Türk Eximbank Yönetim Kurulu Başkanı Osman Çelik görevinden istifa etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/turk-eximbank-yonetim-kurulu-baskani-osman-celik-istifa-etti-p375287"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/02/turk-eximbank-yonetim-kurulu-baskani-osman-celik-gorevinden-istifa-etti/"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni Parti'den Emir Sarıgül'ün iddialarına yanıt",
+     "ozet": "Yeni Parti Sözcüsü Zeynel Emre, Emir Sarıgül'ün ifadesinin ardından yaptığı açıklamada para transferi ve hediye iddialarına tepki gösterdi ve iddiaları \"saçmalık\" diye niteledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/02/yeni-partiden-emir-sarigulun-iddialarina-yanit-sacmaliga-bakar-misiniz"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784665/siyaset/yeni%CC%87-parti-s%C3%B6zc%C3%BCs%C3%BCnden-emir-sar%C4%B1g%C3%BCl%C3%BCn-para-iddialar%C4%B1na-yan%C4%B1t-ak%C4%B1l-d%C4%B1%C5%9F%C4%B1"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/02/yeni-partiden-emir-sarigulun-rusvet-iddiasina-dekontlu-cevap/"
+      }
+     ]
+    },
+    {
+     "baslik": "DEM Parti'nin kent uzlaşısı kararı sonrası CHP'den İBB çağrısı",
+     "ozet": "DEM Parti'nin kent uzlaşısı stratejisine ilişkin kararının ardından CHP'den İBB konusunda çağrı geldi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/dem-parti-den-kent-uzlasisi-aciklamasi-p375096"
+      }
+     ]
+    },
+    {
+     "baslik": "Mekke Anlaşması Çarşamba günü TBMM Genel Kurulu'nda",
+     "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi Çarşamba günü TBMM Genel Kurulu'nda görüşülecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kuruluna-geliyor-961968.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Meteoroloji batı için sarı ve turuncu kodlu uyarı verdi",
+     "ozet": "Meteoroloji Genel Müdürlüğü, yurdun batısı için yağış uyarısı yaptı. Bazı iller için sarı, Muğla için turuncu kodlu alarm verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/sari-ve-turuncu-kodlu-alarm-verildi-bu-illerde-yasayanlar-dikkat-kuvvetli-saganak-geliyor-43363442"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon soruşturmasında İnan Altınbaş'tan 680 milyon TL'lik iade",
+     "ozet": "Fon soruşturması kapsamında İnan Altınbaş'tan 680 milyon liralık iade yapıldığı bildirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/fon-sorusturmasi-inan-altinbas-ne-kadar-iade-etti-p375316"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/siyaset/sucsuzum-ama-parayi-iade-ederiz-demisti-altinbas-holding-yonetim-kurulu-baskani-inan-altinbas-tan-680-milyon-liralik-gonullu-iade-iddiasi-2552616"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Trump: Demokratlar kazanırsa ülkemiz yok olabilir",
+     "ozet": "ABD Başkanı Donald Trump, Demokratların Temsilciler Meclisini, Senatoyu ve 2028'de başkanlığı kazanması halinde \"ülkemizin tamamen yok olabileceğini\" söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlar-temsilciler-meclisini-senatoyu-ve-baskanligi-kazanirsa-ulkemiz-yok-olabilir/4108897"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784667/haber/trump-demokratlar-meclis-senato-ve-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-kazan%C4%B1rsa-%C3%BClkemiz-yok-olabilir"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/dunya/trump-ulkemiz-yok-olabilir-dedi-kaybedersem-her-seyi-2552607"
+      }
+     ]
+    },
+    {
+     "baslik": "Florida'da özel uçak yerleşim bölgesine düştü: 9 ölü",
+     "ozet": "Teksas'tan Bahamalar'a giden özel uçak ABD'nin Florida eyaletinde yerleşim bölgesine düştü; uçaktaki dokuz kişinin tamamı hayatını kaybetti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Iliana Iotova Bulgaristan'ın ilk seçilmiş kadın cumhurbaşkanı oldu",
+     "ozet": "Bulgaristan'da çok düşük katılımla yapılan cumhurbaşkanlığı seçiminin ardından Iliana Iotova ülkenin ilk seçilmiş kadın devlet başkanı oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/bulgaristan-da-cumhurbaşkanlığı-seçimini-yotova-kazandı/a-79825802?maca=tur-rss-tur-all-1495-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Belçika Başbakanı bütçe görüşmelerinin çıkmaza girmesi üzerine istifa etti",
+     "ozet": "Belçika Başbakanı, bütçe görüşmeleri başarısızlığa uğrayınca istifa etti. Kralın istifayı kabul edip etmeyeceğini değerlendirdiği bildiriliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZQTk9uS2tNZXUyeDA0WUFCaUpXNGZkN1VCX2xVY2pqUWE4LXExczlDS3pXRlNFSHZIT2VLektDTXBZYVB4NzFaY2RjY3kzaFgzOURYRkE3RFpLdFR6c2ZHbXlPaDgycXRHaTh4TVk1MTBOd0YtMFZwNGJxSm1mdGZ5TjlNRTBiNThKMzRiN2c0NmJiYlJ5T2RyY0RJTjlBUXhVaUV2YzhLQnhR?oc=5"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/belgian-government-in-crisis-over-failed-budget-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail'deki Filistinli partiler Netanyahu hükümetine karşı bir araya geldi",
+     "ozet": "Seçimlerde 19 milletvekiliyle başarı elde eden İsrail vatandaşı Filistinlileri temsil eden partiler, Başbakan Netanyahu hükümetine karşı ortak hareket etmek için bir araya geldi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-partiler-netanyahu-hukumetine-karsi-bir-araya-geldi/4108840"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/netanyahu-hukumetine-karsi-bir-araya-geldiler-3924402"
+      }
+     ]
+    },
+    {
+     "baslik": "İran: Hürmüz Boğazı'nın doğusunda bir tanker mayına çarptı",
+     "ozet": "İran Ordusu'na göre Hürmüz Boğazı'nın doğusunda \"yasaklı bölgede\" bir petrol tankeri deniz mayınına çarptı ve alev aldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti/4108872"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-2552611"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail'in Gazze'deki ateşkesi yaklaşık 6 bin kez ihlal ettiği bildirildi",
+     "ozet": "Anadolu Ajansı'nın aktardığına göre İsrail ordusu, ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana Gazze'de yaklaşık 6 bin ihlal gerçekleştirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Borsa günü yüzde 1,88 yükselişle tamamladı",
+     "ozet": "BIST 100 endeksi günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-846149"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD-İran görüşmesi umuduyla petrol fiyatları geriledi",
+     "ozet": "Financial Times'a göre İran Cumhurbaşkanı'nın, dini liderin yetkililere görüşmeler konusunda belirli yetki verdiğini söylemesinin ardından petrol fiyatlarındaki düşüş sürdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1"
+      },
+      {
+       "ad": "The Guardian Business",
+       "link": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazprom 9 ayda zarardan kâra geçti",
+     "ozet": "Rus enerji şirketi Gazprom, 2026'nın ocak-eylül döneminde geçen yılın aynı dönemindeki zararın ardından kâra geçti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/gazprom-9-ayda-zarardan-kara-gecti/4108655"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/gazprom-9-ayda-zarardan-kra-gecti-3793069"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/gazprom-zarardan-kara-gecti-9-ayda-14-milyar-dolar-kazandi-haberi-846124"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin Merkez Bankası borsadaki düşüşe karşı 15 milyar dolarlık araç devreye sokuyor",
+     "ozet": "Çin Merkez Bankası, hisse senedi piyasalarındaki düşüşün ardından yatırımlar için likidite sağlayacak 15 milyar dolarlık bir takas aracını devreye sokuyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/cin-merkez-bankasi-borsadaki-dususe-karsi-15-milyar-dolarlik-takas-aracini-devreye-sokuyor/4108682"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/cin-merkez-bankasindan-borsadaki-dususe-15-milyar-dolarlik-hamle-haberi-846140"
+      }
+     ]
+    },
+    {
+     "baslik": "bp, Castrol'deki yüzde 65'lik hissesini 6 milyar dolara sattı",
+     "ozet": "Enerji şirketi bp, Castrol'deki yüzde 65'lik hissesini 6 milyar dolar karşılığında bir ABD merkezli alıcıya sattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-bp-castroldeki-yuzde-65lik-hissesini-6-milyar-dolara-satti/4108449"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/enerjide-6-milyar-dolarlik-satis-3793057"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Rekabet Kurulu'ndan Google'ın yapay zekâ hizmetlerine soruşturma ve geçici tedbir",
+     "ozet": "Rekabet Kurulu, Google hakkında yapay zekâ ön izlemeleri ve yapay zekâ modu hizmetlerine ilişkin soruşturma açtı ve geçici tedbir kararı verdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/rekabet-kurulundan-googlein-yapay-zeka-hizmetlerine-sorusturma-ve-gecici-tedbir-karari/4108501"
+      },
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/rekabet-kurumu-google-yapay-zeka-sorusturma-ve-gecici-tedbir-karari-h228160.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Yapay zekâ destekli robot bir farenin beynine bağımsız karar alarak gen terapisi uyguladı",
+     "ozet": "Anthropic'in Sonnet modeliyle yönetilen cerrahi robot, bir farenin beynine bağımsız kararlarla gen terapisi enjekte etti. Haber, bunu tıpta bir ilk olarak sunuyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/ilk-yapay-zeka-destekli-robotik-sistem-bir-fare-uzerinde-beyin-ameliyati-gerceklestirdi-h228155.html"
+      }
+     ]
+    },
+    {
+     "baslik": "SpaceX'in Boost Mobile'ı satın almayı görüştüğü bildirildi",
+     "ozet": "Haberlere göre SpaceX, kendi mobil hizmetini başlatma planları kapsamında Boost Mobile'ı satın almayı görüştü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+      }
+     ]
+    },
+    {
+     "baslik": "Marvell, Lumentum'u 115 milyar dolara satın alacak",
+     "ozet": "Haberlere göre Marvell, yapay zekâ veri merkezi pazarına yönelik hamlesinde Lumentum'u 115 milyar dolarlık bir anlaşmayla satın alacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "FDA, HIV'den korunma enjeksiyonunun jenerik versiyonunu onayladı",
+     "ozet": "STAT'a göre ABD Gıda ve İlaç Dairesi (FDA), HIV'den korunma amaçlı enjeksiyonun jenerik versiyonunu onayladı; adım, düşük gelirli düzinelerce ülkede erişimi genişletmesi bakımından önemli görülüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere'de acil servislerde ebeveyn endişeleri acil kontrolü tetikleyecek",
+     "ozet": "BBC'ye göre personelin, ebeveynlerin, bakıcıların veya çocuğun kendisinin endişesi acil serviste hemen üst düzey değerlendirmeyi başlatacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Mitokondriyal tüp bebek tekniği yaşı ilerlemiş kadınlara doğurganlık yöntemi olarak pazarlanıyor",
+     "ozet": "STAT'a göre mitokondriyal hastalıkların çocuğa geçme riskini azaltmak için geliştirilen öncü tüp bebek tekniği, etkili olduğuna dair az kanıt bulunmasına rağmen ileri yaştaki kadınlara doğurganlık yöntemi olarak pazarlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Premier Lig'de Arsenal liderliğe yerleşti",
+     "ozet": "Arsenal, Liverpool'u 1-0 yenerek Manchester City'nin mağlup olduğu haftada liderliği aldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvenin-yeni-sahibi-oldu/4108505"
+      }
+     ]
+    },
+    {
+     "baslik": "Şampiyonlar Ligi'nde 4. hafta: Galatasaray Stuttgart'ı, Fenerbahçe Liverpool'u ağırlıyor",
+     "ozet": "UEFA Şampiyonlar Ligi'nde 4. hafta başlıyor. Galatasaray Almanya ekibi Stuttgart'ı ağırlayacak; Fenerbahçe ise çarşamba günü Liverpool'la oynayacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-4-hafta-heyecani-yarin-baslayacak/4108361"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-almanya-ekibi-stuttgarti-agirlayacak/4108358"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "ABD'den iade edilen 100 kültür varlığı İstanbul Arkeoloji Müzeleri'nde tanıtıldı",
+     "ozet": "Kültür ve Turizm Bakanı Ersoy'un katılımıyla, ABD'den Türkiye'ye iadesi sağlanan 100 kültür varlığı İstanbul Arkeoloji Müzeleri'nde tanıtıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/abdden-turkiyeye-iadesi-saglanan-100-kultur-varligi-istanbul-arkeoloji-muzelerinde-tanitildi/4108591"
+      }
+     ]
+    },
+    {
+     "baslik": "Yunus Emre Divanı'nın yeni bir nüshası bulundu",
+     "ozet": "TRT Haber'e göre Yunus Emre Divanı'nın kayıp bir nüshası ortaya çıktı; ayrıntıları Prof. Dr. Güler Doğan Averbek aktardı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/kultur-sanat/yunus-emre-divaninin-kayip-nushasi-bulundu-detaylar-ilk-kez-trt-haberde-961919.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42965504",
+   "dergi": "Circulation",
+   "yazarlar": [
+    "Gao XF",
+    "Wang Y",
+    "Jiang H",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42965504/",
+   "doi": "https://doi.org/10.1161/CIRCULATIONAHA.126.082827",
+   "baslik_en": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.",
+   "baslik_tr": "Saf aort yetersizliğinde transkateter aort kapak replasmanı: Randomize SEASON-AR çalışması",
+   "ozet_en": "In this multicenter randomized open-label trial in China, 210 patients with severe pure aortic regurgitation who were poor surgical candidates received either transfemoral TAVR plus medical therapy or medical therapy alone. At one year, the composite of death, disabling stroke or heart failure rehospitalization occurred in 8.3% with TAVR versus 24.8% with medical therapy alone, mainly because of fewer heart failure rehospitalizations. TAVR carried higher early rates of major bleeding and new pacemaker implantation. The trial was open-label.",
+   "ozet_tr": "Çin'de yürütülen çok merkezli, randomize ve açık etiketli bu çalışmada, cerrahi için yüksek riskli 210 şiddetli saf aort yetersizliği hastası ya femoral yoldan TAVR + ilaç tedavisi ya da yalnızca ilaç tedavisi aldı. Bir yılda ölüm, sakatlayıcı inme veya kalp yetmezliği nedeniyle yeniden hastaneye yatış bileşik sonlanımı TAVR grubunda %8,3, yalnızca ilaç grubunda %24,8 oldu; fark çoğunlukla yeniden yatışlardaki azalmadan kaynaklandı. TAVR'da erken dönemde majör kanama ve yeni kalıcı kalp pili takılması daha sık görüldü. Çalışma açık etiketliydi.",
+   "neden_onemli": "Ameliyat edilemeyen aort yetersizliği hastaları için kateterle kapak yerleştirmenin bir seçenek olabileceğini gösteriyor."
+  },
+  {
+   "pmid": "42957778",
+   "dergi": "Nature medicine",
+   "yazarlar": [
+    "Pérez-García JM",
+    "Cortés J",
+    "Ruiz-Borrego M",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42957778/",
+   "doi": "https://doi.org/10.1038/s41591-026-04723-w",
+   "baslik_en": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial.",
+   "baslik_tr": "HER2-pozitif erken evre meme kanserinde kemoterapinin azaltılmasının 5 yıllık sonuçları ve PHERGain çalışmasından keşfedici dolaşan tümör DNA analizleri",
+   "ozet_en": "PHERGain was a randomized phase 2 trial testing whether chemotherapy could be omitted in HER2-positive early breast cancer using PET response and pathological complete response. After a median follow-up of 5.6 years, 5-year invasive disease-free survival was 89.5% in the de-escalation group (267 patients) and 92.4% among 86 PET responders who achieved complete response without chemotherapy. Detectable circulating tumor DNA was linked to worse outcomes, while clearance was linked to better ones. The authors stress that the subgroup result is descriptive, not causal.",
+   "ozet_tr": "PHERGain, HER2-pozitif erken evre meme kanserinde PET yanıtı ve patolojik tam yanıta göre kemoterapinin atlanıp atlanamayacağını sınayan randomize faz 2 çalışmasıdır. Ortanca 5,6 yıllık izlemde, kemoterapi azaltılan grupta (267 hasta) 5 yıllık invazif hastalıksız sağkalım %89,5, kemoterapisiz tam yanıt veren 86 PET yanıtlı hastada %92,4 bulundu. Saptanabilir dolaşan tümör DNA'sı daha kötü sonuçlarla, temizlenmesi ise daha iyi sonuçlarla ilişkiliydi. Yazarlar, alt grup sonucunun nedensel değil tanımlayıcı olduğunu vurguluyor.",
+   "neden_onemli": "Bazı meme kanseri hastalarında gereksiz kemoterapiden kaçınma yönündeki araştırmalara dair uzun dönem veri sunuyor."
+  },
+  {
+   "pmid": "42961418",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Beshar I",
+    "Viveros-Carreño D",
+    "Agusti N",
+    "et al."
+   ],
+   "tur": "Journal Article, Network Meta-Analysis",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42961418/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41231",
+   "baslik_en": "Survival After Risk-Reducing Mastectomy in Patients With Pathogenic Variants in BRCA1 and BRCA2: A Network Meta-Analysis.",
+   "baslik_tr": "BRCA1 ve BRCA2 patojenik varyantı olan hastalarda riski azaltıcı mastektomi sonrası sağkalım: Ağ meta-analizi",
+   "ozet_en": "This systematic review and network meta-analysis pooled five observational studies with 7,937 women carrying BRCA1 or BRCA2 variants. Risk-reducing mastectomy was associated with lower all-cause mortality than MRI-based screening (HR 0.37) or mammography alone (HR 0.16). The largest association for breast cancer-specific mortality was seen in BRCA1 carriers. However, risk of bias was critical in four studies and certainty of evidence was very low for all.",
+   "ozet_tr": "Bu sistematik derleme ve ağ meta-analizi, BRCA1 veya BRCA2 varyantı taşıyan 7.937 kadını kapsayan beş gözlemsel çalışmayı birleştirdi. Riski azaltıcı mastektomi, MRG tabanlı tarama (HR 0,37) veya yalnızca mamografiye (HR 0,16) kıyasla daha düşük tüm nedenlere bağlı ölümle ilişkiliydi. Meme kanserine özgü ölümde en büyük ilişki BRCA1 taşıyıcılarında görüldü. Ancak dört çalışmada yanlılık riski kritikti ve kanıt kesinliği tümünde çok düşüktü.",
+   "neden_onemli": "BRCA taşıyıcılarının koruyucu cerrahi kararında hekimle birlikte karar vermeye dair veri sunuyor; kanıt kesinliği düşüktür."
+  }
+ ]
+}
