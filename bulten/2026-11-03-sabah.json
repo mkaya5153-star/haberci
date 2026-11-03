@@ -1,0 +1,692 @@
+{
+ "tarih": "2026-11-03",
+ "donem": "sabah",
+ "giris": "ABD, ara seçimler arifesinde İran'ın Keşm Adası'na hava saldırısı düzenledi; Trump ise müzakere sinyali verdi. Avrupa'da süpermarket soğutucularını hedef alan siber saldırılar sürerken Rusya'nın Ukrayna'daki bir yardım merkezine saldırısında 26 kişi öldü. Türkiye'de gözler bugün açıklanacak ekim enflasyonunda.",
+ "one_cikanlar": [
+  {
+   "baslik": "ABD, ara seçimler öncesi İran'ın Keşm Adası'nı vurdu",
+   "ozet": "Reuters, AP ve BBC'nin aktardığına göre ABD, Hürmüz Boğazı yakınındaki Keşm Adası'nda İran hedeflerine saldırı düzenledi; bir ABD'li yetkili bunları 'savunma amaçlı' olarak nitelendirdi. İran'ın Devrim Muhafızları ise bölgede ABD'ye ait iki insansız hava aracını düşürdüğünü açıkladı. Başkan Yardımcısı Vance müzakereyle uzlaşma ihtimaline 'oldukça iyimser' baktıklarını, Trump ise savaşı yeniden başlatmakta acelesi olmadığını söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231"
+    }
+   ],
+   "neden_onemli": "Hürmüz Boğazı enerji akışı ve petrol fiyatları açısından kritik; gerilim ya da uzlaşma piyasaları doğrudan etkiliyor."
+  },
+  {
+   "baslik": "ABD'de ara seçim günü: anketlerde Trump'ın onayı düşük",
+   "ozet": "ABD'de 3 Kasım'da Kongre ara seçimleri yapılıyor. Reuters/Ipsos anketine göre Trump'ın onay oranı görev süresinin en düşük seviyelerine yakın. Trump seçmenleri 'sandığa gitmeye' çağırdı; Yüksek Mahkeme ise yönetimin Kaliforniya'daki binlerce oy pusulasını geçersiz kılma girişimini reddetti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-amerikali-secmenlere-sandiga-gidin-cagrisi-yapti/4109183"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/donald-trump-tan-sandiga-gidin-cagrisi-3924450"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckJ4X3UzNnZ3QWxTaXBzanBjc000blVFTXpDRDFEYnFUa29ZcWpOM1lxWS1LSWpMSlFfMFYzZ3U0UE4xZGpSQXJHc2ZneGllSzRZMjdZS3p4dzM5ZUk1dWtOd2ticXV5OGZBLXZqVHhSMi1uTGl1cUR5a2wzZm45cVllZy05UXBURGhLaWN5WWU0SlNMdS1zamRodWhNNUlqWEJKUW1qZmNCRHpnNFRscXlR?oc=5"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots"
+    }
+   ],
+   "neden_onemli": "Seçim sonucu ABD'nin iç ve dış politikasını, ticaret ve İran gibi dosyaları şekillendirecek."
+  },
+  {
+   "baslik": "Avrupa'da süpermarket soğutucularına siber saldırı",
+   "ozet": "Yedi Avrupa ülkesinde onlarca süpermarketteki internete bağlı soğutucu ve dondurucular siber saldırıdan etkilendi; BBC Türkçe'ye göre bazı marketlerde sıcaklık 50 dereceye kadar çıktı. Saldırının faili henüz açıklanmadı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/avrupa-da-süpermarketlerin-soğutma-sistemlerine-siber-saldırı-yedi-ülke-etkilendi/a-79833484?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/02/belcika-supermarketlerine-siber-saldiri-internete-bagli-sogutucular-neden-riskte"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+    }
+   ],
+   "neden_onemli": "Gıda zincirinin internete bağlı cihazlara bağımlılığı kritik altyapı güvenliği sorusunu gündeme getiriyor."
+  },
+  {
+   "baslik": "Rusya'nın Ukrayna'daki yardım merkezine saldırısında 26 ölü",
+   "ozet": "Ukrayna yetkililerine göre Rusya'nın Zaporijya bölgesindeki Komişuvaha köyüne düzenlediği hava saldırılarında, bir yardım merkezi ve sığınak dahil, en az 26 kişi öldü. BBC'ye göre en az dokuz adet 3 bin kiloluk bomba kullanıldı. ABD ayrıca 10-11 Kasım'da Abu Dabi'de Ukrayna ile Rusya arasındaki çalışma düzeyindeki müzakerelere arabuluculuk yapacak.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-yapacak/4109254"
+    }
+   ],
+   "neden_onemli": "Savaşın sivillere etkisi sürerken diplomatik kanal yeniden açılıyor."
+  },
+  {
+   "baslik": "Ebola salgını en hızlı büyüyen salgın oldu: 5 bin 300'ü aşkın ölü",
+   "ozet": "Euronews'e göre nadir görülen Bundibugyo virüsünün yol açtığı salgında mayıstan bu yana 10 binden fazla kişi enfekte oldu ve 5 bin 300'den fazla kişi hayatını kaybetti; salgın Kenya, Uganda ve Nijerya'ya sıçradı. Al Jazeera ölümlerin çoğunun Kongo Demokratik Cumhuriyeti'nde yaşandığını bildiriyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss"
+    }
+   ],
+   "neden_onemli": "Kayıtlardaki en hızlı büyüyen Ebola salgını uluslararası yayılma riskini artırıyor."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "TÜİK ekim ayı enflasyon verilerini bugün açıklıyor",
+     "ozet": "Türkiye İstatistik Kurumu bugün ekim ayına ait enflasyon rakamlarını duyuracak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/ekim-ayi-enflasyon-rakamlari-aciklanacak-p375403"
+      }
+     ]
+    },
+    {
+     "baslik": "MHP lideri Bahçeli'nin kız kardeşi Serpil Bahçeli hayatını kaybetti",
+     "ozet": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti. Cumhurbaşkanı Erdoğan taziye mesajı yayımladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/02/devlet-bahcelinin-kiz-kardesi-serpil-bahceli-hayatini-kaybetti"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784671/haber/devlet-bah%C3%A7eli%E2%80%99nin-k%C4%B1z-karde%C5%9Fi-serpil-bah%C3%A7eli-hayat%C4%B1n%C4%B1-kaybetti"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahcelinin-aci-gunu-kiz-kardesi-serpil-bahceli-hayatini-kaybetti-43363703"
+      }
+     ]
+    },
+    {
+     "baslik": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu 82 yaşında öldü",
+     "ozet": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, tedavi gördüğü hastanede 82 yaşında hayatını kaybetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/ckjrwvl8p054o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784674/haber/zorlu-holding-y%C3%B6netim-kurulu-ba%C5%9Fkan%C4%B1-ahmet-nazif-zorlu-hayat%C4%B1n%C4%B1-kaybetti"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/son-dakika-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-43363818"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/bilgi/ahmet-nazif-zorlu-hayatini-kaybetti-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-kimdir-3924438"
+      }
+     ]
+    },
+    {
+     "baslik": "Sarıgül ailesi soruşturmasında 4 kişi daha tutuklandı",
+     "ozet": "Sarıgül ailesine yönelik 'kara para' soruşturması kapsamında 30 Ekim'de gözaltına alınan 10 kişiden 4'ü tutuklandı; tutuklu sayısı 26'ya yükseldi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784670/haber/sar%C4%B1g%C3%BCl-ailesi%E2%80%99ne-y%C3%B6nelik-soru%C5%9Fturmada-4-ki%C5%9Fi-daha-tutukland%C4%B1"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasi-yeni-gelisme-2-kasim-2026-p375307"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon soruşturmasında eski Borsa İstanbul Genel Müdürü Ergun için tutuklama talebi",
+     "ozet": "Sermaye piyasalarındaki işlemlere ilişkin fon soruşturması kapsamında gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun hakkında 'rüşvet almak' suçundan tutuklama talep edildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-korkmaz-enes-ergun-a-tutuklama-talebi-3924439"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/korkmaz-enes-ergun-hakkinda-karar-p375306"
+      }
+     ]
+    },
+    {
+     "baslik": "DEM Parti, 'kent uzlaşısı' ile CHP listesinden seçilen meclis üyelerinin kendi çatısı altında çalışacağını duyurdu",
+     "ozet": "BBC Türkçe'ye göre DEM Parti, 2024 yerel seçimlerinde kent uzlaşısı kapsamında CHP listelerinden seçilen belediye meclis üyelerinin bundan böyle DEM Parti çatısı altında görev yapacağını açıkladı. Karar İBB Meclisi'ndeki dengeler açısından tartışılıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c6gm0k14138wo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Başdanışman Uçum'dan 16 Nisan 2028 seçim önerisi",
+     "ozet": "BBC Türkçe'ye göre Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Erdoğan'ın yeniden aday olabilmesi için seçimlerin 7 Mayıs 2028'den önce yapılması gerektiğini belirterek 16 Nisan 2028 tarihini önerdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c60me7rd2xgno?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 iklim zirvesi 9-20 Kasım'da Antalya'da",
+     "ozet": "TRT Haber'e göre Türkiye, 9-20 Kasım 2026'da Antalya'da düzenlenecek COP31 İklim Zirvesi'ne hazırlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/turkiye-cop31-zirvesine-hazir-iklim-diplomasisinin-kalbi-antalyada-atacak-962015.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "ABD, Güney Afrika ve Ruanda'nın gümrüksüz ticaret ayrıcalığını askıya alacak",
+     "ozet": "Reuters'a göre ABD, Güney Afrika ve Ruanda'yı gümrüksüz ticaret erişiminden çıkarmaya hazırlanıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail'de Demokratlar Partisi başbakanlık için Eisenkot'u destekleyecek",
+     "ozet": "27 Ekim seçimlerinin ardından koalisyon belirsizliği sürerken muhalefetteki Demokratlar Partisi, başbakanlık için Gadi Eisenkot'u destekleyeceğini duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israil-de-muhalefet-blogundaki-demokratlar-partisi-basbakanlik-icin-eisenkotu-destekleyecegini-duyurdu/4109009"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784669/d%C3%BCnya/i%CC%87srail%E2%80%99de-muhalefet-blo%C4%9Fundaki-demokratlar-partisi-ba%C5%9Fbakanl%C4%B1k-i%C3%A7in-eisenkotu"
+      }
+     ]
+    },
+    {
+     "baslik": "Almanya'da siyasetçilerin telefonlarına yönelik siber saldırı girişimi doğrulandı",
+     "ozet": "Dijital Dönüşüm Bakanı Karsten Wildberger, Bundestag milletvekilleri ve hükümet üyelerinin cep telefonlarını hedef alan bir siber saldırı girişimini doğruladı. DW Türkçe'ye göre Apple bazı siyasetçileri iPhone'larının casus yazılımla hedeflenmiş olabileceği konusunda uyarmıştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/almanya-dijital-donusum-bakani-wildberger-siyasetcileri-hedef-alan-siber-saldiri-girisimini-dogruladi/4109066"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/dunya/avrupada-siyasi-kriz-ve-siber-saldiri-dalgasi-7693643"
+      }
+     ]
+    },
+    {
+     "baslik": "Kuzey Kore, Binance soygunu iddialarını reddetti",
+     "ozet": "Kuzey Kore, ABD'nin kendisini yaklaşık 6 milyar dolarlık Binance kripto soygunuyla ilişkilendiren iddialarını 'saçma' diyerek reddetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPamY3Mk11cHc4Sm1FcjFUaGxnMzJsVlBTQ29SZHBfLW5OZEk4b01IT2xmMExvYkV3cjlrNFBiNC1LV0NYSVk5WG5FejRtVXoydlF1SVVfN0g3bndRRHhBdjNPOUFUZUdyQWpERGJIVHBwSXJveFB3NXl5Yl8tcDdZTnZWZk5HVXZvZEo0bUhGZVl6dmh4TS1wT19XRlB0YVl1MmhwY0JzUHg4UmJMb3ZRZnQwclJySG5SemdSZkpuZkNWck45ZlMyWW1oMkIwUQ?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist"
+      }
+     ]
+    },
+    {
+     "baslik": "Avustralya'nın sosyal medya yasağına karşı Yüksek Mahkeme'de dava başlıyor",
+     "ozet": "BBC'ye göre bir hak örgütü, 16 yaş altına getirilen sosyal medya yasağının çocukların iletişim özgürlüğünü ihlal ettiğini savunacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court"
+      }
+     ]
+    },
+    {
+     "baslik": "Kuzey Kore stratejik seyir füzesi test etti",
+     "ozet": "KCNA'ya göre Kuzey Kore, dağıtıcı başlıklı bir stratejik seyir füzesi denemesi yaptı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWVmc205S3NUUjduWmR4TDE0U3ZtVUo0NThjS2xEMzFyUEtCRlB0RjR1S0YycEwwcjRFUlZBNTl5VVhQWVpkT01uRmJQZVR6Mm82RnZZaDZGVW9XRzZEaE55ci1nVUpORzc5M2Q3d0ZHYU9SdjVfU0h1ZFVOM0Y4TjY3VWltMXJjTnV6Z3EySFNZRHRraDhRNy1ScjhUNldaZnlnWWx2YUNtZEZsWDIxcl94cG02MGt4SERJQ1FGWEhmdkFxRnM2bHg2ZU1TX25maXlxU0NFREw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Marvell, Lumentum'u 115 milyar dolara satın alıyor",
+     "ozet": "AA'ya göre ABD'li çip üreticisi Marvell Technology, optik ağ şirketi Lumentum'u tamamı hisse takasıyla yaklaşık 115 milyar dolarlık işletme değeriyle satın alacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/marvell-lumentum-u-115-milyar-dolara-satin-aliyor-3793125"
+      }
+     ]
+    },
+    {
+     "baslik": "Apple: bellek çipi maliyetleri marjları baskılayacak",
+     "ozet": "Financial Times'a göre Apple, 'eşi görülmemiş' bellek çipi maliyetlerinin kâr marjlarını etkileyeceği uyarısında bulundu; tatil sezonu satışlarını güçlü bekliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Anthropic üçüncü çeyrekte yaklaşık 17 milyar dolar gelir elde etti",
+     "ozet": "AA'ya göre Anthropic üçüncü çeyrekte yaklaşık 17 milyar dolar gelir bildirdi. Financial Times ise şirketin halka arz öncesinde yaklaşık 900 milyar dolarlık yapay zekâ harcama taahhüdü olduğunu aktardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-ucuncu-ceyrekte-yaklasik-17-milyar-dolar-gelir-elde-etti/4109069"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Avustralya Merkez Bankası faizi 18 yılın zirvesine çıkardı",
+     "ozet": "Bloomberg HT'ye göre RBA politika faizini 18 yılın en yüksek seviyesine yükseltti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/avustralya-faiz-oranini-18-yilin-zirvesine-cikardi-3793144"
+      }
+     ]
+    },
+    {
+     "baslik": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+     "ozet": "Anadolu Grubu Holding ve Vestel Elektronik'in TOGG'daki paylarının Türkiye Varlık Fonu ve Turkcell'e devrine ilişkin sözleşmeler imzalandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/togg-da-anadolu-grubu-ve-vestel-in-paylari-tvf-ve-turkcell-e-geciyor-3793139"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Kacır: İmalat sanayisine 250 milyar liralık kredi imkânı",
+     "ozet": "Sanayi ve Teknoloji Bakanı Kacır, İmalat Sanayisi Finansman Programı kapsamında 150 milyar liralık kefalet desteğiyle toplam 250 milyar liralık krediye erişim sağlanacağını açıkladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/bakan-kacir-imalat-sanayisine-250-milyar-liralik-kredi-imkani-sagliyoruz-3793133"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Rekabet Kurumu'ndan Google'a yapay zekâ özetleri soruşturması ve geçici tedbir",
+     "ozet": "Webtekno'ya göre Rekabet Kurumu, Google'ın yapay zekâ özetleri nedeniyle yayıncıları korumak için resmî soruşturma açtı ve geçici tedbir kararı aldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/rekabet-kurumu-google-yapay-zeka-sorusturma-ve-gecici-tedbir-karari-h228160.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin, üç yıl içinde Ay'a iniş planını açıkladı",
+     "ozet": "Ars Technica'ya göre Çin, 2030 öncesini hedefleyen Ay'a iniş takvimini kamuoyuyla paylaştı; plan Apollo 8 veya Artemis II benzeri bir görev içermiyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+      }
+     ]
+    },
+    {
+     "baslik": "LHC'de küçük çarpışmalarda Büyük Patlama maddesine dair kanıt",
+     "ozet": "ScienceDaily'ye göre CERN'deki Büyük Hadron Çarpıştırıcısı'nda yürütülen çalışmalar, görece küçük atom çarpışmalarının bile evrenin ilk anlarını dolduran madde halini yeniden oluşturabildiğine işaret ediyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Omurilik yaralanmaları için geliştirilen ilaç Alzheimer'ın bazı özelliklerine karşı etkili bulundu",
+     "ozet": "ScienceDaily'ye göre araştırmacılar, başlangıçta omurilik yaralanmaları için geliştirilen bir ilacın DNA hasarı ve beyin iltihabı gibi Alzheimer özelliklerini hedef alabildiğini buldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "FDA, HIV önleme iğnesi lenacapavirin jenerik sürümünü onayladı",
+     "ozet": "STAT News'e göre FDA, HIV önleme iğnesinin jenerik sürümünü onayladı; bu adımın düşük gelirli ülkelerde erişimi genişletmesi bekleniyor. AP de onayın bu ülkelerde umut yarattığını bildiriyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjVMb3NXd2JvWHBIX1FYZ3BiR0gydzQ4RExpX1pqS2lnQnh0Qk1GTkFqZ2R5emxWSHUzbXEtTHM1NlpEWGZnM1FKT2NfZUUzd2ltVU5VS0lURl96T0YyVW9VcDBIZnVVUDFvV2RCRks4ajhEUUoyZHY1VVVCM21XRmZlMEUxaEVGS09lenFzZlB4T0ZTVm91b2lDRDJtbENY?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de Washington eyaletinde kuş gribinden ölüm",
+     "ozet": "STAT News'e göre Washington eyaletinde enfekte sığırlarla temas sonrası bir kişi kuş gribi komplikasyonlarından öldü; bu, ABD'de bir yıl içindeki ilk ölüm. Ars Technica virüs hayvancılığa geçmeye başladığından beri üçüncü ölüm olduğunu belirtiyor, risk düşük kabul ediliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss"
+      },
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+      }
+     ]
+    },
+    {
+     "baslik": "New York'ta kızamık salgınında 30 yıldan sonra ilk çocuk ölümü",
+     "ozet": "Reuters'a göre New York eyaleti, süren salgında kızamığa bağlı 30 yılı aşkın sürenin ilk çocuk ölümünü bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdFpmQ09YS2NVemF2RUJCMjFnTEdzVnhnR2w1NUZ2RFNOS0VlMUxhQ0VxYW03Y3pxUE5Fam5aS0dFd3FLWkNRZHFXbTY4Rmg0SC1BUGd6NzhyU0poOU15TEdTNm5QR0FsQ3B2N29wNElMX0V0ZUxMdFdjeFQza05tWnZSaHJBZlFoaUJlNTdTVjlheHFwV2ZVS2NOSWVCYzlmNmw3dHptUmFiZFVBZmpHYjFoUXVnWXFIcVdHTHQ0MGpwaEdxRUl3ZVRwcXB2cUJEeXdUbmNyZlltdXlfNnF4ZF9zSQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Fifa, Dünya Kupası satış planı belgelerini konsey üyeleriyle paylaşacak",
+     "ozet": "BBC Sport'a göre konsey üyeleri gizli belgeleri görmek için Fifa'nın Zürih'teki merkezine gitmek zorunda kalacak ve 'sıkı inceleme protokollerine' tabi olacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino"
+      }
+     ]
+    },
+    {
+     "baslik": "Galatasaray bugün Şampiyonlar Ligi'nde Stuttgart'ı ağırlıyor",
+     "ozet": "Stuttgart Teknik Direktörü Sebastian Hoeness, UEFA Şampiyonlar Ligi'nin 4. haftasında oynanacak maçın zorlu geçeceğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-bizim-icin-zorlu-bir-mac-olacak/4109039"
+      }
+     ]
+    },
+    {
+     "baslik": "Milli kick boksçular Avrupa Şampiyonası'nda 3 altın hedefliyor",
+     "ozet": "Büyükler Avrupa Şampiyonası'na Erzurum'da hazırlanan milli sporcular, Kuzey Makedonya'dan 3 altın madalyayla dönmeyi hedefliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscularin-avrupa-sampiyonasindaki-hedefi-altin-madalya/4109191"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Dundee'deki V&A'da David Bowie'nin İskoçya bağları sergisi",
+     "ozet": "BBC'ye göre Bowie'nin kişisel arşivinden yüzlerce eser, Dundee'deki V&A'da sergilenecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Seul'de Türk fotoğrafçının objektifinden 70 yıl önceki Kore sergisi",
+     "ozet": "İletişim Başkanlığı, Seul'de 'Bir Dostluğun Doğuşu: Bir Türk Fotoğrafçının Objektifinden 70 Yıl Önceki Kore' sergisini düzenleyecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/iletisim-baskanliginca-seulde-bir-dostlugun-dogusu-sergisi-duzenlenecek/4108950"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42970643",
+   "baslik_en": "Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.",
+   "baslik_tr": "Sol kulakçık kulakçığı kapatma sonrası antitrombotik tedavi: SIMPLAAFY çalışması",
+   "dergi": "JAMA",
+   "yazarlar": [
+    "Reddy VY",
+    "Saliba WI",
+    "Waggoner T",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In this open-label trial, 1,857 patients with atrial fibrillation who had a successful left atrial appendage closure were randomized to dual antiplatelet therapy, a reduced-dose anticoagulant, or aspirin alone. At 6 months, both the reduced-dose anticoagulant and aspirin alone were noninferior to dual antiplatelet therapy for death, stroke, embolism or major bleeding. Major bleeding was 4.5%, 2.7% and 1.7% respectively. Bleeding and device-thrombus rates were exploratory, and the trial was open-label.",
+   "ozet_tr": "Bu açık etiketli çalışmada, kulakçık kapama işlemi başarıyla yapılmış 1.857 atriyal fibrilasyon hastası çift antiplatelet tedavisi, düşük doz antikoagülan ya da yalnızca aspirine randomize edildi. Altıncı ayda düşük doz antikoagülan ve tek başına aspirin; ölüm, inme, emboli veya majör kanama açısından çift antiplatelet tedaviden aşağı değildi. Majör kanama oranları sırasıyla %4,5, %2,7 ve %1,7 idi. Kanama ve cihaz trombüsü oranları keşfedici analizdi ve çalışma açık etiketliydi.",
+   "neden_onemli": "Bu işlemden sonra daha hafif ilaç rejimlerinin yeterli olabileceğini ve kanama riskini azaltabileceğini gösteriyor; ilaç değişikliği için hekime danışmak gerekir.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970643/",
+   "doi": "https://doi.org/10.1001/jama.2026.21361"
+  },
+  {
+   "pmid": "42970801",
+   "baslik_en": "Timing of Long COVID Improvement in Prospectively Followed RECOVER-Adult Participants.",
+   "baslik_tr": "RECOVER-Erişkin katılımcılarında uzun COVID'de iyileşmenin zamanlaması",
+   "dergi": "Annals of internal medicine",
+   "yazarlar": [
+    "Reeder HT",
+    "Donohue SE",
+    "Martin JN",
+    "et al."
+   ],
+   "tur": "Prospektif kohort çalışması",
+   "ozet_en": "This prospective cohort followed 1,019 US adults who still had likely long COVID 12 months after infection. By 36 months, an estimated 50.1% had meaningful symptom reduction, and 26.9% had complete remission of symptoms. Because it is observational, the study cannot show what caused improvement, and the authors call for placebo-controlled treatment trials.",
+   "ozet_tr": "Bu prospektif kohort çalışması, enfeksiyondan 12 ay sonra hâlâ olası uzun COVID'i olan 1.019 ABD'li yetişkini izledi. 36. aya kadar tahminen %50,1'inde belirtilerde anlamlı azalma, %26,9'unda belirtilerin tamamen kaybolması görüldü. Gözlemsel olduğu için iyileşmenin nedeni gösterilemiyor; yazarlar plasebo kontrollü tedavi çalışmaları çağrısı yapıyor.",
+   "neden_onemli": "Uzun COVID'i olan birçok kişide belirtilerin zamanla azaldığını gösteren umut verici veri sunuyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970801/",
+   "doi": "https://doi.org/10.7326/ANNALS-25-05275"
+  },
+  {
+   "pmid": "42970293",
+   "baslik_en": "Caring Contacts and Suicidality Among American Indian and Alaska Native Communities: A Randomized Clinical Trial.",
+   "baslik_tr": "Amerikan Yerlisi ve Alaska Yerlisi topluluklarında 'Şefkatli Temaslar' ve intihar eğilimi: randomize klinik çalışma",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Comtois KA",
+    "Hebert LE",
+    "Bogic M",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "This blinded trial randomized 709 American Indian and Alaska Native adults with active suicidality to culturally adapted Caring Contacts (supportive text messages or cards over 12 months) plus usual resources, or to resources alone. Suicidal ideation and past-year attempts fell markedly in both groups, with no significant difference between them. Only 64% provided 12-month follow-up data, and the shared improvement may reflect regression to the mean or the effect of supportive baseline contact.",
+   "ozet_tr": "Bu kör çalışmada, aktif intihar düşüncesi olan 709 Amerikan Yerlisi ve Alaska Yerlisi yetişkin; 12 ay boyunca destekleyici mesaj veya kart içeren kültüre uyarlanmış 'Şefkatli Temaslar' ile mevcut kaynaklara ya da yalnızca mevcut kaynaklara randomize edildi. İntihar düşüncesi ve son bir yıldaki girişimler her iki grupta belirgin azaldı, gruplar arasında anlamlı fark çıkmadı. Katılımcıların yalnızca %64'ü 12. ay verisi sağladı; ortak iyileşme ortalamaya dönüş veya destekleyici ilk temasın etkisini yansıtabilir.",
+   "neden_onemli": "Düşük maliyetli mesaj müdahalesinin ek fayda sağlamadığını, ancak destekleyici temasın kendisinin önemli olabileceğini gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970293/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.39023"
+  }
+ ]
+}
