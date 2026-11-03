@@ -1,0 +1,737 @@
+{
+ "tarih": "2026-11-03",
+ "donem": "aksam",
+ "giris": "ABD'de Kongre'nin kontrolünü belirleyecek ara seçimler başladı; Trump'ın İsrail'e yönelik 4 milyar dolarlık yardımı sonlandıracağını duyurması ve ABD'nin Hürmüz Boğazı'ndaki İran hedeflerini vurması günün öne çıkan başlıkları arasında. Türkiye'de ekim enflasyonu TÜİK'e göre yıllık yüzde 29,77 olarak açıklanırken fon soruşturması finans bürokrasisine uzanıyor. Avrupa'da uçaklara yönelik bomba ihbarları ve süpermarketlere yönelik siber saldırılar dikkat çekti.",
+ "one_cikanlar": [
+  {
+   "baslik": "Fon soruşturmasında 'kapsamlı suç yapısı' açıklaması",
+   "ozet": "Adalet Bakanı Akın Gürlek, sermaye piyasalarına yönelik 'fon soruşturması' kapsamında üst düzey finans bürokrasisini de içine alan organize bir suç yapısı tespit edildiğini söyledi. İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada aralarında eski SPK ve mevcut BDDK yöneticilerinin de bulunduğu 6 kişi hakkında yeni gözaltı kararı verildiği bildirildi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-kapsamli-suc-yapisi-tespit-edildi-962062.html"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/akın-gürlek-fon-soruşturmasında-suç-yapısı-tespit-ettik/a-79839713?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/03/bakan-gurlek-fon-sorusturmasinda-kapsamli-organize-bir-piyasa-dolandiriciligi-ve-suc-yapis"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/adalet-bakani-akin-gurlekten-fon-sorusturmasi-aciklamasi-43364017"
+    }
+   ],
+   "neden_onemli": "Soruşturma, finans düzenleyicilerinin üst kademelerine uzanması nedeniyle piyasa güveni açısından yakından izleniyor."
+  },
+  {
+   "baslik": "ABD'de ara seçimler: Kongre'nin kontrolü oylanıyor",
+   "ozet": "ABD'de Kongre'nin iki kanadını belirleyecek ara seçimlerde oy verme işlemi başladı. BBC Türkçe'den Anthony Zurcher, sonuçlara göre ortaya çıkabilecek tabloyu üç senaryo üzerinden ele alıyor; ABD Adalet Bakanlığı ise ilk kez 50 eyaletin tümünde seçim gözlemcisi görevlendireceğini duyurdu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c6rmyrpjr4n9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/abd-de-kritik-ara-seçimler-başladı-trump-seçmenden-güvenoyu-alabilecek-mi/a-79842490?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/03/abdde-kritik-ara-secim-demokratlar-kongrede-cogunlugu-hedefliyor"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/live-abd-ara-secimlerinde-oy-verme-islemi-basladi-43364531"
+    }
+   ],
+   "neden_onemli": "Sonuçlar Başkan Trump'ın ikinci dönemindeki yasama gündemini ve iç ve dış politika dengelerini belirleyecek."
+  },
+  {
+   "baslik": "Trump: İsrail'e yönelik 4 milyar dolarlık yardım durdurulacak",
+   "ozet": "ABD Başkanı Donald Trump, İsrail'e yapılan yaklaşık 4 milyar dolarlık yardımın 2026 sonunda sona ereceğini açıkladı. AP'nin aktardığına göre Trump, İsrail'in artık askeri teçhizatı satın alma yoluna gittiğini söyledi; Le Monde ise yardımı yıllık 3,8 milyar dolarlık güvenlik desteği olarak veriyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/trump-israile-4-milyar-dolarlik-yardimin-durdurulacagini-bildirdi/4110187"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/oy-verme-islemi-surerken-trumptan-surpriz-karar-israile-4-milyar-dolarlik-yardimi-durdurdu-p375689"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/dunya/trump-onlar-da-memnun-diyerek-duyurdu-israil-e-4-milyar-dolarlik-yardim-durdurulacak-2552990"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year"
+    }
+   ],
+   "neden_onemli": "ABD'nin İsrail'e onlarca yıllık güvenlik yardımı düzeninde köklü bir değişikliğe işaret ediyor."
+  },
+  {
+   "baslik": "ABD, seçimler öncesinde Hürmüz Boğazı'ndaki İran hedeflerini vurdu",
+   "ozet": "Bir ABD yetkilisine göre ABD, Hürmüz Boğazı'ndaki İran hedeflerine 'savunma amaçlı' saldırılar düzenledi; DW Türkçe saldırıyı İran'ın Keşm Adası'na yönelik olarak aktarıyor. DW'ye göre Trump bir süre önce ara seçimlerden önce İran'ı vurmayacaklarını söylemişti.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/amerikan-ordusu-abd-kongre-seçimlerinden-hemen-önce-iran-ın-keşm-adası-nı-vurdu/a-79836649?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+    }
+   ],
+   "neden_onemli": "Hürmüz Boğazı'ndaki gerilim, enerji fiyatlarını ve bölgesel güvenliği doğrudan etkiliyor."
+  },
+  {
+   "baslik": "Ekim enflasyonu: TÜİK'e göre yıllık yüzde 29,77, ENAG'a göre yüzde 45,12",
+   "ozet": "TÜİK verilerine göre tüketici fiyatları ekimde aylık yüzde 2,58, yıllık yüzde 29,77 arttı. Bağımsız Enflasyon Araştırma Grubu (ENAG) ise yıllık enflasyonu yüzde 45,12 olarak hesapladı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/yıllık-enflasyon-tüik-e-göre-yüzde-29-77-enag-a-göre-yüzde-45-12/a-79835642?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/son-dakika-ekim-ayi-enflasyonu-aciklandi-p375479"
+    }
+   ],
+   "neden_onemli": "İki ölçüm arasındaki fark, ücret, kira ve fiyat ayarlamaları gibi birçok kararda hangi verinin esas alındığı tartışmasını sürdürüyor."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "MİT Başkanı Kalın BAE'yi ziyaret etti",
+     "ozet": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın, Birleşik Arap Emirlikleri'ne ziyarette bulundu. Haberlerde görüşmenin ayrıntıları paylaşılmadı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/mit-baskani-kalin-birlesik-arap-emirliklerini-ziyaret-etti/4110208"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/mit-baskani-kalin-bae-yi-ziyaret-etti-3924670"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/ibrahim-kalindan-baeye-ziyaret-p375692"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/mit-baskani-kalin-birlesik-arap-emirlikleri-ni-ziyaret-etti-2552987"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan: Güney Kore ile stratejik ortağız",
+     "ozet": "Cumhurbaşkanı Erdoğan, Güney Kore Devlet Başkanı Lee ile ortak basın toplantısında karşılıklı ziyaretlerin stratejik ortaklığa katkı sunduğunu söyledi. DW Türkçe görüşmede dört anlaşma imzalandığını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-kore-ile-stratejik-ortagiz-962070.html"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/erdoğan-ile-güney-kore-devlet-başkanı-lee-görüştü-dört-anlaşma-imzalandı/a-79844341?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/11/03/baskan-erdogan-ile-guney-kore-devlet-baskani-lee-ortak-basin-toplantisi-duzenliyor"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/03/erdoganin-guney-kore-ziyaretinden-sinop-icin-isbirligi-ve-ticarette-15-milyar-dolar-hedefi-cikti/"
+      }
+     ]
+    },
+    {
+     "baslik": "Milas'ta belediye başkanvekilliği seçimi sonuçlandı",
+     "ozet": "Belediye Başkanı Fevzi Topuz'un tutuklanarak görevden uzaklaştırılmasının ardından yapılan Milas Belediye Başkanvekilliği seçiminde Barbaros Gezgin başkanvekili seçildi. Cumhuriyet, üçüncü turda CHP'nin adayı Çağlar Koban'ın elendiğini yazdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/siyaset/milas-ta-baskan-vekilligi-secimi-butlanin-adayi-elendi-iki-parti-dorduncu-tura-kaldi-2552951"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/03/barbaros-gezgin-milas-belediye-baskanvekili-secildi/"
+      }
+     ]
+    },
+    {
+     "baslik": "Borsa İstanbul A.Ş. eski Genel Müdürü tutuklandı",
+     "ozet": "Sözcü'nün haberine göre Borsa İstanbul A.Ş. eski Genel Müdürü hakkında tutuklama kararı verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-korkmaz-enes-ergun-tutuklandi-p375423"
+      }
+     ]
+    },
+    {
+     "baslik": "Memur ve memur emeklilerine 2027'de yüzde 5 ve yüzde 4 zam",
+     "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, 2027 yılında memurlar için yüzde 5, memur emeklileri için yüzde 4 oranında artış yapılacağını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cwzd6m2y21r8o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Öcalan yeni binaya taşındı: statü tartışması",
+     "ozet": "DW Türkçe'ye göre PKK lideri Abdullah Öcalan yeni binaya taşındı. DEM Parti Öcalan'ı 'Barış ve Siyasallaşma Koordinatörü' olarak tanımlıyor; iktidardan ise bu konuda bir açıklama gelmedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/öcalan-taşındı-koordinatörlük-yolu-mu-açılıyor/a-79843834?maca=tur-rss-tur-all-1495-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin hayatını kaybetti",
+     "ozet": "Dışişleri Bakanı Hakan Fidan, hayatını kaybeden Güney Sudan Büyükelçisi Metin Ergin için başsağlığı mesajı paylaştı. Fidan, Ergin'in ülkesine 35 yıl boyunca özveriyle hizmet ettiğini belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/turkiyenin-guney-sudan-buyukelcisi-metin-ergin-hayatini-kaybetti-disisleri-bakani-hakan-fidandan-bassagligi-mesaji-43364738"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-nin-juba-buyukelcisi-metin-ergin-hayatini-kaybetti-2552984"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Trump: Kanada ile ticaret anlaşmasına yakınız",
+     "ozet": "Trump, ABD'nin Kanada ile bir ticaret anlaşması yapmaya yaklaştığını söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Tusk: Rusya Polonya'da 'istikrarsızlık' yaratmaya çalışıyor",
+     "ozet": "Polonya Başbakanı Donald Tusk, Rusya'nın Polonya'da istikrarsızlık yaratmaya çalıştığını söyledi. France 24'e göre Tusk, Rus sınırında girişilen bir provokasyonun önlendiğini belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEJlRjhuOGRzMGV2M1dKQkpWWV9ISHR0M1dtMHdUNXQ3QkZiOFlyUWJLa2hmYkN4aW14Snd1ejlzNnVoX21DLWpieGdJdlpmaHpCQ09qRGhYLWFFcEo0OGt1TXktRTF0WTk0QmJrWGxaM0J0bzFnU3FVZ09ZVjZMT2Ffa2U4RXhqb3pGNE8zUmtQZ25uTEtOWFlB?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261103-poland-prevented-attempted-provocation-russian-border-pm-tusk-says"
+      }
+     ]
+    },
+    {
+     "baslik": "Kremlin: Ukrayna için üçlü barış görüşmeleri önümüzdeki hafta Abu Dabi'de",
+     "ozet": "Reuters'in aktardığına göre Kremlin, Ukrayna konusundaki üçlü barış görüşmelerinin önümüzdeki hafta Abu Dabi'de yapılacağını doğruladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Kiev: Rus bombardımanı bir yardım merkezinde 31 kişiyi öldürdü",
+     "ozet": "BBC'nin aktardığına göre Ukrayna yetkilileri, güneydeki bir köyde yardım merkezine en az dokuz adet 3 bin kiloluk hava bombası atıldığını ve 31 kişinin öldüğünü bildirdi. Ukrayna Devlet Başkanı saldırıyı 'son derece korkunç' diye niteledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Avrupa'da uçaklara bomba ihbarları: aksama var, patlayıcı bulunmadı",
+     "ozet": "Avrupa'nın farklı noktalarına uçan yolcu uçaklarına yönelik bomba ihbarları nedeniyle aramalar yapıldı. Reuters'e göre uçuşlarda aksamalar yaşandı ancak hiçbir patlayıcı cihaz bulunmadı; bazı kaynaklar ihbarları asılsız olarak nitelendiriyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/03/avrupada-ucaklara-yonelik-bomba-ihbarlari-dort-yolcu-ucagi-hedef-alindi"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3p6WFp5MDNvNDdBY3d2ekZROTM3REtEZk5fNWdBSS1ZSndENEJkcm5nVUFKOUY0cUNxUkFNWkNQS2swdURVeW8wWThUZFlrUVZNeXozVEp4bWdVV1ZhanpFRGdkWFFNQUZ2cUNsaDJWVHlnWk1QQXdKZzJ4eXNGWkx5aW1hRHdTb0hLeGFGMm5CYkRHQVF1aUJIeURKQzdlcHlidmJhX1hlakxyaC11aUh3WGJueVFJblQ5dHJQQQ?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Avrupa'da süpermarket dondurucularına görünür siber saldırı",
+     "ozet": "AP'ye göre birkaç Avrupa ülkesindeki süpermarketlerin dondurucuları görünüşe göre siber saldırılardan etkilendi. Ekonomi bölümünde AB'nin saldırıların gıda tedarik zincirine etkisini değerlendireceği bildirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD Yüksek Mahkemesi, Kaliforniya'daki binlerce oy pusulasının iptali talebini reddetti",
+     "ozet": "AP'nin aktardığına göre Yüksek Mahkeme, Trump yönetiminin Kaliforniya'daki binlerce oy pusulasını geçersiz kılma girişimini reddetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Pakistan'da çocuk felci aşısı ekiplerini koruyan iki polis öldürüldü",
+     "ozet": "AP'ye göre şüpheli militanlar, Pakistan'da çocuk felci aşısı çalışanlarını koruyan iki polis memuruna ateş açarak onları öldürdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXpjbk1JbG45dmJMcEdjdzl2cmlCZnhUVTVkSVptY3BJekhoWjByTGl6RnVCMUo5d2psSi1JcmJtc1VtTmhZQVpWYkhIaFdKel9fRnlocFZ2bkVGdDctVWctOWNEdERPd0tyMU5odkVNU21PZTYyZTVFUXVqQTQ3Y0JTRzJHQ1Y2elJIOGFPUWQwN00zYnFHNA?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Şimşek: Enerji ve emtia fiyatlarındaki gerileme dezenflasyonu destekleyecek",
+     "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, ekonomik aktivitenin dengeli seyri, enerji ve emtia fiyatlarında öngörülen gerileme ve beklentilerdeki iyileşmenin enflasyondaki düşüşü destekleyeceğini söyledi. Hizmet enflasyonundaki ataletin sürdüğüne de dikkat çekti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-enerji-ve-emtia-fiyatlarinda-ongorulen-gerileme-enflasyondaki-dususu-destekleyecek/4110121"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/simsek-yukselen-enerji-fiyatlari-dezenflasyonu-sinirladi-3793306"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/bakan-simsek-enflasyondaki-dusus-genele-yayildi-haberi-846296"
+      }
+     ]
+    },
+    {
+     "baslik": "Hürmüz'ün kapanması AB'nin yakıt faturasını 127 milyar avro artırdı",
+     "ozet": "AB Komisyonu Başkanı Ursula von der Leyen, Hürmüz Boğazı'nın kapanmasından bu yana ithal fosil yakıtların Avrupa'ya 127 milyar avro ek maliyet getirdiğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-avro-artirdi/4109971"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/hurmuz-un-avrupa-ya-yakit-faturasi-127-milyar-euro-3793293"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/hurmuz-bogazinin-kapanmasinin-abye-faturasi-127-milyar-euro-haberi-846288"
+      }
+     ]
+    },
+    {
+     "baslik": "Avrupa kışa 13 yılın en düşük doğalgaz stokuyla giriyor",
+     "ozet": "AB, kış dönemine 2013'ten bu yana görülen en düşük doğalgaz stok seviyeleriyle giriyor. Küresel arz güvenliğine yönelik riskler sürüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/avrupa-kisa-13-yilin-en-dusuk-gaz-stokuyla-giriyor-3793269"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/enerji/avrupa-dogal-gazda-son-13-yilin-en-dusuk-stoklariyla-kisa-giriyor-haberi-846293"
+      }
+     ]
+    },
+    {
+     "baslik": "Euro Bölgesi, ECB başkanlığı adaylarını 6 Kasım'a kadar bildirecek",
+     "ozet": "Euro Bölgesi ülkeleri, Christine Lagarde'ın yerine geçecek ECB başkanı için adaylarını 6 Kasım Cuma gününe kadar bildirecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesi-ulkeleri-yeni-ecb-baskanligi-icin-adaylari-6-kasima-kadar-bildirecek/4110016"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/euro-bolgesi-ulkeleri-amb-baskanligi-icin-adaylari-6-kasim-a-kadar-bildirecek-3793299"
+      }
+     ]
+    },
+    {
+     "baslik": "Barclays: Merkez Bankası TL'deki değer kaybı hızında 'teknik ayarlama' yaptı",
+     "ozet": "Barclays'e göre Türkiye Cumhuriyet Merkez Bankası, TL'deki değer kaybı hızı konusunda 'teknik bir ayarlamaya' gitti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/barclays-tcmb-tl-deki-deger-kaybi-hizinda-teknik-ayarlama-yapti-3793296"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/dolartl-icin-barclays-analizi-deger-kaybi-hizlandi-haberi-846295"
+      }
+     ]
+    },
+    {
+     "baslik": "Schaeffler 3 bin 460 kişiyi işten çıkaracak",
+     "ozet": "Almanya merkezli otomotiv ve sanayi tedarikçisi Schaeffler, Avrupa genelinde 3 bin 460 kişiyi işten çıkaracağını ve Almanya'daki 4 üretim tesisini kapatacağını bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/-alman-otomotiv-tedarikcisi-schaeffler-3-bin-460-kisiyi-isten-cikaracak/4109631"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Apple, flört uygulamaları ve sohbet botlarını 18 yaş üstüyle sınırlıyor",
+     "ozet": "The Verge ve TechCrunch'a göre Apple, yeni App Store yaş derecelendirme şartlarını uygulamak için geliştiricilerden flört ve konum paylaşımı özellikleri hakkında daha fazla bilgi isteyecek. Yeni kurallar flört uygulamalarını ve duygusal ilişki kurulabilen yapay zekâ sohbet botlarını 18 yaş üstüne sınırlıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+      }
+     ]
+    },
+    {
+     "baslik": "Kuzey Kore, 6,3 milyar dolarlık Binance saldırısındaki rolünü reddetti",
+     "ozet": "BBC'ye göre ABD kurumları ve siber analistler rekor büyüklükteki 6,3 milyar dolarlık soygunun sorumlusu olarak Pyongyang'ı gösteriyor; Kuzey Kore bunu reddetti. DW'ye göre Kuzey Kore ABD'nin suçlamasını 'provokasyon' olarak niteledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere'de bir savcı yapay zekânın uydurduğu davayı gerçek sandı",
+     "ozet": "Webtekno'ya göre bir İngiliz savcı, yapay zekâ araması sonucu çıkan hayali bir emsal kararla davayı yürüttü ve olay yargıda tartışma yarattı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/ingiltere-savci-yapay-zekanin-uydurdugu-davayi-gercek-sandi-h228217.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Yapay zekâ kaygısı ilk kez Amerikalıların en büyük korkuları arasına girdi",
+     "ozet": "Chapman Üniversitesi'nin 12. Amerikan Korkuları Anketi'ne göre yapay zekâ kaygıları ilk kez ülkenin en çok korkulan 10 şeyi arasına girdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/yapay-zeka-kaygisi-amerikalilarin-en-buyuk-korkulari-arasina-ilk-kez-girdi-23973"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "New York'ta 30 yıl sonra ilk kızamık ölümü",
+     "ozet": "STAT News'e göre New York eyaletinin kuzeyindeki kırsal bir bölgede bir çocuk kızamık nedeniyle hayatını kaybetti. Bu, eyalette son 30 yılda kaydedilen ilk kızamık ölümü.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de yılın ilk kuş gribi ölümü: büyükbaş hayvan teması",
+     "ozet": "STAT News'in aktardığı AP haberine göre Washington eyaletinde bir kişi kuş gribi komplikasyonlarından öldü. Bu, ABD'de bu yıl bildirilen ilk kuş gribi ölümü.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "'Üç ebeveynli tüp bebek' yöntemi üzerine şüpheler artıyor",
+     "ozet": "STAT News'e göre bilim insanları ve etik uzmanları, bebeklerin nadir mitokondriyal hastalıkları devralmasını önlemek için geliştirilen yöntemin olası risk ve yararlarını yeniden değerlendiriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Tenerife forveti Jesus de Miguel sahada yaşadığı çarpışmanın ardından öldü",
+     "ozet": "İspanya ikinci ligindeki maçta kaleciyle çarpıştığı pozisyonda kalbi duran Tenerife forveti Jesus de Miguel, 30 yaşında hayatını kaybetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/kaleci-ile-carpistigi-pozisyonda-kalbi-duran-ispanyol-futbolcu-jesus-de-miguel-hayatini-kaybetti/4109726"
+      },
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cx5yn0j3e2yyo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Milli atıcı Şevval İlayda Tarhan dünya şampiyonu",
+     "ozet": "Milli atıcı Şevval İlayda Tarhan, Katar'daki ISSF Tüm Dallar Dünya Şampiyonası'nda 50 metre tabanca kategorisinde altın madalya kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/milli-atici-sevval-ilayda-tarhan-katarda-dunya-sampiyonu-oldu-/4109904"
+      }
+     ]
+    },
+    {
+     "baslik": "2027 Asya Kupası ertelendi",
+     "ozet": "Suudi Arabistan'da düzenlenecek 2027 AFC Asya Kupası, ev sahibi ülkeye yönelik saldırılar nedeniyle 'olağanüstü koşullar' gerekçesiyle ertelendi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenecek-2027-asya-kupasi-olaganustu-kosullar-nedeniyle-ertelendi/4109496"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "NBA: Rockets, Şengün'ün double-double yaptığı maçta Celtics'i yendi",
+     "ozet": "Houston Rockets, Alperen Şengün'ün double-double yaptığı maçta sahasında Boston Celtics'i 109-93 yendi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-macta-celticsi-yendi/4109349"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "14. Boğaziçi Film Festivali'nin masterclass ve atölye programı açıklandı",
+     "ozet": "8-15 Kasım'da yapılacak 14. Boğaziçi Film Festivali, film seçkisinin yanı sıra sinemanın mutfağına ve sektör dinamiklerine odaklanan özel bir masterclass ve atölye programı sunacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinin-masterclass-ve-atolye-programi-aciklandi/4109815"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'in ilk tamamen yapay zekâ üretimi filmi gişede başarısız oldu",
+     "ozet": "The Guardian'a göre Çin'in ilk tamamen yapay zekâ ile üretilen filmi gişede yalnızca 1,7 milyon yuan (yaklaşık 191 bin sterlin) hasılat elde etti. Yine de bazı kesimler bu teknolojiyi sinemanın geleceği olarak görmeye devam ediyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future"
+      }
+     ]
+    },
+    {
+     "baslik": "Lorca'nın eşcinselliği: İspanya'nın ulusal şairi yeniden okunuyor",
+     "ozet": "The Guardian'a göre şair ve oyun yazarı Federico García Lorca'nın eşcinselliğinin önemi İspanya'da onlarca yıl bastırıldı; 'La Bola Negra' filmi gibi son dönem çalışmalar bu dengeyi düzeltmeye çalışıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/culture/2026/nov/03/spain-poet-lorca-gay-icon-la-bola-negra"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42970708",
+   "baslik_en": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Généreux P",
+    "Makkar RR",
+    "Pibarot P",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970708/",
+   "doi": "https://doi.org/10.1056/NEJMoa2607326",
+   "baslik_tr": "Orta Derecede Aort Stenozunda Riskli Özellikleri Olan Hastalarda TAVR",
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In this international open-label randomized trial (PROGRESS), 744 patients with moderate aortic stenosis and at least one at-risk feature (mean age 78) were assigned to transcatheter aortic-valve replacement (TAVR) or clinical surveillance. At 2 years, death or a heart-failure event occurred in 16.7% of the TAVR group versus 23.9% of the surveillance group, mainly driven by fewer heart-failure events (10.8% vs 19.0%), while all-cause death was 8.4% vs 7.3%. Procedure-related adverse events did not differ meaningfully. The study was open-label and funded by Edwards Lifesciences.",
+   "ozet_tr": "Uluslararası, açık etiketli bu randomize çalışmada (PROGRESS), orta derecede aort stenozu ve en az bir riskli özelliği olan 744 hasta (ortalama yaş 78) TAVR (kateterle aort kapağı değişimi) veya klinik izleme grubuna atandı. İki yılda ölüm ya da kalp yetersizliği olayı TAVR grubunda %16,7, izleme grubunda %23,9 görüldü; fark esas olarak daha az kalp yetersizliği olayından (%10,8 'e karşı %19,0) kaynaklandı, tüm nedenlere bağlı ölüm ise %8,4 ve %7,3 oldu. İşlemle ilgili yan etkiler anlamlı biçimde farklılık göstermedi. Çalışma açık etiketliydi ve Edwards Lifesciences tarafından finanse edildi.",
+   "neden_onemli": "Orta derece aort darlığı olan kişilerde rutin izlemin yerini erken kapak değişimi alabilir mi sorusuna dair önemli bir veri sunuyor."
+  },
+  {
+   "pmid": "42972109",
+   "baslik_en": "Povorcitinib for nonsegmental vitiligo: two randomized, controlled, phase 3 STOP-V trials.",
+   "dergi": "Nature medicine",
+   "yazarlar": [
+    "Ezzedine K",
+    "Lui H",
+    "Eleftheriadou V",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42972109/",
+   "doi": "https://doi.org/10.1038/s41591-026-04739-2",
+   "baslik_tr": "Segmental Olmayan Vitiligoda Povorcitinib: İki Randomize Kontrollü Faz 3 STOP-V Çalışması",
+   "tur": "Randomize kontrollü çalışma (faz 3)",
+   "ozet_en": "Two parallel phase 3, randomized, double-blind, placebo-controlled trials (STOP-V1 and STOP-V2; 467 and 449 adults) tested once-daily oral povorcitinib 30 mg, a JAK1 inhibitor, in moderate-to-severe nonsegmental vitiligo. At week 52, 18.9% of patients on povorcitinib reached at least 75% facial repigmentation versus 6.8% and 3.1% on placebo in the two trials. Adverse events were similar between groups overall, with acne more common on the drug, and JAK-inhibitor class-specific events were absent or rare.",
+   "ozet_tr": "Segmental olmayan orta-şiddetli vitiligosu olan yetişkinlerde (467 ve 449 kişi) günde bir kez ağızdan alınan JAK1 inhibitörü povorcitinib 30 mg'ın denendiği iki paralel, çift kör, plasebo kontrollü faz 3 çalışması (STOP-V1 ve STOP-V2) yürütüldü. 52. haftada povorcitinib alanların %18,9'unda yüzde en az %75 repigmentasyon sağlanırken, bu oran iki çalışmada plasebo grubunda %6,8 ve %3,1 idi. Yan etkiler gruplar arasında genel olarak benzerdi; akne ilaç grubunda daha sıktı ve JAK inhibitörlerine özgü yan etkiler yoktu veya nadirdi.",
+   "neden_onemli": "Vitiligoda cildin rengini geri kazandıran etkili sistemik tedavi seçenekleri sınırlı olduğundan bu sonuçlar umut verici bir ilaç adayı sunuyor."
+  },
+  {
+   "pmid": "42970292",
+   "baslik_en": "Cost-Effectiveness of Remote Symptom Monitoring During Adjuvant Endocrine Therapy in Breast Cancer.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Hu X",
+    "Yang F",
+    "Curry AN",
+    "et al."
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970292/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41402",
+   "baslik_tr": "Meme Kanserinde Adjuvan Endokrin Tedavi Sırasında Uzaktan Semptom İzlemenin Maliyet-Etkililiği",
+   "tur": "Randomize çalışma verisiyle ekonomik değerlendirme",
+   "ozet_en": "This economic evaluation used data from the randomized THRIVE trial, in which women starting endocrine therapy for early-stage breast cancer were assigned to a symptom-monitoring app, the app with tailored feedback, or enhanced usual care; 214 of 304 participants had complete data. Over 12 months, mean costs were lower with the app alone ($6,682) than with usual care ($11,596) while quality-adjusted life years were similar, though the cost differences had wide confidence intervals including zero. The app had a 68.2% to 78.1% probability of being cost-effective, and the app with feedback showed no clear advantage.",
+   "ozet_tr": "Bu ekonomik değerlendirme, erken evre meme kanseri nedeniyle endokrin tedaviye başlayan kadınların bir semptom izleme uygulamasına, uygulama artı kişiselleştirilmiş geri bildirime ya da geliştirilmiş olağan bakıma atandığı randomize THRIVE çalışmasının verilerini kullandı; 304 katılımcıdan 214'ünün verisi eksiksizdi. On iki ayda ortalama maliyet yalnızca uygulama grubunda (6.682 dolar) olağan bakıma (11.596 dolar) göre daha düşüktü, yaşam kalitesine göre ayarlı yaşam yılları benzerdi; ancak maliyet farklarının güven aralıkları geniş ve sıfırı kapsıyordu. Uygulamanın maliyet-etkin olma olasılığı %68,2 ile %78,1 arasındaydı; geri bildirimli uygulamanın belirgin bir avantajı görülmedi.",
+   "neden_onemli": "Uzaktan semptom takibi gibi basit dijital araçların, tedaviye uyumu zorlaştıran yan etkilerin yönetiminde düşük maliyetli bir destek olabileceğini gösteriyor."
+  }
+ ]
+}
