@@ -1,48 +1,104 @@
 {
  "tarih": "2026-11-04",
  "donem": "sabah",
- "giris": "ABD'deki ara seçimlerde ilk sonuçlar Demokratların Temsilciler Meclisi'nin yanı sıra Senato'da da çoğunluğa yöneldiğine işaret ediyor; Trump ise İsrail'e askeri yardımın yıl sonunda sona ereceğini duyurdu. İspanya'da ölümlü tren kazasının ardından Ulaştırma Bakanı istifa ederken, Avrupa'da birden çok uçuşa bomba ihbarı yapıldı. Türkiye'de Meclis bugün Mekke Ortak Savunma Anlaşması'nı görüşecek.",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
  "one_cikanlar": [
   {
-   "baslik": "ABD ara seçimlerinde ilk sonuçlar Demokratlar lehine",
-   "ozet": "ABD medyasındaki tahminlere göre seçmenler Başkan Donald Trump ve Cumhuriyetçilere sert bir tepki gösterdi; CBS News'un tahminine göre Demokratlar Temsilciler Meclisi'nin yanı sıra Senato'da da çoğunluğu sağlıyor. Oy sayımı sürüyor, sonuçlar kesinleşmedi.",
+   "baslik": "İspanya ulaştırma bakanı ölümcül tren kazasından birkaç gün sonra istifa etti",
+   "ozet": "Başkent Madrid'in güneyinde meydana gelen çarpışmada en az 69 kişi öldü, onlarca kişi yaralandı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-ilk-sonuclar-neyi-gosteriyor-962156.html"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/04/abdde-ilk-secim-sonuclari-demokratlarin-yukselisine-isaret-ediyor"
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/dunya/cumhuriyetciler-mi-demokratlar-mi-abd-ara-secimlerinde-ilk-sonuclar-gelmeye-basladi-2553100"
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
     },
     {
      "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/abd-ara-seçimleri-trump-temsilciler-meclisini-kaybetti/live-79848829?maca=tur-rss-tur-all-1495-rdf"
+     "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "neden_onemli": "Kongre'nin kontrolü, Trump yönetiminin önümüzdeki iki yıldaki icraat gücünü belirliyor."
+   "neden_onemli": ""
   },
   {
-   "baslik": "Trump: İsrail'e askeri yardım yıl sonunda kesilecek",
-   "ozet": "Trump, İsrail'e yapılan yaklaşık 4 milyar dolarlık yıllık askeri yardımın yıl sonunda sona ereceğini açıkladı; Başbakan Netanyahu ile bu konuda anlaştıklarını söyledi. Trump ABD'nin İsrail'e silah satmayı sürdüreceğini de belirtti.",
+   "baslik": "Küresel piyasalar ABD'deki ara seçim sonuçlarına odaklandı",
+   "ozet": "Küresel piyasalarda ABD'deki Kongre ara seçimlerinin sonuçları öncesinde negatif seyir izlenirken, kesin olmayan sonuçlara göre Demokratların Temsilciler Meclisi'ni kazanması ve Senato'da çoğunluk…",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/abd-başkanı-donald-trump-israil-e-mali-yardımı-keseceğiz/a-79844549?maca=tur-rss-tur-all-1495-rdf"
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abddeki-ara-secim-sonuclarina-odaklandi/4110919"
     },
     {
      "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/03/trump-abd-2027den-itibaren-israile-askeri-yardimi-kesecek"
+     "link": "https://tr.euronews.com/2026/11/04/abd-ara-secimlerinde-ilk-sonuclar-7-secmenli-koyden-geldi-gelenek-degismedi"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/abd-baskani-donald-trump-ara-secim-sonuclarini-degerlendirdi-muhtemelen-bir-cozum-buluruz-43365234"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/abd-de-kritik-ara-secim-3924753"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimleri-demokratlar-senatoda-51-sandalyeye-ulasti-962168.html"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Demokrat Annie Andrews Güney Carolina'da ABD Senatosu koltuğunu kazandı",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXZqamkxRHFrVl9oM0xUemtIWVNsa29sbTFpa0JrWWF5YjJldU4zdGotQmdfXzlVRWlidmVCcFpKYjRsNld4dUlxOWRQZFNyZG9VcUdoLXotakFzRlpGQ0xvQm9MM2REVktFT2RsWnNmTWNvSlZpb01QZktRMXplZHFMdk1uXzZnbTNoQ1dVZU94UVNkZVNnMjM5QXZ6S1JXZXFxOXRMUU9CRDVx?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmVOaXBrZW9ZZ0ZBN19PcnR3UlhTc2x3VndWaWRKbWJPSUVLamdnY1lTSzN0T1l6eXlMX2NOakhHYjNhTUR4c3hNaUprLTZsR3Vmc2FGc1B6UWlqU3p1Yjk3TXlRM2N5OFFwVWt2aHdBN1JBLTdRbjNDTlI3Y0VObFZEdTMyWVhvVV9RNjlOR0xoeDZPXzhJOXFFU0xXUi1kdU1XbmlTNEdicHZn?oc=5"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Trump, ABD'nin İsrail'e yaptığı askeri yardımda yaklaşık 4 milyar doları keseceğini söyledi",
+   "ozet": "Başkan Donald Trump, ABD'nin İsrail'e silah satmaya devam edeceğini söyledi. Demokrat adayların ara seçimde Cumhuriyetçilere karşı ABD'nin İsrail askeri desteğini kullandığını da sözlerine ekledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms"
     },
     {
      "ad": "The Guardian",
@@ -51,77 +107,37 @@
     {
      "ad": "Le Monde",
      "link": "https://www.lemonde.fr/en/international/article/2026/11/03/trump-says-us-military-aid-to-israel-will-be-cut-off-at-the-end-of-the-year_6770788_4.html"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/03/trump-abd-2027den-itibaren-israile-askeri-yardimi-kesecek"
     }
    ],
-   "neden_onemli": "ABD-İsrail ilişkilerinde onlarca yıllık yardım düzeninde köklü bir değişiklik anlamına geliyor."
+   "neden_onemli": ""
   },
   {
-   "baslik": "İspanya'da tren kazası sonrası Ulaştırma Bakanı Puente istifa etti",
-   "ozet": "Oscar Puente, 28 Ekim'de Toledo yakınlarında iki hızlı trenin çarpıştığı ve 69 kişinin öldüğü kazanın ardından Ulaştırma Bakanlığı görevinden ayrıldı.",
+   "baslik": "New York’ta 30 yıl sonra kızamıktan ilk ölüm",
+   "ozet": "ABD’nin New York eyaletinde 30 yıl sonra kızamık kaynaklı ilk çocuk ölümü yaşandığı bildirildi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/ispanyada-hizli-tren-kazasinin-ardindan-ulastirma-bakani-puente-istifa-etti/4110578"
-    },
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss"
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/new-yorkta-30-yil-sonra-kizamiktan-ilk-olum-43365208"
     },
     {
      "ad": "Habertürk",
-     "link": "https://www.haberturk.com/dunya/ispanya-ulastirma-bakani-puente-hizli-tren-faciasi-sonrasi-istifa-etti-3924751"
+     "link": "https://www.haberturk.com/saglik/son-dakika-haberi-new-york-ta-30-yil-sonra-kizamiktan-ilk-olum-3924769"
     },
     {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/ispanyada-69-kisinin-oldugu-tren-kazasinin-ardindan-bakan-istifa-etti-p375789"
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/dunya/250-yil-sonra-bir-ilk-abd-tarihindeki-ilk-siyah-kadin-vali-secildi-2553103"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXJNMVpleF9NMHlqVlB1ZjQ5OHNzbmp0Z2JiRFFGMWFKNTZudnVRbG9SRXhRVDJYdjRfWjNSQjR3WHVhWnZ0bUpYaG1lNFFUQ0N4M2R0S2tkT2Z6c3A3cmlLM2JSS2FfWmh0SkJtV2NybE5yTTZMNEdjTDd4T0hWbTFEV3pmOTc5T0EzT3FVZXFzcDFEX2dfWnB4bkJHN0QyQUg2ZzRHVXRQSEpwb1RR?oc=5"
     }
    ],
-   "neden_onemli": "Kazanın siyasi sorumluluk boyutu hükümete doğrudan yansıdı."
-  },
-  {
-   "baslik": "Trump: İran'a saldırmak için acil bir plan yok",
-   "ozet": "Trump, Financial Times'a verdiği demeçte ABD'nin İran'a saldırmak için acil bir planı bulunmadığını söyledi. İran Devrim Muhafızları ise Hürmüz Boğazı üzerinde ABD yapımı bir MQ-9 insansız hava aracını düşürdüklerini öne sürdü; bu iddia bağımsız kaynaklarca doğrulanmadı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-saldirmak-icin-acil-bir-planinin-olmadigini-belirtti/4110667"
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843"
-    }
-   ],
-   "neden_onemli": "Hürmüz Boğazı'ndaki gerilim petrol akışı ve bölgesel güvenlik açısından yakından izleniyor."
-  },
-  {
-   "baslik": "Avrupa'da yedi uçuşa bomba ihbarı",
-   "ozet": "Polonya, İspanya, Bulgaristan ve İtalya'da uçaklar, ayrı ayrı gelen bomba tehditleri üzerine patlayıcı açısından kontrol edildi. BBC'ye göre toplam yedi uçuş hedef alındı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/03/bomb-threats-target-four-european-flights-as-scares-spread-across-the-continent"
-    },
-    {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
-    },
-    {
-     "ad": "New York Times",
-     "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html"
-    },
-    {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss"
-    }
-   ],
-   "neden_onemli": "Aynı gün birden çok ülkede görülen ihbarlar havacılık güvenliği önlemlerini gündeme getirdi."
+   "neden_onemli": ""
   }
  ],
  "bolumler": [
@@ -130,38 +146,50 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Mekke Ortak Savunma Anlaşması bugün TBMM Genel Kurulu'nda",
-     "ozet": "Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi bugün TBMM Genel Kurulu'nda görüşülecek.",
+     "baslik": "Galatasaray, Stuttgart'ı iki golle geçti",
+     "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 2-0 yenerek puanını 6'ya çıkardı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-gorusulecek-962155.html"
+       "link": "https://www.trthaber.com/haber/gundem/galatasaray-stuttgarti-iki-golle-gecti-962137.html"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/03/galatasaray-stuttgarti-2-0-yendi-batrakov-iki-gol-atti/"
+      }
+     ]
+    },
+    {
+     "baslik": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı 2-0 yendi",
+     "ozet": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Aleksey Batrakov'un attığı iki golle Almanya temsilcisi Stuttgart'ı 2-0 yendi",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/784720/haber/tbmm%E2%80%99de-mekke-anla%C5%9Fmas%C4%B1%E2%80%99n%C4%B1n-g%C3%B6r%C3%BC%C5%9Fme-tarihi-belli-oldu"
-      }
-     ]
-    },
-    {
-     "baslik": "Meteoroloji'den 21 il için sarı, 2 il için turuncu uyarı",
-     "ozet": "Meteoroloji Genel Müdürlüğü, bugünden itibaren batıdan başlayarak Türkiye genelinde serin ve yağışlı havanın etkili olacağını bildirdi; 21 il için sarı, 2 il için turuncu kodlu uyarı yayımlandı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-21-il-icin-sari-2-il-icin-turuncu-uyari-962161.html"
+       "link": "https://www.indyturk.com/node/784721/spor/galatasaray-%C5%9Fampiyonlar-ligi%E2%80%99nde-stuttgart%E2%80%99%C4%B1-2-0-ma%C4%9Flup-etti"
       },
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-turkiye-nin-tamami-saganak-yagislarin-etkisi-altinda-2-turuncu-21-sari-uyari-4-kasim-hava-durumu-3924760"
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-2-0-yenerek-sampiyonlar-liginde-puanini-6ya-yukselti/4110444"
       }
      ]
     },
     {
-     "baslik": "Polonya'daki Starlink tesisine kundaklama: Almanya'da bir Türk vatandaşı tutuklandı",
-     "ozet": "Polonya'daki Starlink uydu tesisine yönelik kundaklamanın azmettiricisi olduğu öne sürülen bir Türk vatandaşı Almanya'da tutuklandı. Spiegel dergisine göre olayın arkasında Türkiye kökenli bir suç çetesi bulunuyor.",
+     "baslik": "Almanya'da bir Türk tutuklandı: Starlink saldırısının azmettiricisi olduğu ileri sürülüyor",
+     "ozet": "Polonya'daki Starlink uydu tesisine yönelik kundaklamanın azmettiricisi olduğu öne sürülen bir Türk vatandaşı Almanya'da tutuklandı. Spiegel dergisine göre olayın arkasında Türkiye kökenli Daltonlar…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -175,24 +203,50 @@
      ]
     },
     {
-     "baslik": "Öcalan'ın İmralı'da yeni alana geçmesi çözüm sürecine dair tartışma başlattı",
-     "ozet": "BBC Türkçe'ye göre PKK lideri Abdullah Öcalan'ın İmralı Cezaevi'nde kendisi için hazırlanan yeni alana geçmesi, yürütülen çözüm sürecinde yeni bir aşamaya geçilip geçilmediği tartışmasını gündeme getirdi.",
-     "etiket": "tek kaynak",
+     "baslik": "Trump'tan ara seçim yorumu: Pusulada olsaydım ezici zafer kazanırdık",
+     "ozet": "ABD'de seçim projeksiyonları Demokratların Temsilciler Meclisi'nde çoğunluğu kazanacağına işaret ederken Trump, kendisi aday olsaydı Cumhuriyetçilerin ezici bir zafer elde edeceğini savundu.…",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cqe9lez7j1r8o?at_medium=RSS&at_campaign=rss"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/04/trumptan-ara-secim-yorumu-pusulada-olsaydim-ezici-zafer-kazanirdik"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/son-dakika-trump-tan-secim-sonrasi-ilk-aciklama-3924758"
       }
      ]
     },
     {
-     "baslik": "Ankara-Bakü hattında gerilim: Aliyev Türk Devletleri Teşkilatı zirvesine katılmadı",
-     "ozet": "BBC Türkçe'ye göre başörtüsü tartışmasıyla başlayan gerilim, Azerbaycan Cumhurbaşkanı İlham Aliyev'in Türkiye'de düzenlenen Türk Devletleri Teşkilatı zirvesine katılmamasıyla yeniden gündeme geldi.",
+     "baslik": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ-9 tipi İHA düşürüldü",
+     "ozet": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemleri tarafından düşürüldüğünü öne sürdü.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/c8kgev55zxywo?at_medium=RSS&at_campaign=rss"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump, \"gerekirse\" Demokratların yönettiği şehirlere Ulusal Muhafız birliklerini göndereceğini söyledi",
+     "ozet": "ABD Başkanı Donald Trump, Kongre ara seçimleriyle bağlantılı olarak \"gerekirse\" Demokratların yönettiği şehirlere Ulusal Muhafız birliklerini göndereceğini belirtti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-gerekirse-demokratlarin-yonettigi-sehirlere-ulusal-muhafiz-birliklerini-gonderecegini-soyledi/4110680"
+      }
+     ]
+    },
+    {
+     "baslik": "Yemen hükümeti, İran ve Lübnan'daki Hizbullah'ı Husilerin askeri eylemlerini yönetmekle suçladı",
+     "ozet": "Yemen İçişleri Bakanı İbrahim Haydan, İran ve Lübnan'daki Hizbullah'ın, Husilerin kontrolündeki bölgelerde görev yapan 21 askeri uzman aracılığıyla hükümet güçlerine karşı askeri eylemleri…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-iran-ve-lubnandaki-hizbullahi-husilerin-askeri-eylemlerini-yonetmekle-sucladi/4110670"
       }
      ]
     }
@@ -203,71 +257,87 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Grönland, Danimarka ve ABD ile güvenlik anlaşmasını onayladı",
-     "ozet": "Associated Press ve DW'ye göre Grönland, Trump'ın aylardır süren baskısının ardından Danimarka ve ABD ile yapılan güvenlik anlaşmasını onayladı.",
+     "baslik": "Demokratların ABD medya projesi olan ABD Temsilciler Meclisi'nin çoğunluk kontrolünü ele geçirmesi bekleniyor",
+     "ozet": "",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xpcHg4YnN1aFV0Z180RmhGanA4ajYxVlJENjBqaFVpdjZRMXZZRmNMWlZ5NFdHMHVoZGY1NGFzMVdCZVZDa1gyeTd3Y1FMb1JKRHFLeW14WDQ0UkFvZUFCMFNrZV8yRkJyS2YzWHNBd2VIV1BZTWxEdEdzWXVyMVNrUEhKSDFQa1M3MnlwVQ?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Trump, gerekirse Demokratların yönettiği şehirlere Ulusal Muhafız göndereceğini söyledi",
-     "ozet": "Trump, Kongre ara seçimleriyle bağlantılı olarak 'gerekirse' Demokratların yönettiği şehirlere Ulusal Muhafız birlikleri göndereceğini belirtti.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/trump-gerekirse-demokratlarin-yonettigi-sehirlere-ulusal-muhafiz-birliklerini-gonderecegini-soyledi/4110680"
-      }
-     ]
-    },
-    {
-     "baslik": "Demokratlar, Kongre'yi kazanırlarsa Trump'ı soruşturmaya hazırlanıyor",
-     "ozet": "France 24'e göre Demokratlar, bir ya da iki meclisin kontrolünü alırlarsa Trump yönetimi ve iş faaliyetleri hakkında çok sayıda soruşturma başlatmak için strateji geliştiriyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms"
-      }
-     ]
-    },
-    {
-     "baslik": "Umman açıklarında tankere iki mühimmat isabet etti",
-     "ozet": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman'ın Lima bölgesinin 14 deniz mili kuzeydoğusunda bir tankere kaynağı bilinmeyen iki cismin isabet ettiğini bildirdi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tankere-bilinmeyen-2-muhimmat-isabet-etti/4110581"
-      }
-     ]
-    },
-    {
-     "baslik": "Güney Afrika'da yerel seçimler: ANC'nin oy kaybı sürecek mi?",
-     "ozet": "DW'ye göre Güney Afrikalılar su kesintileri ve yerel hizmetlerden duyulan memnuniyetsizlik gölgesinde çarşamba günü sandık başına gidiyor; soru, ANC'nin desteğinin düşmeye devam edip etmeyeceği.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkw3blpJbFhfWi1IRGZZV05IaVBNSmJZNVlPV2J2U3NlMjRkdlN2S3NHcmsxc2Y4SDd0Zm5fNXVoMXZ0eHhkTXpWQjlQLWQ5ME5VaDM2bGhvTDRsTHpMVWxucUVwV0wwZC1iUXZUSGFvOTNWTHF6cEZMLVR2cVo0N1pnNlNBYXJ5MExXcjFIQk10bVBHT2ZiVGc0ZTZsZkhPc0FWcUhGRmlWNWtZVVpGSA?oc=5"
       },
       {
        "ad": "The Guardian",
-       "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+      },
+      {
+       "ad": "The Economist",
+       "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage"
       }
      ]
     },
     {
-     "baslik": "Kral Charles: Transatlantik köle ticareti 'korkunç bir adaletsizlik'",
-     "ozet": "Kral Charles, bir Commonwealth zirvesinde köle ticaretinin mirasının 'yüreğini dehşetle doldurduğunu' söyledi. DW'ye göre özür ve tazminat çağrılarına değinmedi.",
+     "baslik": "Senatör Jon Ossoff yeniden seçildi ve Georgia'yı Demokratlar lehine tuttu",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05OSFAxbUI3MjloX2Zza2REVE5FcWxJNFNWSzhFbWdOTjRMZnAtbTlycjlnOVE5MHJMalJnZUNQbHlQZE9ZWkV4ei1Ea1BkZlpIeURuSk81X3R4Z21nYTctbS1kTjJ5TUtaTWhwOEJXTm9jNk5ZT0YyblpOcmVCa04wTm9zWUI4Y3VTYW1ueUlfdm43VGtNZGNEb2tObnZsMDgxcXlVRzY?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Demokrat Amy Acton, Ohio valilik yarışında Vivek Ramaswamy'yi mağlup etti",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHRnVE8wNVB6dmFhLWpYUkstZHdzeTlIeE1YUnA3ODlJN0tfb04xV1lDZkQyakhUUS0wS0gtLW91SlJJNXBCMUs1OWJKclRsWHk3b0JQSkRINlF2WTVWR2xFYXdiekIzUk1mVGZ1ZlV0R281R1FMQlRGYXJxZUJ4U0Fac3lBNG1DLWtQbjVkWkViazlLak1mUmJTaUdBWFRHczdXZGRwV0hkMGFN?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Pyongyang ABD'nin Binance saldırısına ilişkin iddialarını protesto ederken Kuzey Kore denize füze fırlattı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Grönland, Trump'ın aylarca süren baskısının ardından Danimarka ve ABD ile güvenlik anlaşmasını onayladı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xpcHg4YnN1aFV0Z180RmhGanA4ajYxVlJENjBqaFVpdjZRMXZZRmNMWlZ5NFdHMHVoZGY1NGFzMVdCZVZDa1gyeTd3Y1FMb1JKRHFLeW14WDQ0UkFvZUFCMFNrZV8yRkJyS2YzWHNBd2VIV1BZTWxEdEdzWXVyMVNrUEhKSDFQa1M3MnlwVQ?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere Kralı III. Charles, köle ticaretindeki 'canavarca adaletsizliği' kınadı",
+     "ozet": "Kral Charles, Commonwealth zirvesinde liderlere, transatlantik köle ticaretinin mirasının \"kalbimi dehşetle doldurduğunu\" söyledi. Özür ve tazminat çağrılarına yanıt vermedi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -279,6 +349,21 @@
        "link": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html"
       }
      ]
+    },
+    {
+     "baslik": "🔴 Ara sınavlar canlı: Kongre'nin kontrolünü ve Trump'ın gündeminin geleceğini belirlemek için oylama sürüyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us"
+      }
+     ]
     }
    ]
   },
@@ -287,8 +372,8 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Kacır: Sel mağduru KOBİ'lere 1 milyon lira, mikro işletmelere 500 bin lira destek",
-     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerdeki sel ve taşkınlardan etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere 500 bin lira destek verileceğini duyurdu.",
+     "baslik": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
+     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -302,61 +387,54 @@
      ]
     },
     {
-     "baslik": "Borsa İstanbul günü yükselişle kapattı",
-     "ozet": "BIST 100 endeksi günü yüzde 0,56 değer kazanarak 11.023,55 puandan tamamladı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4110273"
-      }
-     ]
-    },
-    {
-     "baslik": "BioNTech üçüncü çeyrekte yeniden kâra geçti",
-     "ozet": "Alman biyoteknoloji şirketi BioNTech yılın üçüncü çeyreğinde yeniden karlılığa geçti ve yıl sonu gelir hedeflerini yukarı yönlü revize etti.",
+     "baslik": "Binance, uğradığı siber saldırıya dair ilk bulgularını açıkladı",
+     "ozet": "Kripto para borsası Binance, geçen hafta uğradığı siber saldırının çok aşamalı ve gelişmiş bir kampanya olduğunu, tek bir güvenlik ihlalinden veya basit bir kimlik avı girişiminden ibaret olmadığını…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/biontech-ucuncu-ceyrekte-kara-gecti-yil-sonu-hedeflerini-yukseltti/4110234"
+       "link": "https://www.aa.com.tr/tr/ekonomi/binance-ugradigi-siber-saldiriya-dair-ilk-bulgularini-acikladi/4110365"
       },
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/biontech-ucuncu-ceyrekte-yeniden-kra-gecti-3793340"
+       "link": "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350"
       }
      ]
     },
     {
-     "baslik": "Suriye, IMF ve Dünya Bankası bünyesindeki Arap gruplarına yeniden katıldı",
-     "ozet": "Suriye Maliye Bakanı Muhammed Yusr Berniye, ülkesinin 1 Kasım 2026 itibarıyla IMF ve Dünya Bankası Grubu bünyesindeki Arap gruplarına resmen yeniden katıldığını bildirdi.",
+     "baslik": "Ferrari'nin ilk elektrikli modeli 2027 için şimdiden tükendi",
+     "ozet": "Ferrari CEO'su Benedetto Vigna, şirketin ilk tamamen elektrikli modeli Luce'ye yönelik siparişlerin, 2027 yılı için planlanan satışların tamamını şimdiden karşıladığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ferrari-nin-ilk-elektrikli-modelinde-2027-siparisleri-doldu-3793357"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/is-dunyasi/elektrikli-ferraride-2027-uretiminin-tamami-satildi-haberi-846359"
+      }
+     ]
+    },
+    {
+     "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: 2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz",
+     "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz. İhracatçılarımız gelecek sene çok daha fazlasını, çok daha iyisini yapacaktır. Buna…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/suriye-imf-ve-dunya-bankasi-grubu-bunyesindeki-arap-gruplarina-yeniden-katildi/4110305"
+       "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-2027de-daha-olumlu-bir-uluslararasi-konjonktur-olacagina-inaniyoruz/4110520"
       }
      ]
     },
     {
-     "baslik": "CVS Health 117 milyar dolarlık sağlık yapısını bölmeye yöneliyor",
-     "ozet": "Financial Times'a göre CVS Health, eczane işini ayırmayı değerlendiriyor; adım, eczane yardımcı hizmet sağlayıcıları ve sağlık sigortacıları üzerindeki siyasi baskının arttığı bir döneme denk geliyor.",
+     "baslik": "Seçmenler Trump'ın Cumhuriyetçilerine saldırırken Demokratlar Senato'da çoğunluğu elde etti",
+     "ozet": "Başkanın partisi Teksas'tan Kansas ve Güney Carolina'ya kadar savaş alanı yarışlarında mağlup oldu",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Financial Times",
-       "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1"
-      }
-     ]
-    },
-    {
-     "baslik": "Binance soygununda sahte mülakat ve sosyal medya profilleri kullanıldı",
-     "ozet": "Financial Times'a göre 6,3 milyar dolarlık Binance hırsızlığında saldırganlar sahte mülakatlar ve sosyal medya profilleri kullandı; borsanın iç soruşturması insan hatasının rolünü ortaya koydu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1"
+       "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1"
       }
      ]
     }
@@ -367,68 +445,61 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "Google, 1,3 milyon Android TV kutusundaki gizli botnet'i devre dışı bıraktı",
-     "ozet": "Ars Technica'ya göre Google, kampanyanın arkasındaki şirketle bağlarını kopardı ve 1,3 milyon Android TV kutusunda gizlice çalışan botnet'i dağıttı.",
-     "etiket": "tek kaynak",
+     "baslik": "Google, okulların yapay zeka araçlarını atlamalarına izin verecek ancak aramadan da vazgeçmeleri gerekiyor",
+     "ozet": "Google, okullara, iddia edilen yanıtları vermeyen yapay zeka araçları sunacak.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Ars Technica",
-       "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+       "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
       }
      ]
     },
     {
-     "baslik": "Kanser hücrelerine kendilerini öldüren ilacı ürettirme stratejisi",
-     "ozet": "ScienceDaily'ye göre bilim insanları, tümör hücrelerinin doğal olarak ürettiği karbon monoksidi kullanarak ilaçların hücrelerin içinde üretilmesini sağlayan umut verici bir yöntem geliştirdi. Sonuçlar erken aşamada.",
+     "baslik": "Bilgisayar korsanları market dondurucularını nasıl ısıtıcılara dönüştürüyor?",
+     "ozet": "Saldırganlar, yerleşik buz çözme kontrollerini ele geçirerek Avrupa çapında milyonlarca avro değerindeki gıdayı bozdu. ABD askeri üsleri de vurulmuş olabilir",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "ScienceDaily",
-       "link": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm"
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/how-hackers-are-turning-grocery-store-freezers-into-heaters/"
       }
      ]
     },
     {
-     "baslik": "Ultra işlenmiş gıdalar çocuk beyninde iştah yanıtını etkileyebilir",
-     "ozet": "USC araştırmacılarının 7-10 yaş arası 46 çocukla yaptığı çalışma, ultra işlenmiş gıdaların gelişen beyni kilo alımını teşvik edecek biçimde etkileyebileceğini öne sürüyor.",
+     "baslik": "Dünyanın en kullanışsız hesap makinesinde yalnızca iki düğme bulunur",
+     "ozet": "Modern hesap makinelerinde sinüs, karekök, pi ve üsler için olanlar da dahil olmak üzere birçok düğme bulunur. Ama sadece ikisinin yeterli olması mümkün",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "ScienceDaily",
-       "link": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm"
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/the-most-impractical-calculator-in-the-world-only-has-two-buttons/"
       }
      ]
     },
     {
-     "baslik": "Tek seferlik gen düzenleme tedavisi ömür boyu ilaç kullanımının yerini alabilir mi?",
-     "ozet": "ScienceDaily'ye göre tek bir gen düzenleme tedavisi ileride kalp hastalığı ve yüksek kolesterole karşı onlarca yıl koruma sağlayarak ömür boyu ilaç ihtiyacını azaltabilir; bilim insanları ise bazı çekinceler olduğunu belirtiyor.",
+     "baslik": "Ayakları sertleştiren çoraplar daha uzun süre koşmanıza yardımcı olabilir",
+     "ozet": "Spor giyim teknolojisindeki bir sonraki adım, ayaklarımızın bir kısmını sıkıştırarak yürüyüşümüzün verimliliğini artıran çoraplar olabilir",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "ScienceDaily",
-       "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2597125-feet-stiffening-socks-could-help-you-run-further-for-longer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "Betelgeuse'in atmosferinde gizli bir yoldaş yıldız tespit edildi",
-     "ozet": "Yeni radyo gözlemleri, Betelgeuse'i rahatsız eden unsurun Siwarha adlı gizli bir yoldaş yıldız olabileceğini düşündürüyor.",
+     "baslik": "Yeni kanıtlar, gizli bir yıldızın Betelgeuse'un atmosferinde ilerlediğini gösteriyor",
+     "ozet": "Gizemli bir şey Betelgeuse'u rahatsız ediyor ve gökbilimciler suçluyu belirlediklerine inanıyorlar: Siwarha adında gizli bir yoldaş yıldız. Yeni radyo gözlemleri, daha küçük yıldızın…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "ScienceDaily",
        "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm"
-      }
-     ]
-    },
-    {
-     "baslik": "Finlandiya'daki Onkalo nükleer atık deposu faaliyete geçmeye hazırlanıyor",
-     "ozet": "New Scientist'e göre 100.000 yıl dayanacak şekilde tasarlanan ilk mühendislik yapısı olan Onkalo, yer altında Finlandiya'nın nükleer atığı için güvenli bir depo olmayı hedefliyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "New Scientist",
-       "link": "https://www.newscientist.com/article/2595321-the-nuclear-repository-in-finland-designed-to-outlast-modern-civilisation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     }
@@ -439,23 +510,8 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "New York'ta 30 yıl sonra ilk kızamık ölümü",
-     "ozet": "ABD'nin New York eyaletinde kızamık nedeniyle 30 yıl sonra ilk çocuk ölümü bildirildi. New Scientist'e göre ölüm, ülkedeki en büyük kızamık salgınlarından birinin sürdüğü bir dönemde yaşandı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/new-yorkta-30-yil-sonra-kizamiktan-ilk-olum-43365208"
-      },
-      {
-       "ad": "Scientific American",
-       "link": "https://www.scientificamerican.com/article/new-yorks-first-measles-death-in-30-years-is-an-omen-of-worse-to-come/"
-      }
-     ]
-    },
-    {
-     "baslik": "Karın bölgesi kanserleri için 'çoklu kanser' kan testi aile hekimlerine geliyor",
-     "ozet": "BBC'ye göre karaciğer, yumurtalık ve pankreas gibi teşhisi zor karın kanserlerini daha erken saptamayı amaçlayan çoklu kanser kan testleri yakında bazı aile hekimliği muayenehanelerinde kullanılacak.",
+     "baslik": "Yakında bazı pratisyen hekim ameliyatlarına 'çoklu kanser' kan testleri gelecek",
+     "ozet": "Amaç karaciğer, yumurtalık ve pankreas kanseri gibi tanısı zor olan karın kanserlerini çok daha erken tespit etmektir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -465,24 +521,24 @@
      ]
     },
     {
-     "baslik": "Servier'in kas distrofisi ilacı ilk büyük testte başarısız oldu",
-     "ozet": "STAT News'a göre Servier'in 1,55 milyar dolarlık yatırım yaptığı, tedavisi bulunmayan bir kas distrofisi türüne yönelik ilacı ilk büyük klinik testte beklenmedik biçimde başarısız oldu.",
+     "baslik": "Sağlık vakfı binalarındaki sorunlar 20 milyon £ ek maliyete neden olabilir",
+     "ozet": "Royal Victoria Hastanesi'nin arazisindeki doğumhane binası şimdiden bütçeyi on milyonlarca sterlin aştı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss"
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cjly0qpv35p3o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "FDA, HIV önleme iğnesinin jenerik versiyonuna geçici onay verdi",
-     "ozet": "STAT News'a göre FDA, Dr. Reddy's Laboratories'in çığır açıcı bir HIV önleme ilacının jenerik versiyonunu üretmesine geçici onay verdi.",
+     "baslik": "Yerel halk hastane yataklarındaki kesintilere karşı mücadele ederken kırsal sağlık kurulunun değişmesine karşı çıktı",
+     "ozet": "Planlar, ilçedeki yatan hasta yatak sayısının 146'dan 90 veya 60'a düşürülmesini öngörüyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss"
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -493,42 +549,34 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Galatasaray, Şampiyonlar Ligi'nde Stuttgart'ı 2-0 yendi",
-     "ozet": "Galatasaray, Şampiyonlar Ligi'nin dördüncü haftasında evinde Stuttgart'ı Aleksey Batrakov'un iki golüyle 2-0 mağlup ederek puanını 6'ya yükseltti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/784721/spor/galatasaray-%C5%9Fampiyonlar-ligi%E2%80%99nde-stuttgart%E2%80%99%C4%B1-2-0-ma%C4%9Flup-etti"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/spor/g-saray-evinde-stuttgart-i-2-0-yenip-sampiyonlar-ligi-nde-6-puana-cikti-avrupa-aslani-2553098"
-      }
-     ]
-    },
-    {
-     "baslik": "Manchester United, Roma karşısında iki gol geriden gelerek 3-2 kazandı",
-     "ozet": "BBC Sport'a göre Manchester United, Şampiyonlar Ligi'nde Roma'ya karşı iki gol geriye düştüğü maçı 3-2 kazandı.",
+     "baslik": "Futbol dünyası Tenerife'nin golcüsü De Miguel'in yasını tutuyor",
+     "ozet": "Sahada çarpışma sonucu hayatını kaybeden Tenerife'nin forvet oyuncusu Jesus de Miguel, Salı günkü Şampiyonlar Ligi maçlarında anıldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live"
+       "link": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
       }
      ]
     },
     {
-     "baslik": "A Milli Takım'ın yeni teknik direktörü Sergen Yalçın aday kadroyu canlı yayında açıklayacak",
-     "ozet": "Sergen Yalçın, A Milli Futbol Takımı'nın başında ilk aday kadrosunu canlı yayında açıklayacak.",
+     "baslik": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi",
+     "ozet": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-direktorluk-gorevine-emre-belozoglu-getirildi/4110526"
+      }
+     ]
+    },
+    {
+     "baslik": "A Milli Futbol Takımı'nın aday kadrosu \"canlı yayında\" açıklanacak",
+     "ozet": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, ilk aday kadrosunu \"canlı yayında\" açıklayacak.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -544,24 +592,24 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Collins'e göre 2026'nın kelimesi 'Mogging'",
-     "ozet": "İngilizce sözlük yayıncısı Collins, yılın kelimesini 'birini ya da bir şeyi gölgede bırakmak' anlamına gelen 'Mogging' olarak açıkladı.",
+     "baslik": "BBC Galler Başbakanı uyardı: 'geri dönülemez bozulma' riskini azaltıyor",
+     "ozet": "Planlandığı gibi ilerlemesi halinde şirketin kamu hizmeti yükümlülüklerini ihlal edebileceğini söyledi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/ingilizce-sozluk-yayincisi-collinse-gore-2026nin-kelimesi-golgede-birakmak-anlamindaki-mogging/4110319"
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/ck054qyyr7nyo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "İnka mumyaları: Kurban edilen çocuklara önceden halüsinojen verilmiş",
-     "ozet": "Scientific American'a göre İnka mumyalarında yapılan yeni toksikoloji testleri, çocuklara ayin öncesinde kokainin yanı sıra alkol ve ayahuaskada bulunan kimyasalların da verildiğini gösterdi.",
+     "baslik": "Jon Stewart, Haley Stevens'ın Michigan'daki ihaneti hakkında: 'Fargo'nun şimdiye kadar gördüğüm en şeytani bölümü'",
+     "ozet": "Ara seçim arifesinde, Trump yansıtma havuzuna odaklanırken, gece geç saatlerde sunucular 11. saat onayını tartıştılar ABD ara seçimlerinin arifesinde , gece geç saatlerde sunucular Donald Trump'ın eksikliğiyle dalga geçtiler…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Scientific American",
-       "link": "https://www.scientificamerican.com/article/incan-children-were-given-hallucinogens-before-they-were-sacrificed-to-the-gods/"
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/culture/2026/nov/03/late-night-roundup-jon-stewart-jimmy-kimmel-seth-meyers"
       }
      ]
     }
@@ -571,58 +619,55 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "42971230",
-   "baslik_en": "Estimated global treatment costs for 31 cancer types by stage, year, and follow-up period: a systematic review and modelling study.",
-   "dergi": "The Lancet. Oncology",
-   "yazarlar": [
-    "Ward ZJ",
-    "Figi JT",
-    "Reddy CL",
-    "et al."
-   ],
-   "tur": "Sistematik derleme ve modelleme çalışması",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42971230/",
-   "doi": "https://doi.org/10.1016/S1470-2045(26)00388-8",
-   "baslik_tr": "31 kanser türü için aşama, yıl ve takip süresine göre tahmini küresel tedavi maliyetleri: sistematik derleme ve modelleme çalışması",
-   "ozet_en": "The authors screened 25,896 studies and used 196 of them, covering 31 cancer types in 44 countries, to build a Bayesian model of direct treatment costs. They estimate that 10-year treatment costs for cancers diagnosed in 2022 total about $771 billion worldwide, with breast cancer, leukaemia and lung cancer the largest drivers. North America and Europe account for 64% of costs but 36% of cases, and mean cost per patient ranges from $3,380 in eastern Africa to $93,600 in North America. Costs for stage IV cancers have risen substantially over time. The estimates are model-based and draw on published cost data.",
-   "ozet_tr": "Yazarlar 25.896 çalışmayı taradı ve 44 ülkede 31 kanser türünü kapsayan 196 çalışmayla doğrudan tedavi maliyetlerini modelleyen bir Bayes modeli kurdu. 2022'de tanı alan kanserlerin 10 yıllık tedavi maliyetinin dünya genelinde yaklaşık 771 milyar dolar olduğu tahmin ediliyor; en büyük payı meme kanseri, lösemi ve akciğer kanseri oluşturuyor. Kuzey Amerika ve Avrupa maliyetin %64'ünü, vakaların ise yalnızca %36'sını oluşturuyor; hasta başına ortalama maliyet Doğu Afrika'da 3.380 dolar, Kuzey Amerika'da 93.600 dolar. Evre IV kanserlerin maliyeti zamanla belirgin biçimde arttı. Tahminler model temellidir ve yayımlanmış maliyet verilerine dayanır.",
-   "neden_onemli": "Ülkeler arasında kanser tedavisine ayrılan kaynakların ne kadar farklı olduğunu ve sağlık harcaması planlamasının neden önemli olduğunu gösteriyor."
-  },
-  {
-   "pmid": "42972108",
-   "baslik_en": "Neoadjuvant botensilimab with or without balstilimab in pMMR and dMMR colon cancer: the phase 2 UNICORN trial.",
-   "dergi": "Nature medicine",
-   "yazarlar": [
-    "Ghelardi F",
-    "Ambrosini M",
-    "Raimondi A",
-    "et al."
-   ],
-   "tur": "Faz 2 klinik çalışma",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42972108/",
-   "doi": "https://doi.org/10.1038/s41591-026-04710-1",
-   "baslik_tr": "pMMR ve dMMR kolon kanserinde botensilimab ± balstilimab ile neoadjuvan tedavi: faz 2 UNICORN çalışması",
-   "ozet_en": "In this phase 2 trial, 56 patients with resectable, locally advanced colon cancer received short-course botensilimab alone or combined with balstilimab before surgery. A major pathological response was seen in 36% of patients with proficient mismatch repair (pMMR) tumours on the combination and in 100% of those with deficient mismatch repair (dMMR) tumours on the combination, versus 0% for pMMR tumours on botensilimab alone. Immune-related adverse events occurred in 29% of patients on botensilimab and 54% on the combination. Cohorts were small (14 patients each) and not randomised, so results need confirmation.",
-   "ozet_tr": "Bu faz 2 çalışmada, ameliyat edilebilir ve lokal ileri evre kolon kanseri olan 56 hastaya ameliyat öncesi kısa süreli botensilimab tek başına ya da balstilimab ile birlikte verildi. Kombinasyon, uyumsuz onarım proteini yeterli (pMMR) tümörlerde hastaların %36'sında, eksik (dMMR) tümörlerde ise %100'ünde majör patolojik yanıt sağlarken, yalnızca botensilimab alan pMMR hastalarda yanıt %0 oldu. Bağışıklıkla ilişkili yan etkiler botensilimab grubunda %29, kombinasyon grubunda %54 oranında görüldü. Gruplar küçük (her biri 14 hasta) ve randomize değil; sonuçların doğrulanması gerekiyor.",
-   "neden_onemli": "Bağışıklık tedavilerine genellikle yanıt vermeyen kolon kanseri türleri için erken evrede yeni bir tedavi olasılığına işaret ediyor."
-  },
-  {
-   "pmid": "42975406",
-   "baslik_en": "Full-Service Mobile Food Markets and Dietary Quality in Low-Income Housing Communities: A Randomized Clinical Trial.",
+   "pmid": "42975901",
+   "baslik_en": "Early Metformin Initiation and Glycemic Outcomes in Gestational Diabetes: A Secondary Analysis of a Randomized Clinical Trial.",
+   "baslik_tr": "Gestasyonel Diyabette Erken Metformin Başlangıcı ve Glisemik Sonuçlar: Randomize Bir Klinik Araştırmanın İkincil Analizi.",
    "dergi": "JAMA network open",
    "yazarlar": [
-    "Horning ML",
-    "Gorman KS",
-    "Wagner S",
+    "Aguilar Macías DA",
+    "Alvarez-Iglesias A",
+    "Ferguson JM",
     "et al."
    ],
-   "tur": "Randomize klinik çalışma",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42975406/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.46816",
-   "baslik_tr": "Düşük gelirli konut topluluklarında tam hizmetli gezici gıda pazarları ve beslenme kalitesi: randomize klinik çalışma",
-   "ozet_en": "In this cluster randomised trial, 12 subsidised housing sites in the Minneapolis-St. Paul area were assigned to weekly mobile grocery market service or a waiting list, involving 242 adults with a mean age of 66.5. Satisfaction with the market was high, but diet quality and most secondary outcomes, including food security, did not differ significantly between groups. Participants at intervention sites consumed about 397 mg less sodium per day. Only 43% of intervention participants used the market in the last two months, which limits what the findings can show.",
-   "ozet_tr": "Bu küme randomize çalışmada Minneapolis-St. Paul bölgesindeki 12 destekli konut alanı, haftalık gezici market hizmeti ya da bekleme listesi grubuna atandı; çalışmaya ortalama yaşı 66,5 olan 242 yetişkin katıldı. Markete duyulan memnuniyet yüksekti, ancak beslenme kalitesi ve gıda güvenliği dahil çoğu ikincil sonuç gruplar arasında anlamlı farklılık göstermedi. Müdahale gruplarındaki katılımcılar günde yaklaşık 397 mg daha az sodyum tükettiler. Müdahale grubundaki katılımcıların yalnızca %43'ü son iki ayda marketten alışveriş yaptı; bu da bulguların yorumunu sınırlıyor.",
-   "neden_onemli": "Sağlıklı gıdaya erişimi kolaylaştıran uygulamaların tek başına beslenme kalitesini artırmayabileceğini, ancak tuz tüketimini azaltabileceğini gösteriyor."
+   "tur": "Randomized Controlled Trial, Multicenter Study",
+   "ozet_en": "IMPORTANCE: Conventional approaches to analyzing composite end points in clinical trials may not fully capture clinically meaningful treatment effects. OBJECTIVE: To estimate treatment effects of early metformin initiation on clinically ordered glycemic outcomes (insulin initiation and fasting hyperglycemia at gestational weeks 32 and 38) using generalized pairwise comparisons (GPCs).",
+   "ozet_tr": "ÖNEMİ: Klinik araştırmalardaki bileşik son noktaları analiz etmeye yönelik geleneksel yaklaşımlar, klinik açıdan anlamlı tedavi etkilerini tam olarak yakalayamayabilir. AMAÇ: Genelleştirilmiş ikili karşılaştırmalar (GPC'ler) kullanarak erken metformin başlanmasının klinik olarak sıralanan glisemik sonuçlar (insülin başlatılması ve gebeliğin 32. ve 38. haftalarında açlık hiperglisemisi) üzerindeki tedavi etkilerini tahmin etmek.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42975901/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.35700"
+  },
+  {
+   "pmid": "42970799",
+   "baslik_en": "Measles.",
+   "baslik_tr": "Kızamık.",
+   "dergi": "Annals of internal medicine",
+   "yazarlar": [
+    "Lo NC"
+   ],
+   "tur": "Review",
+   "ozet_en": "Measles is reemerging, with cases and outbreaks increasing across the United States and other countries where measles had previously been eliminated. Most U.S. physicians have no experience with treating measles. However, the increasing likelihood of encountering not only children but also adults with measles requires a clinical review of the epidemiology, prevention, diagnosis, and management of this previously uncommon infection for general internal medicine physicians and hospitalists who care for adults in settings with measles reemergence. Prompt clinical suspicion, infection control measures, and notification of public health departments support timely diagnosis and disease control.",
+   "ozet_tr": "Kızamık yeniden ortaya çıkıyor; vakalar ve salgınlar ABD'de ve kızamığın daha önce ortadan kaldırıldığı diğer ülkelerde artıyor. Çoğu ABD doktorunun kızamık tedavisi konusunda deneyimi yoktur. Bununla birlikte, kızamıkla yalnızca çocuklarda değil yetişkinlerde de karşılaşma olasılığının artması, kızamığın yeniden ortaya çıktığı ortamlarda yetişkinlere bakım veren genel dahiliye hekimleri ve hastane uzmanları için daha önce nadir görülen bu enfeksiyonun epidemiyolojisi, önlenmesi, tanısı ve yönetiminin klinik olarak gözden geçirilmesini gerektirmektedir. Hızlı klinik şüphe, enfeksiyon kontrol önlemleri ve halk sağlığı departmanlarının bilgilendirilmesi, zamanında teşhis ve hastalık kontrolünü destekler.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970799/",
+   "doi": "https://doi.org/10.7326/ANNALS-26-03912"
+  },
+  {
+   "pmid": "42970289",
+   "baslik_en": "Functional Connectivity at Birth and Longitudinal Neurocognitive Development in Very Preterm Infants.",
+   "baslik_tr": "Çok Prematüre Bebeklerde Doğumda Fonksiyonel Bağlantı ve Boyuna Nörobilişsel Gelişim.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Wang J",
+    "Jia W",
+    "Li H",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "IMPORTANCE: Understanding how neonatal functional connectivity at birth is associated with later cognitive performance in infants born very preterm (VPT) may help identify early neuroimaging markers of neurodevelopment. OBJECTIVE: To examine the associations between functional connectivity at birth and cognitive performance at age 2 and 3 years in children born VPT. DESIGN, SETTING, AND PARTICIPANTS: This prospective cohort study included infants born VPT (gestational age ≤32 weeks) from 5 level III and IV neonatal intensive care units in the greater Cincinnati, Ohio, area between September 16, 2016, and November 19, 2019.",
+   "ozet_tr": "ÖNEMİ: Doğumdaki neonatal fonksiyonel bağlantının, çok erken doğan bebeklerde (VPT) daha sonraki bilişsel performansla nasıl ilişkili olduğunu anlamak, nörogelişimin erken nörogörüntüleme belirteçlerinin tanımlanmasına yardımcı olabilir. AMAÇ: VPT ile doğan çocuklarda doğumdaki fonksiyonel bağlantı ile 2 ve 3 yaşlarındaki bilişsel performans arasındaki ilişkileri incelemek. TASARIM, YER VE KATILIMCILAR: Bu prospektif kohort çalışmasına 16 Eylül 2016 ve 19 Kasım 2019 tarihleri ​​arasında Cincinnati, Ohio bölgesindeki 5 seviye III ve IV yenidoğan yoğun bakım ünitelerinde VPT (gebelik yaşı ≤32 hafta) doğan bebekleri dahil edilmiştir.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970289/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41840"
   }
  ]
 }
