@@ -11,6 +11,9 @@ Türkçe bülten hazırlayan kişisel haber ajanı. Bültenler `docs/` klasörü
 | `GOREV.md` | Ajanın bülteni nasıl yazacağına dair talimat. |
 | `yayinla.py` | Bülten JSON'unu HTML'e çevirir, linkleri doğrular → `docs/` |
 | `PLAN.md` | Proje planı ve alınan kararlar. |
+| `otomatik.py` | Yapay zekâsız bülten üretici (topla + hazırla + yayınla). |
+| `calistir.bat` | Çift tıkla çalıştır (hazırla + GitHub'a gönder). |
+| `KULLANIM.md` | **Önce bunu okuyun:** kullanım ve sorun giderme. |
 
 Elle çalıştırmak için:
 
