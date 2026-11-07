@@ -1,120 +1,140 @@
 {
  "tarih": "2026-11-07",
  "donem": "aksam",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
  "one_cikanlar": [
   {
-   "baslik": "Paraguay ex-president Peña placed under house arrest after impeachment",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5"
-    },
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Fon soruşturmasında 4 kişi daha tutuklandı",
-   "ozet": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen \"fon soruşturması\" kapsamında aralarında eski SPK Başkanvekili Enver Usca'nın da…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-4-kisi-daha-tutuklandi-962502.html"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/fon-soruşturmasında-dört-tutuklama-daha-toplam-117-kişi/a-79884004?maca=tur-rss-tur-all-1495-rdf"
-    },
-    {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/07/fon-sorusturmasinda-dort-tutuklama-spkden-67-kisi-hakkinda-suc-duyurusu"
-    },
-    {
-     "ad": "Medyascope",
-     "link": "https://medyascope.tv/2026/11/07/fon-sorusturmasi-eski-spk-baskanvekili-enver-usca-ve-3-kisi-tutuklandi/"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Galatasaray'ın yıldızı Victor Osimhen, ameliyat edildi",
-   "ozet": "Galatasaray'ın Nijeryalı santrforu Victor Osimhen, sol dizinden operasyon geçirdi.",
+   "baslik": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 6 kişi öldü, 15 kişi yaralandı",
+   "ozet": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 6 kişi hayatını kaybetti, 15 kişi yaralandı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yildizi-victor-osimhen-ameliyat-edildi/4115080"
+     "link": "https://www.aa.com.tr/tr/dunya/polonyanin-krakov-kentinde-duzenlenen-silahli-saldirida-6-kisi-oldu-15-kisi-yaralandi/4115349"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/07/polonyanin-krakow-sehrinde-silahli-saldiri-en-az-5-olu-12den-fazla-yarali"
     },
     {
      "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/sporarena/galatasaray-acikladi-osimhen-ameliyat-oldu-43369398"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/spor/futbol/2026/11/07/galatasaray-acikladi-victor-osimhen-ameliyat-oldu"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-dan-victor-osimhen-icin-yeni-aciklama-2554142"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5"
+     "link": "https://www.hurriyet.com.tr/dunya/polonyada-silahli-saldiri-soku-5-kisi-oldu-10dan-fazla-kisi-yaralandi-43369818"
     },
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5"
     }
    ],
    "neden_onemli": ""
   },
   {
-   "baslik": "Houston mayor curtails police cooperation with ICE, saying 'elections matter'",
-   "ozet": "",
+   "baslik": "Fon soruşturmasında yeni gelişme: 4 kişi gözaltına alındı",
+   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya, eski Takasbank Genel Müdürü Yunus Arıncı, Bankacılık…",
    "etiket": "teyitli",
    "kaynaklar": [
     {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-4-kisi-gozaltina-alindi-962555.html"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784914/haber/fon-soru%C5%9Fturmas%C4%B1nda-ki-isim-yeniden-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-4-supheli-gozaltina-alindi-43369874"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-3925680"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/fon-soruşturmasında-dört-tutuklama-daha-toplam-117-kişi/a-79884004?maca=tur-rss-tur-all-1495-rdf"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/4115395"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-trump-ile-gorustu-43369866"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-donald-trump-ile-gorustu-3925684"
+    },
+    {
+     "ad": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/erdogan-telefonda-trump-ile-gorustu-3793882"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Cumhurbaşkanı Erdoğan, yarın Azerbaycan'a gidecek",
+   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın Azerbaycan'a gidecek.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarin-azerbaycana-gidecek/4115459"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784913/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-azerbaycana-gidecek"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-8-kasimda-karabaga-gidecek-43369879"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gidecek-3925694"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa etti",
+   "ozet": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa ettiğini açıkladı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-partiden-istifa-etti-962542.html"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/tekirdag-buyuksehir-belediye-baskani-candan-yuceer-yeni-partiden-istifa-etti-43369712"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/yasam/son-dakika-candan-yuceer-yeni-partiden-istifa-etti-7697016"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXc4WDhSaDFtQkQ3eW5wOUJKNGNVVV9lbE9QV01ueEQ2VE1BRFdKbDhPckE3U1Z2RjFBc0lQQ2FtU190TzUtREJmNE1wYzYxUVRIX08xVmNxSXdNcDZ3VS1BUmZHUlhSc3kzelZGRllnUW5ub1FyNmFoSEgtZ1hWOXMxVElZeE5aV0dvQldveWRyNXZIaS05dlcxR3JGZ2VpVmsxMy1XOWdBVG5QQTZ3V3hZaENiVGNmM2Jj?oc=5"
+    },
+    {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFdFOGx1X2lGTl8yX1h5NmxRbmJ0VElULWdnVHNZQmlVYTFtRjRqR3NyUzJuLVlkRjJZMU9iMm9sRmU0VW9xSFdwd21meTRDWXc5bHJFYjZaYWZkX05BNWR3WmJlaElTLU5oS0duNTduZU02b0dtdm9tUWZleXBFY0c0OHNncTlvQWFJdDNDWmdxaE9HZUtKNnJoV3ctTVlhRlNUSVhWdlJ2X01uQ21TVjBQNE5iaWtzWnVrZExPMFVzMW5kSnc?oc=5"
-    },
-    {
-     "ad": "Le Monde",
-     "link": "https://www.lemonde.fr/en/international/article/2026/11/07/houston-mayor-limits-ice-cooperation-by-police-after-democratic-victory_6773956_4.html"
-    },
-    {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg?oc=5"
     }
    ],
    "neden_onemli": ""
@@ -126,111 +146,123 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "YENİ Parti yarın sandığa gidiyor... Genel Başkanlık için ön seçim",
-     "ozet": "81 ilde kurulacak 3 bin sandıkta, YENİ Parti üyeleri genel başkan adaylarını belirleyecek. Adaylar 14-15 Kasım’daki kurultayda yarışacak. Genel Başkan Özgür Özel kurultay öncesi vaatlerini 17…",
+     "baslik": "İran nükleer programına ilişkin bilgiye ABD'den 20 milyon dolar ödül",
+     "ozet": "Washington, İran'ın nükleer programına ilişkin detaylı bilgi getirene 20 milyon dolar ödül vadetti. Açıklamada, istenmesi halinde bilgi veren kişinin başka bir yere taşınmasına da yardımcı olunacağı…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/yeni-parti-yarin-sandiga-gidiyor-genel-baskanlik-icin-on-secim-43369031"
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/i̇ran-nükleer-programına-ilişkin-bilgiye-abd-den-20-milyon-dolar-ödül/a-79884044?maca=tur-rss-tur-all-1495-rdf"
       },
       {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-de-genel-baskanlik-onsecimi-yarin-81-ilde-3-bin-sandik-kurulacak-tek-aday-ozgur-ozel-2554134"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/07/abdden-iranin-nukleer-programina-dair-bilgiye-20-milyon-dolara-kadar-odul-ve-tasinma-imkan"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr"
       }
      ]
     },
     {
-     "baslik": "Sokak satıcılarına yönelik uyuşturucu operasyonu: 82 kişi tutuklandı",
-     "ozet": "İstanbul merkezli 5 ilde sokak satıcılarına yönelik düzenlenen uyuşturucu operasyonunda gözaltına alınan 88 şüpheliden 82'si tutuklandı.",
+     "baslik": "Arsenal, Hull City karşısında tek golle kazandı!",
+     "ozet": "Premier Lig'de Arsenal'e deplasmanda 1-0 yenilen Hull City'nin galibiyet hasreti sekiz maça çıktı. Ev sahibi ekibe üç puanı Martin Odegaard getirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/sokak-saticilarina-yonelik-uyusturucu-operasyonu-82-kisi-tutuklandi-43369147"
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/premier-lig-lideri-arsenal-hull-city-karsisinda-tek-golle-kazandi-3925691"
       },
       {
        "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/adiyaman-da-uyusturucu-operasyonu-3-tutuklama-2554143"
+       "link": "https://www.cumhuriyet.com.tr/spor/hull-city-arsenal-e-tek-golle-maglup-oldu-2554267"
       }
      ]
     },
     {
-     "baslik": "Türkiye Sibirya soğuklarının etkisinde: Sıcaklıklar düşüyor! Meteoroloji'den uyarı üstüne uyarı: Sağanak yağış, kar, zirai don ve fırtına alarmı",
-     "ozet": "Türkiye genelinde Sibirya kökenli soğuk hava dalgası etkisini göstermeye başlarken, Afet Koordinasyon Merkezi (AKOM) ve Meteoroloji Genel Müdürlüğü’nden peş peşe kritik uyarılar geldi. Ülke genelinde…",
+     "baslik": "SON DAKİKA... Özgür Özel’den Emir Sarıgül’e iki ayrı dava hamlesi",
+     "ozet": "",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/turkiye-sibirya-soguklarinin-etkisinde-sicakliklar-dusuyor-meteorolojiden-uyari-ustune-uyari-saganak-yagis-kar-zirai-don-ve-43369067"
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-den-emir-sarigul-e-iki-ayri-dava-hamlesi-p376946"
       },
       {
        "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVEdMYnN3MFpKSUdXUVFxNS1IMTBTUnp4YVBhT1VWdUJ2UWplbE5mNGhVSDhIUm5CLTJHVTJPdncwSnVXMW92cldPYmc3MDh0dmh1c0FtRWYzd2RVY3EtVVdiekFsNmRYbTM4SGR6Vk1fS01ycHQ2bGhGS0xwdjNHSEREX2FqTHFqMGhZc1NRajRJcU80WFY1eTZPeC1lQ1R2MnZJZlRHajJZV1dMc28xcHRJVGhQYTNpU1d3eEdSWVdVcWIybzlYN09KY1U1XzJZM1lzbTNRcS10MFpMSjg4Z1NBVDJ6ZHY3di1sUHBCbldoVWhvd0x0RW84aw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbnZ3UkhnQTI0VWhCZk1GVGVaN0tJR0hjMmFZVlN1MjFMWFJPRTNsT3RYVXZHZHJjM2FDTE9HWExGSEdUM254SnNBM3plMnFQMkY1WVFTUUw4X2t5ZDdJMXN3S0dlNHhtYVZORjNwTnY4ZUVhY2M1eWxBY0k3ZGQzNEtBcWRkX1JPQ19ibTNRT05sSjd0WVpSMjlad2xuN293czN4MUpqYk1NeW15czVFdnBsRHVyQzdoRDRGbld2VnJ3Uy1kbVhQSVBIalJieDg?oc=5"
       }
      ]
     },
     {
-     "baslik": "Bakan Kurum'dan Yörük belgeseli paylaşımı",
-     "ozet": "Antalya'da düzenlenecek COP31 öncesinde, Toroslar'da yaşayan Sarıkeçili Yörüklerinin hayatını konu alan \"The Yörüks\" belgeseli yayımlandı. COP31 Başkanlığı'nın resmi hesaplarından paylaşılan…",
+     "baslik": "Galatasaray, Amedspor’u yenerek ligdeki liderliğini korudu",
+     "ozet": "Galatasaray, Amedspor'u RAMS Park'ta ağırladı. Sarı-kırmızılı takım rakibini 4-3 yenerek, ligdeki liderliğini korudu. Galatasaray, Amedspor’u yenerek ligdeki liderliğini korudu Medyascope",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/ekonomi/cop31-oncesi-sarikecili-yoruklerinin-hayati-belgesel-oldu-3925614"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/ekonomi/cop31-icin-yoruk-belgeseli-hazirlandi-bakan-kurum-paylasti-ortak-evimiz-dunya-7696877"
-      }
-     ]
-    },
-    {
-     "baslik": "Erbakan'dan emekli maaşı açıklaması",
-     "ozet": "Yeniden Refah Partisi lideri Fatih Erbakan, \"En düşük emekli maaşı mutlaka asgari ücret seviyesine getirilmeli.\" diye konuştu.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-erbakan-en-dusuk-emekli-maasi-asgari-ucret-seviyesine-getirilmeli-3925609"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/fatih-erbakan-dan-fon-vurgunu-tepkisi-214-kisilik-liste-derhal-aciklanmali-2554140"
-      }
-     ]
-    },
-    {
-     "baslik": "SPK'dan 88 kişi hakkında suç duyurusu kararı",
-     "ozet": "Sermaye Piyasası Kurulu (SPK), haftalık bülteninde üç şirketin pay piyasasındaki işlemlerine ilişkin aldığı kararları açıkladı. Kurul, TMPOL, ISVEA ve TERA paylarına yönelik incelemeler kapsamında…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/ekonomi/spk-dan-tmpol-isvea-ve-tera-islemlerine-iliskin-kararlar-3925595"
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/07/galatasaray-amedsporu-yenerek-ligdeki-liderligini-korudu/"
       },
       {
        "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUzhaaFVLZjRxa0swbTQwTFNkRG1RYzRrMmZwM2ZDTWdxYVEtMXNSWkJMeERqU3htMUs0RGIxVmZaM0tfSEVTUmJFbjlBSUtwNEg3eHNpMDFkRE5UbkZvX0d5UFhleUloU20wY19ldThwd19wZkc5ZXhnaXU0QV9qQW5nSlpVd0IyZ0l5REV3UTgtSk5kaVQ1T1lJazE2QUlXNmVBTHh5Q29VX1ZuTGVKcVVZLU85QQ?oc=5"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/spk-dan-uc-sirketin-pay-islemlerine-iliskin-suc-duyurusu-ve-islem-yasagi-karari-3793866"
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXVBcDJMbjUtazZRTm5mTlUwQlk0QXN0UHR4T1RFRnpSb1dXSVhyQ3pxVGdMWVJWcUo4azJMY1VQN2xmOGVpcTRBSjRiWUp2d2Y0UnRrWk9Ib3YtbF8tT01TMzVqcFFudjl3NFJaQlRmVkpUN1NmdlowQXJNMDVFbTdBT3R6S0dNUnh0TDk4dVNFSDZZ?oc=5"
       }
      ]
     },
     {
-     "baslik": "Rusya'da siber saldırı nedeniyle bazı ekonomik verilerin yayımlanması gecikiyor",
-     "ozet": "Rusya Federal İstatistik Kurumu (Rosstat), bilişim sistemlerine yönelik siber saldırının ardından bazı ekonomik verilerin açıklanmasında gecikmeler yaşanabileceğini bildirdi.",
-     "etiket": "tek kaynak",
+     "baslik": "Fransa'da uçaklara yönelik sahte bomba ihbarlarının \"yabancı güçlerle bağlantısı\" soruşturuluyor",
+     "ozet": "Fransa'da savcılığın, uçaklara yönelik sahte bomba ihbarlarının yabancı güçlerle olası bağlantısını soruşturduğu öğrenildi.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/rusyada-siber-saldiri-nedeniyle-bazi-ekonomik-verilerin-yayimlanmasi-gecikiyor/4115096"
+       "link": "https://www.aa.com.tr/tr/dunya/fransada-ucaklara-yonelik-sahte-bomba-ihbarlarinin-yabanci-guclerle-baglantisi-sorusturuluyor/4115500"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/economy/article/2026/11/07/france-probes-if-bomb-threats-against-airlines-linked-to-foreign-powers_6774486_19.html"
+      }
+     ]
+    },
+    {
+     "baslik": "AA Kürek Yarışı'nda birinciliği Kürek Tasarımcıları takımı elde etti",
+     "ozet": "Anadolu Ajansı Spor Kulübü (AASK) tarafından, Anadolu Ajansı çalışanlarının katılımıyla kürek yarışması düzenlendi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/aa-kurek-yarisinda-birinciligi-kurek-tasarimcilari-takimi-elde-etti/4115473"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/aa-kurek-yarisinda-birinciligi-kurek-tasarimcilari-takimi-elde-etti/4115473"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump, Demokratların üst düzey birçok Cumhuriyetçiyi tehdit ettiğini savundu",
+     "ozet": "ABD Başkanı Donald Trump, Demokratların, Cumhuriyetçi bağışçılar dahil partiden birçok üst düzey kişiyi \"azil\" ve diğer ceza türleriyle tehdit ettiğini ileri sürdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-demokratlarin-ust-duzey-bircok-cumhuriyetciyi-tehdit-ettigini-savundu/4115469"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf"
       }
      ]
     }
@@ -241,103 +273,115 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials",
+     "baslik": "Demokratlar büyük ara seçim zaferini nasıl kazandı?",
      "ozet": "",
      "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Early count in New Zealand’s election suggests result too close to call",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5"
-      },
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-     "ozet": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "France braces for new round of student and Yellow Vest protests",
-     "ozet": "Two major protests have been announced for Saturday. One will see students and unions marching against high living costs, while the Yellow Vests plan to march separately, despite a police ban.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/france-braces-for-new-round-of-student-and-yellow-vest-protests/a-79884064?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience"
-      }
-     ]
-    },
-    {
-     "baslik": "US: Giant pandas from China make public debut at Atlanta zoo",
-     "ozet": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo"
-      }
-     ]
-    },
-    {
-     "baslik": "Kenyan cult leader sentenced to 200 years in prison",
-     "ozet": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says",
-     "ozet": "",
-     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV01ET2lGRzZiTlVXb0VSajdkWXJ5ZmlGMlEzdFdSTWo0QnRUcFhaS3F6ZUxDcWhXVUpZcmRZTUlVUVdHd3UyaEF3d2ZVY3VpSTNzVXV0VHdiT0xQUzFnYkQ4bnBIc1dmdjJIdXRHd1pFWHZJalZJLUxWdFFROUgzMUFpeFNMTzNZeXhpNVdlSXRpcTlld1VjbjFKOFppUjQyVmc?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Rusya, gece boyunca düzenlediği büyük saldırıyla Kiev ve çevresindeki hedefleri vurduğunu açıkladı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
+      }
+     ]
+    },
+    {
+     "baslik": "Malezya kralı, eski Başbakan Najib'in ev hapsine izin veren emrine itiraz edilmemesi konusunda uyardı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhJT1FjMmprRFN3MXVHQnFZWXJMNjhRc2JROUJTZ05vWnpLMTdjOWFwbzUwMTF1dlg1YWY5YWlObGtzVFpFSU1INFdwZFBOT1NtcnpDZURIZF8zX2laNjFjazNPczJ3dmI2YVJPMGx5VWIwemxZN1dyLXdWajY3UG44Zzg2T3hmMTdVM1VCSFJpNm91ZjhwUGtUUWVzbjRCcG1VWkdueFFSRm1uSmg0NU9tdGRrUmNMcmV4NU1JMW9UQk12V2lDNTBCaDhUdw?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Paraguay'ın yeni başkanı kim?",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
+      }
+     ]
+    },
+    {
+     "baslik": "Husiler, Yemen'in başkenti yakınlarında hava saldırılarında 2 düzineden fazla kişinin öldüğünü söylüyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Kenya'daki kıyamet tarikatının liderine 200 yıl hapis cezası",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUw2eEJsbFByTGFvckM5bXBFbHBVOTZZQ1FFTFdtdjJLSXJlU21jNGRGWXZwV2M3WGFLNVZ4a1ZVZDZPRGgtTzU1OVVrdVg2Z2V2TklKTjRzbkRmUXMwd0c0YTlwUDFfWC1EWnFsekxxYUJ0NWhHQ3hUU0swOUpXOUViZGpHV3FuM2N6Wi1WUkotUQ?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa Leo XIV'in Uruguay'daki ayini kutlamasında 40.000'den fazla kişi toplandı",
+     "ozet": "Papa'nın Güney Amerika turnesinin ilk ayinini kutlaması sırasında büyük bir kalabalık toplandı. Montevideo'da gece namazı nöbetine 60.000'den fazla gencin katılması bekleniyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss"
       }
      ]
     }
@@ -348,61 +392,61 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Türk Telekom'un patent başvurularındaki başarısı ödüllendirildi",
-     "ozet": "Türk Telekom, 2025 yılında yerli patent ve faydalı model başvurularında firmalar kategorisinde elde ettiği birincilik dolayısıyla Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından ödüllendirildi.",
+     "baslik": "Putin, JTI'ın Rusya'daki üç varlığını daha geçici yönetime devretti",
+     "ozet": "Rusya Devlet Başkanı Vladimir Putin, Japon tütün şirketi Japan Tobacco International'ın (JTI) Rusya'daki üç şirketini daha \"Promışlennıye Aktivı\" adlı Rus şirketinin geçici yönetimine devretti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-patent-basvurularindaki-basarisi-odullendirildi/4115035"
+       "link": "https://www.aa.com.tr/tr/ekonomi/putin-jtiin-rusyadaki-uc-varligini-daha-gecici-yonetime-devretti/4114897"
       },
       {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/sirketler/turk-telekom-patent-basvurularinda-zirvede-yapay-zekada-da-lider-oldu-haberi-846781"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/rusya-jti-in-uc-varligina-daha-el-koydu-3793876"
       }
      ]
     },
     {
-     "baslik": "TRT World Forum 2026'da küresel ticaret yolları ve tedarik zincirlerinin geleceği ele alındı",
-     "ozet": "TRT World Forum 2026 kapsamında düzenlenen oturumda, bölgesel çatışmaların ticaret yollarına etkileri, enerji arz güvenliği ve küresel tedarik zincirlerinde alternatif güzergah arayışları…",
+     "baslik": "SGK'den lösemili çocukların tedavisine 7,4 milyar liralık destek",
+     "ozet": "Sosyal Güvenlik Kurumu (SGK), lösemili çocukların sağlık harcamaları için bu yılın 7 ayında 7 milyar 431 milyon lira ödeme yaptı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/trt-world-forum-2026da-kuresel-ticaret-yollari-ve-tedarik-zincirlerinin-gelecegi-ele-alindi/4115045"
+       "link": "https://www.aa.com.tr/tr/ekonomi/sgkden-losemili-cocuklarin-tedavisine-7-4-milyar-liralik-destek/4115243"
       }
      ]
     },
     {
-     "baslik": "COP31, Türkiye'nin elektrik çağında sanayi gücüne dönüşümüne katkı sağlayabilir",
-     "ozet": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı Danışma Grubu Üyesi ve eski ExxonMobil yöneticisi Jean Baderschneider, COP31'in iklim hedeflerini somut projelere…",
+     "baslik": "11. Türkiye İş Ahlakı Zirvesi'nde güvene dayalı liderlik anlayışının kurumsallaşması ele alındı",
+     "ozet": "Türkiye İktisadi Girişim ve İş Ahlakı Derneği (İGİAD) tarafından düzenlenen 11. Türkiye İş Ahlakı Zirvesi'nde iş dünyasında güvene dayalı liderlik anlayışının kurumsallaşması ve uzun vadeli stratejik…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31-turkiyenin-elektrik-caginda-sanayi-gucune-donusumune-katki-saglayabilir/4114960"
+       "link": "https://www.aa.com.tr/tr/ekonomi/11-turkiye-is-ahlaki-zirvesinde-guvene-dayali-liderlik-anlayisinin-kurumsallasmasi-ele-alindi/4115123"
       }
      ]
     },
     {
-     "baslik": "Sığır karkasının pazar fiyatı sıcak ağırlığa göre belirlenecek",
-     "ozet": "Karkas sığır etinin fiyatının belirlenmesinde \"sıcak karkas ağırlığı\" esas alınacak.",
+     "baslik": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 41. kuruluş yıl dönümünü kutluyor",
+     "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB), 41. kuruluş yıl dönümünde Türkiye'nin savunma sanayisinde dışa bağımlılıktan milli teknoloji geliştirme, üretim ve ihracata uzanan dönüşümünü ortaya…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/sigir-karkasinin-pazar-fiyati-sicak-agirliga-gore-belirlenecek/4115053"
+       "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-savunma-sanayii-baskanligi-41-kurulus-yil-donumunu-kutluyor/4115172"
       }
      ]
     },
     {
-     "baslik": "COP31, Antalya'nın akıllı sera teknolojilerindeki hedeflerine ivme kazandıracak",
-     "ozet": "ASETAM Müdürü Doç. Dr. Nuri Çağlayan, COP31'in, Antalya'nın sera teknolojilerindeki birikimini uluslararası alana taşıması için önemli bir fırsat sunacağını belirtti.",
+     "baslik": "Turkcell COP31'de dijital ve yeşil dönüşüm vizyonunu paylaşacak",
+     "ozet": "Turkcell, \"Sektör Ortağı\" olarak destek verdiği COP31'de dijital ve yeşil dönüşüm vizyonunu uluslararası kamuoyuyla paylaşacak.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31-antalyanin-akilli-sera-teknolojilerindeki-hedeflerine-ivme-kazandiracak/4114963"
+       "link": "https://www.aa.com.tr/tr/ekonomi/turkcell-cop31de-dijital-ve-yesil-donusum-vizyonunu-paylasacak/4115125"
       }
      ]
     }
@@ -413,6 +457,50 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
+     "baslik": "Yazılım deneyimi olmayan gençler, \"Zero to Product\" ile fikirlerini dijital ürüne dönüştürebilecek",
+     "ozet": "Bilkent Üniversitesi öğrenci topluluğu NextGen Builders tarafından düzenlenen \"Zero to Product\", 9 Kasım'da başlayacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yazilim-deneyimi-olmayan-gencler-zero-to-product-ile-fikirlerini-dijital-urune-donusturebilecek/4115353"
+      }
+     ]
+    },
+    {
+     "baslik": "Türk teknoloji şirketinin küçük modüler reaktör projesi COP31'de vitrine çıkacak",
+     "ozet": "Türk teknoloji şirketi MİA Teknoloji, yüzde 50'nin üzerinde yerli katkıyla geliştirmeyi hedeflediği 100 megavat kapasiteli küçük modüler reaktör projesini Türkiye'nin ev sahipliğinde Antalya'da…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-teknoloji-sirketinin-kucuk-moduler-reaktor-projesi-cop31de-vitrine-cikacak/4115240"
+      }
+     ]
+    },
+    {
+     "baslik": "HİSAR A+ Otonom, kızılötesi arayıcı başlıklı füzesiyle jet motorlu hedefi başarıyla vurdu",
+     "ozet": "ROKETSAN ve ASELSAN’ın ana yükleniciliğinde yürütülen HİSAR projesi kapsamında gerçekleştirilen atış faaliyetinde, HİSAR A+ Otonom sisteminden ateşlenen görüntüleyici kızılötesi (IIR) arayıcı…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hisar-a-otonom-kizilotesi-arayici-baslikli-fuzesiyle-jet-motorlu-hedefi-basariyla-vurdu/4115193"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Kacır: BİLGE'nin ilk sürümünü çok yakında geliştiricilerin kullanımına sunacağız",
+     "ozet": "Sanayi ve Teknoloji Bakanı Kacır, Türkçe büyük dil modeli BİLGE'nin ilk sürümünü çok yakında geliştiricilerin kullanımına sunacaklarını açıkladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-bilgenin-ilk-surumunu-cok-yakinda-gelistiricilerin-kullanimina-sunacagiz/4115165"
+      }
+     ]
+    },
+    {
      "baslik": "Nevşehir'de güvenlik güçlerine destek olacak \"robot köpek\" geliştirildi",
      "ozet": "Nevşehir'de, 15 gaz çeşidini tespit edip lidar ve radar sensörleriyle çevresini 360 derece algılayabilen \"robot köpek\" geliştirildi.",
      "etiket": "tek kaynak",
@@ -420,50 +508,6 @@
       {
        "ad": "Anadolu Ajansı Bilim-Teknoloji",
        "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nevsehirde-guvenlik-guclerine-destek-olacak-robot-kopek-gelistirildi/4114994"
-      }
-     ]
-    },
-    {
-     "baslik": "Çin, CERES-2 roketiyle ilk başarılı fırlatışı yaptı",
-     "ozet": "Çin'de Galactic Energy şirketi, yeni geliştirdiği taşıyıcı roket CERES-2 ile ilk başarılı fırlatışı yaptı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cin-ceres-2-roketiyle-ilk-basarili-firlatisi-yapti/4114991"
-      }
-     ]
-    },
-    {
-     "baslik": "Yapay zeka ajanlarının yetki sınırları hukuki açıdan mercek altında",
-     "ozet": "Siber güvenlikten veri analizine kadar birçok alanda bağımsız işlem yapan yapay zeka ajanlarının kontrolden çıkma riski, geliştiriciler ile kullanıcılar arasındaki hukuki sınırların yeniden…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yapay-zeka-ajanlarinin-yetki-sinirlari-hukuki-acidan-mercek-altinda/4114965"
-      }
-     ]
-    },
-    {
-     "baslik": "Toplumcu Şiir Nedir? Toplumcu Gerçekçi Şiirin Özellikleri ve Şairleri Nelerdir?",
-     "ozet": "Toplumcu şiir, toplumsal sorunları ve belirli bir düşünce dizgesini merkeze alan geniş kapsamlı bir edebi yönelimdir. Bu yönelimin Marksist öğretiden beslenen kolu olan toplumcu gerçekçilik (İng:…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Evrim Ağacı",
-       "link": "https://evrimagaci.org/toplumcu-siir-nedir-toplumcu-gercekci-siirin-ozellikleri-ve-sairleri-nelerdir-24112"
-      }
-     ]
-    },
-    {
-     "baslik": "Dörtgenler Nasıl Sınıflandırılır? Özel Dörtgenler Arasında Nasıl Bir İlişki Vardır?",
-     "ozet": "Dörtgenlerin sınıflandırılması, dört doğru parçasından oluşan kapalı ve iki boyutlu düzlem şekillerinin açı ölçülerine, kenar paralelliklerine, kenar eşitliklerine ve köşegen davranışlarına göre…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Evrim Ağacı",
-       "link": "https://evrimagaci.org/dortgenler-nasil-siniflandirilir-ozel-dortgenler-arasinda-nasil-bir-iliski-vardir-24107"
       }
      ]
     }
@@ -474,8 +518,8 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "'You feel that you're not alone' - the young people finding community in grief",
-     "ozet": "Too Young to Grieve is an informal peer support community providing young people with a space to grieve.",
+     "baslik": "'Yalnız olmadığınızı hissediyorsunuz' - toplumu keder içinde bulan gençler",
+     "ozet": "Too Young to Grieve, gençlere yas tutacakları bir alan sağlayan resmi olmayan bir akran destek topluluğudur.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -485,8 +529,8 @@
      ]
     },
     {
-     "baslik": "Period products 'essential not optional'",
-     "ozet": "Matt Tyrer is working on a scheme which will ensure access to free sanitary towels or tampons.",
+     "baslik": "Dönem ürünleri 'isteğe bağlı değil gerekli'",
+     "ozet": "Matt Tyrer, ücretsiz hijyenik havlu ve tamponlara erişim sağlayacak bir plan üzerinde çalışıyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -496,13 +540,13 @@
      ]
     },
     {
-     "baslik": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
-     "ozet": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable…",
+     "baslik": "STAT+: BIO, ilaç fiyatlarını benzer ülkelere bağlayan Medicare pilotuna karşı yasal mücadeleye katılıyor",
+     "ozet": "Model, etkisi muhtemelen sınırlı olsa da, Trump'ın ilaç fiyatlandırmasına yönelik en çok tercih edilen ülke yaklaşımının bir testidir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss"
+       "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss"
       }
      ]
     }
@@ -513,43 +557,47 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Whole Australia team knew of sandpaper use - Khawaja",
-     "ozet": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+     "baslik": "Arsenal, Hull'u yenerek liderliğini sürdürdü",
+     "ozet": "Arsenal kaptanı Martin Odegaard, takımı Hull City'yi yenerek Premier Lig'in zirvesindeki liderliğini genişletirken galibiyet golünü attı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/07/usman-khawaja-australia-cricket-team-sandpaper-ball-tampering-plot"
+       "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report"
       }
      ]
     },
     {
-     "baslik": "New Zealand sweep aside Samoa to reach Women's World Cup final",
-     "ozet": "New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final.",
+     "baslik": "Öne Çıkanlar: Lig dışı Kidderminster şoku League One Doncaster",
+     "ozet": "Ulusal Lig Kidderminster, League One Doncaster'ı FA Cup'ın ikinci turuna çıkma konusunda şok etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/07/new-zealand-kiwi-ferns-samoa-womens-rugby-league-world-cup-semi-final-match-report"
+       "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield"
       }
      ]
     },
     {
-     "baslik": "Beşiktaş ile Gençlerbirliği ligde 97. kez karşılaşacak",
-     "ozet": "Beşiktaş ile Gençlerbirliği, yarın yapacakları maçla Süper Lig'de 97. kez karşı karşıya gelecek.",
-     "etiket": "tek kaynak",
+     "baslik": "Tottenham Pro Ref'e şikayette bulunmaya hazırlandı - peki Bogle kırmızıyı mı görmeliydi?",
+     "ozet": "Tottenham, Leeds yenilgisi sırasında Mathys Tel'e meydan okuyan Jayden Bogle'ın oyundan atılmaması kararıyla ilgili resmi bir şikayette bulunmaya hazırlanıyor.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-genclerbirligi-ligde-97-kez-karsilasacak/4114961"
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report"
       }
      ]
     }
@@ -560,24 +608,24 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "COP31'e katılacak dünya liderlerine Antalya'dan \"tatlı\" hediye",
-     "ozet": "Antalya'da yapılacak COP31 İklim Zirvesi için \"COP31 Türkiye Antalya\" logolu özel ambalajlarda kentin yöresel bergamot, turunç ve karyağdı armudu reçelleri hazırlandı.",
+     "baslik": "6. Korkut Ata Türk Dünyası Film Festivali'nde \"Yapay Zeka ve Sinema\" paneli düzenlendi",
+     "ozet": "6. Korkut Ata Türk Dünyası Film Festivali kapsamında \"Sinemada Yapay Zeka ve Kadim Anlatının Dijital Dönüşümü\" paneli, Atlas 1948 Sineması'nda gerçekleştirildi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/cop31e-katilacak-dunya-liderlerine-antalyadan-tatli-hediye-/4115001"
+       "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivalinde-yapay-zeka-ve-sinema-paneli-duzenlendi/4115308"
       }
      ]
     },
     {
-     "baslik": "Trabzon'daki 102 yıllık okul öğrencileri iş hayatına hazırlıyor",
-     "ozet": "Trabzon'da Cumhuriyet döneminde eğitim hayatına başlayan Şehit Ünal Bıçakçı Ticaret Mesleki ve Teknik Anadolu Lisesi, 102 yıldır yetiştirdiği öğrencilerle ticaret hayatına katkı sağlıyor.",
+     "baslik": "Geçmişten bugüne uzanan eğitim çınarı: Bursa Erkek Lisesi",
+     "ozet": "Mekteb-i İdadi-i Mülki adıyla 1885 yılında açılan Bursa Erkek Lisesi, Osmanlı'dan bugüne uzanan eğitim serüveninde, tarihi binası, kütüphanesi, müzesi ve geçmişiyle Türkiye'nin köklü eğitim kurumları…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/trabzondaki-102-yillik-okul-ogrencileri-is-hayatina-hazirliyor/4114959"
+       "link": "https://www.aa.com.tr/tr/kultur/gecmisten-bugune-uzanan-egitim-cinari-bursa-erkek-lisesi/4114958"
       }
      ]
     }
@@ -587,55 +635,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "42981570",
-   "baslik_en": "Intravenous Thrombolysis for Acute Ischemic Stroke - New Directions.",
-   "baslik_tr": "Intravenous Thrombolysis for Acute Ischemic Stroke - New Directions.",
-   "dergi": "The New England journal of medicine",
+   "pmid": "42988384",
+   "baslik_en": "Thoracic epidural versus paravertebral blockade for reducing chronic post-thoracotomy pain (TOPIC-2): open label, parallel group, superiority, multicentre, randomised controlled trial.",
+   "baslik_tr": "Kronik torakotomi sonrası ağrıyı azaltmak için torasik epidural ve paravertebral blokaj (TOPIC-2): açık etiket, paralel grup, üstünlük, çok merkezli, randomize kontrollü çalışma.",
+   "dergi": "BMJ (Clinical research ed.)",
    "yazarlar": [
-    "Grotta JC"
-   ],
-   "tur": "Review",
-   "ozet_en": "In the past 5 years, substantial changes have been made in the use of intravenous thrombolysis (IVT) in patients with acute ischemic stroke. Integrating IVT with endovascular thrombectomy, which improves outcomes in patients with stroke due to large cerebral vessel occlusion, has been a particular challenge. This review discusses the underlying vascular targets for IVT and thrombectomy, the increasing use of tenecteplase instead of alteplase, broadening indications for the use of IVT, and ancillary drugs and dosing methods that may augment the success of IVT.",
-   "ozet_tr": "In the past 5 years, substantial changes have been made in the use of intravenous thrombolysis (IVT) in patients with acute ischemic stroke. Integrating IVT with endovascular thrombectomy, which improves outcomes in patients with stroke due to large cerebral vessel occlusion, has been a particular challenge. This review discusses the underlying vascular targets for IVT and thrombectomy, the increasing use of tenecteplase instead of alteplase, broadening indications for the use of IVT, and ancillary drugs and dosing methods that may augment the success of IVT.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42981570/",
-   "doi": "https://doi.org/10.1056/NEJMra2519017"
-  },
-  {
-   "pmid": "42987891",
-   "baslik_en": "Eating disorders.",
-   "baslik_tr": "Eating disorders.",
-   "dergi": "Lancet (London, England)",
-   "yazarlar": [
-    "Schmidt U",
-    "Austin A",
-    "Ehrlich S",
+    "Shelley B",
+    "Middleton L",
+    "Boyles R",
     "et al."
    ],
-   "tur": "Review",
-   "ozet_en": "The eating and feeding disorders are serious psychiatric disorders at the mind-body interface, often with an exceptionally high burden for affected individuals, their families and supporters, and wider society. In anorexia nervosa, high acute medical risk and patients' ambivalence about treatment can make a challenging combination that can impede engagement. First-line treatments for eating disorders are mainly psychological, with medications playing an adjunctive role. Novel biological and technology-based interventions are only slowly emerging. Compared with other psychiatric disorders, research into these disorders is seriously underfunded.",
-   "ozet_tr": "The eating and feeding disorders are serious psychiatric disorders at the mind-body interface, often with an exceptionally high burden for affected individuals, their families and supporters, and wider society. In anorexia nervosa, high acute medical risk and patients' ambivalence about treatment can make a challenging combination that can impede engagement. First-line treatments for eating disorders are mainly psychological, with medications playing an adjunctive role. Novel biological and technology-based interventions are only slowly emerging. Compared with other psychiatric disorders, research into these disorders is seriously underfunded.",
+   "tur": "Multicenter Study, Equivalence Trial",
+   "ozet_en": "OBJECTIVES: To evaluate the effectiveness of paravertebral blockade versus thoracic epidural during the perioperative period in reducing chronic post-thoracotomy pain. DESIGN: Open label, parallel group, superiority, multicentre, randomised controlled trial. SETTING: 15 thoracic centres in the UK. PARTICIPANTS: Adult patients undergoing thoracotomy randomised (1:1) to either paravertebral blockade or thoracic epidural using a web based service between January 2019 and September 2023. INTERVENTIONS: Participants in the paravertebral group received three single-shot paravertebral injections of local anaesthetic before incision followed by placement of a paravertebral catheter.",
+   "ozet_tr": "AMAÇLAR: Kronik torakotomi sonrası ağrının azaltılmasında perioperatif dönemde paravertebral blokajın torasik epidural blokajla karşılaştırıldığında etkinliğini değerlendirmek. TASARIM: Açık etiketli, paralel grup, üstünlük, çok merkezli, randomize kontrollü çalışma. AYAR: Birleşik Krallık'ta 15 torasik merkez. KATILIMCILAR: Ocak 2019 ile Eylül 2023 arasında web tabanlı bir hizmet kullanılarak torakotomi uygulanan yetişkin hastalar paravertebral blokaj veya torasik epidural grubuna randomize edildi (1:1). MÜDAHALELER: Paravertebral gruptaki katılımcılara kesiden önce üç tek atış paravertebral lokal anestezi enjeksiyonu yapıldı ve ardından paravertebral kateter yerleştirildi.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42987891/",
-   "doi": "https://doi.org/10.1016/S0140-6736(26)01326-7"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42988384/",
+   "doi": "https://doi.org/10.1136/bmj-2026-101114"
   },
   {
-   "pmid": "42986948",
-   "baslik_en": "The first 1000 days: Modeling language learning from individual children's everyday speech.",
-   "baslik_tr": "The first 1000 days: Modeling language learning from individual children's everyday speech.",
+   "pmid": "42993545",
+   "baslik_en": "Primary Endocrine Therapy vs Upfront Surgery for Older Women With Estrogen Receptor-Positive Breast Cancer: A Systematic Review and Meta-Analysis.",
+   "baslik_tr": "Östrojen Reseptörü Pozitif Meme Kanseri Olan Yaşlı Kadınlarda Birincil Endokrin Tedavisine Karşı Ön Cerrahi: Sistematik Bir İnceleme ve Meta-Analiz.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Carleton N",
+    "Zou J",
+    "Mu Y",
+    "et al."
+   ],
+   "tur": "Systematic Review, Meta-Analysis",
+   "ozet_en": "IMPORTANCE: As the population of older women with breast cancer grows, an increasing number are considered for primary endocrine therapy (pET), yet clinicians lack a framework for identifying which patients are appropriate candidates, resulting in reliance on chronologic age and life expectancy rather than tumor biology. OBJECTIVE: To evaluate survival and variables associated with response duration for patients treated with pET. DATA SOURCES: PubMed, MEDLINE, Web of Science, and Cochrane Central Register of Controlled Trials were searched from inception through March 26, 2026.",
+   "ozet_tr": "ÖNEMİ: Meme kanserli yaşlı kadın popülasyonu arttıkça, birincil endokrin tedavisi (pET) için artan sayıda kadın düşünülür, ancak klinisyenler hangi hastaların uygun aday olduğunu belirleyecek bir çerçeveden yoksundur, bu da tümör biyolojisinden ziyade kronolojik yaş ve yaşam beklentisine güvenilmesine neden olur. AMAÇ: pET ile tedavi edilen hastalarda sağkalımı ve yanıt süresiyle ilişkili değişkenleri değerlendirmek. VERİ KAYNAKLARI: PubMed, MEDLINE, Web of Science ve Cochrane Central Register of Controlled Trials, başlangıçtan 26 Mart 2026'ya kadar araştırıldı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42993545/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43218"
+  },
+  {
+   "pmid": "42986976",
+   "baslik_en": "Obesity pharmacotherapies and cognition.",
+   "baslik_tr": "Obezite farmakoterapileri ve biliş.",
    "dergi": "Science (New York, N.Y.)",
    "yazarlar": [
-    "Raviv H",
-    "Tsyhanov A",
-    "Gousios K",
+    "Börchers S",
+    "Mazzini G",
+    "Zetterberg H",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Children learn to understand and speak from the speech around them, yet how that everyday input shapes learning remains unresolved. Large language models show that language is learnable from data, but their scale and training conditions differ sharply from a child's natural experience. We trained cognitively feasible, child-specific models on longitudinal home recordings from eight children across their first 1000 days of life. Each model learned incrementally from a single child's ordered speech input without prior linguistic knowledge, developing phoneme-like and word-form representations that tracked each child's learning pace.",
-   "ozet_tr": "Children learn to understand and speak from the speech around them, yet how that everyday input shapes learning remains unresolved. Large language models show that language is learnable from data, but their scale and training conditions differ sharply from a child's natural experience. We trained cognitively feasible, child-specific models on longitudinal home recordings from eight children across their first 1000 days of life. Each model learned incrementally from a single child's ordered speech input without prior linguistic knowledge, developing phoneme-like and word-form representations that tracked each child's learning pace.",
+   "tur": "Review",
+   "ozet_en": "Pharmacotherapies for obesity and type 2 diabetes are increasingly being evaluated for their effects on cognition and brain health. Evidence from preclinical models, observational cohorts, and clinical trials has intensified interest, but findings remain mixed. A central challenge is to determine whether potential cognitive effects arise from direct actions on neural circuits, indirect consequences of improved cardiometabolic health, or both.",
+   "ozet_tr": "Obezite ve tip 2 diyabete yönelik farmakoterapiler, biliş ve beyin sağlığı üzerindeki etkileri açısından giderek daha fazla değerlendirilmektedir. Klinik öncesi modellerden, gözlem gruplarından ve klinik çalışmalardan elde edilen kanıtlar ilgiyi yoğunlaştırdı, ancak bulgular hala karışık. Temel zorluk, potansiyel bilişsel etkilerin sinir devreleri üzerindeki doğrudan eylemlerden mi, iyileşen kardiyometabolik sağlığın dolaylı sonuçlarından mı yoksa her ikisinden mi kaynaklandığını belirlemektir.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42986948/",
-   "doi": "https://doi.org/10.1126/science.aeh9311"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986976/",
+   "doi": "https://doi.org/10.1126/science.aek9987"
   }
  ]
 }
