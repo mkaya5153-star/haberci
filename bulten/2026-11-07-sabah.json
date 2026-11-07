@@ -1,139 +1,127 @@
 {
  "tarih": "2026-11-07",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Bugünün gündeminde ABD'de ara seçim sonrası kadro değişiklikleri, ABD-İran arasındaki sıcak çatışma ve arabuluculuk çabaları ile Türkiye'de genişleyen fon soruşturması öne çıkıyor. Piyasalarda yapay zekâ kaynaklı düşüşün ardından zayıf bir toparlanma ve güçlü ABD istihdam verisi izleniyor.",
  "one_cikanlar": [
   {
-   "baslik": "Trump, Susie Wiles'ın yerine Stephen Miller'ı özel kaleme atadı",
-   "ozet": "",
+   "baslik": "Trump, ara seçim yenilgisinin ardından Stephen Miller'ı Beyaz Saray Genel Sekreteri yaptı",
+   "ozet": "ABD Başkanı Donald Trump, Cumhuriyetçilerin ara seçimlerde ağır kayıp yaşamasının ardından sert göçmenlik politikalarının mimarı olarak bilinen Stephen Miller'ı Beyaz Saray Genel Sekreteri olarak atadı. Trump ayrıca kabinesinde bazı değişiklikler yapmayı planladığını söyledi.",
    "etiket": "teyitli",
    "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5"
-    },
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5"
-    },
     {
      "ad": "DW English",
      "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
-    },
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/trump-ozel-kalemi-susie-wilesin-yerine-danismani-stephen-milleri-getiriyor/4114710"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Meghan'ın babası Thomas Markle, çocuklara yönelik cinsel istismar fotoğrafları bulundurmaktan tutuklandı",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5"
-    },
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHpGTGhqcHRFbVlLRWRncDVhUFJnU25fSGFTclFBam5RNWpJSDBxanJTRkxGVmFaWjU3WFRXaHJQaldNU2ZURXBuRzRXLUhYUmdrR083a3FaaTJEdG84QUVFMzdxNVJ5NmVuYkstV1AwVVg2YmREMzAwRFEzYmlLODhzbGUwZHpTV2YwVzdNekFGZjk1MnEyMXhCTDFaVjg?oc=5"
-    },
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-all-1573-rdf"
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
     },
     {
      "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession"
+     "link": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Atama, yönetimin ara seçim sonrası izleyeceği çizgiye dair ilk somut işaret olarak izleniyor."
   },
   {
-   "baslik": "Avrupa uçuşları ve yayıncıları yeni bir bomba tehdidi dalgasıyla hedefleniyor",
-   "ozet": "",
+   "baslik": "ABD ve İran arasında yeni saldırılar ve arabuluculuk görüşmeleri",
+   "ozet": "Reuters ve AP'ye göre ABD ordusu İran'a yönelik yeni hedefli saldırılar düzenledi; Tasnim ajansı Keşm Adası'na iki füze isabet ettiğini bildirdi. İran Ordusu, adada ABD'ye ait bir MQ-9 insansız hava aracını düşürdüğünü açıkladı. Katar ise ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı; görüşmelerin sürdüğü belirtiliyor.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWZQMnRNaU1EcUtVVmRJSFpGOE5qZk5vZFE0eWNPVXFWcVRnMnRvdE1jeDBUZkFCUGlHVFhtQndfVVg5RXB3NWlBWjlqV1BTX0JoVVdTSElfQ0l0X3RselczRU5GQURCMzFjR2dOQ2ljak1QM1AxdDNaWk1yUEdJcjBETlhReDJsQzdHUkYtOE0wUE1s?oc=5"
-    },
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
-    },
-    {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights"
-    },
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnRXOWRIUkRMTjJUVHA5MERSRnEzbUpJLWdYbjJwUkhyMUlkaVBELWNFWWhyVDl5RTNqQkhUSTdacElqLUhNRk9RSlg2SXpvRkQwTENWZ1MzRFlfYW1OcFBMRHFRQ0RfRDZ1MkVBbHJYTncyWXVOSnh6UTBFMklGLVRiSGNoN21PNURKcUtGSXpWYnkxM19zcDNCbldTeGc4bzJrRmVZNGt4Slp3NmFHcGpLMWNTSFJr?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Fenerbahçe takım otobüsüne saldırıya ilişkin 5 şüpheli hakkındaki iddianame tamamlandı",
-   "ozet": "Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 5 şüpheli hakkında iddianame düzenlendi.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/fenerbahce-takim-otobusune-saldiriya-iliskin-5-supheli-hakkindaki-iddianame-tamamlandi/4114655"
-    },
-    {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/784875/haber/fenerbah%C3%A7e-otob%C3%BCs%C3%BCne-sald%C4%B1r%C4%B1-soru%C5%9Fturmas%C4%B1-tamamland%C4%B1-5-%C5%9F%C3%BCpheli-hakk%C4%B1nda-iddianame"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/son-dakika-fenerbahce-otobusune-saldiriya-iddianame-5-supheli-hakkinda-ceza-istendi-43368834"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/06/fenerbahce-otobusune-saldiri-sorusturmasinda-iddianame-hazirlandi-5-kisi-hakkinda-ceza-istendi"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Kenya'daki kıyamet tarikatının liderine 200 yıl hapis cezası",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUw2eEJsbFByTGFvckM5bXBFbHBVOTZZQ1FFTFdtdjJLSXJlU21jNGRGWXZwV2M3WGFLNVZ4a1ZVZDZPRGgtTzU1OVVrdVg2Z2V2TklKTjRzbkRmUXMwd0c0YTlwUDFfWC1EWnFsekxxYUJ0NWhHQ3hUU0swOUpXOUViZGpHV3FuM2N6Wi1WUkotUQ?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5"
     },
     {
      "ad": "The Guardian",
-     "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+     "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
     },
     {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf"
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-kesm-adasinda-abdye-ait-mq-9-tipi-iha-dusuruldu/4114819"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-yalanladi-/4114822"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Hürmüz Boğazı çevresindeki gerilim enerji fiyatlarını ve bölgesel güvenliği doğrudan etkileyebilir."
+  },
+  {
+   "baslik": "Fon soruşturmasında eski Bakan Sayan Kaya tutuklandı; İçişleri Bakanı rakamları açıkladı",
+   "ozet": "Sermaye piyasalarındaki fon soruşturması kapsamında ikinci kez ifade veren eski Bakan Fatma Betül Sayan Kaya, örgüt üyeliği ve Sermaye Piyasası Kanunu'na muhalefet suçlamalarıyla tutuklandı. İçişleri Bakanı Mustafa Çiftçi'ye göre 433 şüpheliden 112'si tutuklandı ve 359 gerçek ile 111 tüzel kişinin mal varlığına blokaj konuldu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-eski-bakan-fatma-betul-sayan-kaya-tutuklandi-tasfiye-oncesi-satis-2554062"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/06/rivayet-muhtelif-43-fatma-betul-sayan-kaya-neden-tutuklandi-fon-sorusturmasinin-eksik-parcalari/"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784879/haber/bakan-%C3%A7ift%C3%A7i-fon-soru%C5%9Fturmas%C4%B1nda-433-%C5%9F%C3%BCpheliden-112%E2%80%99si-tutukland%C4%B1"
+    }
+   ],
+   "neden_onemli": "Eylül'de Borsa İstanbul'da sert düşüşlere yol açan krizin yargı boyutu genişliyor."
+  },
+  {
+   "baslik": "ABD ekonomisi ekimde 165 bin istihdam ekledi, beklentiler aşıldı",
+   "ozet": "Financial Times'a göre ABD ekonomisi ekim ayında tahminlerin üzerinde 165 bin kişilik istihdam yarattı. Veri, Fed'in faiz artıracağı beklentilerini güçlendirdi. San Francisco Fed Başkanı Mary Daly da enflasyonu düşürmek için daha fazla sıkılaşma gerekebileceğini söyledi.",
+   "etiket": "tek kaynak",
+   "kaynaklar": [
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+    },
+    {
+     "ad": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/feddaly-daha-fazla-faiz-artisi-gerekebilir-3793859"
+    }
+   ],
+   "neden_onemli": "Faiz beklentileri küresel piyasaları ve gelişen ülke para birimlerini etkiliyor."
+  },
+  {
+   "baslik": "ABD'de kızamık vakaları 35 yılın zirvesinde; Wisconsin'de bir bebek öldü",
+   "ozet": "Resmi verilere göre ABD'de 2026'da kızamık vaka sayısı 5 bini aştı; bu, 35 yılın en yüksek yıllık rakamı. Wisconsin'de de bir bebeğin kızamıktan öldüğü bildirildi; Ars Technica'ya göre uzmanlar önümüzdeki hafta ABD'nin kızamığı yok etmiş ülke statüsünü koruyup korumadığına karar verecek.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/06/us-measles-cases-exceed-5000-in-2026-reaching-their-highest-level-in-35-years"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/international/article/2026/11/07/us-reports-over-5-000-measles-cases-the-highest-in-35-years_6773923_4.html"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss"
+    },
+    {
+     "ad": "Ars Technica",
+     "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+    }
+   ],
+   "neden_onemli": "Aşılamadaki düşüşün halk sağlığı üzerindeki somut etkisini gösteriyor."
   }
  ],
  "bolumler": [
@@ -142,107 +130,99 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Teknoloji hisseleri trilyonlarca dolarlık kaybın ardından toparlanıyor",
-     "ozet": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka…",
+     "baslik": "SPK, üç şirketin pay işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunacak",
+     "ozet": "Sermaye Piyasası Kurulu, pay piyasalarındaki işlemler nedeniyle üç şirketle bağlantılı 88 kişi hakkında suç duyurusu kararı aldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832"
       },
       {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iODdxcmtCeDc2TUpyZHFNZGt4eG0xQnZ0SDVBeVRuYTdac0R3VDhvb1lKYnRxdHRmU2d4ZDhPN3c0b0RHZFpjM2JlVVNaSXFKdnFfWTdkS3FTby15N1HSAWNBVV95cUxNYU85aWdoek9zWkNKNUlDVnE3dkhSUDNaeDVPejFIQU5hMTRhdWFlWVdfWE5BRWw4UHpOOUtQendDNHV3TUlsSVUxMTVhNDgybjZ4dTVqUGM0YzNtYjMzZGozWHM?oc=5"
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535"
       }
      ]
     },
     {
-     "baslik": "D vitamini eksikliği: 'İşyerinde bayılana kadar fark etmedim'",
-     "ozet": "Doktorlar, özellikle gençlerde olmak üzere, İngiltere'de D vitamini eksikliğinin giderek yaygınlaştığını tespit ediyor. Ancak belirtileri fark etmek zor ve gözden kaçabiliyor.",
+     "baslik": "Gaziosmanpaşa Belediye Başkanı Bahçetepe ev hapsiyle tahliye edildi",
+     "ozet": "Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye rüşvetten 6 yıl 3 ay hapis cezası verildi. Ardından ev hapsine karar verilerek tahliye edildi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cmkge7kgerp5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81M3J6UGV3NDVfVUtoUTV0Rk10bzRQTDRmZjJnYnY2MnZueGg5SXZUMVBlUTdZQlBVc0JtMWxDNlN3MC1tdmJJelV3WHVvRjVzUEVRRUFTdG1hZnJlOWfSAWNBVV95cUxPLU1jVko0RHQ1QmU0YThCaWd5aWw0b29ZXzJwNkk1OVRJY0dGUVhvdHAzTTMxMXloTDl2TE5qeHBYZk43WWRnRm9TNGxQMDJOZE1BdUU0UUNYSVVnc2VLVHpXNWs?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Sarıgül ailesi soruşturması: 11 yeni gözaltı, Şişli Meslek Yüksekokulu'na kayyum atandı",
-     "ozet": "İstanbul Cumhuriyet Başsavcılığı'nın para aklama iddiasıyla yürüttüğü ve Mustafa Sarıgül'ün aile üyelerinin de tutuklandığı soruşturmada 11 kişi daha gözaltına alındı, Şişli Meslek Yüksekokulu'na…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cm86zz07qlx5o?at_medium=RSS&at_campaign=rss"
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/gaziosmanpaşa-belediye-başkanı-hakan-bahçetepe-tahliye-edildi/a-79881251?maca=tur-rss-tur-all-1495-rdf"
       },
       {
        "ad": "Sözcü",
-       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-11-kisi-daha-gozaltina-alindi-p376537"
+       "link": "https://www.sozcu.com.tr/hakan-bahcetepe-ye-tahliye-6-kasim-2026-p376763"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-tahliye-karari/"
       }
      ]
     },
     {
-     "baslik": "İspanya'daki tren kazası: AB zimmet soruşturması başlattı",
-     "ozet": "Avrupa Savcılığı, 69 kişinin öldüğü İspanya'daki tren kazasının ardından, demiryolu için bu ülkeye aktarılan AB fonlarının zimmete geçirildiği şüphesiyle soruşturma başlattı.",
+     "baslik": "Erdoğan: Uluslararası sistem iflas bayrağı çekti",
+     "ozet": "Cumhurbaşkanı Erdoğan, güç rekabetinin sertleştiği ve kuralların yok sayıldığı bir dönemden geçildiğini söyledi. Sabah gazetesi konuşmayı Gazze üzerinden 'sistem iflas etti' çerçevesiyle verdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/i̇spanya-daki-tren-kazası-ab-zimmet-soruşturması-başlattı/a-79875117?maca=tur-rss-tur-all-1495-rdf"
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/erdogan-uluslararasi-sistem-iflas-bayragi-cekti-43369044"
       },
       {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/06/ispanyadaki-tren-kazasi-sonrasi-ab-fonlarinin-kullanimi-inceleniyor"
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/11/07/uluslararasi-sistem-gazzede-iflas-etti"
       }
      ]
     },
     {
-     "baslik": "ABD seçimleri yapay zeka sektörünü tedirgin etti",
-     "ozet": "ABD'de seçimi kazanan Demokratların yapay zeka ve veri merkezlerine yönelik daha sıkı kurallar getirebileceği endişesi piyasaları sarstı. Veri merkezleri seçim kampanyasının öne çıkan başlıklarından…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/abd-seçimleri-yapay-zeka-sektörünü-tedirgin-etti/a-79874362?maca=tur-rss-tur-all-1495-rdf"
-      },
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/06/abdde-veri-merkezi-tepkisi-demokratlarin-zaferinde-rol-oynadi-openai-ve-cip-sirketlerini-v"
-      }
-     ]
-    },
-    {
-     "baslik": "Bakan Çiftçi: Fon soruşturmasında 433 şüpheliden 112’si tutuklandı",
-     "ozet": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturması kapsamında 433 şüpheliden 112’sinin tutuklandığını, 186 kişi hakkında adli kontrol kararı verildiğini açıkladı. Soruşturma kapsamında 359 gerçek kişi…",
+     "baslik": "11 üniversiteye rektör ataması yapıldı",
+     "ozet": "Cumhurbaşkanı Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan kararlarla 11 üniversitenin rektörlüğüne atama yapıldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/784879/haber/bakan-%C3%A7ift%C3%A7i-fon-soru%C5%9Fturmas%C4%B1nda-433-%C5%9F%C3%BCpheliden-112%E2%80%99si-tutukland%C4%B1"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasindan-son-durum-bakan-ciftci-duyurdu-112-kisi-tutuklandi-111-kisinin-mal-varliklari-donduruldu-2554050"
+       "link": "https://www.indyturk.com/node/784880/haber/resmi-gazetede-yay%C4%B1mland%C4%B1-11-%C3%BCniversiteye-rekt%C3%B6r-atand%C4%B1"
       }
      ]
     },
     {
-     "baslik": "Erbakan'dan Fatma Betül Sayan Kaya'nın tutuklanmasına ilişkin açıklama: “Bu örgütün lideri yok mu?”",
-     "ozet": "Yeniden Refah Partisi Genel Başkanı Fatih Erbakan, eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya'nın tutuklanmasına ilişkin sosyal medya hesabından açıklama yaptı. “Bu dolandırıcılık…",
+     "baslik": "AB'nin 'stratejik uyum' şartı Türkiye için yeni engel mi?",
+     "ozet": "BBC Türkçe, AB'nin son genişleme belgelerinde stratejik uyum şartının üyelik için giderek öne çıktığını ve bunun Türkiye'yi yakından ilgilendiren konuları etkileyebileceğini aktarıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c64g11lx8jyzo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Sinirlioğlu BM Genel Sekreterliği hedeflerini anlattı",
+     "ozet": "Türkiye'nin BM Genel Sekreter adayı Feridun Sinirlioğlu, BM'nin kusursuz olduğu için değil vazgeçilmez olduğu için bu göreve talip olduğunu söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/turkiye-nin-bm-genel-sekreter-adayi-sinirlioglu-interaktif-diyalog-baslangici-toplantisinda-hedeflerini-acikladi/4114805"
+      }
+     ]
+    },
+    {
+     "baslik": "Fenerbahçe otobüsüne 2015'te yapılan silahlı saldırıda iddianame hazırlandı",
+     "ozet": "Trabzon Cumhuriyet Başsavcılığı, 4 Nisan 2015'teki saldırıya ilişkin soruşturmayı tamamladı; BBC Türkçe'ye göre beş şüpheli hakkında ceza isteniyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/784872/haber/erbakandan-fatma-bet%C3%BCl-sayan-kayan%C4%B1n-tutuklanmas%C4%B1na-ili%C5%9Fkin-a%C3%A7%C4%B1klama-%E2%80%9Cbu-%C3%B6rg%C3%BCt%C3%BCn"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cn5p9xwe9glo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/fatih-erbakan-dan-betul-sayan-kaya-nin-tutuklanmasina-iliskin-aciklama-orgutun-lideri-kim-2554025"
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784875/haber/fenerbah%C3%A7e-otob%C3%BCs%C3%BCne-sald%C4%B1r%C4%B1-soru%C5%9Fturmas%C4%B1-tamamland%C4%B1-5-%C5%9F%C3%BCpheli-hakk%C4%B1nda-iddianame"
       }
      ]
     }
@@ -253,76 +233,96 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Ünlü hanedanlığın varisi ve ABD Senatosu'ndaki sağlık savunucusu Jay Rockefeller 89 yaşında öldü",
-     "ozet": "",
+     "baslik": "Paraguay'da görevden alınan Devlet Başkanı Peña ev hapsinde",
+     "ozet": "Paraguay Senatosu, Devlet Başkanı Santiago Peña'yı görevi kötüye kullanmaktan azletti. Peña ev hapsine alındı; Al Jazeera'ya göre yeni başkan Pedro Alliana yemin etti. Guardian'a göre bankacılık krizi nüfusun yaklaşık yüzde 60'ının hesaplarına erişimini engelledi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5"
       },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa XIV. Leo, akciğer ameliyatından yaklaşık bir ay sonra Güney Amerika turuna başladı",
+     "ozet": "Papa Leo, 12 gün sürecek Güney Amerika turunun ilk durağı Uruguay'a geldi. Ziyaret, akciğer ameliyatının üzerinden bir aydan kısa süre geçmişken gerçekleşiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
       {
        "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWdMenU4WEZGSGRQNGNwN1FOZjhJeW9NdDZ4cU1XTVJ0aktsemVNTEtOdUkycXdIdDJrRE15X0tPeXhMelBSbW85MHVXSFJfNDNMVWo5UHBBMzhhVy1Edm80blBTaG9YWEF2cy1GM28tTGo4OUk1R3RTUmlfbnRaVXNpbHBEbEo0Q1dSaTBYZ25LbUtxWWN1VnR3?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Körfez'de bir tankere düzenlenen füze saldırısından şüphelenilen denizci öldürüldü",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5"
       },
       {
        "ad": "DW English",
-       "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "ABD'ye Rus mazotu taşıyan tankerler rota değiştirdi",
-     "ozet": "Donald Trump ile Vladimir Putin arasında ABD'ye mazot getirilmesine yönelik görünürde bir anlaşma olmasına rağmen, tankerlerin mevcut yaptırımlar nedeniyle limana yanaşamadığı bildiriliyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf"
+       "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
       },
       {
        "ad": "France 24",
-       "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us"
+       "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss"
       }
      ]
     },
     {
-     "baslik": "Tesla, başarısız Cybertruck'ın üretimini 'durduracak'",
-     "ozet": "Elon Musk'un geleceğe yönelik elektrikli pikapı önümüzdeki yıl geçmişe emanet edilmeye başlanacak. Cybertruck'ın büyük ve kaba şekli, düzenleyici standartları ancak daha hoşgörülü bir şekilde geçebileceği anlamına geliyordu...",
+     "baslik": "Avrupa havayollarına yeni bomba tehdidi dalgası",
+     "ozet": "BBC'ye göre Avrupa'daki havayollarına yeni bomba tehditleri geldi; havayolu ve medya kuruluşlarına yönelik tehditler arasında bağlantı kurulmadı. Basında sahte ihbar oldukları aktarılıyor, uçuşlar aksadı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf"
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/06/elon-musks-tesla-to-wind-down-cybertruck-production-next-year"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights"
       },
       {
-       "ad": "The Guardian Business",
-       "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
       },
       {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/bomb-threats-target-irish-media-and-more-european-flights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
       }
      ]
     },
     {
-     "baslik": "AB, Trump'ın Rusya ve 'tüm Avrupa'yla yaptığı 'büyük güzel' güvenlik anlaşmasını reddetti",
-     "ozet": "Avrupalı ​​liderler, Washington'un daha geniş bir güvenlik çerçevesi önerisine karşı çıkıyor ve ABD liderliğindeki Ukrayna ile ilgili barış müzakereleri hazırlanırken Moskova'nın kıtanın geleceğini belirleyemeyeceği uyarısında bulunuyor.",
+     "baslik": "Kenya'da mezhep lideri Mackenzie 191 kişiyi öldürmekten müebbet aldı",
+     "ozet": "Paul Mackenzie, takipçilerine çocuklarını ormanda aç bırakarak öldürmelerini emretmekten 191 kişinin ölümünden hüküm giydi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
+      }
+     ]
+    },
+    {
+     "baslik": "AB, Trump'ın Rusya'yla 'büyük güvenlik anlaşması' önerisini reddetti",
+     "ozet": "Euronews'e göre Avrupalı liderler, ABD'nin önerdiği geniş güvenlik çerçevesine karşı çıkarak Moskova'nın kıtanın geleceğini dikte edemeyeceğini belirtti. Öneri, Ukrayna'yla ilgili ABD öncülüğündeki barış görüşmeleri öncesinde geldi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -336,24 +336,39 @@
      ]
     },
     {
-     "baslik": "Papa Leo ABD ara seçimlerinde oy kullandı çünkü 'Amerikalı olmaktan gurur duyuyorum'",
-     "ozet": "",
-     "etiket": "tek kaynak",
+     "baslik": "Almanya'da Cumhurbaşkanlığı için Ilse Aigner adaylığı",
+     "ozet": "Alman basınına göre Hristiyan Birlik ile SPD, CSU'lu Ilse Aigner'i aday gösterdi. DW Türkçe'ye göre 30 Ocak'ta seçilirse Almanya'nın ilk kadın cumhurbaşkanı olacak.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FvZXNaNFI4TGtadFQ4NkF6bGc4SjQyQWtTQmZXN3lvQ3piVUNmeDFkb0JlZE9WZEZrbjBSTzB5MzIxbHRLaS1UalhfdEYyTi1Ja3UzMmtpZTZackc0VzI0R3VHMFdydWVJRVdaN0ZzR0Z5ZGdFaWtNaDRCdE44OElqZ1RtMjEzOE91WWljTDRDMG1EMnBDcUVCR293MHVaWGc?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0M4SHhacUVidUU1ME1yWTFXRGJPQlJJb0dsb1hnUkpmM0lEbTZveUJHQ0NOQmliaUlVQ0RJaVJERjA1ZVRzTTBRVGktV1RLaUtFNmZ0dGdXOERaNnJMUWlybFhTSlR4TTV3OTBkdTh1VU1DUnIxTkYxUHp1V3dzZ1RlMVp5SkZ2SGRDUlE5TENFejZscmxZelZmYXhITURzUzFDSWs1dFRHSmxuMHRhenJtYVE1SHdURy1JTnJmbw?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf"
       }
      ]
     },
     {
-     "baslik": "Bloomberg News'e göre Microsoft, AI bulut kapasitesini kiralamak için Oracle anlaşmasını sonlandırıyor",
-     "ozet": "",
+     "baslik": "Yeni Zelanda'da genel seçim için oy verme başladı",
+     "ozet": "Yeni Zelanda'da yeni hükümeti belirlemek üzere genel seçim yapılıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-verme-islemi-basladi/4114809"
+      }
+     ]
+    },
+    {
+     "baslik": "Zelenskiy: Ukrayna Rusya'nın petrol rafinerilerini vurmayı sürdürüyor",
+     "ozet": "Ukrayna Devlet Başkanı Zelenskiy, Rusya'nın petrol rafineri sektörüne yönelik saldırıların devam ettiğini söyledi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4Q3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOang4bWpWa1pIeDBMQlo0MzhWRVAzY0JURlFwX09PVjlBVmhEbDBLTndoWFU1NTA2MXNhT0xYdkstQ1dlMFU4Z1FBYkdhVXBRRHp0NlAxcmhyV19hQ1NkZzdoMU9NOVFCQWF5UURPUzVQWlBjYkt4T1RuRG9lRE0zbkZLX1k2RWJJQW1YM3dReEhMdUVWZ1RDeGdDY1d1NUtEbDZxMUwyenRrNE5UOVpRWkI2aVdMa1M4bEFEX2FiYnJ5dw?oc=5"
       }
      ]
     }
@@ -364,23 +379,8 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "ABD'de tüketici kredilerindeki artış eylülde beklentileri aştı",
-     "ozet": "ABD'de tüketici kredileri eylülde 27,8 milyar dolarla piyasa beklentilerinin üzerinde artış kaydetti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-tuketici-kredilerindeki-artis-eylulde-beklentileri-asti-/4114769"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/abd-de-tuketici-kredileri-beklentilerin-uzerinde-artti-3793861"
-      }
-     ]
-    },
-    {
-     "baslik": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı",
-     "ozet": "Avrupa Merkez Bankası (ECB) Başkanlığı görevinden ayrılacak Christine Lagarde'ın yerine geçmek üzere İspanya'dan Pablo Hernandez de Cos ve Hollanda'dan Klaas Knot aday gösterildi.",
+     "baslik": "Avrupa Merkez Bankası başkanlığı için İspanya'dan De Cos, Hollanda'dan Knot aday",
+     "ozet": "Christine Lagarde'ın yerine İspanya'dan Pablo Hernandez de Cos ve Hollanda'dan Klaas Knot aday gösterildi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -394,47 +394,58 @@
      ]
     },
     {
-     "baslik": "TCMB Başkanı Karahan: Fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer piyasalarla etkileşimini takip ediyoruz",
-     "ozet": "TCMB Başkanı Karahan, fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer finansal piyasalarla olan etkileşimini yakından takip ettiklerini belirterek, \"Gerek görülmesi halinde her türlü ek…",
+     "baslik": "ABD teknoloji hisseleri 3,2 trilyon dolarlık kaybın ardından zayıf toparlandı",
+     "ozet": "Yapay zekâ yatırımlarının yavaşlayabileceği endişesiyle yaşanan trilyonlarca dolarlık düşüşün ardından teknoloji hisseleri toparlanıyor. Financial Times'a göre toparlanma geçmiş sert düşüşlerden sonrakilere kıyasla zayıf kaldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582"
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/karahan-fon-piyasasinda-yasanan-gelismeleri-gozlemliyoruz-3793820"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "SPK'den tasfiye kapsamı dışındaki kapalı fonların yeniden açılma sürecine ilişkin açıklama",
-     "ozet": "SPK, A1 Capital, Bulls ve Pardus portföy yönetim şirketlerinin tasfiye kapsamında bulunmayan ancak alım satıma kapalı olan fonlarının yeniden işleme açılabilmesi için ilgili şirketlerin Ziraat…",
+     "baslik": "ABD, Çin'den Busan mutabakatı taahhütlerini 'derhal' yerine getirmesini istedi",
+     "ozet": "Hazine Bakanı Bessent, Çin Başbakan Yardımcısı He Lifeng ile görüşmesinde Pekin'in taahhütlerini eksiksiz yerine getirmesi gerektiğini söyledi. FT'ye göre Washington, Çin'in nadir toprak elementleri arzını artırma taahhüdünü karşılamadığını savunuyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama/4114597"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/bessent-tan-cin-e-taahhutlerini-yerine-getirme-cagrisi-3793858"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/spk-dan-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama-3793848"
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/abdden-cine-cagri-taahhutlerinizi-derhal-yerine-getirin-haberi-846749"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "baslik": "İspanya, ECB başkanlığı için Pablo Hernandez de Cos'u aday gösterdi",
-     "ozet": "İspanya hükümeti, Avrupa Merkez Bankası (ECB) başkanlığı için eski İspanya Merkez Bankası Başkanı ve şu anki Uluslararası Ödemeler Bankası (BIS) Genel Müdürü Pablo Hernandez de Cos'u aday…",
-     "etiket": "teyitli",
+     "baslik": "Halkbank'ın üçüncü çeyrek net kârı beklentiyi aştı",
+     "ozet": "Halkbank 3. çeyrekte 8,5 milyar TL net kâr açıkladı; piyasa beklentisi 7,8 milyar TL idi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/ispanya-ecb-baskanligi-icin-pablo-hernandez-de-cosu-aday-gosterdi/4114394"
-      },
-      {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/ispanya-nin-amb-baskan-adayi-pablo-hernandez-de-cos-3793821"
+       "link": "https://www.bloomberght.com/halkbank-in-net-kri-beklentiyi-asti-3793857"
+      }
+     ]
+    },
+    {
+     "baslik": "Anthropic, 1,5 trilyon dolar değerlemeyle halka arza hazırlanıyor",
+     "ozet": "Financial Times'a göre Anthropic, teknoloji hisselerindeki sert düşüşe rağmen Şükran Günü'nden önce borsaya açılmayı hedefliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"
       }
      ]
     }
@@ -445,57 +456,50 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "ROKETSAN'ın ChainUp programına başvurular başladı",
-     "ozet": "ROKETSAN, savunma sanayisinde tedarik zinciri ve lojistik alanlarında genç yetenekleri sektör profesyonelleriyle buluşturmak amacıyla hayata geçirdiği ChainUp Tedarik Zinciri Deneyim ve Gelişim…",
+     "baslik": "Günde 4 dakikadan kısa şiddetli aktivite demans riskini azaltabilir",
+     "ozet": "New Scientist'e göre ağır alışveriş poşeti taşımak ya da otobüse yetişmek gibi kısa süreli şiddetli hareketlerin demans riskinde belirgin düşüşle ilişkili olduğu bildiriliyor. Haber gözlemsel bir ilişkiyi anlatıyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/roketsanin-chainup-programina-basvurular-basladi/4114521"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2597936-less-than-4-minutes-of-vigorous-exercise-a-day-could-half-your-dementia-risk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "MKE, Yakın Hava Savunma Sistemi TOLGA'yı ticari gemilere de entegre etmeyi hedefliyor",
-     "ozet": "Makine ve Kimya Endüstrisi (MKE) Yurt Dışı Pazarlama ve Satış Direktörü Ali Hakan Şafak, Yakın Hava Savunma Sistemi TOLGA'nın ticari gemilere de entegre edilmesini hedeflediklerini belirtti.",
+     "baslik": "Parkinson'da beyin atık drenajı ve protein birikimi arasında 'kısır döngü' olabilir",
+     "ozet": "New Scientist'e göre toksik protein kümeleri ile bozulan beyin atık temizliği birbirini besleyerek hastalığın ilerlemesine yol açabilir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/mke-yakin-hava-savunma-sistemi-tolgayi-ticari-gemilere-de-entegre-etmeyi-hedefliyor/4113961"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2597911-parkinsons-may-be-driven-by-vicious-cycle-that-disrupts-brain-waste-drainage/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "OpenAI, kamuoyundan tepki gören veri merkezlerine ilişkin yeni taahhütlerini açıkladı",
-     "ozet": "ABD merkezli yapay zeka şirketi OpenAI, veri merkezlerine ilişkin kamu görevlileriyle \"gizlilik sözleşmeleri\" yapılmaması ve kaynakların verimli kullanılması gibi konuları içeren bir dizi taahhüt…",
+     "baslik": "Aşırı sıcak dalgalarını güçlendiren beklenmedik bir geri besleme döngüsü",
+     "ozet": "Kuru toprak ve yüksek basıncın aşırı sıcakları artırdığı, bunun Avrupa gibi bölgelerdeki rekor sıcakların modellerin öngördüğünden erken yaşanmasını açıklayabileceği bildiriliyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-kamuoyundan-tepki-goren-veri-merkezlerine-iliskin-yeni-taahhutlerini-acikladi/4113882"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "Türk savunma ve havacılık sanayisi ihracat başarısını kalıcılaştırdı",
-     "ozet": "Türkiye'nin savunma ve havacılık sanayisine yaptığı yatırımlar, ihracatta yıllık bazda 2020'den bu yana artışı beraberinde getirdi.",
-     "etiket": "tek kaynak",
+     "baslik": "Crusoe, sorunlu Wyoming veri merkezi projesini Google'a sattı",
+     "ozet": "TechCrunch'a göre satış, dev yapay zekâ veri merkezleri geliştirmenin zorluklarını gösteriyor.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-savunma-ve-havacilik-sanayisi-ihracat-basarisini-kalicilastirdi/4113739"
-      }
-     ]
-    },
-    {
-     "baslik": "TUA gelecek 3 yılda yenilikçi uzay projelerine odaklanacak",
-     "ozet": "Türkiye Uzay Ajansı (TUA) için 2027-2029 döneminde, toplam 20 milyar 18 milyon 108 bin liralık bütçe planlanıyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tua-gelecek-3-yilda-yenilikci-uzay-projelerine-odaklanacak/4113735"
+       "ad": "Hacker News",
+       "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
       }
      ]
     }
@@ -506,35 +510,35 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "16 yaşın altındakilere enerji içecekleri yasaklanmalı mı?",
-     "ozet": "Galler hükümeti, 16 yaşın altındaki çocukların yüksek kafeinli enerji içeceklerini satın almasını yasaklamak istediğini açıkladı.",
+     "baslik": "Novartis'in Zolgensma'sında yeni tümör bildirimleri",
+     "ozet": "STAT'a göre Novartis, Zolgensma alan çocuklarda daha önce bildirilmemiş yedi tümör vakasını açıkladı; bu, AAV gen tedavilerinin tümör riski taşıyabileceği endişesini artırıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Amgen'in Repatha'sı daha az kalp krizi ile ilişkilendirildi",
+     "ozet": "STAT bülteninde, Amgen'in kolesterol ilacı Repatha'nın daha az kalp krizi ile ilişkilendirildiği bildiriliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Galler hükümeti 16 yaş altına enerji içeceği satışını yasaklamak istiyor",
+     "ozet": "Galler hükümeti, yüksek kafeinli enerji içeceklerinin 16 yaşın altındakilere satışını yasaklamak istediğini açıkladı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Health",
        "link": "https://www.bbc.co.uk/news/videos/c6wyrrvw22edo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "STAT+: Demokratların ara dönem heyelanı hastaneler için rahatlama anlamına geliyor",
-     "ozet": "Demokratların Medicaid kesintilerini tersine çevirmeye ve sigorta kapsamını genişletmeye odaklanarak sağlık hizmeti sağlayıcılarına destek vermesi bekleniyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Demokratların ara zaferi ve tartışmalı bir doğurganlık prosedürü",
-     "ozet": "Ara dönem sonuçları ilaç fiyatlandırma politikasını nasıl etkileyecek? Peki kadınlar neden yurtdışındaki doğurganlık kliniklerine seyahat ediyor? \"The Readout LOUD\" podcast'inin yeni bölümünü öğrenin.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/06/readout-loud-podcast-midterm-elections-fertility-ivf-mrt-therapy/?utm_campaign=rss"
       }
      ]
     }
@@ -545,47 +549,46 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Bellingham kardeşlerin dediği gibi 'güzel bir hikaye'",
-     "ozet": "Bazıları için sürpriz olabilir ama Jobe Bellingham'ın İngiltere üst düzey takımına çağrısı uzun süredir bekleniyordu.",
-     "etiket": "teyitli",
+     "baslik": "Paris Masters: Alcaraz iki maç puanını kurtarıp Fritz'i yendi",
+     "ozet": "Carlos Alcaraz çeyrek finalde Taylor Fritz'i yendi; sonuç, Rafael Jodar'ın ATP Finalleri'ne katılmasını sağladı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league"
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "'Clicky Ponting' kriket oyuncusuna iki yıl men cezası",
-     "ozet": "Amatör bir kriket oyuncusu, dünya çapında manşetlere çıkan 'Clicky Ponting' hile skandalındaki rolü nedeniyle iki yıl süreyle yasaklandı.",
-     "etiket": "teyitli",
+     "baslik": "Beşiktaş, Avrupa Ligi'nde Zalgiris'e 83-67 yenildi",
+     "ozet": "Basketbol Avrupa Ligi'nin 10. haftasında Beşiktaş sahasında Zalgiris'e 83-67 yenildi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated"
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/besiktas-zalgirise-83-67-yenildi/4114701"
       }
      ]
     },
     {
-     "baslik": "Newcastlelı Dedic yay ve oklarla görüldükten sonra polis tarafından durduruldu",
-     "ozet": "Newcastle United defans oyuncusu Amar Dedic, Northumberland güzellik merkezinde ok ve yay taşırken görülmesinin ardından polis soruşturmasının merkezinde yer alıyor.",
-     "etiket": "teyitli",
+     "baslik": "Rugby: İrlanda, Arjantin'i altı denemeyle yendi",
+     "ozet": "Hugo Keenan'ın üç denemesiyle İrlanda, Nations Championship'in ev ayağını Arjantin karşısında bonus puanlı galibiyetle açtı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss"
-      },
+       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgellz7dn52o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "EuroCup'ta 19 yıl sonra haftanın MVP'si Türk oyuncu",
+     "ozet": "Türk Telekom'dan Doğuş Özdemiroğlu, organizasyonda 19 yıl sonra haftanın en değerli oyuncusu seçilen ilk Türk basketbolcu oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
       {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow"
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/eurocupta-19-yil-sonra-turk-mvp/4114651"
       }
      ]
     }
@@ -596,8 +599,19 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Üsküp'teki Osmanlı mirası Taşköprü dekoratif ve mimari aydınlatmaya kavuştu",
-     "ozet": "Kuzey Makedonya'nın başkenti Üsküp'ün simge yapılarından tarihi Taşköprü'de Esenler Belediyesi ile Halkbank'ın destekleriyle gerçekleştirilen aydınlatma çalışmalarının tamamlanması vesilesiyle tören…",
+     "baslik": "Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti",
+     "ozet": "The Guardian'a göre 'Gloria' ve 'Fantastik Bir Kadın' filmlerinin yönetmeni Lelio 52 yaşında öldü.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker"
+      }
+     ]
+    },
+    {
+     "baslik": "Üsküp'teki Taşköprü aydınlatmaya kavuştu",
+     "ozet": "Tarihi Taşköprü'nün dekoratif ve mimari aydınlatma çalışmaları tamamlandı; törende Esenler Belediyesi ve Halkbank'ın desteği anıldı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -607,13 +621,13 @@
      ]
     },
     {
-     "baslik": "Bakan Ersoy: COP31 sahası etkinlik bittikten sonra Kültür ve Turizm Bakanlığının yönetimine devrediliyor",
-     "ozet": "Kültür ve Turizm Bakanı Ersoy,\"COP31 sahası, etkinlik bittikten sonra aşamalı bir şekilde Kültür ve Turizm Bakanlığının yönetimine devrediliyor. TGA içinde kurduğumuz MICE Başkanlığı, buranın devrini…",
+     "baslik": "Irak'ın Amare kentindeki 1861 tarihli Ulu Cami restore edildi",
+     "ozet": "Osmanlı döneminde yaptırılan, kentin ilk ve tek tarihi yapısı olan Ulu Cami'nin yaklaşık iki yıllık restorasyonu tamamlandı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/cop31/bakan-ersoy-cop31-sahasi-etkinlik-bittikten-sonra-kultur-ve-turizm-bakanliginin-yonetimine-devrediliyor/4114743"
+       "link": "https://www.aa.com.tr/tr/kultur/irak-in-amare-kentinde-osmanli-doneminde-yaptirilan-ulu-cami-restore-edildi/4114580"
       }
      ]
     }
@@ -623,58 +637,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "42983080",
-   "baslik_en": "Transcriptomic convergence and the female protective effect in autism.",
-   "baslik_tr": "Otizmde transkriptomik yakınsama ve kadınların koruyucu etkisi.",
-   "dergi": "Nature",
+   "pmid": "42986644",
+   "baslik_en": "Indoor Radon and Incident Heart Failure Among Postmenopausal Women.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Andersen RE",
-    "Talukdar M",
-    "Sakamoto T",
+    "Chen S",
+    "Shi C",
+    "Collins JM",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Autism spectrum disorder (ASD) is highly heritable, and mutations in hundreds of genes have been implicated as individually rare causes of ASD1-3. Understanding how disruptions to these functionally diverse genes lead to the core features of ASD remains a major challenge4. Moreover, ASD is three- to four-fold more common in male than in female individuals5, and female autistic people tend to carry more autosomal risk alleles for ASD compared with their male counterparts6,7; however, the biological basis of this 'female protective effect' (FPE) has remained unknown8,9.",
-   "ozet_tr": "Otizm spektrum bozukluğu (ASD) oldukça kalıtsaldır ve yüzlerce gendeki mutasyonlar, OSB1-3'ün bireysel olarak nadir görülen nedenleri olarak gösterilmiştir. İşlevsel açıdan çeşitlilik gösteren bu genlerdeki bozulmaların OSB'nin temel özelliklerine nasıl yol açtığını anlamak büyük bir zorluk olmaya devam ediyor4. Dahası, OSB erkeklerde kadınlara göre üç ila dört kat daha yaygındır5 ve kadın otistik kişiler, erkek meslektaşlarıyla karşılaştırıldığında OSB için daha fazla otozomal risk alelleri taşıma eğilimindedir6,7; ancak bu 'kadın koruyucu etkisinin' (FPE) biyolojik temeli bilinmemektedir8,9.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42983080/",
-   "doi": "https://doi.org/10.1038/s41586-026-11236-6"
+   "tur": "Journal Article, Observational Study",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986644/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42391",
+   "baslik_tr": "Evlerde radon düzeyi ve menopoz sonrası kadınlarda kalp yetmezliği",
+   "ozet_en": "Researchers followed 43,188 postmenopausal US women from the Women's Health Initiative for a mean of 16.2 years and linked county-level indoor radon categories to physician-adjudicated heart failure. Women in areas with radon above 4 pCi/L had a 19% higher heart failure risk than those below 2 pCi/L (HR 1.19), with larger increases for reduced ejection fraction and heart failure mortality. No clear increase appeared at 2-4 pCi/L. This is an observational study using county-level exposure, so it shows association, not causation.",
+   "ozet_tr": "Araştırmacılar, Kadın Sağlığı Girişimi'ne katılan 43.188 menopoz sonrası ABD'li kadını ortalama 16,2 yıl izleyerek, ilçe düzeyinde belirlenen ev içi radon kategorilerini hekimlerce doğrulanmış kalp yetmezliği ile ilişkilendirdi. Radonun 4 pCi/L'nin üzerinde olduğu bölgelerdeki kadınlarda kalp yetmezliği riski 2 pCi/L altındakilere göre %19 daha yüksekti (HR 1,19); düşük atım hacimli kalp yetmezliği ve kalp yetmezliği ölümlerinde artış daha belirgindi. 2-4 pCi/L düzeyinde net bir artış görülmedi. Çalışma gözlemsel olup ilçe düzeyinde maruziyet kullandığından nedensellik değil ilişki gösterir.",
+   "neden_onemli": "Evdeki radon düzeyinin ölçülmesi, kalp sağlığı açısından da düşünülmesi gereken değiştirilebilir bir çevresel etken olabilir."
   },
   {
-   "pmid": "42983091",
-   "baslik_en": "Ecological and social cues orchestrate concerted courtship in Drosophila.",
-   "baslik_tr": "Ekolojik ve sosyal ipuçları Drosophila'da uyumlu kur yapma sürecini yönetir.",
-   "dergi": "Nature",
+   "pmid": "42986716",
+   "baslik_en": "Nonreceipt of Newborn Vitamin K and Risk of Bleeding.",
+   "dergi": "JAMA",
    "yazarlar": [
-    "Brand P",
-    "Keller K",
-    "Coleman RT",
+    "Scott K",
+    "Handley SC",
+    "Lo JY",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Mating decisions are often attributed to the sensory signalling between prospective sexual partners. Yet these interactions are also shaped by the broader environmental context in which they unfold, to appropriately align sexual arousal with reproductive opportunities1-6. Here we show that in Drosophila erecta mating is strictly contingent on the ecological and social environment generated as flies densely aggregate in groups on a food patch. We find that food volatiles directly promote male sexual arousal, triggering individuals to sample and pursue potential mates, giving rise to dynamic interactions across the group.",
-   "ozet_tr": "Çiftleşme kararları genellikle potansiyel cinsel partnerler arasındaki duyusal sinyallere atfedilir. Ancak bu etkileşimler aynı zamanda cinsel uyarılmayı üreme fırsatlarıyla uygun şekilde hizalamak için ortaya çıktıkları daha geniş çevresel bağlam tarafından da şekillenmektedir1-6. Burada, Drosophila erecta'da çiftleşmenin, sineklerin bir yiyecek alanında gruplar halinde yoğun bir şekilde toplanmasıyla oluşan ekolojik ve sosyal çevreye sıkı sıkıya bağlı olduğunu gösteriyoruz. Yiyecek uçucularının doğrudan erkek cinsel uyarılışını teşvik ettiğini, bireyleri potansiyel eşleri örnek almaya ve takip etmeye tetikleyerek grup genelinde dinamik etkileşimlere yol açtığını bulduk.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42983091/",
-   "doi": "https://doi.org/10.1038/s41586-026-11209-9"
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986716/",
+   "doi": "https://doi.org/10.1001/jama.2026.21764",
+   "baslik_tr": "Yenidoğanda K vitamini yapılmaması ve kanama riski",
+   "ozet_en": "This retrospective cohort study analyzed 5,240,780 US infants born 2017-2025 using Epic Cosmos data. Newborn vitamin K nonreceipt rose from 3.1% to 6.8%. Infants who did not receive intramuscular vitamin K had higher risk of bleeding by 6 months (adjusted RR 1.47), intracranial bleeding (ARR 2.43) and death with concurrent bleeding in the birth hospitalization (ARR 2.69). Bleeding was identified through diagnosis codes, and the design is observational.",
+   "ozet_tr": "Bu geriye dönük kohort çalışması, Epic Cosmos verileriyle 2017-2025 arasında doğan 5.240.780 ABD'li bebeği inceledi. Yenidoğana K vitamini yapılmama oranı %3,1'den %6,8'e yükseldi. Kas içi K vitamini almayan bebeklerde 6 aya kadar kanama (düzeltilmiş RR 1,47), kafa içi kanama (ARR 2,43) ve doğum hastanesinde kanamayla birlikte ölüm (ARR 2,69) riski daha yüksekti. Kanamalar tanı kodlarıyla belirlendi ve tasarım gözlemseldir.",
+   "neden_onemli": "Yenidoğan K vitamini uygulamasının reddedilmesinin ciddi kanama riskiyle ilişkili olduğunu büyük bir veri setiyle gösteriyor."
   },
   {
-   "pmid": "42986939",
-   "baslik_en": "Direct evidence for psychoactive cannabis use 2800 years ago.",
-   "baslik_tr": "2800 yıl önce psikoaktif esrar kullanımına dair doğrudan kanıt.",
-   "dergi": "Science (New York, N.Y.)",
+   "pmid": "42993548",
+   "baslik_en": "Drug Therapies and Incidence of Dementia Among Adults With Overactive Bladder.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Caspari G",
-    "Sadykov T",
-    "Fomicheva D",
+    "Sheyn D",
+    "Rhodes S",
+    "Mohamed Z",
     "et al."
    ],
-   "tur": "Historical Article",
-   "ozet_en": "Cannabis is the world's most-used illicit psychoactive plant, yet direct prehistoric evidence for its consumption is rare. In this study, we present the earliest direct evidence of cannabis use: offerings of plant parts and chemical compounds in ancient human hair recovered from a monumental tomb in Siberia. The findings suggest that the plant was used for its psychoactive qualities across Eurasia, where specific wild populations might have had naturally higher active compound levels. We show that the practice of cannabis consumption dates back at least 2800 years, anchoring debates around contemporary usage and informing discussions on cannabis in medicine, public health, law, and industry.",
-   "ozet_tr": "Esrar dünyanın en çok kullanılan yasadışı psikoaktif bitkisidir, ancak tüketimine dair doğrudan tarih öncesi kanıtlar nadirdir. Bu çalışmada esrar kullanımına ilişkin en eski doğrudan kanıtı sunuyoruz: Sibirya'daki bir anıt mezardan çıkarılan eski insan saçındaki bitki parçaları ve kimyasal bileşikler. Bulgular, bitkinin, belirli yabani popülasyonların doğal olarak daha yüksek aktif bileşik seviyelerine sahip olabileceği Avrasya'da psikoaktif nitelikleri nedeniyle kullanıldığını gösteriyor. Esrar tüketimi uygulamasının en az 2800 yıl öncesine dayandığını gösteriyoruz, çağdaş kullanıma ilişkin tartışmaları destekliyoruz ve tıpta, halk sağlığında, hukukta ve endüstride esrarla ilgili tartışmalara bilgi sağlıyoruz.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42986939/",
-   "doi": "https://doi.org/10.1126/science.aeg3800"
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42993548/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42026",
+   "baslik_tr": "Aşırı aktif mesane hastalarında ilaç tedavileri ve demans insidansı",
+   "ozet_en": "Using electronic health records of 830,393 adults aged 40-90 newly treated for overactive bladder, researchers compared dementia incidence across high-risk anticholinergics, low-risk anticholinergics and beta-3 agonists. Beta-3 agonists were not linked to lower dementia incidence; high-risk anticholinergics showed a slightly lower hazard (HR 0.90) than beta-3 agonists, and longer anticholinergic use was not tied to higher risk. The authors say the difference could be explained by modest unmeasured confounding, and the study is retrospective.",
+   "ozet_tr": "Araştırmacılar, aşırı aktif mesane nedeniyle yeni tedaviye başlayan 40-90 yaş arası 830.393 yetişkinin elektronik sağlık kayıtlarını kullanarak yüksek riskli antikolinerjikler, düşük riskli antikolinerjikler ve beta-3 agonistlerinde demans görülme sıklığını karşılaştırdı. Beta-3 agonistleri daha düşük demans oranıyla ilişkili bulunmadı; yüksek riskli antikolinerjiklerde beta-3 agonistlerine göre hafif düşük tehlike oranı görüldü (HR 0,90) ve uzun süreli antikolinerjik kullanımı daha yüksek risk ile ilişkilendirilmedi. Yazarlar farkın ölçülemeyen küçük karıştırıcı etkenlerle açıklanabileceğini belirtiyor; çalışma geriye dönüktür.",
+   "neden_onemli": "Daha önce bildirilen demans riskinin ilaç etkisinden çok başka etkenlerden kaynaklanmış olabileceğini düşündürüyor."
   }
  ]
 }
