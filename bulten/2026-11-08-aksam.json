@@ -1,112 +1,132 @@
 {
  "tarih": "2026-11-08",
  "donem": "aksam",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
  "one_cikanlar": [
   {
-   "baslik": "İsrail cumhurbaşkanı, hükümeti kurmak için Netanyahu'nun rakibi Gadi Eisenkot'u seçti",
+   "baslik": "Türkiye ve Irak'tan güvenlik mutabakatı",
+   "ozet": "Türkiye ve Irak'ın yayımladığı ortak açıklamada, Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve terör örgütü PKK unsurlarının varlığına son verilmesine yönelik attığı adımların…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/08/turkiye-ve-iraktan-basika-aciklamasi-turk-askerlerinin-cekilme-sureci-basliyor"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784942/d%C3%BCnya/t%C3%BCrkiye-ve-irak-aras%C4%B1nda-ba%C5%9Fika-zilikan-mutabakat%C4%B1-devir-s%C3%BCreci-ba%C5%9Fl%C4%B1yor"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Fransız dışişleri bakanı, Avrupalıların Abu Dabi'deki Ukrayna görüşmelerine katılacağını söyledi",
    "ozet": "",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5"
     },
     {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
     },
     {
      "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi"
-    },
-    {
-     "ad": "New York Times",
-     "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
-    },
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss"
+     "link": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
     }
    ],
    "neden_onemli": ""
   },
   {
-   "baslik": "UFC'den Dana White, Beyaz Saray basın sözcüsü olma teklifi üzerine Pazartesi günü Trump ile görüşeceğini söyledi",
+   "baslik": "Mısır'da tren kazası: 7 ölü, 112 yaralı",
+   "ozet": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/08/misirda-iki-tren-carpisti-en-az-4-kisi-hayatini-kaybetti-88-kisi-yaralandi"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/misirda-tren-kazasi-7-olu-112-yarali-43370817"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Hükümet, göçmen teknesinin Senegal kıyısı açıklarında batması sonucu en az 21 kişinin öldüğünü açıkladı",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXdCUmJHMFNmV25BSjlQbEZWSHlrVDE4cGF5amtpS2ZPUmtJNHdiMjdpQmk0ZXdfX2ZwblhmN2NfN2p0SGpNLWJjX1EycDRaLWZmTkxybDRSOXQzdVlsRmJ3ajV3RTFDNTlMNkh1WGJKaC1mOFpzaUc4U0o1ODJKTmkwTkNjTGtlQ09TVW5vcGNJZw?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "İsrail cumhurbaşkanı Eisenkot'a yeni hükümeti kurması için ilk şansı veriyor",
    "ozet": "",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5"
     },
     {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job"
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government"
     },
     {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
     },
     {
-     "ad": "Financial Times",
-     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Galatasaray'dan Leao'nun sağlık durumu hakkında açıklama",
-   "ozet": "Galatasaray'ın Portekizli futbolcusu Rafael Leao'nun sağ üst adale grubunda zorlanma ve kanama tespit edildi.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/spor/galatasaraydan-leaonun-saglik-durumu-hakkinda-aciklama/4115818"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-dan-sakatlik-aciklamasi-rafael-leao-nun-son-durumu-belli-oldu-3925772"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/spor/mr-sonucunu-paylasti-galatasaray-rafael-leao-nun-son-durumunu-duyurdu-2554389"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Arjantin'de Boca Juniors, Enner Valencia'nın uzatma dakikalarındaki golüyle şampiyon oldu",
-   "ozet": "Arjantin Birinci Futbol Ligi'nde Defensa y Justicia'yı 1-0 yenen Boca Juniors, şampiyonluğa ulaştı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/spor/arjantinde-boca-juniors-enner-valencianin-uzatma-dakikalarindaki-goluyle-sampiyon-oldu/4115862"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/spor/enner-valencia-906-da-atti-boca-juniors-sampiyon-oldu-3925781"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan Azerbaycan'da",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle geldiği Şuşa'da resmi törenle karşılandı. Erdoğan ve Aliyev'in tören alanındaki yerlerini almalarının…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycanda-962577.html"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gitti-3925738"
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss"
     }
    ],
    "neden_onemli": ""
@@ -118,91 +138,123 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "15 katlı binada korkutan yangın!",
-     "ozet": "İstanbul Gaziosmanpaşa'da 15 katlı binanın 12'nci katında yangın çıktı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.…",
+     "baslik": "YENİ Parti'de ön seçim tamamlandı: Özgür Özel'e yüzde 100 destek",
+     "ozet": "YENİ Parti, bugün 81 ilde gerçekleştirilen genel başkanlık ön seçiminin sonuçlarını açıkladı. Örgütlerden Sorumlu Genel Başkan Yardımcısı Ensar Aytekin ile Hukuk ve Seçim İşlerinden Sorumlu Genel…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-15-katli-binada-korkutan-yangin-3925757"
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784947/siyaset/yeni%CC%87-partide-%C3%B6n-se%C3%A7im-tamamland%C4%B1-%C3%B6zg%C3%BCr-%C3%B6zele-y%C3%BCzde-100-destek"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/08/ozgur-ozel-yeni-parti-genel-baskanlik-on-seciminde-oy-kullandi/"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWpFNTBkaHlqclZJbnJEY04zSEVDUVhoa0tQMXlVNjVZY0lVbDc5X3ZUWDlZYWozUVJ5cF94Q3lYNkowVlctSnJIRnV5MWNsVDBwYjlYUndDdUdsZk56VzFkbVV5SUFCMXFud3c0OGJKMDRRVjR5TG1TZWVlLWRYbmdmOG5GZ2Z0OXpnbXVNRllkbDNxSG1fWG5lRk8?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Formula 1 Brezilya Grand Prix'sini Lando Norris kazandı",
+     "ozet": "Mercedes, bitime 3 yarış kala takımlar şampiyonluğunu garantiledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/formula-1-brezilya-grand-prixsini-lando-norris-kazandi/4116299"
       },
       {
        "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/gaziosmanpasa-da-15-katli-binada-yangin-ekipler-mudahale-ediyor-2554388"
+       "link": "https://www.cumhuriyet.com.tr/spor/formula-1-brezilya-grand-prix-sinde-zafer-lando-norris-in-takimlar-sampiyonu-belli-oldu-2554529"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/formula-1-brezilya-grand-prixsini-lando-norris-kazandi/4116299"
       }
      ]
     },
     {
-     "baslik": "Eğitim uçağı pistten çıktı",
-     "ozet": "Hezarfen Havalimanı’nda iniş yapan eğitim uçağı, pistten çıkarak toprak alana girdi. Olayda yaralanan olmazken pilot, tedbir amaçlı hastaneye kaldırıldı.",
+     "baslik": "Krakow'da silahlı saldırı: Altı kişiyi öldüren saldırganın evinde de üç aile üyesinin cesedi bulundu",
+     "ozet": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda altı kişi hayatını kaybetti, aralarında iki polisin de bulunduğu en az 16 kişi ise yaralandı. Saldırganın evinde de üç…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-hezarfen-havalimani-nda-egitim-ucagi-pistten-cikti-3925751"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/polonya-yasta-saldırganın-evinde-de-üç-ceset-bulundu/a-79889755?maca=tur-rss-tur-all-1495-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Dilovası faciasının birinci yılında aileler adalet istedi",
+     "ozet": "Geçen yıl 8 Kasım'da Kocaeli Dilovası'nda Ravive Kozmetik fabrikası parfüm dolum tesisinde meydana gelen yangında can veren Tuğba Taşdemir, Nisanur Taşdemir, Cansu Esatoğlu, Hanım Gülek, Esma Gikan,…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784940/haber/dilovas%C4%B1-facias%C4%B1n%C4%B1n-birinci-y%C4%B1l%C4%B1nda-aileler-adalet-istedi"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/08/dilovasi-yangininin-birinci-yilinda-ailelerden-adalet-cagrisi-sesimizi-duyun-artik/"
+      }
+     ]
+    },
+    {
+     "baslik": "'Binyamin Netanyahu'nun işi bitti!' İsrail'de yeni dönemin kapıları aralanıyor",
+     "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, seçimlerin ardından partilerle görüşmelerini tamamladı. Herzog, hükümeti kurma yetkisini muhalefet lideri Gadi Eisenkot'a vermeyi planladığını açıkladı. İsrail…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/binyamin-netanyahunun-isi-bitti-israilde-yeni-donemin-kapilari-aralaniyor-43370143"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUhnamV2YkRJZlRyeDRWejhvYXVvRmdhWHFKNTE4cFc0UF94WmdpTXRWcmFzRlJMRnAwY1ZRbUVMMUY0NDRqUmJ5ZVdzSVFZcW1Da3h5VDdvX0hCWmt5VUFTblhUUWRNMDNwbldKQVN1MFNGSzFWTDN0bFBDZkVvWWhnOFlEX1k3bC1teGNXNUlzazNhUkltby1HdnBoOXVwc3NzVHRoaWhFZzN6OUxpQXltWXR2azg?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Beşiktaş'a Orkun Kökçü'den kötü haber!",
+     "ozet": "Trendyol Süper Lig'in 11. haftasında evinde Gençlerbirliği'ni ağırlayan Beşiktaş'ta Orkun Kökçü, gördüğü sarı kartın ardından cezalı duruma düştü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/besiktasa-orkun-kokcuden-kotu-haber-43370845"
       },
       {
        "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-catalca-hezarfen-havalimani-nda-egitim-ucagi-pistten-cikti-2554383"
+       "link": "https://www.cumhuriyet.com.tr/spor/orkun-kokcu-den-besiktas-a-kotu-haber-2554525"
       }
      ]
     },
     {
-     "baslik": "Azerbaycan'da Karabağ Zaferi'nin 6. yıl dönümü kutlanıyor",
-     "ozet": "Azerbaycan'da 2. Karabağ Savaşı'nda elde edilen zaferin 6. yıl dönümü dolayısıyla 8 Kasım Zafer Günü çeşitli etkinliklerle kutlanıyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-zaferinin-6-yil-donumu-kutlaniyor/4115858"
-      }
-     ]
-    },
-    {
-     "baslik": "Türkiye'den Polonya'daki terör saldırısında hayatını kaybedenler için taziye mesajı",
-     "ozet": "Dışişleri Bakanlığı, Polonya'nın Krakov şehrinde düzenlenen terör saldırısında hayatını kaybedenler için taziye mesajı yayımladı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-polonyadaki-teror-saldirisinda-hayatini-kaybedenler-icin-taziye-mesaji/4115880"
-      }
-     ]
-    },
-    {
-     "baslik": "Bakan Çiftçi'den Ulus'ta mevzuata aykırı yapıların yıkıldığı alandaki denetimlere ilişkin paylaşım",
-     "ozet": "İçişleri Bakanı Mustafa Çiftçi, \"Hedefimiz, bu müstesna bölgenin manevi iklimini koruyarak tarihi mirasını ihya etmek, hemşehrilerimizin huzurla vakit geçirebileceği güvenli ve nezih bir çevre…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-ulusta-mevzuata-aykiri-yapilarin-yikildigi-alandaki-denetimlere-iliskin-paylasim/4115878"
-      }
-     ]
-    },
-    {
-     "baslik": "Hezarfen Havaalanı'nda eğitim uçağı iniş sırasında kaza kırıma uğradı",
-     "ozet": "Hezarfen Havaalanı'nda eğitim uçuşu yapan uçak, iniş sırasında pistten çıkarak kaza kırıma uğradı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi/4115877"
-      }
-     ]
-    },
-    {
-     "baslik": "Bitkiler üniversitedeki merkezde ileri teknolojiyle değer kazanıyor",
-     "ozet": "Necmettin Erbakan Üniversitesi Tıbbi ve Kozmetik Bitkiler Uygulama ve Araştırma Merkezi'nde, bitkilerden gıda takviyesi ve kozmetik ürünleri geliştiriliyor.",
+     "baslik": "Trump, İran’a yeniden saldırı ihtimalini değerlendirdi: “Bir saat içinde yıkabileceğimiz 38 köprü var”",
+     "ozet": "ABD Başkanı Donald Trump, İran ile yaşanan gelişmelere ve yeniden saldırı ihtimaline ilişkin dikkat çeken açıklamalarda bulundu. İran ile nükleer program ve Hürmüz Boğazı'nın açılması konusundaki…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867"
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/dunya/trump-irana-yeniden-saldiri-ihtimalini-degerlendirdi-bir-saat-icinde-yikabilecegimiz-38-kopru-var-7697702"
       },
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867"
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/dunya/trump-buyuk-ihtimalle-yeni-saldirilara-gerek-kalmayacak-dedi-1-saat-icinde-yok-edebilecekleri-38-kopru-siraladi-2554523"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-muzakereler-surdukce-abdnin-irana-yeniden-saldirma-ihtimalinin-son-derece-dusuk-oldugunu-soyledi/4116276"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5"
       }
      ]
     }
@@ -213,83 +265,135 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Cop31'de kim kimdir: İklim görüşmelerindeki kilit oyuncular",
-     "ozet": "Zirveye ev sahipliği yapma konusundaki sert tartışmanın ardından başlarken, ilişkiler ve baskın çıkarlar neler? Polisi ağırlamak Avustralya başbakanı Anthony Albanese'den önemli bir sözdü…",
+     "baslik": "Ukrayna: Rusya'nın saldırıları yüz binlerce kişiyi elektriksiz bırakıyor",
+     "ozet": "Rusya'nın ülkenin enerji altyapısını hedef alan hava saldırılarının ardından Pazar günü yüz binlerce Ukraynalı elektriksiz kaldı. Moskova kış aylarıyla birlikte saldırılarını yoğunlaştırdı…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/russian-strikes-leave-600000-in-the-dark-in-eastern-ukraine-dnipropetrovsk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "Suudi Arabistan, Riyad'daki Aramco binasının hasar görmesi nedeniyle füzeleri önledi ve diğer Orta Doğu haberleri",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1hPV0p1dkZfcU92OEJVMkYtQTNHb3hKSDdGZHp5U1RkUTZlc2dzTU9oNjQ4dk5nUGZ6WVhkTlk2VTJ0cFkxOHozbE9aWUJObXFUYVBCZEwtaktnOGExQjVfUlhNdFlxRV9KeHMzS1Rsc2c3OFAxNHF6RjM2X0FRamhCalJsTk1BY1g2NFhHX2ZnUQ?oc=5"
       },
       {
        "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html"
+       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/08/saudi-capital-s-financial-district-targeted-in-attack-aramco-skyscraper-damaged_6774880_4.html"
       }
      ]
     },
     {
-     "baslik": "Rusya'nın kurduğu yönetim, Zaporizhzhia nükleer santralinin harici güç kaynağını kaybettiğini söylüyor",
+     "baslik": "Her iki taraf da net bir zafer elde edemediğinden Yeni Zelandalılar seçimi kimin kazandığını haftalarca bilemeyecek",
      "ozet": "",
-     "etiket": "tek kaynak",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZtYUlOcl9TejR2aTRaRW5xVnZiM05kZzVuQ1lTNGJrOWt5VEVxeWhWQXVoeHpDMmdPbTBzSHpLQ3NVX0RCc2xscjBUUlp1RTgzT0VFeV9QVnlZQTVNSHBZRy1PTkRxa3Z5S19FOVExT09jS1o1b1BOOVB1cHhMUERTNDZ2bTByclFJZWtZbGJ2aGNJeno0dWJGblh2V1RpWWc?oc=5"
+      },
+      {
+       "ad": "NPR",
+       "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+      },
+      {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5"
       }
      ]
     },
     {
-     "baslik": "Suudi sivil savunması Doğu Eyaletindeki alarmların ardından her şeyi netleştirdi",
+     "baslik": "Güney Afrika'nın ANC'si, düşüşünü sürdürürken aldığı en kötü seçim sonuçları nedeniyle hayal kırıklığı yaşıyor",
      "ozet": "",
-     "etiket": "tek kaynak",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEE1M2QwamttWi1XNENfaUhIZlRYRDRNaGhkazExNHlqWHFSelh2WEpZLXp2d1JiVmNuUHdIRS1jeTdCdFFVa3RkV0FKUEhsSTNoa1BEbnAyX0RVRnFwV0JFNV9laXE2MzZ4TTZHOVdmV0RSQVBiQUdjQUl5OENxWGIwN1JwTk8yX3FKSDFNOEo0RGdaMk1DRFBPQjBHVVdFeDNZN1BDMktuSHN6?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf"
+      },
+      {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5"
       }
      ]
     },
     {
-     "baslik": "Türk köylüleri COP31 liderlerinin kömürün yol açtığı yıkımı kendi gözleriyle görmelerini talep ediyor",
-     "ozet": "",
-     "etiket": "tek kaynak",
+     "baslik": "İspanyol Alcaraz, hataya açık Shelton'ı yenerek ilk kez Paris Masters'ı kazandı",
+     "ozet": "İspanyol tenis yıldızı Carlos Alcaraz, Eylül ayında ABD Açık'ta Amerikalı oyuncu Ben Shelton'a karşı kaybının intikamını alırken, Pazar günü rakibinin birkaç adım ötesine geçerek ilk kez Paris Masters'ı kazandı. BT…",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGhlRE5JMEs0azJVTzgtQjZNd3ROQ0dlN0FzX1BFeTFhQndEWFJqV3RwSFhDaW5BcUtiYlgyZzFXV28wVDdHWFpWeUlReFhtTnk3d1pZOUp1VDBtV3Jkc3dQQTJPc2ZqcDZRNnlzeFdUN0o3WEtKcnhZZmUyTDJsOG9TamVKNE9Ic09GU0o4MkMzRWNmcFNtUkpSc3ZEcFdBWW1wNjUyMTcxMl9QTGE3c2pnOUJnWktJVGtMcHBIbjVYS3pMa2oyMTNpc0FSdDY1?oc=5"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss"
+      },
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final"
       }
      ]
     },
     {
-     "baslik": "İran, Ocak ayındaki protestolar sırasında yaşanan silahlı olaylar nedeniyle üç kişiyi idam etti",
-     "ozet": "",
-     "etiket": "tek kaynak",
+     "baslik": "Tenerife, takım arkadaşı Jesus De Miguel'i gözyaşlarıyla anarak onurlandırdı",
+     "ozet": "Tenerife'nin stadyumu Cumartesi günü binlerce yas tutan kişiyle doldu ve burada maç sırasında kaleciyle çarpıştıktan sonra hayatını kaybeden golcü Jesus De Miguel için gözyaşı döktüler.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss"
       }
      ]
     },
     {
-     "baslik": "Açıklayıcı: Yeni Zelanda'nın oylamasından sonra ne olacak?",
-     "ozet": "",
-     "etiket": "tek kaynak",
+     "baslik": "Mısır, 12 yıl sonra Trablus büyükelçiliğini yeniden açtı ve Türkiye-Libya deniz anlaşmasına ilişkin endişelerini dile getirdi",
+     "ozet": "Mısır, yıllarca doğudaki rakibini destekledikten sonra Libya'nın batı hükümetiyle daha yakın ilişkiler kurmaya çalışıyor. Trablus'taki görüşmelerde enerji projeleri ve Mısır'ın Libya'nın deniz anlaşmasına itirazları ele alındı.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "İran basınında çıkan haberlere göre İran'ın güneyindeki bölgelerde patlamalar duyuldu",
-     "ozet": "",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim"
+      },
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss"
       }
      ]
     }
@@ -300,57 +404,61 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Üniversitelerin yenilenebilir enerji yatırımları Türkiye'nin yeşil dönüşümüne katkı sunuyor",
-     "ozet": "YÖK Başkanı Prof. Dr. Erol Özvar, üniversitelerin yenilenebilir enerji yatırımlarının Türkiye'nin yeşil dönüşümüne ve COP31 sürecine önemli katkı sağladığını bildirdi.",
-     "etiket": "tek kaynak",
+     "baslik": "Türk Telekom COP31'in teknoloji altyapısının sorumluluğunu üstlendi",
+     "ozet": "Türk Telekom, COP31'in teknoloji altyapısını uçtan uca üstlenerek ulusal ve uluslararası katılımcılar, ülke delegasyonları, basın mensupları ve ziyaretçilerin iletişim ihtiyaçlarını karşılayacak…",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/universitelerin-yenilenebilir-enerji-yatirimlari-turkiyenin-yesil-donusumune-katki-sunuyor/4115821"
+       "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-cop31in-teknoloji-altyapisinin-sorumlulugunu-ustlendi/4116032"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/sirketler/turk-telekomdan-cop31-icin-dev-teknoloji-altyapisi-13-milyon-metre-fiber-400-gigabit-kapasite-haberi-846887"
       }
      ]
     },
     {
-     "baslik": "COP31 Türkiye-Japonya işbirliğine yeni fırsatlar sunacak",
-     "ozet": "Japonya'nın Ankara Büyükelçisi Masami, iklim zirvesi COP31'in Türkiye ve Japonya arasında enerji güvenliği, yenilenebilir enerji ve hidrojen teknolojileri başta olmak üzere yeni işbirliği alanlarının…",
+     "baslik": "Deprem sonrası yeniden yapılanan Malatya, çevreci yatırımlarla geleceğe hazırlanıyor",
+     "ozet": "Depremlerin ardından konut ve iş yerlerinin yanı sıra altyapı ve üstyapı yatırımlarıyla yeniden şekillenen Malatya'da atık su arıtma tesisleri ile yenilenebilir enerji projeleri hayata geçiriliyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31-turkiye-japonya-isbirligine-yeni-firsatlar-sunacak/4115812"
+       "link": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061"
       }
      ]
     },
     {
-     "baslik": "Mardin'deki \"Damızlık ve Gen Bahçesi\"nde 24 üzüm çeşidi koruma altına alındı",
-     "ozet": "Mardin'de oluşturulan \"Damızlık ve Gen Bahçesi\"nde tespit edilen 24 yerel üzüm çeşidi koruma altına alındı.",
+     "baslik": "COP31'in Antalya ekonomisine katkı sunması bekleniyor",
+     "ozet": "Türkiye'nin ev sahipliğinde 9-20 Kasım'da Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nın (COP31) kentte ekonomik hareketlilik…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/mardindeki-damizlik-ve-gen-bahcesinde-24-uzum-cesidi-koruma-altina-alindi/4115801"
+       "link": "https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-ekonomisine-katki-sunmasi-bekleniyor-/4115919"
       }
      ]
     },
     {
-     "baslik": "Gümrüklerdeki tasfiyelik eşyaların e-ihaleyle satışından 10 ayda 5,7 milyar lira gelir",
-     "ozet": "Ticaret Bakanlığının, gümrüklerdeki tasfiyelik araç ve eşyaların ülke ekonomisine kazandırılması amacıyla uygulamaya aldığı e-İhale Sistemi ile bu yılın 10 ayında 5,7 milyar liralık hasılat sağlandı.",
+     "baslik": "Tüketicilere sadakat kartlarındaki kullanılmayan para puanlar için yıl sonu uyarısı",
+     "ozet": "Tüketici dernekleri, sadakat kartlarında biriken puanların yıl sonunda geçerliliğini yitirebileceğine dikkati çekerek, tüketicilere mevcut puanlarını süreleri dolmadan kullanmaları tavsiyesinde…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/gumruklerdeki-tasfiyelik-esyalarin-e-ihaleyle-satisindan-10-ayda-5-7-milyar-lira-gelir/4115794"
+       "link": "https://www.aa.com.tr/tr/ekonomi/tuketicilere-sadakat-kartlarindaki-kullanilmayan-para-puanlar-icin-yil-sonu-uyarisi/4115892"
       }
      ]
     },
     {
-     "baslik": "Türkiye bitkisel çeşitliliğiyle bitki bazlı gıda pazarında yeni ürün potansiyeli bulunduruyor",
-     "ozet": "Küresel bitki bazlı gıda pazarının 2034'e kadar 491 milyar dolara ulaşması beklenirken, Türkiye'deki pazarın da yaklaşık 2 kat büyüyeceği ve bitkisel çeşitlilik sayesinde yeni ürünlerin sektöre…",
+     "baslik": "Bitkiler üniversitedeki merkezde ileri teknolojiyle değer kazanıyor",
+     "ozet": "Necmettin Erbakan Üniversitesi Tıbbi ve Kozmetik Bitkiler Uygulama ve Araştırma Merkezi'nde, bitkilerden gıda takviyesi ve kozmetik ürünleri geliştiriliyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-bitkisel-cesitliligiyle-bitki-bazli-gida-pazarinda-yeni-urun-potansiyeli-bulunduruyor/4115787"
+       "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867"
       }
      ]
     }
@@ -360,6 +468,17 @@
    "id": "bilim_teknoloji",
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
+    {
+     "baslik": "Mobil Dünya Kongresi (MWC Doha 2026) Katar'da başladı",
+     "ozet": "Türkiye pavilyonunun da yer aldığı etkinlikte yapay zeka, yeni nesil iletişim teknolojileri ve dijital dönüşüm alanındaki gelişmeler ele alınıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/mobil-dunya-kongresi-mwc-doha-2026-katarda-basladi/4116027"
+      }
+     ]
+    },
     {
      "baslik": "İngiltere 16 yaşından küçüklerin alışveriş sitelerini kullanmasını da yasaklamaya hazırlanıyor",
      "ozet": "İngiltere'de 16 yaş altındakilere sosyal medya yasağı getirmek için çalışmalar yapan hükümet, şimdi de mesajlaşma özelliği nedeniyle alışveriş sitelerinin ve uygulamalarının kullanımını yasaklamaya…",
@@ -403,17 +522,6 @@
        "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-cocuk-senligi-adanada-minik-ziyaretcilerini-agirliyor/4115717"
       }
      ]
-    },
-    {
-     "baslik": "ASPİLSAN Enerji elektrikli araçlar için DC hızlı şarj cihazı üretti",
-     "ozet": "ASPİLSAN Enerji Genel Müdürü Özdemir, \"Araç şarj istasyonumuz, DC hızlı şarj özelliğine sahip, çift soketli, sızdırmazlık, darbe ve ısı dayanımı yüksek ticari bir üründür.\" dedi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aspilsan-enerji-elektrikli-araclar-icin-dc-hizli-sarj-cihazi-uretti/4115759"
-      }
-     ]
     }
    ]
   },
@@ -422,7 +530,18 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Beş yaşındaki oğlumun demansı için nihayet bir tedavi var – ama bu bana 3 milyon sterline mal olacak",
+     "baslik": "Sağlık görevlisi hastanedeki saldırıda çok sayıda yaralandı",
+     "ozet": "NI Ambulans Servisi, olay sırasında sağlık görevlisinin başının arkasından, boynundan, yüzünden ve ellerinden yaralandığını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cxnv0487qpj3o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Beş yaşındaki oğlumun demansı için nihayet bir tedavi var ama bu bana 3 milyon sterline mal olacak",
      "ozet": "Çocuklara yönelik demans tedavisi ABD'de mevcuttur ancak Birleşik Krallık'taki çocuklara yönelik finansman belirsizdir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
@@ -442,17 +561,6 @@
        "link": "https://www.bbc.co.uk/news/articles/ckr5y8ze8me7o?at_medium=RSS&at_campaign=rss"
       }
      ]
-    },
-    {
-     "baslik": "STAT+: Neden en son kalp ilacı başarısızlıkları hepimizi yapay zeka abartısına karşı daha şüpheci kılmalı?",
-     "ozet": "Bir kez daha, ilaç araştırmalarını hızlandırması beklenen yeni ve yeni bir teknoloji başarısızlıkla sonuçlandı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss"
-      }
-     ]
     }
    ]
   },
@@ -461,47 +569,47 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Kimseyi otobüsün altına atmadım - Khawaja",
-     "ozet": "Usman Khawaja, 2018'de Avustralya ekibini saran zımpara skandalıyla ilgili açıklamalarla \"kimseyi otobüsün altına atmadığını\" söyledi.",
+     "baslik": "Brighton 10 kişilik Brentford'u geçerek ikinciliğe yükseldi",
+     "ozet": "Diego Gomez'in uzun mesafeli vuruşu Brighton'ı, Fabian Hurzeler'in takımı Premier Lig'de ikinci sıraya yükselirken Igor Thiago'ya doğrudan kırmızı kart gören Brentford karşısında 2-0'a getirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/08/usman-khawaja-defends-timing-of-australian-ball-tampering-revelations"
+       "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report"
       }
      ]
     },
     {
-     "baslik": "Avustralya, Fiji korkusunun ardından Dünya Kupası finaline yükseldi",
-     "ozet": "Avustralya, üst üste beşinci kez Kadınlar Rugby Ligi Dünya Kupası finaline ulaştı ve üst üste dördüncü şampiyonluğunu hedefliyor ancak herkesin beklediğinden daha fazla çalışmaları gerekti.",
+     "baslik": "Bournemouth, Ipswich galibiyetiyle galibiyet serisine devam ediyor",
+     "ozet": "Evanilson üst üste beşinci Premier Lig maçında gol atarken, Bournemouth'un etkileyici galibiyet serisi Ipswich karşısında kontrollü bir galibiyetle devam etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/live/2026/nov/08/australia-kangaroos-vs-samoa-rugby-league-world-cup-mens-semi-final-live-updates"
+       "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report"
       }
      ]
     },
     {
-     "baslik": "Messi, MLS Altın Ayakkabıyla tarih yazıyor",
-     "ozet": "Inter Miami'nin forveti Lionel Messi, MLS tarihinde üst üste sezonlarda Altın Ayakkabı ödülünü kazanan ilk oyuncu oldu.",
+     "baslik": "Yedinci kademe Wimborne, FA Cup'ta League Two Crawley'i nakavt etti",
+     "ozet": "Yedinci sıradaki Wimborne Town, FA Cup'ta büyük bir yenilgiyle İkinci Lig Crawley'i yenerek tarihinde ilk kez yarışmanın ikinci turuna yükseldi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs"
+       "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield"
       }
      ]
     }
@@ -512,24 +620,24 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Adana'nın ikiz yapıları yıllardır eğitimcilerin hizmetinde",
-     "ozet": "Adana'da Sultan 2. Abdülhamid döneminde inşa edilerek öğretmen yetiştirilmesi amacıyla kullanılan, süreç içinde farklı isim ve kademelerle hizmet veren ikiz binalar, yıllardır kentin eğitim hayatına…",
+     "baslik": "Bosna Hersek'teki Türk-Osmanlı mirası Mostar Köprüsü'nün yıkılışının 33. yılı",
+     "ozet": "Mimar Sinan'ın öğrencisi Mimar Hayreddin'in 1566'da inşa ettiği ve Bosna Hersek'teki savaşta 9 Kasım 1993'te Hırvat topçu birliklerince yıkılan köprü, bugün farklı din ve etnik kökenden insanları…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/adananin-ikiz-yapilari-yillardir-egitimcilerin-hizmetinde/4115791"
+       "link": "https://www.aa.com.tr/tr/kultur/bosna-hersekteki-turk-osmanli-mirasi-mostar-koprusunun-yikilisinin-33-yili/4115914"
       }
      ]
     },
     {
-     "baslik": "İzmit Lisesi köklü eğitim anlayışıyla geçmişten geleceğe köprü kuruyor",
-     "ozet": "Osmanlı'da devletin üst kademelerine ve yüksek okullara öğrenci yetiştirmek amacıyla kurulan İzmit Lisesi, köklü eğitim anlayışını öğrencilerine aktarıyor.",
+     "baslik": "Diyarbakır'daki Ziya Gökalp İlkokulu bir asrı aşan eğitim mirasını geleceğe taşıyor",
+     "ozet": "Diyarbakır'ın köklü eğitim kurumlarından Ziya Gökalp İlkokulu, tarihi binası ve farklı kuşaklardan mezunlarının hatıralarıyla kentin eğitim hayatındaki yerini koruyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/izmit-lisesi-koklu-egitim-anlayisiyla-gecmisten-gelecege-kopru-kuruyor/4115745"
+       "link": "https://www.aa.com.tr/tr/kultur/diyarbakirdaki-ziya-gokalp-ilkokulu-bir-asri-asan-egitim-mirasini-gelecege-tasiyor/4115793"
       }
      ]
     }
@@ -539,58 +647,55 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "42983089",
-   "baslik_en": "Towards observing interstitial hydrogen in solution in metal lattices.",
-   "baslik_tr": "Metal kafeslerdeki çözeltideki ara yer hidrojeninin gözlemlenmesine doğru.",
-   "dergi": "Nature",
+   "pmid": "42993547",
+   "baslik_en": "A Scalable Teacher Professional Development and Wellness Program in Primary Schools: A Cluster Randomized Clinical Trial.",
+   "baslik_tr": "İlkokullarda Ölçeklenebilir Öğretmen Mesleki Gelişim ve Sağlıklı Yaşam Programı: Rastgele Gruplanmış Bir Klinik Araştırma.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Huang C",
-    "Liu S",
-    "Lv W",
+    "Huang KY",
+    "Nakigudde J",
+    "Park HG",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Hydrogen-bearing materials are central to low-carbon energy technologies1, but hydrogen itself is difficult to detect and localize at the nanoscale2-6. This hinders the development of advanced materials with better efficiency. Atom probe tomography (APT) can map hydrogen in three dimensions and at high resolution, yet characterization of dilute, mobile, interstitial hydrogen in metals has remained challenging because of low solubility, the ambiguity owing to hydrogen trapping by structural defects, as well as the artefacts introduced during hydrogen introduction4-6.",
-   "ozet_tr": "Hidrojen taşıyan malzemeler düşük karbonlu enerji teknolojilerinin1 merkezinde yer alır, ancak hidrojenin kendisini nano ölçekte2-6 tespit etmek ve lokalize etmek zordur. Bu, daha iyi verimliliğe sahip gelişmiş malzemelerin geliştirilmesini engellemektedir. Atom prob tomografisi (APT), hidrojeni üç boyutlu ve yüksek çözünürlükte haritalandırabilir, ancak metallerdeki seyreltik, hareketli, ara yer hidrojenin karakterizasyonu, düşük çözünürlük, hidrojenin yapısal kusurlar tarafından hapsedilmesinden kaynaklanan belirsizlik ve hidrojenin tanıtılması sırasında ortaya çıkan artefaktlar nedeniyle zorlu olmaya devam etmektedir4-6.",
+   "tur": "Randomized Controlled Trial",
+   "ozet_en": "IMPORTANCE: In Uganda and other low-income settings with prevalent mental health problems and limited resources, scalable professional development (PD) models are needed to strengthen teachers' capacity to apply evidence-based practices to support child mental health. OBJECTIVE: To examine the short-term effectiveness of PD and PD with a teacher-wellness enhancement (PDT) compared with a control condition on teacher knowledge and use of evidence-based practices, teacher stress, and teacher stress management; implementation outcomes; and the differential outcomes between urban and rural primary schools in Uganda.",
+   "ozet_tr": "ÖNEMİ: Uganda'da ve yaygın ruh sağlığı sorunları ve sınırlı kaynaklara sahip diğer düşük gelirli ortamlarda, öğretmenlerin çocuk ruh sağlığını desteklemek amacıyla kanıta dayalı uygulamaları uygulama kapasitesini güçlendirmek için ölçeklenebilir mesleki gelişim (PD) modellerine ihtiyaç vardır. AMAÇ: Öğretmen sağlığı geliştirme (PDT) ile PD ve PD'nin kısa vadeli etkililiğini, öğretmen bilgisi ve kanıta dayalı uygulamaların kullanımı, öğretmen stresi ve öğretmen stres yönetimi üzerindeki bir kontrol koşuluyla karşılaştırmak; uygulama sonuçları; ve Uganda'daki kentsel ve kırsal ilkokullar arasındaki farklı sonuçlar.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42983089/",
-   "doi": "https://doi.org/10.1038/s41586-026-11238-4"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42993547/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42259"
   },
   {
-   "pmid": "42983082",
-   "baslik_en": "An open structure-guided RNA foundation model for generalizable prediction.",
-   "baslik_tr": "Genelleştirilebilir tahmin için açık yapı güdümlü bir RNA temel modeli.",
-   "dergi": "Nature",
-   "yazarlar": [
-    "Zhu H",
-    "Li R",
-    "Chang A",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "RNA language models have achieved strong performance across diverse downstream tasks by leveraging large-scale sequence data. However, RNA function is fundamentally shaped by hierarchical structure, making structural information important for pre-training. Existing approaches often depend on noisy annotations or task-specific objectives that can limit generalizability. Here we present structRFM, a structure-guided RNA foundation model trained on 21 million RNA sequence-structure pairs by integrating base-pairing interactions into masked language modelling through a pair-matching operation.",
-   "ozet_tr": "RNA dil modelleri, büyük ölçekli dizi verilerinden yararlanarak çeşitli aşağı yönlü görevlerde güçlü performans elde etti. Bununla birlikte, RNA işlevi temelde hiyerarşik yapı tarafından şekillendirilir ve bu da yapısal bilgiyi eğitim öncesi için önemli kılar. Mevcut yaklaşımlar genellikle genellenebilirliği sınırlayabilen gürültülü açıklamalara veya göreve özgü hedeflere dayanır. Burada, baz eşleştirme etkileşimlerini bir çift eşleştirme işlemi yoluyla maskelenmiş dil modellemesine entegre ederek 21 milyon RNA dizisi-yapı çifti üzerinde eğitilmiş, yapı kılavuzlu bir RNA temel modeli olan structRFM'yi sunuyoruz.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42983082/",
-   "doi": "https://doi.org/10.1038/s41586-026-11210-2"
-  },
-  {
-   "pmid": "42983076",
-   "baslik_en": "Tracing the spread of Germanic languages using ancient genomics.",
-   "baslik_tr": "Antik genomik kullanarak Cermen dillerinin yayılmasının izini sürmek.",
+   "pmid": "42983081",
+   "baslik_en": "Tracing the spread of Celtic languages using ancient genomics.",
+   "baslik_tr": "Antik genomik kullanarak Kelt dillerinin yayılmasının izini sürmek.",
    "dergi": "Nature",
    "yazarlar": [
     "McColl H",
     "Kroonen G",
-    "Moreno-Mayar JV",
+    "Pinotti T",
     "et al."
    ],
    "tur": "",
-   "ozet_en": "Germanic languages, including German, English, Frisian, Dutch and the Nordic languages, are widely spoken across northwest Europe. However, the timing and location of the prehistoric arrival of this Indo-European linguistic phylum, as well as its Iron Age diversification, remain contentious1-3. Here, by sequencing 712 ancient human genomes and analysing them alongside 4,009 previously published genomes, we identify an archaeologically elusive population that entered Sweden, likely from the Baltic region, by around 4000 BP.",
-   "ozet_tr": "Almanca, İngilizce, Frizce, Felemenkçe ve İskandinav dilleri de dahil olmak üzere Germen dilleri, Kuzeybatı Avrupa'da yaygın olarak konuşulmaktadır. Bununla birlikte, bu Hint-Avrupa dil grubunun tarih öncesi gelişinin zamanlaması ve yeri ile Demir Çağı'ndaki çeşitlilik hala tartışmalıdır1-3. Burada, 712 eski insan genomunu sıralayıp bunları daha önce yayınlanmış 4.009 genomla birlikte analiz ederek, İsveç'e muhtemelen Baltık bölgesinden yaklaşık 4000 BP civarında girmiş, arkeolojik olarak bulunması zor bir popülasyonu tespit ediyoruz.",
+   "ozet_en": "Celtic languages are today restricted to Europe's Atlantic fringes but were widely spoken across the continent during the Iron Age1-3. How Celtic achieved this early distribution remains contested4, with alternative archaeological and linguistic models proposing different homelands and dispersal routes. Here we analyse genome-wide data from 4,587 ancient individuals, focusing on Bronze and Iron Age Europe, to test the extent to which these models fit reconstructed demographic histories. We identify three main processes shaping European population structure that are relevant to the Celtic dispersal.",
+   "ozet_tr": "Kelt dilleri bugün Avrupa'nın Atlantik kıyılarıyla sınırlıdır ancak Demir Çağı1-3 sırasında kıtada yaygın olarak konuşulmaktadır. Keltlerin bu erken dağılıma nasıl ulaştığı tartışmalı olmaya devam ediyor4; farklı anavatanlar ve yayılma yolları öneren alternatif arkeolojik ve dilsel modeller var. Burada, bu modellerin yeniden oluşturulmuş demografik geçmişlere ne ölçüde uyduğunu test etmek için Bronz ve Demir Çağı Avrupa'sına odaklanarak 4.587 antik bireyden alınan genom çapında verileri analiz ediyoruz. Avrupa nüfus yapısını şekillendiren ve Kelt dağılımıyla ilgili üç ana süreci tanımlıyoruz.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42983076/",
-   "doi": "https://doi.org/10.1038/s41586-025-09064-1"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42983081/",
+   "doi": "https://doi.org/10.1038/s41586-026-11198-9"
+  },
+  {
+   "pmid": "42993528",
+   "baslik_en": "Waist Circumference Adds to BMI, but Will Clinicians Adopt It?",
+   "baslik_tr": "Bel Çevresi BMI'a Ekleniyor, Ancak Klinisyenler Bunu Benimseyecek mi?",
+   "dergi": "JAMA",
+   "yazarlar": [
+    "Schweitzer K"
+   ],
+   "tur": "",
+   "ozet_en": "This Medical News article discusses the growing use of waist circumference to refine cardiometabolic risk assessment beyond body mass index (BMI), examining whether such a shift can meaningfully improve patient outcomes and what it would take to implement the measure in routine clinical practice.",
+   "ozet_tr": "Bu Tıbbi Haber makalesi, vücut kitle indeksinin (BMI) ötesinde kardiyometabolik risk değerlendirmesini iyileştirmek için bel çevresinin artan kullanımını tartışıyor, böyle bir değişimin hasta sonuçlarını anlamlı bir şekilde iyileştirip iyileştiremeyeceğini ve bu önlemin rutin klinik uygulamada uygulanması için ne gerektiğini inceliyor.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42993528/",
+   "doi": "https://doi.org/10.1001/jama.2026.18249"
   }
  ]
 }
