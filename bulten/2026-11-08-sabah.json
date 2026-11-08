@@ -1,0 +1,474 @@
+{
+ "tarih": "2026-11-08",
+ "donem": "sabah",
+ "giris": "Bugün gündemin başında Krakow'daki silahlı saldırı, İsrail'de hükümet kurma görevinin Gadi Eisenkot'a verilmesi ve Umman Körfezi'ndeki gerginlik var. Türkiye'de fon soruşturmasında gözaltı ve tutuklamalar sürerken COP31 iklim zirvesi yarın Antalya'da başlıyor.",
+ "one_cikanlar": [
+  {
+   "baslik": "Krakow'un ana meydanında silahlı saldırı: 6 ölü",
+   "ozet": "Polonya'nın Krakow kentinin başlıca meydanında düzenlenen silahlı saldırıda aralarında iki polisin de bulunduğu çok sayıda kişi yaralandı, altı kişi hayatını kaybetti. AP'nin aktardığına göre yetkililer saldırganın 'ultra milliyetçi' görüşlere sahip olduğunu söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/07/polonyanin-krakow-sehrinde-silahli-saldiri-en-az-5-olu-12den-fazla-yarali"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671"
+    }
+   ],
+   "neden_onemli": "Polonya'da yakın dönemin en ağır silahlı saldırılarından biri; ülkede şok yarattığı bildiriliyor."
+  },
+  {
+   "baslik": "İsrail Cumhurbaşkanı hükümet kurma görevini Gadi Eisenkot'a verdi",
+   "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, 27 Ekim seçimlerinin ardından hükümeti kurma görevini Netanyahu'nun rakibi Yashar Partisi lideri Gadi Eisenkot'a verdi. Eisenkot, 'ulusal acil durum hükümeti' kurma zamanının geldiğini söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
+    }
+   ],
+   "neden_onemli": "Seçim sonrası İsrail'de iktidar dengesinin kimin elinde şekilleneceğini belirleyecek bir adım."
+  },
+  {
+   "baslik": "ABD ordusu Umman Körfezi'nde bir yük gemisini etkisiz hale getirdiğini duyurdu",
+   "ozet": "ABD ordusu, Umman Körfezi'nde bir kargo gemisini etkisiz hale getirdiğini açıkladı. İngiltere Deniz Ticaret Operasyonları (UKMTO) da bölgede yük gemisi ile askeri güçler arasında bir olay yaşandığını bildirdi; Reuters ayrıca ABD'nin deniz ablukasını İran'ın kara ticaretini kısıtlayacak biçimde genişletmeyi araştırdığını yazdı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW5HVVl6cDF0V1htbGY0eU9zSmtxbjdEOW9ETW02b0JLVlJwSW1oODJBSDRFOXBrMXpfRElCa0NXeHdrUTlUYlo2MmZadHFZellGd2dkUFNyWG5BNy1INUhwa3hGRDRMX3hIcFpFMmRzdEtGRjJSUXZJTXZ1OHV5QjlSTUJvOW9mTURuX0wwVDRyQkRyR2tZaDhCRjZZTHpnZmFoSnpHRDZ5R01r?oc=5"
+    }
+   ],
+   "neden_onemli": "Hürmüz Boğazı çevresindeki gerilim, enerji ve deniz ticareti açısından bölgeyi aşan sonuçlar doğurabilir."
+  },
+  {
+   "baslik": "Fon soruşturmasında gözaltı ve tutuklamalar sürüyor",
+   "ozet": "Sermaye piyasalarındaki işlemlere ilişkin fon soruşturmasında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ve eski Takasbank Genel Müdürü Yunus Arıncı'nın aralarında bulunduğu dört kişi gözaltına alındı. Hürriyet'e göre eski SPK Kurul Başkanvekili Enver Usca'nın da aralarında olduğu dört kişi ise tutuklandı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-4-kisi-gozaltina-alindi-962555.html"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-kemal-akkaya-ve-yunus-arinci-gozaltina-alindi-p376998"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/07/fon-sorusturmasi-kemal-akkaya-ve-yunus-arinci-yeniden-gozaltina-alindi/"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784914/haber/fon-soru%C5%9Fturmas%C4%B1nda-ki-isim-yeniden-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1"
+    }
+   ],
+   "neden_onemli": "Eylülde Borsa İstanbul'da sert düşüşlere yol açan fon krizinin yargı ayağı genişliyor."
+  },
+  {
+   "baslik": "Erdoğan ile Trump telefonda görüştü",
+   "ozet": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Liderler ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı; Sözcü'ye göre görüşmede İran gerilimi ve Ukrayna gündemdeydi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/erdogan-trump-ile-gorustu-iran-gerilimi-ve-ukrayna-gundemde-p377003"
+    }
+   ],
+   "neden_onemli": "Bölgesel gerilimin yükseldiği bir dönemde Ankara-Washington hattındaki temasları gösteriyor."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "COP31 iklim zirvesi yarın Antalya'da başlıyor",
+     "ozet": "9-20 Kasım'da yapılacak zirveye 197 ülkeden devlet başkanları, bakanlar ve delegasyonlar katılacak; yaklaşık 100 bin misafir bekleniyor. Bakan Murat Kurum, Antalya'dan dünyaya ortak bir çağrı yapacaklarını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/turkiye-dev-zirveye-hazir-197-ulkeden-100-bin-misafir-gelecek-43370025"
+      }
+     ]
+    },
+    {
+     "baslik": "Van'da tır ile minibüs çarpıştı",
+     "ozet": "Van-Özalp karayolunda tır ile minibüsün çarpıştığı kazada can kaybı yaşandı. Hürriyet kazada 7 kişinin öldüğünü bildirirken, Independent Türkçe ölü sayısını 9 olarak verdi; sayı kaynaklara göre farklılık gösteriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/vanda-tir-minibusle-carpisti-7-olu-7-yarali-43369872"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/van-ozalp-karayolunda-tir-ile-minibus-carpisti-7-kisi-yaralandi-3925686"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan, Azerbaycan'ın Zafer Günü için Karabağ'a gidecek",
+     "ozet": "İletişim Başkanı Burhanettin Duran'a göre Erdoğan, Cumhurbaşkanı Aliyev'in daveti üzerine Azerbaycan'ın Zafer Günü dolayısıyla yarın Karabağ'a gidecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784913/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-azerbaycana-gidecek"
+      }
+     ]
+    },
+    {
+     "baslik": "Şimşek: Orta Doğu'daki savaş bölgesel yapıyı değiştirecek",
+     "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, Orta Doğu'daki savaşın bölgenin ekonomik ve siyasi yapısını değiştireceğini, bölgesel aktörler arasında rekabetin azalıp iş birliğinin artacağını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784912/haber/bakan-%C5%9Fim%C5%9Fek-b%C3%B6lgesel-akt%C3%B6rler-aras%C4%B1nda-rekabet-azalacak-i%C5%9F-birli%C4%9Fi-artacak"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon krizinde şimdiye kadar yaşananlar",
+     "ozet": "BBC Türkçe, eylülde Borsa İstanbul'da sert düşüşlere yol açan fon krizinin patlak vermesinden bu yana yaşanan gelişmeleri ve yapılan ödemeleri derledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Ukrayna: Rusya enerji tesisine Kuzey Kore yapımı füzelerle saldırdı",
+     "ozet": "Euronews Türkçe'ye göre Ukrayna Dışişleri Bakanı Andriy Sibiha, Moskova'nın kış yaklaşırken milyonlarca Ukraynalıyı elektrik, ısınma ve sudan mahrum bırakmayı hedeflediğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/07/zelenskiy-rusya-ukraynadaki-kritik-enerji-tesisine-kuzey-kore-yapimi-fuzelerle-saldirdi"
+      }
+     ]
+    },
+    {
+     "baslik": "AB, Ukrayna'ya 46 milyar euroluk destek için ortak borçlanmayı yeniden gündemine aldı",
+     "ozet": "Independent Türkçe'ye göre Avrupa Birliği, Ukrayna'ya planlanan 46 milyar euroluk mali desteğin finansmanında ortak borçlanma seçeneğini yeniden değerlendiriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784910/d%C3%BCnya/ab-ukraynaya-46-milyar-euroluk-destek-i%C3%A7in-ortak-bor%C3%A7lanmay%C4%B1-g%C3%BCndemine-ald%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Yemen'de hava saldırıları: Husi yönetimine göre 33 kişi öldü",
+     "ozet": "Husilerin yönettiği sağlık bakanlığı, başkent Sana yakınlarındaki hava saldırılarında 33 kişinin öldüğünü açıkladı. Husiler saldırıları Suudi Arabistan'a atfediyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Orta Japonya'da güçlü deprem: En az 22 yaralı",
+     "ozet": "Orta Japonya'yı vuran güçlü depremde mağaza camları kırıldı ve en az 22 kişi yaralandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUdHZWFQdzh4U25aT0hXNC16czN1X1NmMzFMYXZleGZ6SWU1bWswdzktZ0pFbXRXQTBTajJTRGg3MFhMMzE5Q1NzMHIwU1dKMW1vUE5LTGdBU2dZa2NqN2J4TjN2aVU0ZDZaLWRaVjhqTjFqMXl3M0dRNUJrY3NSNnhB?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazze'de yağmur çadırları su bastı",
+     "ozet": "Reuters'e göre şiddetli yağış, yerinden edilmiş Gazzelilerin kaldığı çadırları su altında bıraktı; yardım malzemesi sıkıntısı müdahaleyi zorlaştırıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamFJb1oxX2pDNG85OUpxWWFiczJFTzh1Q2xQQlB5VGYydXVlbjY1UDNXR0Vlc3V0dDZCVlBjc2dnX1hwR1Z6aDhUZ0JLN3gzeWhzVUNTTncyUEdCa1czbEJEd09qSFh1amRST2EyNGgxMGlkV2FsMFNXTzZySXBWQVF1OXYtUGFyTkJwVFBZWEtOTzVrUENqVGRCNmtmNWs1bnplcGs5eUFqcVpmeDI5dTN0VGgzTlBabUNPMWdubVc1Q2VkYXFmajVrcw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Zelenskiy, SBU'yu yolsuzluk skandalı nedeniyle eleştirdi",
+     "ozet": "Reuters'e göre Ukrayna Devlet Başkanı Zelenskiy, güvenlik servisi SBU'yu yolsuzluk skandalı nedeniyle eleştirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni Zelanda'da seçim sonucu sıkışık: Hükümet kurulması haftalar alabilir",
+     "ozet": "Reuters'e göre yakın geçen oylamanın ardından Yeni Zelanda'nın yeni hükümetin kurulması için haftalarca beklemesi gerekecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Lagarde: Enflasyon önümüzdeki çeyreklerde yüksek kalacak",
+     "ozet": "AMB Başkanı Christine Lagarde, enflasyonun önümüzdeki çeyreklerde yüksek seyredeceğini, faizlerin yüksek kalma süresi uzadıkça orta vadeli risklerin artacağını belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/amb-baskani-lagarde-dan-enflasyon-uyarisi-3793880"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/lagardedan-enflasyon-mesaji-aralikta-yeni-faiz-artisi-mi-geliyor-haberi-846821"
+      }
+     ]
+    },
+    {
+     "baslik": "Berkshire Hathaway hisse geri alımlarını hızlandırdı",
+     "ozet": "Financial Times'a göre Berkshire Hathaway 9,6 milyar dolarlık geri alım yaptı; sigorta alanındaki yavaşlama nedeniyle çeyreklik faaliyet geliri yıllık bazda yüzde 5,8 düştü. Reuters da kârın düştüğünü yazdı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Şimşek: Yeniden imar için 1 trilyon dolarlık ihtiyaç var",
+     "ozet": "Dünya Gazetesi'ne göre Bakan Şimşek, bölgenin yeniden imarına dair yaklaşık 1 trilyon dolarlık ihtiyaca işaret etti ve Türkiye'nin de bu süreçte yer alacağını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/bakan-simsek-1-trilyon-dolarlik-ihtiyaci-acikladi-yeniden-imarda-turkiye-de-var-haberi-846815"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "NASA, 2028'de Ay'a gönderilecek yeni araç PROMISE'i tanıttı",
+     "ozet": "NASA yetkilileri, cumartesi günkü etkinlikte Ay'daki insan yaşamı için araçların ve altyapının kritik olacağını vurguladı. Ajans ayrıca Ay üssü için ulaşım, teknoloji ve bilim projelerine yönelik ödüller açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/nasa-reveals-new-lunar-rover-promise-to-launch-to-moon-in-2028/"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'nin Nvidia'ya Çin'de boş bir ofise çip satışına izin verdiği öne sürüldü",
+     "ozet": "The Verge'e göre ABD Ticaret Bakanlığı'nın da Nvidia'nın da H200 yapay zekâ çiplerini alacak Çinli firmaları yeterince incelemediği yönünde endişeler dile getiriliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Novartis'in Lp(a) ilacı kalp krizi ve inme riskini düşürmedi",
+     "ozet": "STAT News'e göre AHA konferansında sunulan çalışmada Novartis'in ilacı kardiyovasküler risk göstergesini düşürdü ancak kalp krizi ya da inme olasılığını azaltmadı; bu durum şirketin kardiyovasküler stratejisine dair soru işaretleri doğurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Premier Lig: Forest, Manchester City'yi 3-1 yendi",
+     "ozet": "Nottingham Forest, Liam Delap'in çift golüyle Manchester City'yi 3-1 yenerek sezonun ilk City Ground galibiyetini aldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report"
+      }
+     ]
+    },
+    {
+     "baslik": "Arsenal, Hull City'yi yenip liderliğini sürdürdü",
+     "ozet": "Arsenal, kaptan Martin Odegaard'ın golüyle Hull City'yi yenerek Premier Lig'deki liderliğini artırdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report"
+      }
+     ]
+    },
+    {
+     "baslik": "Arda Güler'in gol attığı maçta Real Madrid, Valencia'yı 3-0 yendi",
+     "ozet": "Real Madrid, milli futbolcu Arda Güler'in de gol attığı maçta Valencia'yı 3-0 mağlup etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-valenciayi-3-0-yendi/4115597"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "6. Korkut Ata Türk Dünyası Film Festivali ödül töreniyle sona erdi",
+     "ozet": "Kültür ve Turizm Bakanlığı himayesinde düzenlenen festivalin kapanış ve ödül töreni AKM'de yapıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-odul-toreniyle-sona-erdi/4115558"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42994815",
+   "baslik_en": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering.",
+   "dergi": "Nature",
+   "yazarlar": [
+    "Mizoguchi T",
+    "DeNizio JE",
+    "Chadwick AC",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42994815/",
+   "doi": "https://doi.org/10.1038/s41586-026-11233-9",
+   "baslik_tr": "ANGPTL3'ün canlıda CRISPR baz düzenlemesiyle kalıcı lipit düşürme",
+   "ozet_en": "The authors describe a one-time infusion of a CRISPR base editor, delivered in liver-targeted lipid nanoparticles, that switches off the ANGPTL3 gene. In human liver cells no off-target editing was detected at about 3,000 candidate sites. In monkeys, ANGPTL3 protein fell by more than 90%, with the effect lasting 3 years after one dose, and in mouse and monkey models LDL cholesterol dropped about 40-50% and triglycerides 50-70%. These animal results led to an ongoing first-in-human trial in refractory hyperlipidemia.",
+   "ozet_tr": "Yazarlar, karaciğere yönelik lipit nanopartikülleriyle verilen tek seferlik bir CRISPR baz düzenleyici infüzyonuyla ANGPTL3 geninin kapatılmasını anlatıyor. İnsan karaciğer hücrelerinde yaklaşık 3.000 aday bölgede istenmeyen düzenleme saptanmadı. Maymunlarda ANGPTL3 proteini yüzde 90'dan fazla azaldı ve etki tek dozdan 3 yıl sonra da sürdü; fare ve maymun modellerinde LDL kolesterol yaklaşık yüzde 40-50, trigliserit yüzde 50-70 düştü. Bu hayvan verileri, dirençli hiperlipidemide süren ilk insan çalışmasının temelini oluşturdu.",
+   "neden_onemli": "Kolesterol yönetiminde ömür boyu ilaç yerine tek seferlik tedavi ihtimalini gündeme getiriyor; henüz yalnızca hayvan ve hücre verisine dayanıyor."
+  },
+  {
+   "pmid": "42986802",
+   "baslik_en": "Global return-on-investment of COVID-19 vaccines in the first year of the vaccination programme: A model-based economic evaluation.",
+   "dergi": "PLoS medicine",
+   "yazarlar": [
+    "Benjamin H",
+    "Barnsley G",
+    "Watson OJ",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986802/",
+   "doi": "https://doi.org/10.1371/journal.pmed.1004772",
+   "baslik_tr": "COVID-19 aşılama programının ilk yılında küresel yatırım getirisi: Modele dayalı ekonomik değerlendirme",
+   "ozet_en": "This modelling study estimated the health and economic benefits of COVID-19 vaccination in its first year (December 2020 to December 2021) and compared them with the cost of development, manufacturing and delivery. Costs were $79.4 billion, while benefits were valued at $6.43-64.3 trillion, giving a return of roughly $60-809 per dollar invested. Limitations include reliance on earlier impact analyses and a one-year time horizon.",
+   "ozet_tr": "Bu modelleme çalışması, COVID-19 aşılamasının ilk yılındaki (Aralık 2020-Aralık 2021) sağlık ve ekonomik faydalarını geliştirme, üretim ve dağıtım maliyetleriyle karşılaştırdı. Maliyet 79,4 milyar dolar, faydalar ise 6,43-64,3 trilyon dolar olarak değerlendirildi; bu da yatırılan her dolar için yaklaşık 60-809 dolarlık getiri anlamına geliyor. Sınırlılıklar arasında önceki etki analizlerine dayanılması ve yalnızca bir yıllık sürenin ele alınması var.",
+   "neden_onemli": "Aşı geliştirme ve dağıtım yatırımlarının kamu bütçesi açısından ne kadar karşılığını verdiğine dair bir fikir veriyor."
+  },
+  {
+   "pmid": "42981445",
+   "baslik_en": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study.",
+   "dergi": "PLoS medicine",
+   "yazarlar": [
+    "Sunderland N",
+    "Smith ML",
+    "McConnachie A",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42981445/",
+   "doi": "https://doi.org/10.1371/journal.pmed.1005290",
+   "baslik_tr": "Kilo kaybının metabolomik imzası ve BMI ile ilişkili hastalıklarla bağlantısı: İki müdahale çalışmasının post-hoc analizi ve mendel randomizasyon çalışması",
+   "ozet_en": "Researchers combined metabolite profiles from two weight-loss trials (a structured diet programme and bariatric surgery) with genetic (Mendelian randomisation) data on lifetime BMI. They found 242 metabolites consistently altered with weight loss, mostly lipids, lipoproteins and amino acids. Parts of this signature were linked to heart failure and osteoarthritis in different directions, but showed little link to kidney cancer. Limitations include possible genetic pleiotropy and the rank-normalised metabolite scale.",
+   "ozet_tr": "Araştırmacılar, iki kilo verme çalışmasından (yapılandırılmış diyet programı ve bariatrik cerrahi) elde edilen metabolit profillerini yaşam boyu BMI'ye ilişkin genetik (mendel randomizasyon) verilerle birleştirdi. Kilo kaybıyla tutarlı biçimde değişen 242 metabolit saptandı; bunlar çoğunlukla lipit, lipoprotein ve amino asitlerdi. İmzanın bazı bileşenleri kalp yetmezliği ve osteoartritle farklı yönlerde ilişkiliyken böbrek kanseriyle zayıf ilişkiliydi. Sınırlılıklar arasında olası genetik pleiotropi ve metabolit ölçeğinin sıralamaya göre normalleştirilmesi var.",
+   "neden_onemli": "Obeziteyle ilişkili hastalıkların hepsinin aynı metabolik mekanizmadan kaynaklanmadığını gösteriyor."
+  }
+ ]
+}
