@@ -1,0 +1,688 @@
+{
+ "tarih": "2026-11-09",
+ "donem": "sabah",
+ "giris": "COP31 iklim zirvesi bugün Antalya'da başlıyor; Türkiye ile Irak arasında güvenlik mutabakatı gündemde. İran'a yeni saldırıların olası olmadığı yönündeki Trump açıklaması petrol fiyatlarını aşağı çekti, İsrail'de Eisenkot hükümet kurma görevini aldı, Ukrayna'da Rus saldırıları yüz binlerce kişiyi elektriksiz bıraktı.",
+ "one_cikanlar": [
+  {
+   "baslik": "Türkiye ve Irak'tan güvenlik mutabakatı",
+   "ozet": "Türkiye ve Irak'ın ortak açıklamasında, Irak makamlarının Sincar'da devlet otoritesini tam olarak tesis etmeye ve PKK unsurlarının varlığına son vermeye yönelik adımlarına yer verildi. Euronews Türkçe ve Independent Türkçe başlıklarına göre Başika ve Zilkan'a ilişkin mutabakatla devir süreci başlıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/08/turkiye-ve-iraktan-basika-aciklamasi-turk-askerlerinin-cekilme-sureci-basliyor"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784942/d%C3%BCnya/t%C3%BCrkiye-ve-irak-aras%C4%B1nda-ba%C5%9Fika-zilikan-mutabakat%C4%B1-devir-s%C3%BCreci-ba%C5%9Fl%C4%B1yor"
+    }
+   ],
+   "neden_onemli": "İki ülke arasındaki güvenlik iş birliğinin Irak'taki Türk askeri varlığına ve bölgesel istikrara etkisi izleniyor."
+  },
+  {
+   "baslik": "Trump: İran'a yeni saldırılar 'olası değil'; petrol geriledi",
+   "ozet": "Reuters'a göre ABD Başkanı Donald Trump, İran'a yeni saldırıların olası olmadığını söyledi ve petrol fiyatları düştü; Dünya Gazetesi Brent petrolün 97 dolara gerilediğini yazdı. Trump ayrıca İran'a yönelik saldırıların 'yaptıkları en iyi şeylerden biri olarak tarihe geçeceğini' savundu. Dışişleri Bakanı Rubio ise savaşın 'illa ki popüler olmadığını' ancak nükleer tehdidi önlemek için gerekli olduğunu söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/trump-irana-saldirilarin-yaptiklari-en-iyi-seylerden-biri-olarak-tarihe-gececegini-one-surdu/4116408"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-3925882"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMERvcmZhZjQ1LXNKMjVUZG42cmxpMUJ5ci1xOEdYVzZ6QjdiRVdiNVpnSGVmdnRZQ3ZKNFNNV3ZnMENHeFY4TnZsLUZmNVozMlRyb25BcEN0YUI0NnFkcjNLMzVaSVpEMHZIMEtLMklNXzZkRDNRNVBKeVR3R2NTamdja09VeG1TZXNFYndua1p1Wk5Hb3RzVkFXeGV1VDd1SURKSURB?oc=5"
+    },
+    {
+     "ad": "Dünya Gazetesi",
+     "link": "https://www.dunya.com/gundem/trumpin-iran-aciklamasi-petrolu-dusurdu-brent-97-dolara-geriledi-haberi-846911"
+    }
+   ],
+   "neden_onemli": "Orta Doğu'daki gerginliğin petrol fiyatlarına ve küresel piyasalara etkisi sürüyor."
+  },
+  {
+   "baslik": "İsrail'de hükümeti kurma görevi muhalefet lideri Eisenkot'a verildi",
+   "ozet": "Cumhurbaşkanı Isaac Herzog, hükümeti kurma görevini eski genelkurmay başkanı Gadi Eisenkot'a verdi. France 24'e göre Eisenkot'un parlamentoda net bir çoğunluğu bulunmadığından koalisyon kurması zor olacak; Reuters da yolun belirsiz olduğunu aktarıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/784944/d%C3%BCnya/i%CC%87srail-cumhurba%C5%9Fkan%C4%B1-herzog-h%C3%BCk%C3%BCmeti-kurma-g%C3%B6revini-muhalefet-lideri-eisenkota"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEF3bC1NYVNkWUF5bU02dWpTZkNLeVhoM20xdEpzTmh4V0hSMWhtM3VTMEVBc0VPTmZ5M2VhRDY2TWYzN1l6Szc4M3ZjVFdrWmtLejUxLWRBb1VFd3IxWDFQc3VZa1JNVms0RExjTGVWb0Q3ZkpGa3JCRjh4b292SU5HUVpFV0Y2dDRSaGdzQTdxbTZxMXBnU2ljQUZvMEVXMGYtaUJ2ejRsUms3YzJR?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government"
+    }
+   ],
+   "neden_onemli": "27 Ekim seçimlerinin ardından İsrail'in yeni hükümetinin şekli belirleniyor."
+  },
+  {
+   "baslik": "Rus saldırıları sonrası Ukrayna'da yüz binlerce kişi elektriksiz",
+   "ozet": "Rusya'nın enerji altyapısına yönelik hava saldırıları sonucu pazar günü yüz binlerce Ukraynalı elektriksiz kaldı. Euronews Türkçe'ye göre elektriksiz kalanların sayısı 850 bini buldu; Zelenskiy, Komışuvaha'da daha önce vurulan bölgeye yeniden İHA saldırısı düzenlendiğini açıkladı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/08/rus-saldirilari-sonrasi-ukraynada-850-bin-kisi-elektriksiz-kaldi"
+    }
+   ],
+   "neden_onemli": "Kış yaklaşırken enerji altyapısına yönelik saldırılar sivillerin yaşamını doğrudan etkiliyor."
+  },
+  {
+   "baslik": "COP31 Antalya'da başlıyor",
+   "ozet": "Türkiye'nin ilk kez ev sahipliği yaptığı BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Antalya'da başlıyor. AP'ye göre liderler, aşırı hava olaylarının yaşandığı bir yılın ardından zirve için Türkiye'de toplanıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/antalyada-cop31-yarin-basliyor-90-lider-bir-araya-gelecek-p377232"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5"
+    }
+   ],
+   "neden_onemli": "İklim finansmanı ve emisyon hedeflerine dair kararlar bu zirvede şekillenecek."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "YENİ Parti'de genel başkanlık ön seçimi tamamlandı",
+     "ozet": "YENİ Parti, 81 ilde yapılan genel başkanlık ön seçiminin sonuçlarını açıkladı. Independent Türkçe'nin aktardığı başlığa göre Özgür Özel yüzde 100 destek aldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784947/siyaset/yeni%CC%87-partide-%C3%B6n-se%C3%A7im-tamamland%C4%B1-%C3%B6zg%C3%BCr-%C3%B6zele-y%C3%BCzde-100-destek"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan, Azerbaycan'ın Zafer Günü için Karabağ'da",
+     "ozet": "Cumhurbaşkanı Erdoğan, Azerbaycan'ın Zafer Günü kutlamalarına katılmak üzere Karabağ'ı ziyaret etti. Euronews Türkçe'ye göre ortak basın toplantısında 'birlik' mesajı verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/08/cumhurbaskani-erdogan-azerbaycanda-ortak-basin-toplantisinda-birlik-mesaji"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon krizinde son durum",
+     "ozet": "BBC Türkçe, Eylül'de Borsa İstanbul'da sert düşüşlere yol açan fon krizinin gündemdeki yerini koruduğunu belirtiyor ve krizden bu yana yaşanan gelişmeleri ile yapılan ödemeleri derliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Dilovası faciasının birinci yılında aileler adalet istedi",
+     "ozet": "Kocaeli Dilovası'nda geçen yıl 8 Kasım'da bir kozmetik fabrikasının parfüm dolum tesisinde çıkan yangında hayatını kaybedenlerin aileleri, birinci yıl dönümünde adalet talebini yineledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784940/haber/dilovas%C4%B1-facias%C4%B1n%C4%B1n-birinci-y%C4%B1l%C4%B1nda-aileler-adalet-istedi"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/08/dilovasi-yangininin-birinci-yilinda-ailelerden-adalet-cagrisi-sesimizi-duyun-artik/"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni haftada soğuk ve yağışlı hava",
+     "ozet": "TRT Haber'e göre Türkiye yeni haftaya soğuk ve yağışlı havayla giriyor; bazı bölgelerde sağanak, yüksek kesimlerde karla karışık yağmur ve kar bekleniyor. Van'ın altı ilçesinde kar nedeniyle taşımalı eğitime bir gün ara verildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-durumu-nasil-olacak-962628.html"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/van-in-6-ilcesinde-tasimali-egitime-kar-molasi-3925870"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1URi1vUXNCN1J2bndYeDhxaTRxNmNDbjRKcGlRbWxnaHhtaDlwZWhKTVQ4YkZSVmJPaGtzMWl1TFB4VjNEeHRSN2pOWUFVbVdSX290RFNYLVNPTDJTalBxdVdrSUdyeG00cmNVbWVMMU9EdmJheXdFdXZhZw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru",
+     "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarının sürdüğünü bildirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Mısır'da iki yolcu treni çarpıştı",
+     "ozet": "Mısır'da iki yolcu treninin çarpışması sonucu en az yedi kişi öldü. BBC'ye göre 100'den fazla kişi yaralandı ve Giza yakınlarında bazı vagonlar raydan çıktı; kazanın nedeni henüz bilinmiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/le-monde-africa/article/2026/11/08/train-collision-in-egypt-s-giza-kills-at-least-4-injures-88_6775111_124.html"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Husilerin Suudi Arabistan'a saldırıları sürüyor",
+     "ozet": "BBC Verify'ın doğruladığı görüntülere göre Riyad'ın merkezi finans bölgesindeki Aramco Kulesi Husi saldırısında hasar gördü. Husiler ise Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısının 44'e yükseldiğini duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389"
+      }
+     ]
+    },
+    {
+     "baslik": "Senegal açıklarında göçmen teknesi battı",
+     "ozet": "Senegal İçişleri Bakanlığı'na göre göçmenleri taşıyan bir teknenin batması sonucu en az 21 kişi öldü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXdCUmJHMFNmV25BSjlQbEZWSHlrVDE4cGF5amtpS2ZPUmtJNHdiMjdpQmk0ZXdfX2ZwblhmN2NfN2p0SGpNLWJjX1EycDRaLWZmTkxybDRSOXQzdVlsRmJ3ajV3RTFDNTlMNkh1WGJKaC1mOFpzaUc4U0o1ODJKTmkwTkNjTGtlQ09TVW5vcGNJZw?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/08/migrant-boat-sinks-off-senegal-leaving-34-dead_6775276_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa Leo, Milei'nin kemer sıkma politikalarını eleştirdi",
+     "ozet": "Uruguay'dan Arjantin'e geçen Papa XIV. Leo, ekonomik büyümenin herkese fayda sağlaması gerektiğini söyledi. Ziyaret, Milei yönetiminde üç yıldır süren kemer sıkma politikaları sonrası toplumsal bölünmeler sürerken gerçekleşiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/09/in-argentina-pope-leo-delivers-stinging-rebuke-to-milei-over-austerity-measures_6775541_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump: Sınır dışı politikası 'fazla sertti'",
+     "ozet": "60 Minutes programında konuşan Trump, ikinci döneminin belirleyici politikalarından olan sınır dışı uygulamasının 'fazla sert' olduğunu kabul etti. Guardian'a göre bu, politikanın siyasi bir yük haline geldiğinin alışılmadık bir kabulü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/09/trump-says-mass-deportation-policy-was-too-tough_6775309_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Batı Şeria'da gözaltına alınan İtalyan aktivistler kötü muamele iddiasında bulundu",
+     "ozet": "Zeytin hasadına katıldıkları sırada İsrail güvenlik güçlerince gözaltına alınıp sınır dışı edilen İtalyan aktivistler, kötü muamele gördüklerini söyledi. Anadolu Ajansı haberi aktarıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-gozaltina-alinan-italyanlar-israil-guvenlik-guclerinden-kotu-muamele-gorduklerini-acikladi/4116292"
+      }
+     ]
+    },
+    {
+     "baslik": "Amsterdam'da Gazze için 'Kırmızı Çizgi' gösterisi",
+     "ozet": "Anadolu Ajansı'na göre Amsterdam'da Gazze'ye destek amacıyla düzenlenen dördüncü 'Kırmızı Çizgi' gösterisine 200 binden fazla kişi katıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-katildi/4116280"
+      }
+     ]
+    },
+    {
+     "baslik": "Kanarya Adaları'na göç baskısı arttı",
+     "ozet": "Euronews Türkçe'ye göre altı günde 49 tekneyle 4 bin 587 göçmen Kanarya Adaları'na ulaştı; bölgesel yönetim merkezi hükümetten acil önlem istedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/08/kanarya-adalarina-goc-baskisi-artti-ispanya-hukumeti-acil-toplaniyor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Nvidia, CEO Jensen Huang hakkında bağımsız soruşturma başlattı",
+     "ozet": "Nvidia, CEO'su Jensen Huang'ın Çin devletiyle bağlantılı olduğu öne sürülen bir yöneticiyle ilişkisine yönelik bağımsız soruşturma başlattı. Huang, personele gönderdiği mesajda evlilik dışı bir ilişkisi olduğunu kabul etti. Trump ise Huang'ı 'onurlu' olarak nitelendirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/nvidia-ceo-sundan-evlilik-disi-iliskin-itirafi-casusluk-suphesi-sorusturmaya-dondu-3793891"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de üretici enflasyonu yaklaşık 4,5 yılın en yüksek seviyesinde",
+     "ozet": "Reuters'a göre Çin'de fabrika çıkışı fiyatları ekimde yaklaşık 4,5 yılın en hızlı artışını kaydetti, tüketici fiyatlarındaki artış ise yavaşladı. FT, zayıf iç talebe karşın yüksek enerji fiyatlarının üretici maliyetlerini artırdığını yazıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/cin-de-uretici-enflasyonu-2022-den-bu-yana-en-yuksek-seviyede-3793892"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin, ABD ithalatına uyguladığı yüzde 24'lük tarifenin askıya alınmasını iki ay uzattı",
+     "ozet": "Reuters'a göre Çin, ABD mallarına yönelik yüzde 24'lük ek tarifenin askıya alınmasını iki ay daha uzattı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Demokratların zaferi 1,5 trilyon dolarlık savunma bütçesini riske soktu",
+     "ozet": "Bloomberg HT'ye göre Cumhuriyetçilerin ara seçim yenilgisi, Trump'ın 1,5 trilyon dolarlık rekor savunma bütçesi talebinin Kongre'den geçme ihtimalini zayıflattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/abd-de-demokratlarin-zaferi-1-5-trilyon-dolarlik-savunma-butcesini-riske-soktu-3793889"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/gundem/trumpin-15-trilyon-dolarlik-savunma-butcesine-kongre-engeli-haberi-846917"
+      }
+     ]
+    },
+    {
+     "baslik": "Irak, Hürmüz üzerinden petrol ihracatı için ABD ile mutabakata vardı",
+     "ozet": "Irak'ın bakanı, Hürmüz Boğazı üzerinden petrol ihracatına izin verecek konularda ABD ile mutabakata varıldığını söyledi (Reuters). Irak'taki Khor Mor gaz sahasında ise insansız hava aracı saldırısı sonrası üretim durduruldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Diyabetin gizli sürücüsü olabilecek protein: Miro1",
+     "ozet": "ScienceDaily'ye göre bilim insanları Miro1 proteininin birikiminin Tip 2 diyabetteki insülin direncinin gizli bir nedeni olabileceğini buldu; klinik öncesi deneyler bu proteinin giderilmesinin durumu iyileştirdiğini gösterdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Beyin tümörlerine karşı yalnızca beyinde etkinleşen tedavi",
+     "ozet": "ScienceDaily'ye göre UCSF'de geliştirilen mühendislik ürünü bağışıklık tedavisi beyne ulaşana kadar etkisiz kalıp orada tümörlere saldırıyor. Başlıktaki 'denenen her farede' ifadesi fare deneylerine aittir; insanlarda sonuç henüz yok.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Einstein denklemlerinde yerçekiminin kopup yeniden bağlanabileceği gösterildi",
+     "ozet": "Columbia Üniversitesi araştırmacıları, Einstein'ın denklemlerinde yerçekiminin kopup yeniden bağlanarak enerji salabileceğine işaret eden yeni bir olgu keşfetti (ScienceDaily).",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Elektrik şebekelerindeki gizemli eşzamanlı düşüşler çözüldü",
+     "ozet": "TechCrunch'a göre Almanya'daki bir araştırma ekibi, dünya genelinde şebekeleri rahatsız eden eşzamanlı güç düşüşlerinin kaynağını buldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Çocuklarda gribe bağlı ilk ölüm bildirildi",
+     "ozet": "Hürriyet'e göre 2026-2027 grip sezonunda çocuklarda gribe bağlı ilk ölüm vakası ABD CDC tarafından Ekim'de bildirildi; sezonun erken başladığı ve H1N1'in baskın olduğu aktarılıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/cocuklarda-gribe-bagli-ilk-olum-bildirildi-bu-sene-virus-daha-mi-tehlikeli-uzmanlardan-hayat-kurtaran-kirmizi-bayrak-uyarilari-43367956"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXFHTjFBbkgxTXo3dFZZYzlCUkxkSkF4UnlkeV91NDRFTFJlOEd3cklBdlVHY2VhUVdPQzVyd0ZneDNtM1l3ZktxNHdDcFJOcVlXOGtjUlZRam5DaF9xZ0o2SWlTaS15S1BORHF4VktFTGp3VG9pak1HS09lZmt0UWJWbkpETGt2aGVhUm9Obm1OVERidTMtSmI0aW9RWWV5LXVOWUs1RmZzeGNXMWVhU19zTTM1YzZQYWFWUXF1VlgtZ0FlSGRSenhJS3lXZnFveXVKVGp5anBYbUh4aE82Yjg2ZVpZdkFGS0JJd0tGX3dmRmNjZzY5SGRMMjJSS0k?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Ani kalp durmasında müdahale ekiplerinin eğitimi sağkalımı artırmadı",
+     "ozet": "STAT News'e göre yeni bir çalışma, ilk müdahale eden kişi ve ekiplerin ileri eğitim almasına rağmen ani kalp durması sonrası sağkalımın iyileşmediğini buldu; araştırmacılar ihtimali tamamen kapatmıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Alcaraz, Paris Masters'ı kazandı",
+     "ozet": "BBC Sport'a göre Carlos Alcaraz finalde Ben Shelton'ı yenerek ilk Paris Masters şampiyonluğunu kazandı ve sakatlıktan dönüşünü sürdürdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/08/carlos-alcaraz-ben-shelton-win-paris-masters-final"
+      }
+     ]
+    },
+    {
+     "baslik": "Formula 1 Brezilya GP'sini Lando Norris kazandı",
+     "ozet": "Anadolu Ajansı'na göre yarışı Lando Norris kazandı; Mercedes bitime üç yarış kala takımlar şampiyonluğunu garantiledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/formula-1-brezilya-grand-prixsini-lando-norris-kazandi/4116299"
+      },
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Süper Lig'de 11. hafta: Beşiktaş ve Trabzonspor kazandı",
+     "ozet": "Beşiktaş, Gençlerbirliği'ni 3-0 yenerek puanını 22'ye yükseltti; Trabzonspor deplasmanda Alanyaspor'u 2-0 mağlup etti (Anadolu Ajansı).",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/besiktas-sahasindan-galibiyetle-ayrildi/4116284"
+      },
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyasporu-2-0-maglup-etti/4116256"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "14. Boğaziçi Film Festivali başladı",
+     "ozet": "14. Boğaziçi Film Festivali törenle başladı; festival Boğaziçi Kültür Sanat Vakfı tarafından düzenleniyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivali-torenle-basladi/4116342"
+      }
+     ]
+    },
+    {
+     "baslik": "Tarihçi Engin Deniz Akarlı vefat etti",
+     "ozet": "Osmanlı tarihi ve Orta Doğu üzerine çalışmalarıyla tanınan, Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü sahibi Prof. Dr. Engin Deniz Akarlı hayatını kaybetti; cenazesi 10 Kasım'da İstanbul'da defnedilecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/kultur/tarihci-prof-dr-engin-deniz-akarli-vefat-etti/4116312"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/08/osmanli-tarihcisi-prof-dr-engin-deniz-akarli-hayatini-kaybetti/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42999950",
+   "baslik_en": "Iron Repletion in Heart Failure With Preserved Ejection Fraction: The IRONMET-HFpEF Randomized Trial.",
+   "baslik_tr": "Kalp yetmezliğinde (korunmuş ejeksiyon fraksiyonu) demir takviyesi: IRONMET-HFpEF randomize çalışması",
+   "dergi": "Circulation",
+   "yazarlar": [
+    "Lewis GD",
+    "Horick NK",
+    "Moreno F",
+    "et al."
+   ],
+   "tur": "Bu kalp yetmezliği türünde demir eksikliğinin giderilmesi egzersiz kapasitesini artırabilir; karar için doktora danışılmalıdır.",
+   "ozet_en": "In this double-blind randomized trial, 65 adults with heart failure with preserved ejection fraction and iron deficiency received one intravenous dose of ferric derisomaltose (n=44) or placebo (n=21). After 12 weeks, peak oxygen uptake rose by 1.2 mL/kg/min with iron and was unchanged with placebo (difference 1.1, 95% CI 0.2-1.9). Walking distance and NYHA class also improved more with iron. The study was small, so larger trials are needed.",
+   "ozet_tr": "Bu çift kör, randomize çalışmada, demir eksikliği olan ve korunmuş ejeksiyon fraksiyonlu kalp yetmezliği bulunan 65 yetişkine tek doz damar içi ferrik derisomaltoz (n=44) ya da plasebo (n=21) verildi. 12. haftada tepe oksijen tüketimi demir grubunda 1,2 mL/kg/dk arttı, plasebo grubunda değişmedi (fark 1,1; %95 GA 0,2-1,9). Yürüme mesafesi ve NYHA sınıfı da demir grubunda daha fazla düzeldi. Çalışma küçük olduğundan daha büyük çalışmalara ihtiyaç var.",
+   "neden_onemli": [
+    "Randomize kontrollü çalışma"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42999950/",
+   "doi": "https://doi.org/10.1161/CIRCULATIONAHA.126.084009"
+  },
+  {
+   "pmid": "42998308",
+   "baslik_en": "Statin-Ezetimibe Combination Therapy versus Statin Monotherapy in Atherosclerotic Cardiovascular Disease: A Prespecified Secondary Analysis of the Randomized Ez-PAVE Trial.",
+   "baslik_tr": "Aterosklerotik kardiyovasküler hastalıkta statin-ezetimib kombinasyonu ile statin monoterapisi: Ez-PAVE çalışmasının ikincil analizi",
+   "dergi": "Circulation",
+   "yazarlar": [
+    "Lee SH",
+    "Byun YS",
+    "Kim JW",
+    "et al."
+   ],
+   "tur": "Başlangıç tedavisi kolesterolü daha çok düşürse de 3 yıllık kalp-damar olaylarında fark görülmedi.",
+   "ozet_en": "This prespecified analysis of the randomized Ez-PAVE trial followed 3,048 South Korean patients with atherosclerotic cardiovascular disease for 3 years. Starting with a statin-ezetimibe combination versus a statin alone did not change the rate of the main composite outcome (8.5% vs 7.9%; hazard ratio 1.07, 95% CI 0.83-1.37). The combination did lower LDL cholesterol more during follow-up. About one in five participants was female.",
+   "ozet_tr": "Ez-PAVE çalışmasının önceden planlanmış bu analizinde, aterosklerotik kardiyovasküler hastalığı olan 3.048 Güney Koreli hasta 3 yıl izlendi. Statin-ezetimib kombinasyonuyla başlamak ile yalnızca statinle başlamak ana bileşik sonlanım oranını değiştirmedi (%8,5 ve %7,9; risk oranı 1,07; %95 GA 0,83-1,37). Kombinasyon izlemde LDL kolesterolü daha fazla düşürdü. Katılımcıların yaklaşık beşte biri kadındı.",
+   "neden_onemli": [
+    "Randomize çalışmanın ikincil analizi"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42998308/",
+   "doi": "https://doi.org/10.1161/CIRCULATIONAHA.126.083811"
+  },
+  {
+   "pmid": "43000001",
+   "baslik_en": "Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial.",
+   "baslik_tr": "Kaynakları kısıtlı ortamlarda ekip tabanlı bakımla tek hap kombinasyon tedavisi: Hipertansiyon kontrolü için kümelenmiş randomize çalışma",
+   "dergi": "JAMA",
+   "yazarlar": [
+    "Lopez-Lopez JP",
+    "Duncan J",
+    "Chen J",
+    "et al."
+   ],
+   "tur": "Tek hapta birleştirilmiş tedaviler ve ekip bakımı, yüksek tansiyonun kontrolünü kolaylaştırabilir.",
+   "ozet_en": "This cluster randomized trial in 40 primary care clinics in Colombia and Jamaica enrolled 1,706 adults with uncontrolled hypertension. Clinics used either team-based care with single-pill combination therapy or standard care. At 18 months, systolic blood pressure fell by 19.1 mm Hg with the intervention and 9.0 mm Hg with standard care, a difference of 10.1 mm Hg (95% CI 6.9-13.3). The trial was unblinded.",
+   "ozet_tr": "Kolombiya ve Jamaika'daki 40 birinci basamak kliniğinde yürütülen bu kümelenmiş randomize çalışmaya, kontrolsüz hipertansiyonu olan 1.706 yetişkin alındı. Klinikler ya ekip tabanlı bakımla tek hap kombinasyon tedavisi ya da standart bakım uyguladı. 18. ayda sistolik kan basıncı müdahale grubunda 19,1 mmHg, standart bakımda 9,0 mmHg düştü; fark 10,1 mmHg'dir (%95 GA 6,9-13,3). Çalışma kör değildi.",
+   "neden_onemli": [
+    "Kümelenmiş randomize kontrollü çalışma"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43000001/",
+   "doi": "https://doi.org/10.1001/jama.2026.24169"
+  }
+ ]
+}
