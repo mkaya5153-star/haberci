@@ -1,0 +1,672 @@
+{
+ "tarih": "2026-11-09",
+ "donem": "aksam",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "İzmir'de demir çelik fabrikasında patlama: 6 ölü, 13 yaralı",
+   "ozet": "İzmir'de 6 kişinin hayatını kaybettiği, 13 kişinin yaralandığı patlamanın meydana geldiği demir çelik fabrikasında arama kurtarma çalışmaları sürüyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/turkiye/izmirde-demir-celik-fabrikasinda-patlama-6-olu-13-yarali-962677.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/09/izmir-aliagadaki-demir-celik-fabrikasinda-patlama-en-az-3-olu-14-yarali"
+    },
+    {
+     "ad": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/izmir-de-fabrikada-siddetli-patlama-uc-can-kaybi-3793956"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Trump, sınır dışı politikasının seçimlerdeki seçmenler için 'çok sert olabileceğini' söyledi",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnAzZ2VkbDFaRjdSZ2t1bXZBa0Jvbk1jbEFhSGtVUU9XVkhFeGJkUWR4bmdaNkp1ejJWdFZ4Y2pLOFZ4dGdUelN1dDAzZVdsNEExczIxa3JSS1dLN0dON3ZselJCUnZJdF9MUXJGY3NkSWJKUnhXNkpwTk9aM0VXdWllUzV2T3dCQzVWRjBXaEY4eVNNVkZvWlBwZXFxbGs?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/americas/20261109-trump-says-deportation-crackdown-was-too-tough-after-midterm-setback"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Nvidia, CEO Jensen Huang'ın ilişki yaşadığı Çinli casus tarafından hedef alınıp alınmadığını araştırıyor",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/pixels/article/2026/11/09/nvidia-announces-probe-into-huang-after-reports-of-affair-with-alleged-chinese-spy_6775507_13.html"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Eğlenceye katılanların Diwali'yi yasadışı havai fişeklerle işaretlemesiyle Delhi'deki hava kalitesi bozuluyor",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGx1MWNEOVh3bHVlWE9rZl9JVFlHUnFSM2tLc3hTWUt3OElhOFRISUJEbTZLOFBwMHBqbU81ZGNaT2d5MmdCb0NrXzBxUHZIY0Y5a0FKRUo5UW1yZFBDdkhvUUcxbTY3SjIyOEN4Z21XXzJtRTdGMzAtclZkQU1DakxHU2RLczNXQVFNbzlEX2FpQzFyeldfZUNHOWJSSmtxWE9VeVpBZWtXY1I2X1NuOGVBdFVSYkdfSVJsRmlWU1ZvWjdiM1gtMDR3a24?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "🔴 Judo yıldızı Teddy Riner Fransa başkanlığına adaylığını açıkladı",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/france/20261109-french-judo-star-teddy-riner-announces-bid-for-presidency"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/09/french-judo-legend-and-olympic-medallist-teddy-riner-announces-presidential-bid"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/france/article/2026/11/09/french-judo-star-teddy-riner-announces-run-for-president_6775804_7.html"
+    },
+    {
+     "ad": "Politico Europe",
+     "link": "https://www.politico.eu/article/french-olympian-teddy-riner-announces-presidential-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "İsrail'de hükümeti kurmakla görevlendirilen Gadi Eisenkot kimdir?",
+     "ozet": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cq3987zm19lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/israil-de-hükümet-kurma-görevi-eisenkot-a-verilecek/a-79889370?maca=tur-rss-tur-all-1495-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Fenerbahçe'de devrim gibi değişim! 5 maddede Emre Belözoğlu",
+     "ozet": "Fenerbahçe'deki yeni kariyerine 5-0 gibi dev bir galibiyetle başlayan Emre Belözoğlu'nun 5 maddede yarattğı fark ortaya çıktı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-devrim-gibi-degisim-5-maddede-emre-belozoglu-43371317"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkxQblVsdXpFaEh2NTZ0THFVT19NOS1lclhVREVqM0w4V1dNZ215aEthWkFfUDI2T1R0R0ZFYngwRlFSMXRWVU8zQjEzV2lyNXBwQnZJRHpXbGlJX3VRT1hTcHE1WjFUZDhqT2g5NWVkcExVUFRvLUZDQ3RzNkRfOWRnRll3MndjQ1dTRVRRSm5mNWRTdDNHNkNkZWJva1RkN2hrMDlEU3V1MEE5QkJ4R1l1TktBX3JacnFiMmRPSExEYWJnazROYV80S1lNVm1NZE02SG1KeE0?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Galatasaray'ın eski yıldızı Noa Lang, Napoli'de kriz çıkardı! Taraftarla tartıştı, ocakta yolcu",
+     "ozet": "Geçtiğimiz sezonun 2. yarısında Galatasaray'da forma giyen Noa Lang, Napoli ile iplerini kopardı. Holladalı futbolcu taraftarlarla tartışırken, ocak ayında ayrılığı bekleniyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/galatasarayin-eski-yildizi-noa-lang-napolide-kriz-cikardi-taraftarla-tartisti-ocakta-yolcu-43371162"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/spor/napoli-de-noa-lang-krizi-italyan-basinindan-galatasaray-iddiasi-2554749"
+      }
+     ]
+    },
+    {
+     "baslik": "YKS ne zaman, hangi tarihte?",
+     "ozet": "Üniversite sınavına hazırlanan adaylar 2027 YKS sınav ve başvuru tarihini araştırıyor. Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yayımlanan 2027 yılı sınav takvimine göre, Yükseköğretim…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/bilgi/foto/yks-ne-zaman-hangi-tarihte-osym-2027-sinav-takvimine-gore-yks-sinav-ve-basvuru-tarihi-3926012"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/yks-ne-zaman-hangi-tarihte-2027-yks-sinav-ve-basvuru-tarihi-2554753"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon soruşturması: Murat Yönaç ve Muhammet Erişen tutuklandı",
+     "ozet": "Fon vurgununun ardından başlatılan soruşturma kapsamında yeni tutuklamalar oldu. İşte son gelişmeler. Fon soruşturması: Murat Yönaç ve Muhammet Erişen tutuklandı Medyascope",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/09/fon-sorusturmasi-murat-yonac-ve-muhammet-erisen-tutuklandi/"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVlpaVpETUJLWDBJdy1tdllnV0s5WmJmWXV0Rm5Cc0QzYUNBeWRRQUNWcFVUaGJHSURUSjVJdEoxY2k3aUtxR2VxU1dYcDdEem1pR1RFSGVuS0QyeXU4MWp1ZWlBN1pSbFVUMU5qeWhOSTFCVkJCX2cwd0hMMDJwcEpB?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Halkbank'tan COP31'e özel 100 milyar liralık dönüşüm paketi",
+     "ozet": "Halkbank Genel Müdürü Recep Süleyman Özdil, \"Paketimizle işletmelerimizin değişen koşullara uyum sağlamasına, rekabet güçlerini artırmasına ve sürdürülebilir büyümelerine katkı sunmayı amaçlıyoruz.\"…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/halkbanktan-cop31e-ozel-100-milyar-liralik-donusum-paketi/4117297"
+      },
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/halkbanktan-cop31e-ozel-100-milyar-liralik-donusum-paketi/4117297"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/halkbank-tan-cop31-e-ozel-100-milyar-liralik-paket-3793967"
+      }
+     ]
+    },
+    {
+     "baslik": "Rusya, Türkiye'deki COP31'de BRICS için ayrı müzakere grubu istiyor",
+     "ozet": "BRICS ülkelerinin iklim müzakerelerindeki işbirliğini güçlendirmek istediklerini belirten Reşetnikov, \"Bir sonraki adım, BM iklim müzakereleri kapsamında ayrı bir BRICS müzakere grubu oluşturmak.\"…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/rusya-turkiyedeki-cop31de-brics-icin-ayri-muzakere-grubu-istiyor/4117329"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "FT'nin haberine göre AB, sorunlu sınır sistemi nedeniyle IBM'e ve iki Avrupalı ​​şirkete dava açtı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXJPVTdRRklXWVVfcDEzUlQ4RHdINUpuei1aYnFyX3BZYWlfMFhIX3pOT3lVc25XS3FnOUhiai1obnZzQmhuSHdsOW92ZkhDV1VXakxfZFJKeFQxemtuQURkSHJxZUpuZUFBcDFqOXJIUWhkMmxneHlwZ3VFTGthdWRTNnp0RGFGQ2VjTGcxdUFsSTJFSzctT1hHUWN2U3hTY2VyaVJpSnNKVHhydkhSUldnNWFyZlg0WmNfYjBXaGdEMGVK?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system"
+      }
+     ]
+    },
+    {
+     "baslik": "ÖZEL: Şeyh Hasina Bangladeş'e dönmek için yeni pasaport istiyor, hükümet talebi reddetti",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Russell Brand tecavüz ve cinsel saldırı nedeniyle ağır hapis cezasına çarptırılacak",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3k5bUZCVzZ3bmpKMWtIVlVJM3YxWHRkUFpyQ0hjNE1WNWpUUkhwNldwZ0tkSmZxLWFUNzlZSzFSUjdIallGc3hDazdfMkUteWhyUFFhdmVFUTJscWNNQXJfMk5KRmdfN0Z5RTJ1anNrYWl2RXVpWlljR3AzMnhnc1FGVHd2elp2UW93Zkh6VDJvOTBDRWF2MERMclFObmJtNUdQdkk0VVJEVzFVWEZTdHJOVQ?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazze fırtınası beş kişiyi öldürdü ve 70.000 yerinden edilmiş kişinin çadırını sular altında bıraktı",
+     "ozet": "Gazze kurtarma servisi, Cumartesi günkü fırtına ve şiddetli yağışlarla bağlantılı olayda üçü çocuk ve ikisi kadın olmak üzere beş kişinin öldüğünü bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Yetkililer, 20 göçmenin Yunanistan'ın Girit Adası'na ulaşmaya çalışırken öldüğünü söylüyor",
+     "ozet": "Hayatta kalan yaklaşık 28 kişi ve tümü Sudan vatandaşı olan bir ceset, yakınlarda seyreden başka bir tekne tarafından alındı. Ada, Avrupa'ya ulaşmaya çalışan göçmenlerin ana varış noktasıdır.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/09/20-migrants-die-trying-to-reach-greece-s-crete-authorities-say_6775672_4.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Polis, Polonya'da toplu silahlı saldırganın hastanede öldüğünü açıkladı",
+     "ozet": "Şüpheli, Krakow'un merkezinde insanlara açılan ateş sonrasında polis tarafından vuruldu ve tutuklandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/krakow-shooter-dies-in-hospital/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "baslik": "Ukrayna'daki rafineri saldırılarının ardından Rusya bölgelerinde yakıt sıkıntısı yeniden başladı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnFSWF9iWmo0LUNjUmNYMVVKYzBwNVlJdlJsbVkxWnJ1Z2NYckF0OFFFdUNwdVZqd1VESWdzbEdRQmF6VGliV0tpYmVvNE9nS2l5LVczdWNhVXZjT0hTTTlnMzNIWnV2LS1nQWNKRGlYNzdUMkV1V3NabzVNUkhmWENLblNYRGJCUTJhMEVXU1dYXzU2Z1YxdTUycDZqNEFVbGRJZVlKOS0zaEcwVEdOZWZCbTR5VFIzaGhWZGZFZw?oc=5"
+      },
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-cesitli-bolgelerinde-akaryakit-satisina-yeniden-sinirlama-getirildi/4117250"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "THY'den öğrencilerin yurt dışı seyahatlerinde indirimli bilet kampanyası",
+     "ozet": "Türk Hava Yolları (THY), öğrencilerin yurt dışı seyahatlerinde geçerli yüzde 15 indirimli biletleri satışa çıkardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/thyden-ogrencilerin-yurt-disi-seyahatlerinde-indirimli-bilet-kampanyasi/4117280"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/thyden-ogrencilere-yurt-disi-seyahat-firsati-ucak-biletlerinde-yuzde-15-indirim-basladi-haberi-846978"
+      }
+     ]
+    },
+    {
+     "baslik": "ECB'nin yeni başkanının yıl sonuna kadar belirlenmesi hedefleniyor",
+     "ozet": "Avro Grubu Başkanı Pierrakakis, ECB başkanlığı için İspanya ve Hollanda'nın adaylarının toplantıda tanıtılacağını belirterek seçim sürecinin liderler düzeyinde siyasi uzlaşıyla yürütülmesini ve yıl…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ecbnin-yeni-baskaninin-yil-sonuna-kadar-belirlenmesi-hedefleniyor/4117195"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/amb-de-hedef-yeni-yila-yeni-baskanla-girmek-3793959"
+      }
+     ]
+    },
+    {
+     "baslik": "TMSF'den gönüllü iade işlemlerine ilişkin duyuru",
+     "ozet": "Tasarruf Mevduatı Sigorta Fonunun (TMSF) duyurusunda, \"Tasfiye edilen yatırım fonlarıyla ilgili süreç, baştan beri kişilere göre değil, elde edilen fahiş kazanca göre belirlenen açık ve herkese eşit…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/tmsfden-gonullu-iade-islemlerine-iliskin-duyuru/4116738"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/tmsf-den-gonullu-iade-islemlerine-iliskin-duyuru-3793947"
+      }
+     ]
+    },
+    {
+     "baslik": "Ekimde en yüksek aylık reel getiri mevduat faizinde oldu",
+     "ozet": "Tüketici fiyat endeksi (TÜFE) ile indirgendiğinde ekimde en yüksek aylık reel getiri, yüzde 0,39 ile mevduat faizinde (brüt) gerçekleşti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ekimde-en-yuksek-aylik-reel-getiri-mevduat-faizinde-oldu/4116486"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ekim-de-en-yuksek-reel-getiri-mevduat-faizinde-3793913"
+      }
+     ]
+    },
+    {
+     "baslik": "Hazine iki tahvilde 73,4 milyar TL borçlandı",
+     "ozet": "Hazine ve Maliye Bakanlığı ihale öncesi satışlarla birlikte iki tahvilde 73,4 milyar TL borçlanmaya imza attı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/hazine-iki-tahvilde-73-4-milyar-tl-borclandi-3793965"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-734-milyar-lira-borclandi-haberi-846981"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Afrika'daki savunma sanayisi buluşması BAMEX kapılarını açtı",
+     "ozet": "Afrika'daki önemli savunma ve güvenlik buluşmalarından biri haline gelen BAMEX 2026, Mali'nin başkenti Bamako’da başladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/afrikadaki-savunma-sanayisi-bulusmasi-bamex-kapilarini-acti/4117171"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'nin mobilite hamlesinde 33 projeye 64 milyar lira destek",
+     "ozet": "Türkiye'de yerli ve milli mobilite teknolojilerinin geliştirilmesi ve katma değeri yüksek ürünlerin üretiminin artırılması amacıyla bugüne kadar 33 projeye 64 milyar lira destek verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-mobilite-hamlesinde-33-projeye-64-milyar-lira-destek/4116549"
+      }
+     ]
+    },
+    {
+     "baslik": "Yapay Zekâ ve Sosyal Medya Verileri ile Yeni Marka Ortaklıkları Nasıl Keşfedilebilir?",
+     "ozet": "Pazarlama dünyasında marka iş birliklerinin giderek daha popüler ve güçlü bir pazarlama stratejisine dönüştüğüne tanık oluyoruz. Yeni kitlelere ulaşmak ve tüketicilerin ilgisini çekmek isteyen…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/yapay-zeka-ve-sosyal-medya-verileri-ile-yeni-marka-ortakliklari-nasil-kesfedilebilir-24023"
+      }
+     ]
+    },
+    {
+     "baslik": "Deneyimli Öğretmenler Neden Mesleği Bırakıyor?",
+     "ozet": "Dünya genelinde eğitim sistemlerini sarsan öğretmen açığı giderek büyürken hükümetlerin bu krize genellikle yeni mezunları mesleğe çekmeyi hedefleyen teşviklerle yanıt verdiğini görüyoruz. Ancak…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/deneyimli-ogretmenler-neden-meslegi-birakiyor-24012"
+      }
+     ]
+    },
+    {
+     "baslik": "İskelet Kası Nedir? Kemik, Eklem ve Kaslar Hareketi Birlikte Nasıl Sağlar?",
+     "ozet": "İskelet kası (İng: \"skeletal muscle\"), bilinçli olarak kontrol edilebilen, mikroskop altında çizgili görünen ve ürettiği çekme kuvvetini bağ dokusu bantları üzerinden kemiklere aktararak eklemler…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/iskelet-kasi-nedir-kemik-eklem-ve-kaslar-hareketi-birlikte-nasil-saglar-24125"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Sevgi diliniz nedir ve bunun aslında bir anlamı var mı?",
+     "ozet": "'Sevgi Dilleri' teorisinin bilimsel bir kökeni yoktur ancak modern tarihlendirmede hala sıklıkla bahsedilmektedir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Glasgow hastanesindeki kıdemli doktorlar bakım gecikmesi konusunda uyarıda bulundu",
+     "ozet": "Queen Elizabeth Üniversitesi Hastanesi'ndeki danışmanlar, oradaki acil durum hastalarına yönelik koşulların kötüleştiğini söylüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "BMA, yeni GP sözleşmesi anlaşmasının bir 'başlangıç' olduğunu ancak daha fazla finansmana ihtiyaç olduğu konusunda uyardı",
+     "ozet": "Sağlık Bakanlığı (DoH), \"hasta erişiminde ve birinci basamak sağlık faaliyetlerinde iyileştirmeler\" için iki yıl boyunca ek 40 milyon £ vereceğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cmd7q1w8q0e3o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Khawaja topa müdahale konusunda %100 isabetli - Warner",
+     "ozet": "David Warner, tüm Avustralyalı oyuncuların topa müdahaleyi bildiği iddiasının ardından eski takım arkadaşı Usman Khawaja'ya \"tam destek\" verdiğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/09/australia-face-fresh-questions-usman-khawaja-autobiography-ball-tampering-ntwnfb"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump, Dana White'ın basın sözcüsü teklifiyle ilgili 'şaka yaptığını' söyledi",
+     "ozet": "Başkan, Cumartesi günü Truth Social'da yayınlanan bir gönderide Ultimate Fighting Championship patronuna \"lütfen işi kabul etmesini\" söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary"
+      }
+     ]
+    },
+    {
+     "baslik": "Bileğindeki şişliğe rağmen pes etmeyip Avrupa şampiyonu oldu",
+     "ozet": "İzmir'de judoya hobi olarak başlayan 13 yaşındaki Umut Aygün, Yıldızlar Judo Avrupa Kupası finalinde ağrıyan bileğine rağmen Sırp rakibine karşı bitime 4 saniye kala aldığı puanla şampiyon oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/bilegindeki-sislige-ragmen-pes-etmeyip-avrupa-sampiyonu-oldu/4116567"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "14. Boğaziçi Film Festivali'nin jürisi festival programını değerlendirdi",
+     "ozet": "14. Boğaziçi Film Festivali, Ulusal Uzun Metraj, Uluslararası Uzun Metraj, Kısa Film ve Ulusal Belgesel Film yarışmalarına ve özel gösterimlere ev sahipliği yapıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinin-jurisi-festival-programini-degerlendirdi/4117262"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 katılımcılarına Antalya'da müze ve ören yerleri ücretsiz",
+     "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya'nın ev sahipliği yapacağı COP31 için sürdürülebilir turizmden kültürel mirasa, sanat etkinliklerinden iklim okuryazarlığına uzanan kapsamlı program…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/cop31-katilimcilarina-antalyada-muze-ve-oren-yerleri-ucretsiz/4117001"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "42988934",
+   "baslik_en": "Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases.",
+   "baslik_tr": "Karşıt mikrobiyom aracılı eksenler, değiştirilebilir yaşam tarzlarını sağlık ve kronik hastalıklara bağlar.",
+   "dergi": "Nature medicine",
+   "yazarlar": [
+    "Nagata N",
+    "Wei R",
+    "Kaneko G",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "Analyses disentangling the role of the gut microbiome in linking lifestyle factors to health outcomes remain limited. Here, using fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort, we identified two opposing microbiome-mediated axes linking lifestyle to health and 15 diseases. A health-associated axis enriched in microbial metabolism of dietary components was linked to plant-based, soy and dairy intake. In contrast, a disease-associated axis, enriched in oral-derived bacteria and pathobionts, was linked to refined carbohydrates and sedentary behavior.",
+   "ozet_tr": "Yaşam tarzı faktörlerini sağlık sonuçlarıyla ilişkilendirmede bağırsak mikrobiyomunun rolünü çözen analizler sınırlı kalıyor. Burada, Japon 4D kohortunda 6.803 yetişkinin dışkı metagenomiğini kullanarak, yaşam tarzını sağlığa ve 15 hastalığa bağlayan iki karşıt mikrobiyom aracılı eksen belirledik. Diyet bileşenlerinin mikrobiyal metabolizması açısından zenginleştirilmiş sağlıkla ilişkili eksen, bitki bazlı, soya ve süt ürünleri alımıyla bağlantılıydı. Buna karşılık, ağızdan türetilen bakteriler ve patobiontlar açısından zenginleştirilmiş hastalıkla ilişkili eksen, rafine karbonhidratlar ve hareketsiz davranışla bağlantılıydı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42988934/",
+   "doi": "https://doi.org/10.1038/s41591-026-04744-5"
+  },
+  {
+   "pmid": "42995231",
+   "baslik_en": "A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion.",
+   "baslik_tr": "Çoklu sistem sağlık fenotiplerinin 3 boyutlu iskelet hareketinden tahmin edilmesine yönelik bir yürüyüş temel modeli.",
+   "dergi": "Nature medicine",
+   "yazarlar": [
+    "Gabet A",
+    "Kohn S",
+    "Lutsker G",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "Gait is increasingly recognized as a vital sign, yet current approaches treat it as a symptom of specific pathologies rather than a systemic biomarker. Here we developed a gait foundation model for three-dimensional skeletal motion, which was recorded via a single-depth camera during 5 motor tasks, from 3,328 deeply phenotyped adults. Our purpose was to capture the full pattern of a person's movement and use it to predict health phenotypes such as grip strength and sleep quality across 18 body systems.",
+   "ozet_tr": "Yürüyüş giderek yaşamsal bir belirti olarak kabul ediliyor, ancak mevcut yaklaşımlar onu sistemik bir biyobelirteçten ziyade spesifik patolojilerin bir belirtisi olarak ele alıyor. Burada, 3.328 derin fenotipli yetişkinden 5 motor görev sırasında tek derinlikli bir kamera aracılığıyla kaydedilen, üç boyutlu iskelet hareketi için bir yürüyüş temel modeli geliştirdik. Amacımız bir kişinin hareketinin tam modelini yakalamak ve bunu 18 vücut sistemi genelinde kavrama gücü ve uyku kalitesi gibi sağlık fenotiplerini tahmin etmek için kullanmaktı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42995231/",
+   "doi": "https://doi.org/10.1038/s41591-026-04724-9"
+  },
+  {
+   "pmid": "42998670",
+   "baslik_en": "Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.",
+   "baslik_tr": "Kardiyojenik şokla komplike olan akut miyokard enfarktüsünde (DAPT-SHOCK-AMI) Cangrelor'a karşı ezilmiş tikagrelor: randomize, çift kör bir çalışma.",
+   "dergi": "Lancet (London, England)",
+   "yazarlar": [
+    "Motovska Z",
+    "Hlinomaz O",
+    "Mrozek J",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "BACKGROUND: Acute myocardial infarction complicated by cardiogenic shock (AMI-CS) can compromise the administration and absorption of oral P2Y12 inhibitors and carries high ischaemic and mortality risks. This trial assessed whether intravenous cangrelor was non-inferior to crushed oral ticagrelor for short-term clinical outcomes and whether it provided faster and more consistent platelet inhibition in patients with AMI-CS. METHODS: DAPT-SHOCK-AMI was a double-blind trial conducted at 29 hospitals across five European countries (Czech Republic, France, Germany, Poland, and Slovakia).",
+   "ozet_tr": "AMAÇ: Kardiyojenik şok (AMI-CS) ile komplike olan akut miyokard enfarktüsü, oral P2Y12 inhibitörlerinin uygulanmasını ve emilimini tehlikeye atabilir ve yüksek iskemik ve mortalite riskleri taşır. Bu çalışma, kısa vadeli klinik sonuçlar açısından intravenöz kangrelorun ezilmiş oral tikagrelordan daha etkili olup olmadığını ve AMI-CS'li hastalarda daha hızlı ve daha tutarlı trombosit inhibisyonu sağlayıp sağlamadığını değerlendirdi. YÖNTEMLER: DAPT-SHOCK-AMI, beş Avrupa ülkesindeki (Çek Cumhuriyeti, Fransa, Almanya, Polonya ve Slovakya) 29 hastanede yürütülen çift kör bir çalışmaydı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42998670/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)00976-1"
+  }
+ ]
+}
