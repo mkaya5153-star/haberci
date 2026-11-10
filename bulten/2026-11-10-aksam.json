@@ -1,0 +1,663 @@
+{
+ "tarih": "2026-11-10",
+ "donem": "aksam",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "ABD'nin arabuluculuğunda Rusya-Ukrayna savaşının sona erdirilmesine yönelik görüşmeler Abu Dabi'de başlıyor",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/10/ukraine-and-russia-reportedly-show-a-little-bit-of-flexibility-on-territory-as-abu-dhabi-t"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/10/abu-dabi-gorusmeleri-ukrayna-ve-rusyadan-toprak-anlasmazliginda-bir-miktar-esneklik-mesaji"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Kaliforniyalı seçmenler milyarderlerin servetinin vergilendirilmesi yönündeki tedbiri reddetti",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0JESW1QSUhockUwNGUtM21rdmJrcXNrVnE3WUI2ZWZNYno0ZXBDMmprN1k3WC1nYlAxRVJHbXJ1SW05R29XVUItZ1EzQWR3cWVxOXY3SDlhVzVaS0RGR3JYZ1A0MElEUGJ1OFlxZmNESW9yR3ZGS2k0QU1yZEswcVU3YUx0LXBNUGFXNktmUQ?oc=5"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "TİP Milletvekili Ahmet Şık'ın eşi Yonca Şık gözaltına alındı",
+   "ozet": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Şık İstanbul'da gözaltına alındı. Kızı ve avukatı Mina Şık'ın BBC Türkçe'ye verdiği bilgiye göre, Yonca Şık'a \"siyasal veya askeri casusluk\" suçlaması…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cv62y219ded5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/casusluk-suçlaması-yonca-verdioğlu-şık-gözaltına-alındı/a-79908470?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785020/haber/ti%CC%87p-milletvekili-ahmet-%C5%9F%C4%B1k%C4%B1n-e%C5%9Fi-yonca-%C5%9F%C4%B1k-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/siyaset/ahmet-sik-in-esi-yonca-verdioglu-gozaltinda-yazarimiz-baris-terkoglu-gundeme-getirmisti-fon-hanceri-vuruluyor-2555031"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Cafer Mahiroğlu soruşturmasında ikinci dalga: 8 kişi için gözaltı kararı verildi",
+   "ozet": "Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmada sekiz şüpheli hakkında daha gözaltı kararı verildi. Başsavcılık yedi şüphelinin gözaltına alındığını, bir kişinin ise firari…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cr78p8llqqzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/halk-tv-nin-sahibi-cafer-mahiroğlu-na-soruşturma-7-gözaltı/a-79907926?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/gundem/2026/11/10/son-dakika-cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-ikinci-dalga-operasyon-p379763"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Bulgaristan'da zincirleme trafik kazası: En az 11 ölü, 48 yaralı",
+   "ozet": "Yambol yakınlarında yoğun sis altında çekilen dron görüntüleri, otomobillerin kamyonlar arasında ezilerek sıkıştığını ortaya koyuyor. 50'den fazla aracın karıştığı kaza nedeniyle otoyol her iki yönde…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/10/bulgaristanda-zincirleme-trafik-kazasi-en-az-11-olu-48-yarali"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/dunya/bulgaristanda-zincirleme-kaza-onlarca-arac-birbirine-girdi-5-olu-10-agir-yarali-7698764"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/dunya/bulgaristan-da-buyuk-trafik-kazasi-70-ten-fazla-arac-birbirine-girdi-en-az-11-kisi-oldu-2555025"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/10/bulgaristanin-trakya-otoyolunda-86-aracin-karistigi-zincirleme-kaza-en-az-12-olu-50-yarali/"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "YENİ Parti'den HABAŞ’taki patlamaya ilişkin araştırma önergesi",
+     "ozet": "YENİ Parti Ankara Milletvekili Gamze Taşcıer, İzmir Aliağa’daki HABAŞ Demir Çelik Fabrikası'nda 17 işçinin yaşamını yitirdiği patlamanın bütün yönleriyle araştırılması için TBMM Başkanlığı'na…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785022/haber/yeni%CC%87-partiden-haba%C5%9F%E2%80%99taki-patlamaya-ili%C5%9Fkin-ara%C5%9Ft%C4%B1rma-%C3%B6nergesi"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-den-habas-ta-17-iscinin-olumu-uzerine-onerge-sorun-gormediginiz-fabrikada-17-isci-oldu-neyi-denetlediniz-2555033"
+      }
+     ]
+    },
+    {
+     "baslik": "Bulgaristan'da zincirleme felaket! Trakya Otoyolu'nda 70 araç birbirine girdi",
+     "ozet": "Bulgaristan'daki yaklaşık 70 aracın karıştığı iki zincirleme trafik kazası meydana geldi. Trakya Otoyolu'ndaki kazada en az 11 kişi hayatını kauybetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/bulgaristanda-zincirleme-felaket-trakya-otoyolunda-70-arac-birbirine-girdi-43372924"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzBPbHNQZ2t6eF9MaE5MRnU5TTR6SkZDbWNVVmJhWjI2ZURsWnBaZDNhUzM5cFl3MTdGVHVFbEw0SVc3dTY1MnJfTWxBS3pFSHAtNEg0bDJsX1REY2RyX0FOZ0diMkJPdVVqVlJCc0ppbnNvMFhyMGxzZ3YyUUtWWlFYbm5EaGp0SlVSXzVOajR4ci1VRUtNaHRVSVplRlA3MHJYSG01MHVqUDZJT0thSzllV1BGSkEy?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "9. kattan düşen kadının eşi tutuklandı",
+     "ozet": "Niğde'de, bir apartmanın 9’uncu katından düşen Rukiye Demirel, yaşamını yitirdi. Olayla ilgili olarak kocası D.D. gözaltına alındı. Emniyetteki işlemlerinin ardından adliyeye sevk edilen şüpheli…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-9-kattan-dusen-kadinin-esi-tutuklandi-nigde-haberleri-3926297"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/nigde-de-kadin-9-uncu-kattan-dusup-oldu-esi-cinayet-suphelisi-olarak-tutuklandi-2555052"
+      }
+     ]
+    },
+    {
+     "baslik": "İran'dan ABD'ye: Tek çözüm şartlarımızın kabulü",
+     "ozet": "İran Dışişleri Bakanı Arakçi, ABD'nin İran ile savaşta hedeflerine ulaşamadığını söyledi ve tek çözüm yolunun diplomasi olduğunu ve bunun İran'ın sunduğu şartların kabul edilmesine bağlı bulunduğunu…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/iran-disisleri-bakani-ndan-abd-ye-tek-cozum-sartlarimizin-kabulu-3926224"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUmZXdl9jengtLXFvU1NPM1l2RnNIcjVOS3pLdGg5OVF6dnlhUm1wcC1PdzZ4Q2VoNzIzLWZJcUJ0M3VpcGZLYS1IWURoWERlcFdMSUgtUzl3VndTb05VamFKRjdVVmt4czZoTjV1OXptc18xbl9YY09aUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Çello virtüözü Luka Sulic, Türkiye'deki ilk konserleri için Zorlu PSM'ye geliyor",
+     "ozet": "2CELLOS grubuyla dünya çapında milyonlarca dinleyiciye ulaşan çellist ve besteci Luka Sulic, solo turnesi \"Life Tour\" kapsamında İstanbul'da konser verecek.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/kultur/cello-virtuozu-luka-sulic-turkiyedeki-ilk-konserleri-icin-zorlu-psmye-geliyor/4118790"
+      },
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/cello-virtuozu-luka-sulic-turkiyedeki-ilk-konserleri-icin-zorlu-psmye-geliyor/4118790"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 Yeşil Bölge'deki \"Küresel Çevre Fonu Küçük Destek Programı\" pavilyonu tanıtıldı",
+     "ozet": "Antalya'da düzenlenen COP31 kapsamında kurulan Birleşmiş Milletler Kalkınma Programının (UNDP) Küresel Çevre Fonu Küçük Destek Programı (GEF SGP) pavilyonu tanıtıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cop31-yesil-bolgedeki-kuresel-cevre-fonu-kucuk-destek-programi-pavilyonu-tanitildi/4118858"
+      }
+     ]
+    },
+    {
+     "baslik": "İletişim Başkanlığının \"COP31\" temalı \"Ayın Tarihi\" dergisinin ekim sayısı yayımlandı",
+     "ozet": "Cumhurbaşkanlığı İletişim Başkanlığınca hazırlanan \"Ayın Tarihi\" dergisinin COP31 temalı ekim sayısı okuyucuyla buluştu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi/4118869"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Bulgaristan otoyolunda meydana gelen kazada 11 kişi öldü, 50 kişi yaralandı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/10/at-least-10-victims-in-bulgarian-motorway-pile-up-involving-more-than-50-vehicles"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa, süpermarketteki buzdolabı hacklenmesi nedeniyle İran elçisini çağırdı, tepki konusunda uyardı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFRPZy1SWjNiT21UM05JSTBmN3JnWW9Gb3pweVRYSFhxZzNfRlBtbEpCNEZ6VHJQZnhpaFZaZ05jTkpWOTNWaGhZMVlISGdxSzlVX2xKRmE2VXZzTmZ3ZElya0ZLQUs1UVM4MXRMNnR3al84MXZOREM1SzhjZHAzTTJYVkpiMzFTOUJ0VC1SNnJvRE5KTEVpUkE2SkJ1RklfSjREc1BzdGV5aGlWaElrYXVDUUt4bmh0dFE?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD, BM'nin insan hakları incelemesini atlayarak kınamaya maruz kalacak",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEtsLVNMZXJDNlczNHVhVV9EdzZaaDdXeXBGa3lRd25ZVWF5X0NSUTg2aFlWaWVaZHpGM29qUVlxSlZjWkdyQUdBckt2bFlXZUFqYk1pei1iZF9zZ2tKXzdnY0NyNDRiWWpqaHlPZkliMVk1aGxDRDMyekozcU5jQl9maTZBTWtkeWh3NEJTZXlFVWI5TW9UbmtSdHhPbVBO?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkJRUkZkLUVBa0ZkR2QydWpvZDR0OWhjMkN1X3pZS0N4eDRjX3U4S1NZbnJsMlFsU3dsQ0lhVlUxY3cwQ0s3UDVpN0VkWEZvc0FVcDBpUml4bk1kd2VUcEdwQmkzaW5kTk1uV2JiUGNiQlBCWjZLOFdRREd4VTJUSVdFYVlNV1RIaFFWVHpoWVp5djMwZ3RTTDRR?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Başbakan, Macaristan'ın Viktor Orban'ın kardeşini insan kaçakçılığı soruşturması kapsamında tutukladığını söyledi",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWtlUHNkRXpscUFMakl1dkxJREs1WktlV2NDWlRkc09FSjlGX3Y4ZjZGSkkzTy1ob0NuWktjc2dYVDVZZmwtdUZqd2dtTXFnbHdZVG5DYndNNWo3N1FpekpWTWkwVEdCUHVnQ19PUUhUZ3NMUEVsREFfVkh3V2ZSZ2FBS2dkQ0Uyak4zYmN1Zzh2eGtYZC01R25wN1hZUVlOdjZhbHUxZkFtS0hIMGZ0X0ZOLUU5MFAw?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/10/viktor-orban-brother-aron-detained-people-smuggling-investigation-hungarian-pm-says"
+      }
+     ]
+    },
+    {
+     "baslik": "Nvidia'nın CEO'suna bağlı Çinli iş kadını Alice Huang kimdir?",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGpWWkVxMjhsT0p4YkpQd1NnM25QaGM3OExOUHpyWW9rdk8wN3VocjJJaE55d3U0OVdRTlV0NlhBQ3Q2Y0JKUl9LcEFIQzBKRVN3RGNVUktmUzhoLUktN1VpRTJnY2o0amtpNVRCeFJ6ZFpXbWd2b0pPWENQcGVFSWFLX0xBT2h5bEFEZlBqQmpuT213enA5NUZhcVdqY0hBWm1qZl9WNUY5TzJRYTgxVW4wQmtOWUhCNXZINU13?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWY3b0NNRFBNRG5jZVdXM05URnhOV19vQ24zV29la0k2S3FzZmN4ZzB3WlRwSXJMbHB6RE90MFVEZ2p4UUhMQUFlV0RMdmVZZUUxeFFEa2ljZTFlTlhXOFozaEczRlpPS2dmRXgxcGw2ZWdpNVJQVEltazV5UUZMUmpNMUdoX2NJRG1wVnJhbFRCTHBwbE1LcjZnMk4?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Hegseth, olası bir görevden alınma tehdidiyle karşı karşıya olduğu için Mayıs ayından bu yana ilk Pentagon haber brifingine hazırlanıyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+      }
+     ]
+    },
+    {
+     "baslik": "İhracatın %35 artmasıyla Çin'in ticaret fazlası üst üste 2. yılda 1 trilyon doları aştı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Küresel piyasalarda \"korku\" yumuşadı",
+     "ozet": "Piyasalarda \"korku endeksi\" olarak bilinen VIX Endeksi, ABD'de Kongre ara seçimleri sonrası yapay zeka yatırımlarına ilişkin artan endişelerin yatışması ve Orta Doğu gündeminin ılımlı seyretmesiyle…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-korku-yumusadi/4118693"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/kuresel-piyasalarda-korku-endeksi-geriledi-risk-istahi-yeniden-yukseliste-haberi-847119"
+      }
+     ]
+    },
+    {
+     "baslik": "Emlak Katılım; Katılımevim, Birevim ve İktisat Katılım'ın devri için gerekli izinleri aldı",
+     "ozet": "Emlak Katılım; Katılımevim, Birevim ve İktisat Katılım'ın devrine ilişkin gerekli izin ve onayları aldığını duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/emlak-katilim-katilimevim-birevim-ve-iktisat-katilimin-devri-icin-gerekli-izinleri-aldi/4118662"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/emlak-katilim-dan-katilimevim-birevim-ve-iktisat-katilim-ile-ilgili-devir-aciklamasi-3794062"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'nin Yeşil Mutabakat Eylem Planı ile 41 hedef için yol haritası çizildi",
+     "ozet": "Türkiye'nin yeşil dönüşüm sürecine yön veren temel politika belgelerinden biri olan 2026-2030 dönemine ilişkin yeni Yeşil Mutabakat Eylem Planı'nda 11 ana başlık, 41 hedef ve 142 eylem yer alıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yesil-mutabakat-eylem-plani-ile-41-hedef-icin-yol-haritasi-cizildi/4118527"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/yesil-mutabakat-eylem-plani-guncellendi-3794054"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/enerji/iea-baskani-birol-turkiyenin-enerji-yol-haritasini-memnuniyetle-karsiliyoruz-haberi-847110"
+      }
+     ]
+    },
+    {
+     "baslik": "Almanya’da aşırı soğuklarda gaz kıtlığı uyarısı",
+     "ozet": "Almanya Gaz Depolama Girişimi (INES), yaklaşan kış dönemi öncesinde doğal gaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/almanya-da-asiri-soguklarda-gaz-kitligi-uyarisi/4118380"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/almanyada-gaz-kitligi-uyarisi-3794051"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa siber saldırılardan İran'ı sorumlu tuttu",
+     "ozet": "Fransız hükümeti, ülke genelinde ve Avrupa'nın daha geniş kesiminde binlerce internet bağlantılı endüstriyel soğutma ve dondurma ünitesini, kan bankalarını hedef alan siber saldırılardan İran'ı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/fransa-siber-saldirilardan-iran-i-sorumlu-tuttu-3794083"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/avrupayi-hedef-alan-siber-saldirilarin-arkasinda-kim-var-fransa-acikladi-haberi-847115"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Rusya'da Apple, Google, Telegram ve Wikimedia'ya para cezası",
+     "ozet": "Rusya'da mahkeme, Apple, Google, Telegram ve Wikipedia'yı işleten Wikimedia Vakfına, yasaklı içerikleri kaldırmadıkları gerekçesiyle toplam 26,3 milyon ruble (yaklaşık 318 bin dolar) para cezası…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/rusyada-apple-google-telegram-ve-wikimediaya-para-cezasi/4118850"
+      }
+     ]
+    },
+    {
+     "baslik": "Yandex, bulut hizmetindeki verilerin yüzde 97'sine erişimi yeniden sağladı",
+     "ozet": "Rus teknoloji şirketi Yandex, insansız hava aracı (İHA) saldırılarında veri merkezlerinin zarar görmesinin ardından bulut hizmeti Yandex Cloud'daki müşteri verilerinin yüzde 97,16'sına erişimin…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yandex-bulut-hizmetindeki-verilerin-yuzde-97sine-erisimi-yeniden-sagladi/4118842"
+      }
+     ]
+    },
+    {
+     "baslik": "Palantir CEO'su Karp'a göre verileri kontrol eden şirketler insanların düşüncelerini de kontrol edebilir",
+     "ozet": "ABD merkezli veri analizi ve yazılım şirketi Palantir'in Üst Yöneticisi (CEO) Alexander Karp, verileri kontrol eden şirketlerin insanların düşüncelerini de kontrol edebileceğini ya da büyük ölçüde…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/palantir-ceosu-karpa-gore-verileri-kontrol-eden-sirketler-insanlarin-dusuncelerini-de-kontrol-edebilir/4118779"
+      }
+     ]
+    },
+    {
+     "baslik": "Türk şirketten 30'dan fazla ülkeye dron ihracatı başarısı",
+     "ozet": "Türk savunma sanayisi bünyesinde Skydagger tarafından geliştirilen kamikaze insansız hava araçları (İHA/dron) 30'dan fazla ülkeye ihracat başarısı yakaladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-sirketten-30dan-fazla-ulkeye-dron-ihracati-basarisi/4118517"
+      }
+     ]
+    },
+    {
+     "baslik": "Intel'in donanım güvenliği ödüllerine Türk araştırmacı imzası",
+     "ozet": "ABD merkezli teknoloji şirketi Intel tarafından verilen iki donanım güvenliği ödülüne Türk araştırmacılar damgasını vurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/intelin-donanim-guvenligi-odullerine-turk-arastirmaci-imzasi/4118367"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "İskoçya kan bağışı sıkıntısıyla karşı karşıyayken Amber alarmı verdi",
+     "ozet": "Kan stoklarının son aylarda birkaç kez hedefin altına düşmesi üzerine sarı alarm verildi",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "NHS patronu emekli olduğunda yaklaşık 400.000 £ 'işten çıkarma' maaşı aldı",
+     "ozet": "Ödeme, İskoçya'nın NHS'sinde sağlık kurullarının sayısının önemli ölçüde azalmasına yol açabilecek planlı büyük bir revizyonunun öncesinde geldi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Öldüğüm güne kadar ağzıma sigara koyduğuma pişman olacağım",
+     "ozet": "Joan McConville, İngiltere ve Galler'de olduğu gibi Kuzey İrlanda'da da ulusal bir tarama programı yapılması çağrısında bulunuyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Türkiye Sualtı Sporları Federasyonunun da \"yeniden inşa\" çalışmaları",
+     "ozet": "Federasyon Başkanı Kadir Sağlam, \"1980'de kurulan federasyonumuzu son 3 yılda yeniden inşa ettik.\" dedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/turkiye-sualti-sporlari-federasyonunun-da-yeniden-insa-calismalari/4118324"
+      }
+     ]
+    },
+    {
+     "baslik": "Başakşehir'de milli futbolcu Yusuf Sarı, sol dizinden operasyon geçirdi",
+     "ozet": "İstanbul Başakşehir'de milli futbolcu Yusuf Sarı, sol dizinden ameliyat edildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/basaksehirde-milli-futbolcu-yusuf-sari-sol-dizinden-operasyon-gecirdi/4118680"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye-Belçika maçını, İsviçreli hakem Sandro Scharer yönetecek",
+     "ozet": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta yarın Belçika'yı konuk edeceği beşinci hafta maçını İsviçreli hakem Sandro Scharer yönetecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/turkiye-belcika-macini-isvicreli-hakem-sandro-scharer-yonetecek/4118514"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Murat Saraçoğlu'nun \"At Üstünde\" filmi 14. Boğaziçi Film Festivali'nde gösterildi",
+     "ozet": "Yönetmenliğini ve senaristliğini Murat Saraçoğlu'nun üstlendiği \"At Üstünde\" filmi, \"14. Boğaziçi Film Festivali\"nde sinemaseverlerle buluştu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/murat-saracoglunun-at-ustunde-filmi-14-bogazici-film-festivalinde-gosterildi/4118820"
+      }
+     ]
+    },
+    {
+     "baslik": "Tarihçi Prof. Dr. Engin Deniz Akarlı son yolculuğuna uğurlandı",
+     "ozet": "Osmanlı, hukuk ve iktisat tarihi alanlarındaki çalışmalarıyla tanınan, 2014 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülü sahibi Prof. Dr. Engin Deniz Akarlı, son yolculuğuna uğurlandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/tarihci-prof-dr-engin-deniz-akarli-son-yolculuguna-ugurlandi/4118795"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43002781",
+   "baslik_en": "Preconception Care.",
+   "baslik_tr": "Gebelik Öncesi Bakım.",
+   "dergi": "Annals of internal medicine",
+   "yazarlar": [
+    "Aliberti GM",
+    "Kaimal AJ",
+    "Hull LE"
+   ],
+   "tur": "Review",
+   "ozet_en": "Optimizing health and management of medical conditions before conception can improve the likelihood of becoming pregnant and of an uncomplicated pregnancy. This article reviews best practices in preconception medical care for cisgender pregnancy-capable women desiring conception to optimize their fertility, improve their perinatal well-being, and decrease the likelihood of pregnancy complications. Given that almost half of all pregnancies in the United States are unintended or mistimed, internal medicine physicians are well positioned to proactively provide reproductive counseling and care.",
+   "ozet_tr": "Gebelikten önce sağlığın optimize edilmesi ve tıbbi durumların yönetilmesi, hamile kalma ve komplikasyonsuz bir hamilelik olasılığını artırabilir. Bu makale, doğurganlıklarını optimize etmek, perinatal refahlarını iyileştirmek ve gebelik komplikasyonları olasılığını azaltmak için gebe kalmak isteyen cisgender gebelik yeteneğine sahip kadınlara yönelik gebelik öncesi tıbbi bakımdaki en iyi uygulamaları gözden geçirmektedir. Amerika Birleşik Devletleri'ndeki gebeliklerin neredeyse yarısının istenmeyen veya yanlış zamanlanmış olduğu göz önüne alındığında, dahiliye hekimleri proaktif olarak üreme danışmanlığı ve bakımı sağlama konusunda iyi bir konumdadır.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002781/",
+   "doi": "https://doi.org/10.7326/ANNALS-26-03799"
+  },
+  {
+   "pmid": "43001740",
+   "baslik_en": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest.",
+   "baslik_tr": "Refrakter Hastane Dışı Kardiyak Arrestte Hastane Öncesi Ekstrakorporeal Yaşam Desteği.",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Reis Miranda D",
+    "Moors X",
+    "Ali S",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "BACKGROUND: In patients with refractory out-of-hospital cardiac arrest, extracorporeal cardiopulmonary resuscitation (ECPR) with the use of venoarterial extracorporeal membrane oxygenation can be performed to establish reperfusion. Data comparing prehospital ECPR with conventional care regarding survival until hospital discharge among patients who are 50 years of age or younger with refractory out-of-hospital cardiac arrest are limited.",
+   "ozet_tr": "AMAÇ: Hastane dışı dirençli kalp durması olan hastalarda, reperfüzyonu sağlamak için venoarteriyel ekstrakorporeal membran oksijenasyonu kullanılarak ekstrakorporeal kardiyopulmoner resüsitasyon (ECPR) yapılabilir. 50 yaşında veya daha genç, dirençli hastane dışı kalp durması olan hastalarda hastaneden taburcu olana kadar hayatta kalma konusunda hastane öncesi ECPR'yi geleneksel bakımla karşılaştıran veriler sınırlıdır.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001740/",
+   "doi": "https://doi.org/10.1056/NEJMoa2602919"
+  },
+  {
+   "pmid": "43002427",
+   "baslik_en": "Drug Burden Index Stewardship to Deprescribe Anticholinergic or Sedative Drugs in Older Inpatients: A Stepped-Wedge Cluster Randomized Clinical Trial.",
+   "baslik_tr": "Yatan Yaşlı Hastalarda Antikolinerjik veya Sedatif İlaçların Tanımlanması İçin İlaç Yükü Endeksi Yönetimi: Kademeli Kama Kümesi Randomize Klinik Çalışma.",
+   "dergi": "JAMA internal medicine",
+   "yazarlar": [
+    "Fujita K",
+    "Masnoon N",
+    "Gnjidic D",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "IMPORTANCE: Anticholinergic and sedative medications contribute to poor clinical outcomes in older inpatients. Evidence-based deprescribing strategies are needed. OBJECTIVE: To evaluate whether an intervention bundle increases deprescribing of anticholinergic and sedative medications in older inpatients. DESIGN, SETTING, AND PARTICIPANTS: This stepped-wedge cluster randomized clinical trial was conducted in 6 Australian public hospitals from January 2022 to July 2023. Participants were patients 65 years and older with Drug Burden Index (DBI; a measure of anticholinergic and sedative medication exposure) score greater than 0 at admission and hospitalized for 48 hours or more.",
+   "ozet_tr": "ÖNEMİ: Antikolinerjik ve sedatif ilaçlar, yatan yaşlı hastalarda kötü klinik sonuçlara katkıda bulunur. Kanıta dayalı tanımlama stratejilerine ihtiyaç vardır. AMAÇ: Bir müdahale paketinin, yatan yaşlı hastalarda antikolinerjik ve sedatif ilaçların reçetelenmesini arttırıp artırmadığını değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu kademeli kama kümeli randomize klinik çalışma, Ocak 2022'den Temmuz 2023'e kadar 6 Avustralya kamu hastanesinde gerçekleştirildi. Katılımcılar, İlaç Yükü İndeksi (DBI; antikolinerjik ve sedatif ilaca maruz kalmanın bir ölçüsü) puanı 0'dan yüksek olan ve 48 saat veya daha uzun süre hastanede yatan 65 yaş ve üzeri hastalardı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002427/",
+   "doi": "https://doi.org/10.1001/jamainternmed.2026.5571"
+  }
+ ]
+}
