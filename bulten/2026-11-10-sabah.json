@@ -1,0 +1,728 @@
+{
+ "tarih": "2026-11-10",
+ "donem": "sabah",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "Fransa, geçen ay süpermarket buzdolaplarına düzenlenen siber saldırıdan İran'ı sorumlu tuttu",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/fransa-buzdolabı-saldırılarından-iran-ı-sorumlu-tuttu/a-79904747?maca=tur-rss-tur-all-1495-rdf"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "İzmir'deki demir çelik fabrikasındaki patlamada can kaybı 17'ye çıktı",
+   "ozet": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/09/izmir-aliagadaki-demir-celik-fabrikasinda-patlama-en-az-3-olu-14-yarali"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-izmir-de-fabrikada-patlama-3925982"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamanin-gorgu-taniklari-dehseti-boyle-anlatti-sanki-yer-kabugu-altimizdan-kaydi-43371958"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Russell Brand tecavüz ve cinsel saldırı suçundan 10 yıldan fazla hapis cezasına çarptırıldı",
+   "ozet": "Eski komedyen, geçen hafta bir kadına tecavüz etmek ve diğer üç kadına cinsel saldırıda bulunmaktan suçlu bulundu. Yargıç Brand'i \"yırtıcı\" olarak nitelendirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Fon soruşturmaları: Lydia Holding yöneticisi Enver Çevik gözaltına alındı",
+   "ozet": "Fon soruştrmalarıyla ilgili olarak 9 Kasım'da aralarında Enver Öevik'in olduğu iş insanları gözaltına alındı. Adalet Bakanı Akın Gürlek 9 Kasım itibarıyla soruşturma kapsamında 120'si tutuklu 464…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-omer-murat-gulkan-gozaltina-alindi-43371965"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641"
+    },
+    {
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/09/lydia-holding-yonetim-kurulu-baskani-enver-cevik-gozaltina-alindi/"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Yüksek Mahkeme, Teksas'taki Big Bend Ulusal Parkı'nda Trump sınırına duvar yapılmasına izin verdi",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Nvidia CEO'sunun evlilik dışı ilişkisi ve casusluk iddiaları: Trump, Huang'a inandığını söyledi",
+     "ozet": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang, casus olduğundan şüphelenilen Çinli bir kadınla ilişkisi olduğunu itiraf etti ve soruşturma…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/09/nvidia-hissesi-ceo-huang-hakkindaki-yabanci-casusluk-iddialariyla-geriledi"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/nvidia-ceosu-huanga-bal-tuzagi-yasak-ask-itirafi-abdyi-karistirdi-43371671"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmVpejZqS2w5ZEUtalhCc0JXbUZMTkZOZDBySHNJWk41RUY3QVByRGhVV2Q2MVB0bUtzY3Bya0JrNGtIQXE2cE03UC1uWC1xeGdkNUltMkFJQVBFVXgtZ0FVcExoeGZ3Q19fZUtCQnJ4bmtPNmRqS2VDY01XMi1Da3A2S1Q2THp5YndXdTBVX2FYMW9xSG5uNmRlS1lrNHFHd0wxYlU2aGJqbEZK?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "FDA, GLP-1 zayıflama ilaçlarına olası görme kaybı riski için yeni uyarı istiyor",
+     "ozet": "ABD Gıda ve İlaç Dairesi (FDA), kalıcı görme kaybına yol açabilen nadir fakat ciddi bir göz hastalığı riskine karşı GLP-1 ilaçlarının güvenlik etiketlerinin güncellenmesini istiyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/09/fda-glp-1-zayiflama-ilaclarina-olasi-gorme-kaybi-riski-icin-yeni-uyari-istiyor"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXBkSlR0RHJpZk1Sa21YQzcxalprUGtsRS0yckNhbTlRc0Vqek5QQ3U0dTROLWRZRjdERlI1LUZWY20xZXkwMjdFd19TTlpubjE5dXFncXJ3VlFFZVRRaG52VHJiZ2VSZ1hQdDY4enJ1Rk5GcEpydEVHMjJpb0VXTkQ0Q2lBQnRpVmsyNXBqT1J0aGt6UEVnamgxTllaWloyOC1HOHJHTUxCR0k4WXczTUV0WHlMTHVG?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Bahçeli'den 10 Kasım mesajı: Atatürk'ü anlamanın en sağlıklı yolu temel ilkelerini faaliyetlerimizin merkezine koymaktır",
+     "ozet": "MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü dolayısıyla yayımladığı mesajda, Atatürk'ün fikirlerinin çağın gerçekleriyle yorumlanarak…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784988/bah%C3%A7eliden-10-kas%C4%B1m-mesaj%C4%B1-atat%C3%BCrk%C3%BC-anlaman%C4%B1n-en-sa%C4%9Fl%C4%B1kl%C4%B1-yolu-temel-ilkelerini"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUxuMC1LUDJRWnpmQVFnQXhRaHAyV01zZi1kLVhxVnhfcTFLcy1vcFN2c0FXQlVDNlliNFNHYmJYSnlXS0x3bjBsMWc4M29MWk4zZDBzZ2ZQS0lWRk5aSzNLcWEzZ3BYSFFzZHJvcUVtc0FLSEhlWjVkaXNiY3pCMExn0gGHAUFVX3lxTE1iVmdDOTNRTzVwcWpRYnpEbTR1Z2FvZUZnNktrSW11LWdVQVpvVTFybVFyb3Q3eE1NWHZMalZ4NUpDczYtMkdUR0ROT0NMUjRKZnR0bDRDVmRWMVktSnFnNC14TVdfWVRPWVA1blVUNmE1TmFwTUxJQVlrcjJQdGlUaEV0dmZIZw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "İSTANBUL ANADOLU 4. SULH HUKUK MAHKEMESİ",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/istanbul-anadolu-4-sulh-hukuk-mahkemesi-43371943"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-aksaray-sulh-hukuk-mahkemesi-hakimligi-satis-memurlugu-2554544"
+      }
+     ]
+    },
+    {
+     "baslik": "PATNOS 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/patnos-4-asliye-hukuk-mahkemesi-hakimligi-43371833"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-erzin-1-asliye-hukuk-mahkemesi-hakimligi-2554546"
+      }
+     ]
+    },
+    {
+     "baslik": "Son dakika... Cumhurbaşkanı Erdoğan'dan önemli mesajlar",
+     "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleştirilen Kabine Toplantısı sona erdi. Cumhurbaşkanı Erdoğan, ana gündem maddeleri arasında fon soruşturmasındaki gelişmeler, Terörsüz…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-mesajlar-43371986"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/11/09/son-dakika-baskan-erdogandan-onemli-aciklamalar"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Kurum'dan COP31 açıklaması: İsrail'e davet göndermedik",
+     "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi'ne ilişkin \"Liderler zirvesine ev sahibi ülke olarak biz, İsrail'e davet göndermedik. Burada iklimi…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/bakan-kurumdan-cop31-aciklamasi-israile-davet-gondermedik-43372178"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/bakan-kurum-israil-e-davet-gondermedik-3926130"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Lindsay Clancy cinayet suçlamalarını reddetme teklifini kaybetti, yeniden yargılama ufukta görünüyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVVFc1VJd2t6czZHa2k3ZHQ5N21IbS0yNXhsSlppZHl2UklnWmhva000US14d0ZxQ3VZeld1bHR6SGVrSl9jMXd0S1R0VW5aLUVvbTVVSUc2SlUxanJMRzVGcDFVZEhGTHVRaGlQa2lvZTlTR2FMZGVLMHMzUkJOcTRqYUdERGdaUlBTRTJUczdsSnZUZGttbHNKVVJTbkh2T183M01B?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump, ABD'nin Rusya'nın Ukrayna'daki savaşını sona erdirme konusunda 'güçlü bir eğilim' gördüğünü söyledi",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+      }
+     ]
+    },
+    {
+     "baslik": "Devlet medyasında çıkan haberlere göre, Suudi Doğu-Batı petrol boru hattı Medine bölgesinde vuruldu",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Senegal açıklarında göçmen teknesinin alabora olması sonucu ölü sayısı 39'a yükseldi",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYklfYkxhNmV0ZTZfbzREdHMydzhnWXMzalM0a1lqOWhGYUFoTDA4aDdVX1RJamNLc1Y2dXhVNW91UTlMNWJNNTU5Ym9fNHZyMlVaS0Fpd1FQaVRBYV9QT2xncTNLRHpzTGd0SXIybnh5VXlwZkRsQmE3ZHdBUVJxV1Zhd1Y5ZTAzQlRnblZWQXQ0dVh0b25OOXF6MmRiazl6eWNGeGZ5TnRNQmhOMU5J?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Rusya'nın önde gelen bağımsız gazetesi tahliyenin ardından kapandı",
+     "ozet": "Çıkış, otuz yıldır ofislerinden tahliye ediliyor ve bağış almasının engellendiğini söylüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Polis, Krakow'u vuran şüphelinin hastanede öldüğünü açıkladı",
+     "ozet": "Çatışmada altı kişi hayatını kaybederken, şüphelinin aile üyelerinden üçünün cesedi evlerinde bulundu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Dana White, Trump'ın Beyaz Saray basın sözcüsü olma teklifini reddetti",
+     "ozet": "Hafta sonu bir sosyal medya paylaşımında başkan, UFC patronundan bu rolü devralmasını istedi ancak daha sonra \"biraz eğlendiğini\" söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Borsa günü yükselişle tamamladı",
+     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,00 değer kazanarak 11.712,67 puandan tamamladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4117552"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/avrupa-borsalari-gunu-yukselisle-tamamladi-haberi-847023"
+      }
+     ]
+    },
+    {
+     "baslik": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
+     "ozet": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari/4117537"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/spk-dan-fon-yatirimcilarina-dolandiricilik-uyarisi-3793990"
+      }
+     ]
+    },
+    {
+     "baslik": "Elektrik dağıtım şebekelerine 2040'a kadar 80 milyar dolarlık yatırım öngörülüyor",
+     "ozet": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Erdoğan, elektrik dağıtım şebekelerine 2040'a kadar yapılması öngörülen 80 milyar dolarlık yatırımın Türkiye'nin enerji ithalat faturasının…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974"
+      }
+     ]
+    },
+    {
+     "baslik": "Boeing, ticari uçak işgücünün yaklaşık yüzde 5'ini işten çıkaracak",
+     "ozet": "Şirket, jet üretimini artırma hızını yavaşlatırken işten çıkarmalar ve personel kaybı yoluyla işten çıkarmalar yapacak Boeing, hızı yavaşlatırken ticari uçak iş gücünün yaklaşık %5'ini azaltacak…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian Business",
+       "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
+      },
+      {
+       "ad": "CNBC",
+       "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/boeing-ticari-ucaklar-biriminde-calisanlarinin-yuzde-5-ini-isten-cikariyor-3794022"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/sirketler/boeingden-isten-cikarma-karari-calisan-sayisi-yuzde-5-azaltilacak-haberi-847032"
+      },
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD Savunma Bakanı Hegseth'in azli için 8 maddelik tasarı sunuldu",
+     "ozet": "ABD'li Cumhuriyetçi Kongre Üyesi Thomas Massie, Savunma Bakanı Pete Hegseth'in İran, Yemen ve Venezuela'daki askeri operasyonlardaki rolü dahil çeşitli suçlamalarla görevden alınmasını öngören 8…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/abd-savunma-bakani-hegseth-in-azli-icin-8-maddelik-tasari-sunuldu-3794021"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/abdde-savunma-bakani-hegsethin-azli-icin-8-maddelik-tasari-sunuldu-haberi-847030"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Çin, Jensen Huang'dan ne alabilir?",
+     "ozet": "Günümüzün yapay zeka ortamında Nvidia'nın gücünü abartmak zor. Şirketin çipleri, ABD'de gelişmiş yapay zeka teknolojisinin üzerine inşa edildiği temel kayayı oluşturuyor ve talep sürekli olarak artıyor…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+      },
+      {
+       "ad": "Hacker News",
+       "link": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/"
+      }
+     ]
+    },
+    {
+     "baslik": "Anthropic yeni Claude Fable ve Mythos 5.2 modellerini piyasaya sürüyor",
+     "ozet": "Anthropic bugün iki yeni modeli duyuruyor: Claude Fable 5.2 ve Claude Mythos 5.2, bunların \"korkutucu\" teknik zorlukların üstesinden gelmek üzere tasarlandığını söylüyor. Şirket, yeni modellerin gösterdiğini iddia ediyor…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+      },
+      {
+       "ad": "Hacker News",
+       "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      }
+     ]
+    },
+    {
+     "baslik": "DCU sarsıntısı: James Gunn ve Peter Safran birleşme sonrası ayrıldı",
+     "ozet": "Yapımcı ve eski Kevin Feige koruması altındaki Jeremy Latcham, Gunn ve Safran'ın yerini alacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+      },
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+      }
+     ]
+    },
+    {
+     "baslik": "Google, yapay zeka çip ailesini genişletti",
+     "ozet": "ABD'li teknoloji şirketi Google, yapay zeka modellerinin eğitilmesi ve çalıştırılmasına yönelik geliştirdiği 2 yeni işlemci sistemini tanıttı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/google-yapay-zeka-cip-ailesini-genisletti-/4117856"
+      }
+     ]
+    },
+    {
+     "baslik": "Meta, Instagram'da gençlere yönelik hesap korumalarını genişletiyor",
+     "ozet": "ABD'li teknoloji şirketi Meta, yapay zeka destekli yaş tahmin teknolojisini küresel çapta genişleterek milyonlarca genci daha Instagram'daki \"Genç Hesabı\" korumalarına dahil edeceğini duyurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/meta-instagramda-genclere-yonelik-hesap-korumalarini-genisletiyor/4117589"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Sepsis ve nadir görülen bir kalp rahatsızlığına yol açan diş ağrısından sonra neredeyse ölüyordum",
+     "ozet": "Doktorlar, Danny Ellis'e, ilk kalp ameliyatı başarısız olduktan sonra hayatta kalmasının bir \"mucize\" olduğunu söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Hastaya yardım eden sağlık görevlisi yaralandı",
+     "ozet": "Ambulans servisi \"saldırının birkaç dakika sürdüğünü\" söyledi",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/videos/cwd090lyd3dlo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Glasgow hastanesindeki kıdemli doktorlar bakım gecikmesi konusunda uyarıda bulundu",
+     "ozet": "Queen Elizabeth Üniversitesi Hastanesi'ndeki danışmanlar, oradaki acil durum hastalarına yönelik koşulların kötüleştiğini söylüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Brady, Birmingham City ile olan ilişkisini sonlandırdı",
+     "ozet": "NFL efsanesi Tom Brady, üç yılın ardından Şampiyonanın en iyi takımı Birmingham City ile olan ilişkisini sonlandırdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere kanadı Feyi-Waboso Uluslar Şampiyonası'ndan çekildi",
+     "ozet": "İngiltere kanadı Immanuel Feyi-Waboso, sakatlık talihsizliği devam ettiği için Uluslar Şampiyonası'nın geri kalanında yer almayacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/09/england-fresh-injury-woe-feyi-waboso-tom-curry-out-nations-championship"
+      }
+     ]
+    },
+    {
+     "baslik": "Milli okçu Dünya Yenihayat, Dakar 2026'da altın madalya kazandı",
+     "ozet": "Milli okçu Dünya Yenihayat, 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) altın madalya kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/milli-okcu-dunya-yenihayat-dakar-2026da-altin-madalya-kazandi/4117796"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Dünyanın farklı noktalarında kültür-sanat etkinlikleri sanatseverlerle buluşacak",
+     "ozet": "Dünyanın farklı şehirlerinde film festivallerinden sanat fuarlarına, bienallerden sergi ve konserlere, birçok etkinlik sanatseverlerle buluşacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/dunyanin-farkli-noktalarinda-kultur-sanat-etkinlikleri-sanatseverlerle-bulusacak/4118022"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31'e katılan oyunculardan somut adımların atılması çağrısı",
+     "ozet": "31. Taraflar Konferansı'na (COP31) katılan oyuncular, iklim değişikliğiyle mücadelede artık somut adımların atılması temennisinde bulundu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/cop31/cop31e-katilan-oyunculardan-somut-adimlarin-atilmasi-cagrisi/4117364"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43002399",
+   "baslik_en": "Inforatio Technique and Foot Ulcer Closure Among Patients With Diabetes: A Randomized Clinical Trial.",
+   "baslik_tr": "Diyabetli Hastalarda Inforatio Tekniği ve Ayak Ülserinin Kapatılması: Randomize Bir Klinik Çalışma.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Moeini S",
+    "Gottlieb H",
+    "Jørgensen TS",
+    "et al."
+   ],
+   "tur": "Randomized Controlled Trial, Multicenter Study",
+   "ozet_en": "IMPORTANCE: Diabetic foot ulcers (DFUs) are common complications of diabetes, a disease increasing in prevalence worldwide. Novel adjunctive treatments that are affordable and feasible to implement in both high- and low-income settings are urgently needed. OBJECTIVE: To assess whether the inforatio technique promotes healing of DFUs compared with standard of care (SOC). DESIGN, SETTING, AND PARTICIPANTS: This multicenter, evaluator-blinded randomized clinical trial was conducted at 4 outpatient clinics specializing in wound care in Denmark from February 15, 2022, to December 18, 2024. One-year medical record follow-up was completed August 14, 2025.",
+   "ozet_tr": "ÖNEMİ: Diyabetik ayak ülserleri (DFU'lar), dünya çapında prevalansı artan bir hastalık olan diyabetin sık görülen komplikasyonlarıdır. Hem yüksek hem de düşük gelirli ortamlarda uygun maliyetli ve uygulanması mümkün olan yeni yardımcı tedavilere acilen ihtiyaç duyulmaktadır. AMAÇ: Bilgilendirme tekniğinin standart bakım (SOC) ile karşılaştırıldığında DFU'ların iyileşmesini destekleyip desteklemediğini değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu çok merkezli, değerlendiricinin kör olduğu randomize klinik çalışma, 15 Şubat 2022 ile 18 Aralık 2024 tarihleri ​​arasında Danimarka'da yara bakımı konusunda uzmanlaşmış 4 ayakta tedavi kliniğinde gerçekleştirildi. Bir yıllık tıbbi kayıt takibi 14 Ağustos 2025'te tamamlandı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002399/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42733"
+  },
+  {
+   "pmid": "43001758",
+   "baslik_en": "Community and EMS Interventions to Improve Survival in Cardiac Arrest.",
+   "baslik_tr": "Kardiyak Arrestte Hayatta Kalmayı İyileştirmeye Yönelik Toplum ve Acil Durum Müdahaleleri.",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Malta Hansen C",
+    "Krychtiuk KA",
+    "Starks MA",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "BACKGROUND: Early cardiopulmonary resuscitation (CPR) and defibrillation improve survival after out-of-hospital cardiac arrest, but evidence from randomized trials about whether community-based implementation strategies improve outcomes is lacking. METHODS: We conducted a registry-based, cluster-randomized trial involving adults with out-of-hospital cardiac arrest treated by emergency medical services (EMS) in North Carolina counties. The counties were grouped into clusters, which were then randomly assigned in a 1:1 ratio to implement a multifaceted intervention or administer usual care.",
+   "ozet_tr": "AMAÇ: Erken kardiyopulmoner resüsitasyon (CPR) ve defibrilasyon, hastane dışı kalp durması sonrasında sağkalımı iyileştirir, ancak toplum temelli uygulama stratejilerinin sonuçları iyileştirip iyileştirmediğine ilişkin randomize çalışmalardan elde edilen kanıtlar eksiktir. YÖNTEMLER: Kuzey Karolina ilçelerinde acil tıbbi hizmetler (EMS) tarafından tedavi edilen, hastane dışı kalp krizi geçiren yetişkinleri kapsayan, kayıt tabanlı, küme-randomize bir çalışma yürüttük. İlçeler kümeler halinde gruplandırıldı ve daha sonra çok yönlü bir müdahale uygulamak veya olağan bakımı yönetmek için 1:1 oranında rastgele atandılar.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001758/",
+   "doi": "https://doi.org/10.1056/NEJMoa2612757"
+  },
+  {
+   "pmid": "43002436",
+   "baslik_en": "Reducing Low-Value Care Through the Smarter Care Virginia Initiative.",
+   "baslik_tr": "Akıllı Bakım Virginia Girişimi Sayesinde Düşük Değerli Bakımın Azaltılması.",
+   "dergi": "JAMA internal medicine",
+   "yazarlar": [
+    "Mafi JN",
+    "Bortz BA",
+    "Vangala S",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "IMPORTANCE: Low-value care costs more than $100 billion annually and remains pervasive despite decades of evidence documenting its clinical and financial harms. While several US states have begun discouraging its use, the feasibility of such statewide interventions in partnership with large health systems remains unknown. OBJECTIVE: To investigate the effectiveness of a clinician-led, multistakeholder, statewide initiative to reduce low-value care in the Commonwealth of Virginia.",
+   "ozet_tr": "ÖNEMİ: Düşük değerli bakımın maliyeti yılda 100 milyar dolardan fazladır ve klinik ve mali zararlarını belgeleyen onlarca yıllık kanıtlara rağmen hala yaygındır. Bazı ABD eyaletleri bu yöntemin kullanımını caydırmaya başlamış olsa da, büyük sağlık sistemleriyle ortaklaşa yapılan bu tür eyalet çapında müdahalelerin fizibilitesi bilinmiyor. AMAÇ: Virginia Eyaleti'nde düşük değerli bakımı azaltmaya yönelik klinisyen liderliğindeki, çok paydaşlı, eyalet çapında bir girişimin etkinliğini araştırmak.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002436/",
+   "doi": "https://doi.org/10.1001/jamainternmed.2026.5540"
+  }
+ ]
+}
