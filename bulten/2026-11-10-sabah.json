@@ -1,39 +1,12 @@
 {
  "tarih": "2026-11-10",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Güne İzmir Aliağa'daki demir çelik fabrikasında yaşanan ve can kaybı 17'ye ulaşan patlama damgasını vuruyor. Dış gündemde Trump'ın İran'la savaşın askeri olarak bittiğini söylemesi, Ukrayna için Abu Dabi'de yeniden başlayan üçlü görüşmeler ve Nvidia CEO'su Huang'a yönelik iddialar öne çıkıyor. Ekonomide Çin'in ticaret fazlasının 1 trilyon doları aşması dikkat çekiyor.",
  "one_cikanlar": [
   {
-   "baslik": "Fransa, geçen ay süpermarket buzdolaplarına düzenlenen siber saldırıdan İran'ı sorumlu tuttu",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
-    },
-    {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/fransa-buzdolabı-saldırılarından-iran-ı-sorumlu-tuttu/a-79904747?maca=tur-rss-tur-all-1495-rdf"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İzmir'deki demir çelik fabrikasındaki patlamada can kaybı 17'ye çıktı",
-   "ozet": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada can kaybı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını…",
+   "baslik": "İzmir Aliağa'daki demir çelik fabrikasında patlama: can kaybı 17'ye yükseldi",
+   "ozet": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada ölenlerin sayısı 17'ye çıktı. Sağlık Bakanı Kemal Memişoğlu, ağır yaralı bir kişinin daha hayatını kaybettiğini duyurdu.",
+   "neden_onemli": "Yakın dönemin en ağır sanayi kazalarından biri; iş güvenliği tartışmasını yeniden gündeme getiriyor.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
@@ -45,95 +18,98 @@
      "link": "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945?maca=tur-rss-tur-all-1495-rdf"
     },
     {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/09/izmir-aliagadaki-demir-celik-fabrikasinda-patlama-en-az-3-olu-14-yarali"
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/son-dakika-veya-izmir-de-habas-demir-celik-fabrikasi-nda-patlama-can-kaybi-10-a-yukseldi-p379510"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0VHOWJlNHI4VzNDa1ZhODNHS09PWXpKRmd0bU9qNTdkOFZ4UkdPdS1IdG1UUGgwR3BGdTBkZEZuQTlieVg1ak5UWTRQU1BGY1NEcUgzTFhLTThsNmZYeU5pV2E4d21jM1ZjZDZOQ2xscjNOTHBCM3JaMHpSNmhxR2lhV1piV21EWE54OWl6dEFRb3RZUUpEZGFzM3N1LUo0N2lDdnItSTJfX1Y1RHctZkh2UzhfMFB4N2h4YjZEeWY1T3RRcG5CTjVvOWhmT1B2N29uODVLOEpJQkJOLVE?oc=5"
+    }
+   ]
+  },
+  {
+   "baslik": "Nvidia ve CEO'su Jensen Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
+   "ozet": "Nvidia ve Üst Yöneticisi Jensen Huang hakkında, Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed'in eski yöneticisi Alice Huang ile ilişkilerini açıklamayarak yatırımcıları yanılttıkları iddiasıyla dava açıldı. Nvidia hisseleri konuyla ilgili haberlerin ardından düşüşe geçti.",
+   "neden_onemli": "Dünyanın en değerli şirketlerinden birine yönelik iddialar yapay zekâ çipi ticareti ve ABD-Çin ilişkileri açısından önem taşıyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi/4118112"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi-962737.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss"
     },
     {
      "ad": "Habertürk",
-     "link": "https://www.haberturk.com/gundem/son-dakika-izmir-de-fabrikada-patlama-3925982"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamanin-gorgu-taniklari-dehseti-boyle-anlatti-sanki-yer-kabugu-altimizdan-kaydi-43371958"
+     "link": "https://www.haberturk.com/ekonomi/teknoloji-devinde-casusluk-skandali-nvidia-ve-ceo-su-huang-a-dava-acildi-3926149"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "Russell Brand tecavüz ve cinsel saldırı suçundan 10 yıldan fazla hapis cezasına çarptırıldı",
-   "ozet": "Eski komedyen, geçen hafta bir kadına tecavüz etmek ve diğer üç kadına cinsel saldırıda bulunmaktan suçlu bulundu. Yargıç Brand'i \"yırtıcı\" olarak nitelendirdi.",
+   "baslik": "Trump: İran'la savaş askeri açıdan 'fiilen sona erdi'",
+   "ozet": "Associated Press'e göre ABD Başkanı Donald Trump, Katar Başbakanı ile görüşmesinin ardından İran'la savaşın askeri anlamda fiilen bittiğine inandığını söyledi. Trump ayrıca şu anda İran'a yeni bir askeri harekâta gerek görmediğini belirtti.",
+   "neden_onemli": "Bölgesel çatışmanın seyri enerji fiyatlarını ve diplomasiyi doğrudan etkiliyor.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5"
     },
     {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
-    },
-    {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault"
-    },
-    {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul"
-    },
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo?at_medium=RSS&at_campaign=rss"
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "Fon soruşturmaları: Lydia Holding yöneticisi Enver Çevik gözaltına alındı",
-   "ozet": "Fon soruştrmalarıyla ilgili olarak 9 Kasım'da aralarında Enver Öevik'in olduğu iş insanları gözaltına alındı. Adalet Bakanı Akın Gürlek 9 Kasım itibarıyla soruşturma kapsamında 120'si tutuklu 464…",
+   "baslik": "Ukrayna için üçlü barış görüşmeleri yeniden başlıyor",
+   "ozet": "BBC'ye göre Kiev, Washington ve Moskova, Şubat'tan bu yana ilk üçlü görüşme için Birleşik Arap Emirlikleri'ne heyet gönderiyor. ABD'li yetkililer, tarafların 'bir miktar esneklik' gösterdiğini söylüyor.",
+   "neden_onemli": " Savaşın sona erdirilmesine yönelik en somut diplomatik girişim.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-omer-murat-gulkan-gozaltina-alindi-43371965"
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html"
     },
     {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641"
-    },
-    {
-     "ad": "Medyascope",
-     "link": "https://medyascope.tv/2026/11/09/lydia-holding-yonetim-kurulu-baskani-enver-cevik-gozaltina-alindi/"
+     "ad": "Politico Europe",
+     "link": "https://www.politico.eu/article/ukraine-russia-peace-talks-us-demands-europe-joins-next-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "Yüksek Mahkeme, Teksas'taki Big Bend Ulusal Parkı'nda Trump sınırına duvar yapılmasına izin verdi",
-   "ozet": "",
+   "baslik": "Çin'in dış ticaret fazlası yapay zekâ kaynaklı ihracatla 1 trilyon doları aştı",
+   "ozet": "Reuters'a göre Çin'in ticaret fazlası, yapay zekâ patlamasının desteklediği ihracatla 1 trilyon doları geçti. Financial Times, bakiyenin yılın ilk 10 ayında bu eşiği aştığını ve yıllık rekora doğru ilerlediğini, bunun ticaret ortaklarıyla gerilimi artıracağını yazdı.",
+   "neden_onemli": "Küresel ticaret dengesi ve ticaret ortaklarıyla gerilim açısından belirleyici bir veri.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5"
     },
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5"
     },
     {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
     },
     {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend"
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
     }
-   ],
-   "neden_onemli": ""
+   ]
   }
  ],
  "bolumler": [
@@ -142,119 +118,111 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Nvidia CEO'sunun evlilik dışı ilişkisi ve casusluk iddiaları: Trump, Huang'a inandığını söyledi",
-     "ozet": "ABD'li teknoloji devi Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlattı. Huang, casus olduğundan şüphelenilen Çinli bir kadınla ilişkisi olduğunu itiraf etti ve soruşturma…",
+     "baslik": "Adalet Bakanı Gürlek ile Yeni Parti'li Özer arasında Plan ve Bütçe Komisyonu'nda gerginlik",
+     "ozet": "BBC Türkçe'ye göre Adalet Bakanı Akın Gürlek, TBMM Plan ve Bütçe Komisyonu'nda Yeni Parti İstanbul Milletvekili Turan Taşkın Özer'e İstanbul Büyükşehir Belediyesi davasında dile getirilen iddialar üzerinden yanıt verdi. Gürlek, 'Milletvekili olmasan evin aranacaktı' dedi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/09/nvidia-hissesi-ceo-huang-hakkindaki-yabanci-casusluk-iddialariyla-geriledi"
-      },
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/nvidia-ceosu-huanga-bal-tuzagi-yasak-ask-itirafi-abdyi-karistirdi-43371671"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmVpejZqS2w5ZEUtalhCc0JXbUZMTkZOZDBySHNJWk41RUY3QVByRGhVV2Q2MVB0bUtzY3Bya0JrNGtIQXE2cE03UC1uWC1xeGdkNUltMkFJQVBFVXgtZ0FVcExoeGZ3Q19fZUtCQnJ4bmtPNmRqS2VDY01XMi1Da3A2S1Q2THp5YndXdTBVX2FYMW9xSG5uNmRlS1lrNHFHd0wxYlU2aGJqbEZK?oc=5"
-      },
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "FDA, GLP-1 zayıflama ilaçlarına olası görme kaybı riski için yeni uyarı istiyor",
-     "ozet": "ABD Gıda ve İlaç Dairesi (FDA), kalıcı görme kaybına yol açabilen nadir fakat ciddi bir göz hastalığı riskine karşı GLP-1 ilaçlarının güvenlik etiketlerinin güncellenmesini istiyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/09/fda-glp-1-zayiflama-ilaclarina-olasi-gorme-kaybi-riski-icin-yeni-uyari-istiyor"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXBkSlR0RHJpZk1Sa21YQzcxalprUGtsRS0yckNhbTlRc0Vqek5QQ3U0dTROLWRZRjdERlI1LUZWY20xZXkwMjdFd19TTlpubjE5dXFncXJ3VlFFZVRRaG52VHJiZ2VSZ1hQdDY4enJ1Rk5GcEpydEVHMjJpb0VXTkQ0Q2lBQnRpVmsyNXBqT1J0aGt6UEVnamgxTllaWloyOC1HOHJHTUxCR0k4WXczTUV0WHlMTHVG?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Bahçeli'den 10 Kasım mesajı: Atatürk'ü anlamanın en sağlıklı yolu temel ilkelerini faaliyetlerimizin merkezine koymaktır",
-     "ozet": "MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü dolayısıyla yayımladığı mesajda, Atatürk'ün fikirlerinin çağın gerçekleriyle yorumlanarak…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/784988/bah%C3%A7eliden-10-kas%C4%B1m-mesaj%C4%B1-atat%C3%BCrk%C3%BC-anlaman%C4%B1n-en-sa%C4%9Fl%C4%B1kl%C4%B1-yolu-temel-ilkelerini"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUxuMC1LUDJRWnpmQVFnQXhRaHAyV01zZi1kLVhxVnhfcTFLcy1vcFN2c0FXQlVDNlliNFNHYmJYSnlXS0x3bjBsMWc4M29MWk4zZDBzZ2ZQS0lWRk5aSzNLcWEzZ3BYSFFzZHJvcUVtc0FLSEhlWjVkaXNiY3pCMExn0gGHAUFVX3lxTE1iVmdDOTNRTzVwcWpRYnpEbTR1Z2FvZUZnNktrSW11LWdVQVpvVTFybVFyb3Q3eE1NWHZMalZ4NUpDczYtMkdUR0ROT0NMUjRKZnR0bDRDVmRWMVktSnFnNC14TVdfWVRPWVA1blVUNmE1TmFwTUxJQVlrcjJQdGlUaEV0dmZIZw?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "İSTANBUL ANADOLU 4. SULH HUKUK MAHKEMESİ",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/istanbul-anadolu-4-sulh-hukuk-mahkemesi-43371943"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-aksaray-sulh-hukuk-mahkemesi-hakimligi-satis-memurlugu-2554544"
-      }
-     ]
-    },
-    {
-     "baslik": "PATNOS 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/patnos-4-asliye-hukuk-mahkemesi-hakimligi-43371833"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-erzin-1-asliye-hukuk-mahkemesi-hakimligi-2554546"
-      }
-     ]
-    },
-    {
-     "baslik": "Son dakika... Cumhurbaşkanı Erdoğan'dan önemli mesajlar",
-     "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında gerçekleştirilen Kabine Toplantısı sona erdi. Cumhurbaşkanı Erdoğan, ana gündem maddeleri arasında fon soruşturmasındaki gelişmeler, Terörsüz…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-mesajlar-43371986"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/gundem/2026/11/09/son-dakika-baskan-erdogandan-onemli-aciklamalar"
-      }
-     ]
-    },
-    {
-     "baslik": "Bakan Kurum'dan COP31 açıklaması: İsrail'e davet göndermedik",
-     "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi'ne ilişkin \"Liderler zirvesine ev sahibi ülke olarak biz, İsrail'e davet göndermedik. Burada iklimi…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/bakan-kurumdan-cop31-aciklamasi-israile-davet-gondermedik-43372178"
+       "link": "https://www.bbc.com/turkce/articles/cqn7372n31ejo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "Habertürk",
-       "link": "https://www.haberturk.com/dunya/bakan-kurum-israil-e-davet-gondermedik-3926130"
+       "link": "https://www.haberturk.com/gundem/bakan-gurlek-ten-terorsuz-turkiye-degerlendirmesi-3926135"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/09/akin-gurlek-butce-gorusmelerinde-guclu-savunma-masumiyet-karinesi-sozlerine-muhalefet-tepki-gosterdi/"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2pNXzU5UVZIbG9yVWRNSU5Eek5VSHNOZFF3SGpSQ0M1SUZTaGlVVUhxaktnM2U3TmVORzFzYTI0RU4xa2g4d2NDYy1SSkdqX1V4Y0Z2NElqbE5qYjVzQ05zLUxPUFdQUjBNZm9HeW5FM3Q5OUs3WG1FSVlzMmtuOFc1c2x4MzB4bjZYN1gtS0xoTlpsZTZjMVBFam9fUGZGcm5xNEczTnkyblJiNnRFblpXZTI1TXhQd1pZX0JsV2FPNnM0QjF0WHZPZko1RXM?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan: Gabar'da 135 milyon varil yerinde petrol potansiyeli bulundu",
+     "ozet": "Cumhurbaşkanı Erdoğan, Gabar'da 75,4 milyon varil petrol ürettiklerini belirterek iki sahada daha rezerv bulunduğunu açıkladı. Erdoğan'a göre yeni bulgularla birlikte yerinde petrol potansiyeli 135 milyon varile ulaştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-gabarda-135-milyon-varil-yerinde-petrol-potansiyeli-bulundu-962703.html"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784992/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-gabarda-135-milyon-varil-yerinde-petrol-potansiyeli-bulundu"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcjlSNzlvSWNhSzI5a01xczRtN0J3aU12OE5ONklOcTlxdm5rckhGanRQYlZabTlHQmNvM0hSUThlUGVsdUlpel83WFI0YmpBWUlaQnVXcE12LXhfOWdmNVkwQVBIVWhaYTBCNEoyVHpyWENhMU9ZYzRhTkJrSEJNMnp0MEFOQ2o3RnBPOGg3Y2hzWVN4Rmc4TzU2RC1lWHdpZDJ6WnV4bzloV1dTSVYxMjk2cTY3cFF0XzIzYXdXMG5YWklJRktDOEhTcw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon soruşturmaları: Lydia Holding yöneticisi Enver Çevik gözaltına alındı",
+     "ozet": "BBC Türkçe'ye göre fon soruşturmaları kapsamında 9 Kasım'da aralarında Enver Çevik'in de bulunduğu iş insanları gözaltına alındı. Adalet Bakanı Gürlek, soruşturmada 9 Kasım itibarıyla 120'si tutuklu 464 kişi hakkında işlem yapıldığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641"
+      }
+     ]
+    },
+    {
+     "baslik": "Kıbrıs'ta iki yeni sınır kapısı açılıyor",
+     "ozet": "DW Türkçe'ye göre bir araya gelen Türk ve Rum liderler, iki yeni sınır kapısının açılması konusunda anlaştı. Taraflar ayrıca BM Genel Sekreteri Guterres'in görev süresi dolmadan barış müzakerelerini canlandırma konusunu ele aldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/kıbrıs-ta-iki-yeni-sınır-kapısı-açılıyor/a-79904707?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/bmnin-baskisindan-rumlar-geri-adim-atti-kibrista-gorusmeden-2-sinir-kapisi-cikti-43372149"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeşil Mutabakat genelgesi Resmi Gazete'de",
+     "ozet": "Cumhurbaşkanı Erdoğan imzasıyla yayımlanan genelge, 'Yeşil Mutabakat Eylem Planı (2026-2030)' kapsamında kamu kurumları ve özel sektörün yürüteceği çalışmaların çerçevesini belirliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/yesil-mutabakat-genelgesi-resmi-gazete-de-3926138"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/yesil-mutabakat-genelgesi-resmi-gazete-de-yayimlandi-2026-2030-eylem-plani-yururluge-girdi-2554896"
+      }
+     ]
+    },
+    {
+     "baslik": "İhraç edilen 5 teğmen hakkında 4 yıla kadar hapis istemiyle dava açıldı",
+     "ozet": "Ankara Cumhuriyet Başsavcılığı, TSK'dan ihraç edilen 5 teğmen hakkında, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ve Yüksek Disiplin Kurulu üyelerine yönelik suçlamalarla 4 yıla kadar hapis istemiyle dava açtı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/784990/haber/i%CC%87hra%C3%A7-edilen-5-te%C4%9Fmen-hakk%C4%B1nda-4-y%C4%B1la-kadar-hapis-istemiyle-dava-a%C3%A7%C4%B1ld%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Atatürk'ün ebediyete intikalinin 88. yılı",
+     "ozet": "Mustafa Kemal Atatürk'ün vefatının 88. yıl dönümünde TRT özel yayınlar hazırladı; MHP Genel Başkanı Bahçeli de bir mesaj yayımladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturkun-ebediyete-intikalinin-uzerinden-88-yil-gecti-962660.html"
       }
      ]
     }
@@ -265,61 +233,118 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Lindsay Clancy cinayet suçlamalarını reddetme teklifini kaybetti, yeniden yargılama ufukta görünüyor",
-     "ozet": "",
+     "baslik": "Fransa, süpermarket buzdolabı saldırılarından İran'ı sorumlu tuttu",
+     "ozet": "BBC'ye göre geçen ay yüzlerce süpermarkette buzdolabı ve dondurucuların ısınması nedeniyle tonlarca soğutulmuş ve dondurulmuş gıda bozuldu. Fransa, saldırıdan İran'ı sorumlu tuttu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVVFc1VJd2t6czZHa2k3ZHQ5N21IbS0yNXhsSlppZHl2UklnWmhva000US14d0ZxQ3VZeld1bHR6SGVrSl9jMXd0S1R0VW5aLUVvbTVVSUc2SlUxanJMRzVGcDFVZEhGTHVRaGlQa2lvZTlTR2FMZGVLMHMzUkJOcTRqYUdERGdaUlBTRTJUczdsSnZUZGttbHNKVVJTbkh2T183M01B?oc=5"
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss"
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/france/article/2026/11/09/france-accuses-iran-s-guards-of-cyberattacks-on-supermarket-fridges_6776101_7.html"
       }
      ]
     },
     {
-     "baslik": "Trump, ABD'nin Rusya'nın Ukrayna'daki savaşını sona erdirme konusunda 'güçlü bir eğilim' gördüğünü söyledi",
-     "ozet": "",
+     "baslik": "Cumhuriyetçi Massie, Savunma Bakanı Hegseth için görevden alma oylamasını zorlayacak",
+     "ozet": "BBC'ye göre Cumhuriyetçi Temsilci Thomas Massie, Hegseth'in azli için Temsilciler Meclisi'nde oylama istiyor. Girişimin büyük olasılıkla başarısız olacağı belirtiliyor; Massie, Demokratların gelecek yıl kendi sürecini başlatmasından önce Trump'ı Hegseth'i görevden almaya zorlamayı amaçlıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/09/republican-launches-impeachment-against-pete-hegseth_6776266_4.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD Yüksek Mahkemesi, Big Bend Ulusal Parkı'nda sınır duvarına izin verdi",
+     "ozet": "Reuters'a göre ABD Yüksek Mahkemesi, Trump yönetiminin Teksas'taki Big Bend Ulusal Parkı'nda sınır duvarı inşa etmesine izin verdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5"
       },
       {
        "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk1ybDBxZkkyR0VzaXo3MHg1N044cE1ub3JCV3phSFFrR0c5b0RVQThwU3R5MFhfZmpqQVpLdHhRT2JPVE5peGJBQkNQYUw3eWkxYUROYXNWdFVlSVZiQ1AyMGhtZHdwMGtuZlBRTTQ3SG93QmtvcVpub0tDUHk0aGowUEZLbnlOT1hUQ20xVHJOOE5RMGc?oc=5"
       },
       {
        "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+       "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss"
       }
      ]
     },
     {
-     "baslik": "Devlet medyasında çıkan haberlere göre, Suudi Doğu-Batı petrol boru hattı Medine bölgesinde vuruldu",
-     "ozet": "",
+     "baslik": "Kaliforniya'da seçmenler milyarderlere servet vergisini reddetti",
+     "ozet": "Associated Press'e göre Kaliforniya seçmenleri, milyarderlerin servetinin vergilendirilmesini öngören öneriyi oylamada reddetti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0JESW1QSUhockUwNGUtM21rdmJrcXNrVnE3WUI2ZWZNYno0ZXBDMmprN1k3WC1nYlAxRVJHbXJ1SW05R29XVUItZ1EzQWR3cWVxOXY3SDlhVzVaS0RGR3JYZ1A0MElEUGJ1OFlxZmNESW9yR3ZGS2k0QU1yZEswcVU3YUx0LXBNUGFXNktmUQ?oc=5"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261110-california-voters-reject-proposed-one-time-tax-on-billionaires-wealth"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40"
       }
      ]
     },
     {
-     "baslik": "Senegal açıklarında göçmen teknesinin alabora olması sonucu ölü sayısı 39'a yükseldi",
-     "ozet": "",
+     "baslik": "Papa 14. Leo Arjantin'de: Buenos Aires'te milyonlar karşıladı",
+     "ozet": "BBC'ye göre akciğer kanseri ameliyatından üç hafta sonra Latin Amerika'ya 12 günlük ziyaret yapan Papa, Buenos Aires'te açık hava ayini yönetti. AP'ye göre Papa, Arjantin'i Milei'nin kemer sıkma politikaları karşısında kırılgan kesimleri korumaya çağırdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Almanya ilk kadın cumhurbaşkanına doğru ilerliyor",
+     "ozet": "Associated Press'e göre iktidar partileri eski bir bakan etrafında birleşti ve Almanya ilk kez bir kadın cumhurbaşkanı seçmeye hazırlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVwOWFXZVhTbVNqVEhqNWYzQU5qb2ZRMEV1ZDlkT0NDRXRGT2lvekFGeXY0eXFNSjYzVUVhRUpJbEdVTjlBTWpyU1NfVW9la1AxMXhzeXlrS1NRY3hpT1NtOGNiOXBRd1VBTWFrMnZtXzEyYVV5YWx5eVBGWlAtSm1JV1gwZkZCby1lWkhaTEFJX2g3aHdHOUFxODR4RjVmaGFmWU5jeElhS1lwS1E?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Senegal açıklarında göçmen teknesi alabora oldu: ölü sayısı 39",
+     "ozet": "Associated Press'e göre Senegal açıklarında göçmen teknesinin alabora olması sonucu ölenlerin sayısı 39'a yükseldi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -331,51 +356,6 @@
        "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss"
       }
      ]
-    },
-    {
-     "baslik": "Rusya'nın önde gelen bağımsız gazetesi tahliyenin ardından kapandı",
-     "ozet": "Çıkış, otuz yıldır ofislerinden tahliye ediliyor ve bağış almasının engellendiğini söylüyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Polis, Krakow'u vuran şüphelinin hastanede öldüğünü açıkladı",
-     "ozet": "Çatışmada altı kişi hayatını kaybederken, şüphelinin aile üyelerinden üçünün cesedi evlerinde bulundu.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Dana White, Trump'ın Beyaz Saray basın sözcüsü olma teklifini reddetti",
-     "ozet": "Hafta sonu bir sosyal medya paylaşımında başkan, UFC patronundan bu rolü devralmasını istedi ancak daha sonra \"biraz eğlendiğini\" söyledi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
-      }
-     ]
     }
    ]
   },
@@ -384,23 +364,30 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Borsa günü yükselişle tamamladı",
-     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,00 değer kazanarak 11.712,67 puandan tamamladı.",
-     "etiket": "teyitli",
+     "baslik": "Çin, ABD'ye karşı uyguladığı yüzde 24 ek tarifeyi 2 ay daha erteleyecek",
+     "ozet": "Çin, ABD'ye misilleme olarak getirdiği yüzde 24'lük ek gümrük vergisini 2 ay daha erteleyeceğini bildirdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4117552"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/finans/haberler/avrupa-borsalari-gunu-yukselisle-tamamladi-haberi-847023"
+       "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdye-misilleme-olarak-getirdigi-yuzde-24-ek-tarifeyi-2-ay-daha-erteleyecek/4117615"
       }
      ]
     },
     {
-     "baslik": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
-     "ozet": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
+     "baslik": "Borsa İstanbul günü yüzde 2 yükselişle tamamladı",
+     "ozet": "BIST 100 endeksi günü yüzde 2,00 değer kazanarak 11.712,67 puandan tamamladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4117552"
+      }
+     ]
+    },
+    {
+     "baslik": "SPK'den fon yatırımcılarına dolandırıcılık uyarısı",
+     "ozet": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere karşı uyarıda bulundu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -414,59 +401,39 @@
      ]
     },
     {
-     "baslik": "Elektrik dağıtım şebekelerine 2040'a kadar 80 milyar dolarlık yatırım öngörülüyor",
-     "ozet": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Erdoğan, elektrik dağıtım şebekelerine 2040'a kadar yapılması öngörülen 80 milyar dolarlık yatırımın Türkiye'nin enerji ithalat faturasının…",
+     "baslik": "Boeing ticari uçaklar biriminde iş gücünü yaklaşık yüzde 5 azaltacak",
+     "ozet": "ABD'li havacılık şirketi Boeing, ticari uçaklar birimindeki iş gücünü yaklaşık yüzde 5 azaltacağını açıkladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974"
-      }
-     ]
-    },
-    {
-     "baslik": "Boeing, ticari uçak işgücünün yaklaşık yüzde 5'ini işten çıkaracak",
-     "ozet": "Şirket, jet üretimini artırma hızını yavaşlatırken işten çıkarmalar ve personel kaybı yoluyla işten çıkarmalar yapacak Boeing, hızı yavaşlatırken ticari uçak iş gücünün yaklaşık %5'ini azaltacak…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Guardian Business",
-       "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
-      },
-      {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+       "link": "https://www.aa.com.tr/tr/ekonomi/boeing-ticari-ucaklar-birimindeki-is-gucunu-yaklasik-yuzde-5-azaltacak/4118051"
       },
       {
        "ad": "Bloomberg HT",
        "link": "https://www.bloomberght.com/boeing-ticari-ucaklar-biriminde-calisanlarinin-yuzde-5-ini-isten-cikariyor-3794022"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/sirketler/boeingden-isten-cikarma-karari-calisan-sayisi-yuzde-5-azaltilacak-haberi-847032"
-      },
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "ABD Savunma Bakanı Hegseth'in azli için 8 maddelik tasarı sunuldu",
-     "ozet": "ABD'li Cumhuriyetçi Kongre Üyesi Thomas Massie, Savunma Bakanı Pete Hegseth'in İran, Yemen ve Venezuela'daki askeri operasyonlardaki rolü dahil çeşitli suçlamalarla görevden alınmasını öngören 8…",
-     "etiket": "teyitli",
+     "baslik": "SpaceX Teksas'ta 24 milyar dolarlık doğal gaz santrali ve veri merkezi planlıyor",
+     "ozet": "Reuters'a göre SpaceX, Teksas'taki Starbase kentinde yaklaşık 24 milyar dolarlık bir doğal gaz santrali ve süper bilgisayar/veri merkezi projesi planlıyor.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/abd-savunma-bakani-hegseth-in-azli-icin-8-maddelik-tasari-sunuldu-3794021"
-      },
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Petrol, Trump'ın İran'la gerilimin tırmanmayacağı yönündeki sözleriyle geriledi",
+     "ozet": "Reuters'a göre Trump'ın İran'la tırmanma ihtimalini küçümsemesi sonrası petrol fiyatları düştü.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
       {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/dunya/abdde-savunma-bakani-hegsethin-azli-icin-8-maddelik-tasari-sunuldu-haberi-847030"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
       }
      ]
     }
@@ -477,27 +444,8 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "Çin, Jensen Huang'dan ne alabilir?",
-     "ozet": "Günümüzün yapay zeka ortamında Nvidia'nın gücünü abartmak zor. Şirketin çipleri, ABD'de gelişmiş yapay zeka teknolojisinin üzerine inşa edildiği temel kayayı oluşturuyor ve talep sürekli olarak artıyor…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
-      },
-      {
-       "ad": "TechCrunch",
-       "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
-      },
-      {
-       "ad": "Hacker News",
-       "link": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/"
-      }
-     ]
-    },
-    {
-     "baslik": "Anthropic yeni Claude Fable ve Mythos 5.2 modellerini piyasaya sürüyor",
-     "ozet": "Anthropic bugün iki yeni modeli duyuruyor: Claude Fable 5.2 ve Claude Mythos 5.2, bunların \"korkutucu\" teknik zorlukların üstesinden gelmek üzere tasarlandığını söylüyor. Şirket, yeni modellerin gösterdiğini iddia ediyor…",
+     "baslik": "Anthropic yeni Claude Fable ve Mythos 5.2 modellerini tanıttı",
+     "ozet": "The Verge'e göre Anthropic, 'zorlu' teknik sorunlara yönelik tasarlandığını söylediği Claude Fable 5.2 ve Claude Mythos 5.2 modellerini duyurdu. Reuters ise lansmanın halka arz öncesinde rekabetin kızıştığı bir döneme denk geldiğini yazdı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -507,47 +455,39 @@
       {
        "ad": "TechCrunch",
        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-      },
-      {
-       "ad": "Hacker News",
-       "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
       }
      ]
     },
     {
-     "baslik": "DCU sarsıntısı: James Gunn ve Peter Safran birleşme sonrası ayrıldı",
-     "ozet": "Yapımcı ve eski Kevin Feige koruması altındaki Jeremy Latcham, Gunn ve Safran'ın yerini alacak.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Ars Technica",
-       "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
-      },
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
-      }
-     ]
-    },
-    {
-     "baslik": "Google, yapay zeka çip ailesini genişletti",
-     "ozet": "ABD'li teknoloji şirketi Google, yapay zeka modellerinin eğitilmesi ve çalıştırılmasına yönelik geliştirdiği 2 yeni işlemci sistemini tanıttı.",
+     "baslik": "2026'da küresel karbon emisyonlarının düşmesi bekleniyor",
+     "ozet": "New Scientist'e göre karbondioksit emisyonlarının bu yıl yüzde 0,4 azalması öngörülüyor; bunun bir nedeni Hürmüz Boğazı'ndaki deniz taşımacılığı aksaması nedeniyle yükselen petrol fiyatları.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/google-yapay-zeka-cip-ailesini-genisletti-/4117856"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598130-global-carbon-emissions-fall-in-2026-due-to-iran-energy-shock/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "Meta, Instagram'da gençlere yönelik hesap korumalarını genişletiyor",
-     "ozet": "ABD'li teknoloji şirketi Meta, yapay zeka destekli yaş tahmin teknolojisini küresel çapta genişleterek milyonlarca genci daha Instagram'daki \"Genç Hesabı\" korumalarına dahil edeceğini duyurdu.",
+     "baslik": "Soğuk terapi egzersiz sonrası toparlanmada hiçbir şey yapmamaktan kötü olabilir",
+     "ozet": "New Scientist'e göre bir çalışma, buz banyosu ve soğuk duş gibi uygulamaların egzersiz sonrası toparlanmayı hızlandırmak yerine tersine etki yapabileceğini ortaya koydu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/meta-instagramda-genclere-yonelik-hesap-korumalarini-genisletiyor/4117589"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598085-cold-therapy-may-be-worse-than-doing-nothing-for-post-exercise-recovery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      }
+     ]
+    },
+    {
+     "baslik": "X kromozomundaki ZFX geni kadınlarda otizm oranını düşürüyor olabilir",
+     "ozet": "New Scientist'e göre ZFX geni, otizmle bağlantılı bir gen ağı üzerinde güçlü etkiler gösteriyor; bu durum otizmin kadınlarda neden daha az görüldüğünü açıklamaya yardımcı olabilir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     }
@@ -558,35 +498,35 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Sepsis ve nadir görülen bir kalp rahatsızlığına yol açan diş ağrısından sonra neredeyse ölüyordum",
-     "ozet": "Doktorlar, Danny Ellis'e, ilk kalp ameliyatı başarısız olduktan sonra hayatta kalmasının bir \"mucize\" olduğunu söyledi.",
+     "baslik": "FDA, GLP-1 ilaçlarına nadir görme kaybı uyarısı ekledi",
+     "ozet": "Associated Press'e göre ABD Gıda ve İlaç Dairesi (FDA), popüler GLP-1 ilaçlarına nadir bir görme kaybı riskine ilişkin uyarı ekledi. STAT'a göre uyarı, 'göz felci' olarak da anılan nadir ama ciddi bir göz hastalığı riskiyle ilgili.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o?at_medium=RSS&at_campaign=rss"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvSnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5"
       }
      ]
     },
     {
-     "baslik": "Hastaya yardım eden sağlık görevlisi yaralandı",
-     "ozet": "Ambulans servisi \"saldırının birkaç dakika sürdüğünü\" söyledi",
+     "baslik": "FDA, felç tekrarını önlemek için Bayer'in yeni ilacını onayladı",
+     "ozet": "STAT'a göre Bayer'in ilacı, kanama riskini artırmadan kan pıhtılarını önlemek üzere tasarlanmış yeni bir ilaç sınıfının ilk örneği.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/cwd090lyd3dlo?at_medium=RSS&at_campaign=rss"
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Glasgow hastanesindeki kıdemli doktorlar bakım gecikmesi konusunda uyarıda bulundu",
-     "ozet": "Queen Elizabeth Üniversitesi Hastanesi'ndeki danışmanlar, oradaki acil durum hastalarına yönelik koşulların kötüleştiğini söylüyor.",
+     "baslik": "Lilly'nin GLP-1 hapı uyku apnesini belirgin biçimde azalttı",
+     "ozet": "Scientific American'a göre Eli Lilly'nin günlük hap olarak alınan Foundayo'su klinik çalışma verilerinde obstrüktif uyku apnesini azalttı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o?at_medium=RSS&at_campaign=rss"
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/eli-lilly-shows-glp-1-weight-loss-pill-foundayo-can-dramatically-improve-sleep-apnea/"
       }
      ]
     }
@@ -597,43 +537,24 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Brady, Birmingham City ile olan ilişkisini sonlandırdı",
-     "ozet": "NFL efsanesi Tom Brady, üç yılın ardından Şampiyonanın en iyi takımı Birmingham City ile olan ilişkisini sonlandırdı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit"
-      }
-     ]
-    },
-    {
-     "baslik": "İngiltere kanadı Feyi-Waboso Uluslar Şampiyonası'ndan çekildi",
-     "ozet": "İngiltere kanadı Immanuel Feyi-Waboso, sakatlık talihsizliği devam ettiği için Uluslar Şampiyonası'nın geri kalanında yer almayacak.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/09/england-fresh-injury-woe-feyi-waboso-tom-curry-out-nations-championship"
-      }
-     ]
-    },
-    {
-     "baslik": "Milli okçu Dünya Yenihayat, Dakar 2026'da altın madalya kazandı",
+     "baslik": "Milli okçu Dünya Yenihayat Dakar 2026'da altın madalya kazandı",
      "ozet": "Milli okçu Dünya Yenihayat, 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) altın madalya kazandı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
        "link": "https://www.aa.com.tr/tr/spor/milli-okcu-dunya-yenihayat-dakar-2026da-altin-madalya-kazandi/4117796"
+      }
+     ]
+    },
+    {
+     "baslik": "Sabalenka WTA Finalleri'ne galibiyetle başladı",
+     "ozet": "BBC Sport'a göre Aryna Sabalenka, servisindeki aksaklıklara rağmen Karolina Muchova'yı yenerek WTA Finalleri'ne galibiyetle başladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -644,24 +565,28 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Dünyanın farklı noktalarında kültür-sanat etkinlikleri sanatseverlerle buluşacak",
-     "ozet": "Dünyanın farklı şehirlerinde film festivallerinden sanat fuarlarına, bienallerden sergi ve konserlere, birçok etkinlik sanatseverlerle buluşacak.",
-     "etiket": "tek kaynak",
+     "baslik": "M. John Harrison, Booker Ödülü'nü kazandı",
+     "ozet": "France 24'e göre İngiliz yazar M. John Harrison, yapay zekâ izleri taşıyan kıyamet temalı 'The End of Everything' romanıyla Booker Ödülü'nü kazandı.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/dunyanin-farkli-noktalarinda-kultur-sanat-etkinlikleri-sanatseverlerle-bulusacak/4118022"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/09/m-john-harrison-becomes-oldest-ever-winner-of-the-booker-prize-for-his-satirical-novel-the"
       }
      ]
     },
     {
-     "baslik": "COP31'e katılan oyunculardan somut adımların atılması çağrısı",
-     "ozet": "31. Taraflar Konferansı'na (COP31) katılan oyuncular, iklim değişikliğiyle mücadelede artık somut adımların atılması temennisinde bulundu.",
+     "baslik": "Biket İlhan'ın 'Tatlı Maya' filmi Boğaziçi Film Festivali'nde gösterildi",
+     "ozet": "Yönetmen Biket İlhan'ın 'Tatlı Maya' filmi, 14. Boğaziçi Film Festivali kapsamında izleyiciyle buluştu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/cop31/cop31e-katilan-oyunculardan-somut-adimlarin-atilmasi-cagrisi/4117364"
+       "link": "https://www.aa.com.tr/tr/kultur/biket-ilhan-imzali-tatli-maya-filmi-14-bogazici-film-festivalinde-izleyiciyle-bulustu/4117985"
       }
      ]
     }
@@ -671,58 +596,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43002399",
-   "baslik_en": "Inforatio Technique and Foot Ulcer Closure Among Patients With Diabetes: A Randomized Clinical Trial.",
-   "baslik_tr": "Diyabetli Hastalarda Inforatio Tekniği ve Ayak Ülserinin Kapatılması: Randomize Bir Klinik Çalışma.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Moeini S",
-    "Gottlieb H",
-    "Jørgensen TS",
-    "et al."
-   ],
-   "tur": "Randomized Controlled Trial, Multicenter Study",
-   "ozet_en": "IMPORTANCE: Diabetic foot ulcers (DFUs) are common complications of diabetes, a disease increasing in prevalence worldwide. Novel adjunctive treatments that are affordable and feasible to implement in both high- and low-income settings are urgently needed. OBJECTIVE: To assess whether the inforatio technique promotes healing of DFUs compared with standard of care (SOC). DESIGN, SETTING, AND PARTICIPANTS: This multicenter, evaluator-blinded randomized clinical trial was conducted at 4 outpatient clinics specializing in wound care in Denmark from February 15, 2022, to December 18, 2024. One-year medical record follow-up was completed August 14, 2025.",
-   "ozet_tr": "ÖNEMİ: Diyabetik ayak ülserleri (DFU'lar), dünya çapında prevalansı artan bir hastalık olan diyabetin sık görülen komplikasyonlarıdır. Hem yüksek hem de düşük gelirli ortamlarda uygun maliyetli ve uygulanması mümkün olan yeni yardımcı tedavilere acilen ihtiyaç duyulmaktadır. AMAÇ: Bilgilendirme tekniğinin standart bakım (SOC) ile karşılaştırıldığında DFU'ların iyileşmesini destekleyip desteklemediğini değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu çok merkezli, değerlendiricinin kör olduğu randomize klinik çalışma, 15 Şubat 2022 ile 18 Aralık 2024 tarihleri ​​arasında Danimarka'da yara bakımı konusunda uzmanlaşmış 4 ayakta tedavi kliniğinde gerçekleştirildi. Bir yıllık tıbbi kayıt takibi 14 Ağustos 2025'te tamamlandı.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43002399/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42733"
-  },
-  {
-   "pmid": "43001758",
-   "baslik_en": "Community and EMS Interventions to Improve Survival in Cardiac Arrest.",
-   "baslik_tr": "Kardiyak Arrestte Hayatta Kalmayı İyileştirmeye Yönelik Toplum ve Acil Durum Müdahaleleri.",
+   "pmid": "43001741",
+   "baslik_en": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke.",
+   "baslik_tr": "İskemik inme geçirmiş hastalarda yoğun kan basıncı kontrolü",
    "dergi": "The New England journal of medicine",
    "yazarlar": [
-    "Malta Hansen C",
-    "Krychtiuk KA",
-    "Starks MA",
+    "Sampaio Silva G",
+    "Machline-Carrion MJ",
+    "Santo K",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "BACKGROUND: Early cardiopulmonary resuscitation (CPR) and defibrillation improve survival after out-of-hospital cardiac arrest, but evidence from randomized trials about whether community-based implementation strategies improve outcomes is lacking. METHODS: We conducted a registry-based, cluster-randomized trial involving adults with out-of-hospital cardiac arrest treated by emergency medical services (EMS) in North Carolina counties. The counties were grouped into clusters, which were then randomly assigned in a 1:1 ratio to implement a multifaceted intervention or administer usual care.",
-   "ozet_tr": "AMAÇ: Erken kardiyopulmoner resüsitasyon (CPR) ve defibrilasyon, hastane dışı kalp durması sonrasında sağkalımı iyileştirir, ancak toplum temelli uygulama stratejilerinin sonuçları iyileştirip iyileştirmediğine ilişkin randomize çalışmalardan elde edilen kanıtlar eksiktir. YÖNTEMLER: Kuzey Karolina ilçelerinde acil tıbbi hizmetler (EMS) tarafından tedavi edilen, hastane dışı kalp krizi geçiren yetişkinleri kapsayan, kayıt tabanlı, küme-randomize bir çalışma yürüttük. İlçeler kümeler halinde gruplandırıldı ve daha sonra çok yönlü bir müdahale uygulamak veya olağan bakımı yönetmek için 1:1 oranında rastgele atandılar.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43001758/",
-   "doi": "https://doi.org/10.1056/NEJMoa2612757"
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In this open-label randomized trial at 30 sites in Brazil, 4368 adults with high blood pressure and a previous ischemic stroke or TIA were assigned to a systolic target below 120 or below 140 mm Hg. Over a median 3.9 years, major cardiovascular events occurred in 10.9% with intensive treatment versus 13.5% with standard treatment (hazard ratio 0.79). A composite renal outcome was more common with intensive treatment, and serious adverse events were similar. The trial was open-label.",
+   "ozet_tr": "Brezilya'daki 30 merkezde yürütülen açık etiketli randomize çalışmada, yüksek tansiyonu olan ve daha önce iskemik inme ya da geçici iskemik atak geçirmiş 4368 yetişkin, sistolik hedefi 120 mm Hg altı ya da 140 mm Hg altı olacak şekilde iki gruba ayrıldı. Ortalama 3,9 yıllık izlemde büyük kardiyovasküler olaylar yoğun tedavide %10,9, standart tedavide %13,5 oranında görüldü (risk oranı 0,79). Böbrekle ilgili birleşik sonlanım yoğun tedavide daha sık görüldü, ciddi yan etkiler benzerdi. Çalışma açık etiketliydi.",
+   "neden_onemli": "İnme geçirenlerde daha sıkı tansiyon hedefinin kalp-damar olayları azaltabildiğini, ancak böbrek izleminin önem taşıdığını gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001741/",
+   "doi": "https://doi.org/10.1056/NEJMoa2612924"
   },
   {
-   "pmid": "43002436",
-   "baslik_en": "Reducing Low-Value Care Through the Smarter Care Virginia Initiative.",
-   "baslik_tr": "Akıllı Bakım Virginia Girişimi Sayesinde Düşük Değerli Bakımın Azaltılması.",
-   "dergi": "JAMA internal medicine",
+   "pmid": "43001746",
+   "baslik_en": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes.",
+   "baslik_tr": "Tip 2 diyabetli hastalarda yoğun kan basıncı düşürme",
+   "dergi": "The New England journal of medicine",
    "yazarlar": [
-    "Mafi JN",
-    "Bortz BA",
-    "Vangala S",
+    "Santo K",
+    "Martins E",
+    "Silva GS",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "IMPORTANCE: Low-value care costs more than $100 billion annually and remains pervasive despite decades of evidence documenting its clinical and financial harms. While several US states have begun discouraging its use, the feasibility of such statewide interventions in partnership with large health systems remains unknown. OBJECTIVE: To investigate the effectiveness of a clinician-led, multistakeholder, statewide initiative to reduce low-value care in the Commonwealth of Virginia.",
-   "ozet_tr": "ÖNEMİ: Düşük değerli bakımın maliyeti yılda 100 milyar dolardan fazladır ve klinik ve mali zararlarını belgeleyen onlarca yıllık kanıtlara rağmen hala yaygındır. Bazı ABD eyaletleri bu yöntemin kullanımını caydırmaya başlamış olsa da, büyük sağlık sistemleriyle ortaklaşa yapılan bu tür eyalet çapında müdahalelerin fizibilitesi bilinmiyor. AMAÇ: Virginia Eyaleti'nde düşük değerli bakımı azaltmaya yönelik klinisyen liderliğindeki, çok paydaşlı, eyalet çapında bir girişimin etkinliğini araştırmak.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43002436/",
-   "doi": "https://doi.org/10.1001/jamainternmed.2026.5540"
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "This open-label randomized trial in Brazil enrolled 9476 patients with high blood pressure, type 2 diabetes and high cardiovascular risk, targeting systolic pressure below 120 versus below 140 mm Hg. Over a median 4 years, the primary composite outcome occurred in 6.0% versus 6.7% (hazard ratio 0.90, 95% CI 0.77 to 1.06, P=0.20), so intensive lowering did not significantly reduce major events. Serious adverse events were similar (14.9% vs 14.6%).",
+   "ozet_tr": "Brezilya'daki bu açık etiketli randomize çalışmaya yüksek tansiyonu, tip 2 diyabeti ve yüksek kalp-damar riski olan 9476 hasta alındı; sistolik hedef 120 mm Hg altı ya da 140 mm Hg altıydı. Ortalama 4 yıllık izlemde ana birleşik sonlanım %6,0'a karşı %6,7 oranında görüldü (risk oranı 0,90; %95 GA 0,77-1,06; P=0,20); yani yoğun düşürme büyük olayları anlamlı biçimde azaltmadı. Ciddi yan etkiler benzerdi (%14,9 ve %14,6).",
+   "neden_onemli": "Diyabetlilerde tansiyonu olabildiğince düşürmenin büyük kalp-damar olaylarını azalttığı kanıtlanamadı.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001746/",
+   "doi": "https://doi.org/10.1056/NEJMoa2612922"
+  },
+  {
+   "pmid": "43001734",
+   "baslik_en": "Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a).",
+   "baslik_tr": "Pelakarsen ve yüksek lipoprotein(a) olan hastalarda kardiyovasküler sonuçlar",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Cho L",
+    "Nicholls SJ",
+    "Frndak S",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "This international placebo-controlled randomized trial enrolled 8350 patients with existing cardiovascular disease and lipoprotein(a) of at least 70 mg/dL. Monthly pelacarsen lowered lipoprotein(a) from 236 to 64.4 nmol/L at 12 months, but over a median 4.7 years major cardiovascular events were similar to placebo (12.3% vs 12.1%, hazard ratio 1.02). Results were the same in patients with levels of at least 90 mg/dL. The trial was funded by Novartis.",
+   "ozet_tr": "Bu uluslararası, plasebo kontrollü randomize çalışmaya kalp-damar hastalığı olan ve lipoprotein(a) düzeyi en az 70 mg/dL olan 8350 hasta alındı. Aylık pelakarsen 12. ayda lipoprotein(a) düzeyini 236'dan 64,4 nmol/L'ye indirdi; ancak ortalama 4,7 yıllık izlemde büyük kardiyovasküler olaylar plaseboyla benzerdi (%12,3 ve %12,1; risk oranı 1,02). Düzeyi en az 90 mg/dL olanlarda da sonuç aynıydı. Çalışmayı Novartis finanse etti.",
+   "neden_onemli": "Lp(a)'yı düşürmenin tek başına kalp krizi ve inme riskini azaltmadığını gösteren önemli bir olumsuz sonuç.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001734/",
+   "doi": "https://doi.org/10.1056/NEJMoa2610159"
   }
  ]
 }
