@@ -1,0 +1,676 @@
+{
+ "tarih": "2026-11-12",
+ "donem": "sabah",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "Son kesintide İtalya, İngiltere ve İrlanda'daki okullara sahte bomba uyarıları gönderildi",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/c51k93wjnk02o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "TCMB kredi büyüme sınırlarını yükseltti",
+   "ozet": "TCMB, bankaların ve finansman şirketlerinin 1 yıldan uzun vadeli Türk lirası ve yabancı para cinsinden mevduat dışı yükümlülükleri için tesis edilen zorunlu karşılıklara Türk lirası cinsinden…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-kredi-sinirlarini-yukseltti-3926658"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-ndan-kredi-buyume-sinirlarinda-artis-ihtiyac-tasit-ve-ticari-kredileri-2555472"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRzdkQkxicXFDUExJV3B3NHhocGt2UGdLdWx6dkIxZG5DQXBVbWZDUTQyOFBfNlcxLXJaM3l2SFJ4d01LMjNxZjdmWlFrMzJhOGw0SEMxb2RoRWREbFNQWERWbzFKS1pOM1JwejBPRDJnXzRIOTd4endBMjAzQXRjTg?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı Ekonomi",
+     "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Rusya'nın ABD Büyükelçisi Aleksandr Dartişiyev hayatını kaybetti",
+   "ozet": "Rusya'nın ABD Büyükelçisi Aleksandr Dartişiyev 66 yaşında yaşamını yitirdi. Ölüm nedeni açıklanmadı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/rusya-nın-abd-büyükelçisi-aleksandr-dartişiyev-hayatını-kaybetti/a-79923862?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/11/rusyanin-abd-buyukelcisi-aleksandr-darciyev-hayatini-kaybetti"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/rusya-nin-washington-buyukelcisi-hayatini-kaybetti-3926670"
+    },
+    {
+     "ad": "Sözcü",
+     "link": "https://www.sozcu.com.tr/rusya-nin-abd-buyukelcisi-hayatini-kaybetti-olum-nedeni-aciklanmadi-p380414"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Görüşmeler büyük bir ilerleme sağlanamadan sona erdiğinde Rusya ve Ukrayna büyük bir mahkum değişimi konusunda anlaştı",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVVESEhzeFJHMmo1SUlBcWswbUctbUprbnVPc1pSRWx1ay00ci1hbmYyUjBqOE1JazB2c1l0dVE3cGtGbDc0QldyN3VqYkdGMUtQWlE1cG9FRnV3b2VkUENMbGxyMlJQdmg2MkJxTThvSENGVVVkR3IwcFlXMEJHWUJ5a0dTY0R2b1k2ZXpOUVdvcGkzWWtGcFc1VHl2MDR1UUxaWF9DdmdMY2JaNU5RM3g0UTBDdm1tUHIw?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "İngiltere Kralı 3. Charles, COP31 için Cumhurbaşkanı Erdoğan'a teşekkür etti",
+   "ozet": "İngiltere Kralı 3. Charles, Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 dolayısıyla uluslararası toplumu bir araya getirdikleri için Cumhurbaşkanı Recep Tayyip Erdoğan'a, hükümetine ve…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/ingiltere-krali-3-charles-cop31-icin-cumhurbaskani-erdogana-tesekkur-etti/4121455"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/kral-charles-tan-cumhurbaskani-erdogan-a-tesekkur-mesaji-3926675"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGdBZEhFemcxTFFPQTl2UDFURFZVSFphQk1EVnFJdVh1MFdtTVhBbWtWb2RaV2Y4TkxlcUsyRlJsU1RVRlNTYmR3VjFKcFZneHdlRHdPMExUNTMwa3JZcnBSWmhBV09pZW4wRDhiSnZORGtMV3g3Z2ttdFp3Q0tFZWpSczZaY3BPQW9zek9pcGpXTFlQS2pyTWM4TkNEeUw1bmZobGRn?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Özel'den HABAŞ faciasında yaşamını yitiren işçilerin ailelerine taziye telefonu",
+     "ozet": "YENİ Parti Genel Başkanı Özgür Özel, İzmir'in Aliağa ilçesindeki HABAŞ Demir-Çelik Fabrikası'nda 9 Kasım'da meydana gelen patlamada hayatını kaybeden işçilerin ailelerini telefonla arayarak…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785091/haber/%C3%B6zelden-haba%C5%9F-facias%C4%B1nda-ya%C5%9Fam%C4%B1n%C4%B1-yitiren-i%C5%9F%C3%A7ilerin-ailelerine-taziye-telefonu"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-habas-ta-hayatini-kaybeden-iscilerin-ailelerine-telefon-uzerimize-dusen-ne-varsa-yapmaya-haziriz-2555471"
+      }
+     ]
+    },
+    {
+     "baslik": "Trump: İran ile savaş yakında sona erecek, tam zafer hedefliyoruz",
+     "ozet": "ABD Başkanı Donald Trump, Gaziler Günü dolayısıyla Arlington Ulusal Mezarlığı'nda düzenlenen törende yaptığı konuşmada, İran'a yönelik askeri operasyonlar ve Tahran ile yürütülen görüşmelere ilişkin…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785090/d%C3%BCnya/trump-i%CC%87ran-ile-sava%C5%9F-yak%C4%B1nda-sona-erecek-tam-zafer-hedefliyoruz"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/dunya/abd-baskani-trumptan-iran-mesaji-tam-zafer-kazanmayi-hedefliyoruz-7699799"
+      }
+     ]
+    },
+    {
+     "baslik": "MİT Başkanı Kalın, IKBY Başkanı Neçirvan Barzani ile görüştü",
+     "ozet": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Irak Kürt…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785088/haber/mi%CC%87t-ba%C5%9Fkan%C4%B1-kal%C4%B1n-ikby-ba%C5%9Fkan%C4%B1-ne%C3%A7irvan-barzani-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BC"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/mit-baskani-kalin-necirvan-barzani-ile-gorustu-3926667"
+      }
+     ]
+    },
+    {
+     "baslik": "İran'dan ABD'ye tehdit: Avrupa'daki askeri üsleri hedef alabiliriz",
+     "ozet": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'a yönelik saldırı tehditlerine ilişkin açıklamalarda bulundu. Lübnan merkezli Al Mayadeen televizyonuna konuşan Rızai,…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785085/d%C3%BCnya/i%CC%87randan-abdye-tehdit-avrupadaki-askeri-%C3%BCsleri-hedef-alabiliriz"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/dunya/irandan-carpici-saldiri-aciklamasi-avrupadaki-bazi-abd-uslerini-hedef-alabiliriz-7699662"
+      }
+     ]
+    },
+    {
+     "baslik": "Sergen Yalçın, Belçika maçı öncesi A'dan Z'ye her şeyi anlattı! Enes Ünal, İrfan Can Kahveci, Arda Güler, Ferdi Kadıoğlu...",
+     "ozet": "Türkiye A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın, Uluslar Ligi'nde oynayacağımız Belçika maçı öncesi basın toplantısında açıklamalarda bulundu. Milli Takım ile ilk maçına çıkmaya…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-belcika-maci-oncesi-adan-zye-her-seyi-anlatti-enes-unal-irfan-can-kahveci-arda-guler-ferdi-kadioglu-43374732"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS0JtaXRBOFJjdEpSZWk3c1d4WjkwaHdSeE9QQmxIVmItNmlqS2MwNkIxVXd0aFVrdEE3dDlIUTVRMDF5OUt4Tm9sN2JnT0RDUnVuRTdzZ0VlTzl2QkZjU1hqNjBjNFVobDdxTGFaaWlfeWN0NERrNm5BMDNrOGY2bHJ4a2hkYzBZb3R5U3NyYmxUTHQ5UmlkM0wtTmZDVVZhUVc5YWRqV2psM0pJM293UGVCLUhhR05fWUlzcm5xYnZMX2N1enhHaTRBajR6Q2FoUjNPN0NnN253c2NtM29hOHZWX0dxVUxrRkZfWm5kYndhZw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "YALOVA 5. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/yalova-5-asliye-hukuk-mahkemesi-hakimligi-43373972"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-erzincan-1-sulh-hukuk-mahkemesi-hakimligi-2555208"
+      }
+     ]
+    },
+    {
+     "baslik": "DİYARBAKIR İCRA DAİRESİ MÜDÜRLÜĞÜ",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/diyarbakir-icra-dairesi-mudurlugu-43374030"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bursa-gayrimenkul-satis-icra-dairesi-mudurlugu-2555217"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "OPEC+'ın Ekim ayındaki petrol üretimi, Suudi Arabistan liderliğindeki İran savaş öncesi seviyesine yaklaştı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Bir düzineden fazla önemli yarış, Seçim Gününden bir hafta sonra ilan edilemeyecek kadar erken",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjF0cmpoaVllMVJheTNxYklTOUhpVjRaS3M1NUxoTDVVWklMMzdNZV9YVnh0dlEzVTI0Zk4tTVRkSzFtbXlWMThLcXI2X0F4M2lRRkZXZ0tEV2FOS1ZLeVZ5Q0x5czRRSExneER0REFDYVI5ZFdVWjd3V3hyNHpuV2NkdUpTN1dMUUlBbktiNzYzOGtFT1NQZzFvTTFLa2V5SWkwUDVpSEZQNlZjNVNxeE50cEFveFE?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İspanya'daki işçi grevinin ardından konut protestoları Madrid ve Barselona'yı kasıp kavururken çatışmalar da yaşanıyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Güney Carolina'da kaybolan bebek, 24 saat boyunca köpek kulübesinde diri diri gömüldükten sonra kurtarıldı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1M3c3BacURoenBsb3lsb2tIa3dZaTNEdTdLWXp5YWU5aE90RHZoS3djMW8wUWhsTWlzZHJiaWFXejNrb05ITXhSbi1hXzlUXzE4WUZjWDRfQWtBRFZtcm9wOHdjS2kwUnp5bzRVenJOOGZsZTNvZmNkbU5oMHJPOEtlN3VFbnpGSHRiSll2ZnJ3cnJpNlNYTzJ1d19NWXVjWjZ3NWgzampRT28?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Portekiz, büyük bir Atlantik fırtınası nedeniyle tüm okulları ve zorunlu olmayan hizmetleri kapatıyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazd0ZXhSY3NWMktjVW1yU1NIbXRXUHp6dlR0S1RiYzZsZDhpc3dBMFh1YkZfd0Q3SjJkNG12b3pFYlEwU0Y2dkxQZjJiUHpOZFZlQlcwQTNvOFdKSWNncFd0Y0NMdnlvVTliZ2JoWWIwdW5UWUVTdW9aa1lZT0ZGU1VDSTlvUjNtLTl6N0xGQ2ZqWFh4ckFjLVY3OE1MbEFQUFE?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
+      }
+     ]
+    },
+    {
+     "baslik": "Arjantin'de ev hapsinden kaçan 74 yaşındaki adam balkondan iple kurtuldu",
+     "ozet": "Marksist gerilla grubu Kızıl Tugaylar'ın eski bir üyesi olan Leonardo Bertulazzi, memleketi İtalya'ya iade edilmek üzereydi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina"
+      }
+     ]
+    },
+    {
+     "baslik": "Kenya, virüssüz duruma doğru önemli bir dönüm noktasında son Ebola hastasını taburcu etti",
+     "ozet": "Ülke, yeni vaka kaydedilmediği sürece Ebola'dan arınmış ilan edilmesi için 42 günlük bir geri sayıma başlıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "ABD'de milyar dolarlık orman yangınlarının sıklığı ve maliyeti arttı",
+     "ozet": "ABD'de en az 1 milyar dolar zarara yol açan orman yangınlarının sıklığının son 20 yılda 5 katına çıktığı, maliyetinin ise 10 kat arttığı belirlendi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-milyar-dolarlik-orman-yanginlarinin-sikligi-ve-maliyeti-artti/4121322"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/abd-de-milyar-dolarlik-orman-yanginlarinin-sayisi-bes-katina-cikti-3794246"
+      }
+     ]
+    },
+    {
+     "baslik": "Borsa günü yatay seyirle tamamladı",
+     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.666,42 puandan tamamladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4121000"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yatay-seyirle-tamamladi-haberi-847300"
+      }
+     ]
+    },
+    {
+     "baslik": "Dünya Bankası IFC aracılığıyla finansmanının yaklaşık yüzde 35'ini yerel para biriminde sağlıyor",
+     "ozet": "Dünya Bankası Grubu Başkanı Ajay Banga, \"IFC aracılığıyla finansmanımızın yaklaşık yüzde 35'ini yerel para biriminde sağlıyoruz. Aslında 40 ülkede daha yerel para birimi piyasaları geliştirmek için…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-ifc-araciligiyla-finansmaninin-yaklasik-yuzde-35ini-yerel-para-biriminde-sagliyor/4120597"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/dunya-bankasi-finansmaninin-yaklasik-yuzde-35-ini-yerel-para-biriminde-sagliyor-3794228"
+      }
+     ]
+    },
+    {
+     "baslik": "Jensen Huang istifa etmeli",
+     "ozet": "Ve yuvarlanan tek kafa onunki olmamalı",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Economist",
+       "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign"
+      },
+      {
+       "ad": "CNBC",
+       "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+      }
+     ]
+    },
+    {
+     "baslik": "İran: ABD şu ana kadar mesajımıza yanıt vermedi",
+     "ozet": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin taleplerini içeren mesaja ABD'nin henüz yanıt vermediğini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/iran-abd-su-ana-kadar-mesajimiza-yanit-vermedi-3794241"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/kalibaf-abd-iranin-mesajina-henuz-yanit-vermedi-haberi-847309"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "\"Drone Kalkanı\" Afrika'da vitrine çıktı",
+     "ozet": "Muharebe sahasının güncel tehditlerinden dronlara karşı Türk savunma sanayisi bünyesinde geliştirilen \"Drone Kalkanı\" Afrika'da ilk kez karar vericilere tanıtıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/drone-kalkani-afrikada-vitrine-cikti/4120072"
+      }
+     ]
+    },
+    {
+     "baslik": "Milli sualtı aracı STM NETA 300, Akdeniz'de batık tankı görüntüledi",
+     "ozet": "STM tarafından milli imkanlarla geliştirilen hafif insansız otonom sualtı aracı STM NETA 300, Antalya'nın Kaş ilçesindeki Güvercin Adası açıklarında gerçekleştirdiği keşif faaliyetinde batık tankı…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/milli-sualti-araci-stm-neta-300-akdenizde-batik-tanki-goruntuledi/4119973"
+      }
+     ]
+    },
+    {
+     "baslik": "Metafizik Şiir Nedir? Modern Şiirde Dini ve Metafizik Anlayış Nasıl İşlenir?",
+     "ozet": "Metafizik şiir, ruh ile madde arasındaki ilişkiyi veya gerçekliğin nihai doğasını konu edinen şiirdir. Terim dar anlamıyla 17. yüzyıl İngiliz edebiyatında yazan bir şairler topluluğunu adlandırırken,…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/metafizik-siir-nedir-modern-siirde-dini-ve-metafizik-anlayis-nasil-islenir-24159"
+      }
+     ]
+    },
+    {
+     "baslik": "Bağışıklık Türleri Nelerdir? Doğal ve Kazanılmış Bağışıklık Nasıl Ayrılır?",
+     "ozet": "Bağışıklık türleri, vücudun yabancı istilacılara karşı geliştirdiği savunmanın hızına ve hedef seçiciliğine göre temel olarak doğal bağışıklık ile kazanılmış bağışıklık biçiminde iki ana kola…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/bagisiklik-turleri-nelerdir-dogal-ve-kazanilmis-bagisiklik-nasil-ayrilir-24158"
+      }
+     ]
+    },
+    {
+     "baslik": "Lewis Nokta Yapısı Nedir? Moleküllerin Lewis Yapısı Nasıl Çizilir?",
+     "ozet": "Lewis nokta yapısı (İng: \"Lewis dot structure\"), bir atomun son enerji seviyesindeki valans elektronlarını element sembolü çevresinde noktalarla, atomlar arasındaki kovalent bağları ise nokta…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Evrim Ağacı",
+       "link": "https://evrimagaci.org/lewis-nokta-yapisi-nedir-molekullerin-lewis-yapisi-nasil-cizilir-24157"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Kıdemli doktorlar bu ay planlanan iki günlük grevi iptal etti",
+     "ozet": "İngiltere'deki danışmanlar, ücret ve çalışma koşulları konusundaki anlaşmazlıklar nedeniyle 25 Kasım'da iş bırakacaktı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İnceleme başkanı, hükümetlerin sosyal bakım konusunda 'direksiyon başında uyuduğunu' söyledi",
+     "ozet": "Barones Casey, İngiltere'de kendi kendini finanse edenlerden alınan hizmet ve ücretlerin değişkenliğini eleştiriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Galli NHS patronları çok yıllı sağlık finansmanı çağrısında bulundu",
+     "ozet": "Gelecek hafta Gallerli bakanlar tüm kamu hizmetlerine ilişkin gelecek yılın taslak harcama planlarını açıklayacaklar.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cmn80735d3eqo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Bethell Avustralya gezisinden çıktı ve SA'dan şüphelendi",
+     "ozet": "Jacob Bethell, İngiltere'nin Avustralya'daki beyaz top turuna dahil edilmedi ve diz sakatlığının tekrarlaması nedeniyle Güney Afrika'daki Test turu için de büyük bir şüphe oluştu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/11/jacob-bethell-cricket-england-fitness-south-africa-tests-australia-white-ball-tour"
+      }
+     ]
+    },
+    {
+     "baslik": "A Milli Kadın Basketbol Takımı, Karadağ’ı 79-62 mağlup etti",
+     "ozet": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası elemeleri 2. tur I Grubu ilk maçında konuk ettiği Karadağ'ı 79-62 yendi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-karadag-i-79-62-maglup-etti/4121328"
+      }
+     ]
+    },
+    {
+     "baslik": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın: Bütün planımızı kazanmak üzerine yaptık",
+     "ozet": "UEFA Uluslar A Ligi 1. Grup'taki 5. maçında İzmir'de Belçika ile karşı karşıya gelecek A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, bütün planlarını galibiyet üzerine yaptıklarını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-butun-planimizi-kazanmak-uzerine-yaptik/4121136"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Dua Lipa, Coachella 2027'nin ilk İngiliz kadın başrol oyuncusu olacak",
+     "ozet": "Tame Impala ve SZA, Madonna ve Diljit Dosanjh'ın da yer aldığı ABD festivalinde listenin başında yer alıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Culture",
+       "link": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa"
+      }
+     ]
+    },
+    {
+     "baslik": "\"Kör Gece\" filmi 14. Boğaziçi Film Festivali'nde seyirciyle buluştu",
+     "ozet": "Boğaziçi Kültür Sanat Vakfı tarafından Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün desteğiyle düzenlenen 14. Boğaziçi Film Festivali'nde, yönetmenliğini Reis Çelik'in üstlendiği \"Kör Gece\"…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/kor-gece-filmi-14-bogazici-film-festivalinde-seyirciyle-bulustu/4121361"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43007675",
+   "baslik_en": "Inhaled Corticosteroids and Sickle Cell Disease Severity in Adults Without Asthma: A Randomized Clinical Trial.",
+   "baslik_tr": "Astımı Olmayan Yetişkinlerde İnhale Kortikosteroidler ve Orak Hücre Hastalığı Şiddeti: Randomize Bir Klinik Çalışma.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Curtis SA",
+    "McCuskee S",
+    "Cohen RT",
+    "et al."
+   ],
+   "tur": "Randomized Controlled Trial",
+   "ozet_en": "IMPORTANCE: People living with sickle cell disease (SCD) who have episodic cough and wheeze (ECW) without a diagnosis of asthma have high rates of pain episodes and acute chest syndrome. A previous trial, in which patients with SCD and ECW without asthma received 15 weeks of inhaled mometasone or placebo, showed that inhaled mometasone improved daily pain and reduced soluble vascular cell adhesion molecule 1 (VCAM-1), a marker of disease severity in SCD. OBJECTIVE: To examine the biologic effects and safety of long-term daily inhaled mometasone in patients without asthma but with SCD and ECW.",
+   "ozet_tr": "ÖNEMİ: Orak hücre hastalığı (SCD) ile yaşayan ve astım tanısı olmaksızın epizodik öksürük ve hırıltı (ECW) yaşayan kişilerde yüksek oranda ağrı atakları ve akut göğüs sendromu görülür. Astımı olmayan AKÖ ve ECW hastalarının 15 hafta boyunca inhale mometazon veya plasebo aldığı önceki bir çalışma, inhale mometazonun günlük ağrıyı iyileştirdiğini ve AKÖ'de hastalık şiddetinin bir belirteci olan çözünebilir vasküler hücre yapışma molekülü 1'i (VCAM-1) azalttığını gösterdi. AMAÇ: Astımı olmayan ancak AKÖ ve ECW'li hastalarda uzun süreli günlük inhale mometazonun biyolojik etkilerini ve güvenliğini incelemek.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007675/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42232"
+  },
+  {
+   "pmid": "43013310",
+   "baslik_en": "Civil Society Organization-Led Home Visit Intervention to Reduce Unintentional Child Injury in Rural China: A Cluster Randomized Clinical Trial.",
+   "baslik_tr": "Çin Kırsalında Kasıtsız Çocuk Yaralanmalarını Azaltmak için Sivil Toplum Örgütü Öncülüğünde Ev Ziyareti Müdahalesi: Bir Küme Rastgele Klinik Araştırma.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Wen P",
+    "Tan Z",
+    "Zhuang J",
+    "et al."
+   ],
+   "tur": "Randomized Controlled Trial",
+   "ozet_en": "IMPORTANCE: Unintentional injuries are a leading cause of childhood death and disability, but evidence on scalable home visit interventions in rural settings is limited. OBJECTIVE: To evaluate whether a civil society organization-led home visit intervention can reduce unintentional injuries among children and improve caregiver and household safety. DESIGN, SETTING, AND PARTICIPANTS: This outcome assessor-blinded cluster randomized clinical trial was conducted in 24 rural communities in Guizhou and Shaanxi, China, from May 6 to October 1, 2025. After baseline assessment, communities were randomized as clusters in a 1:1 ratio. Participants were households with children aged 3 to 12 years.",
+   "ozet_tr": "ÖNEMİ: Kasıtsız yaralanmalar çocukluk çağındaki ölüm ve sakatlıkların önde gelen nedenidir, ancak kırsal ortamlarda ölçeklenebilir ev ziyareti müdahalelerine ilişkin kanıtlar sınırlıdır. AMAÇ: Sivil toplum kuruluşlarının öncülüğünde ev ziyareti müdahalesinin çocuklar arasındaki kasıtsız yaralanmaları azaltıp azaltamayacağını ve bakıcı ve ev güvenliğini geliştirip geliştiremeyeceğini değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu sonuç değerlendiricisinin kör olduğu küme randomize klinik çalışması, 6 Mayıs - 1 Ekim 2025 tarihleri ​​arasında Çin'in Guizhou ve Shaanxi kentindeki 24 kırsal toplulukta gerçekleştirildi. Başlangıç ​​değerlendirmesinin ardından topluluklar 1:1 oranında kümeler halinde randomize edildi. Katılımcılar 3 ila 12 yaş arası çocukları olan hanelerdi.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013310/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43140"
+  },
+  {
+   "pmid": "43013307",
+   "baslik_en": "Circulating Tumor DNA in Oligoprogressive Prostate Cancer Treated With Stereotactic Radiotherapy: A Prespecified Secondary Analysis of a Nonrandomized Clinical Trial.",
+   "baslik_tr": "Stereotaktik Radyoterapi ile Tedavi Edilen Oligoprogresif Prostat Kanserinde Dolaşımdaki Tümör DNA'sı: Randomize Olmayan Bir Klinik Araştırmanın Önceden Belirlenmiş İkincil Analizi.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Reid A",
+    "Tran A",
+    "Thakali S",
+    "et al."
+   ],
+   "tur": "Clinical Trial, Phase II",
+   "ozet_en": "IMPORTANCE: Stereotactic body radiotherapy (SBRT) is increasingly used for oligoprogressive prostate cancer, but the duration of disease control is highly variable. OBJECTIVE: To evaluate time to progression based on circulating tumor DNA (ctDNA) prior to SBRT. DESIGN, SETTING, AND PARTICIPANTS: Between October 17, 2018, and February 1, 2023, the phase 2 prospective, single-arm, nonrandomized clinical TRAP (Targeted Radiotherapy in Androgen-Suppressed Prostate Cancer Patients) trial evaluated SBRT to treat 81 patients with castration-resistant prostate cancer (CRPC) and 2 or fewer metastases and imaging evidence of progression while receiving an androgen receptor pathway inhibitor (ARPI).",
+   "ozet_tr": "ÖNEMİ: Stereotaktik vücut radyoterapisi (SBRT), oligoprogresif prostat kanseri için giderek daha fazla kullanılmaktadır, ancak hastalığın kontrol süresi oldukça değişkendir. AMAÇ: SBRT öncesinde dolaşımdaki tümör DNA'sına (ctDNA) dayanarak ilerlemeye kadar geçen süreyi değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: 17 Ekim 2018 ile 1 Şubat 2023 tarihleri arasında, faz 2 prospektif, tek kollu, randomize olmayan klinik TRAP (Androjeni Bastırılmış Prostat Kanseri Hastalarında Hedefli Radyoterapi), kastrasyona dirençli prostat kanseri (CRPC) ve 2 veya daha az metastazı olan 81 hastayı tedavi etmek için SBRT çalışmasını değerlendirdi ve androjen alırken ilerlemenin görüntüleme kanıtı reseptör yolu inhibitörü (ARPI).",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013307/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43400"
+  }
+ ]
+}
