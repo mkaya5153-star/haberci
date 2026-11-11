@@ -1,41 +1,98 @@
 {
  "tarih": "2026-11-11",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "ABD'de Savunma Bakanı Hegseth hakkındaki azil girişimi şimdilik engellendi; Abu Dabi'de Rusya ve Ukrayna ABD arabuluculuğunda görüştü. Türkiye'de gündemde COP31 Liderler Zirvesi öncesi Antalya'daki önlemler ve İzmir'deki patlamanın soruşturması var. Piyasalarda ABD enflasyon verisi faiz beklentilerini ve tahvil getirilerini etkiledi.",
  "one_cikanlar": [
   {
-   "baslik": "Silivri Başsavcılığı Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti",
-   "ozet": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu'nun ölüm nedenine ilişkin hazırlanan Adli Tıp raporuna itirazda bulundu.",
+   "baslik": "ABD Savunma Bakanı Hegseth hakkındaki azil girişimi Temsilciler Meclisinde engellendi",
+   "ozet": "Cumhuriyetçi Partili bir kongre üyesinin başlattığı azil girişimi, Temsilciler Meclisinde yapılan oylamayla şimdilik sonuçsuz bırakıldı. BBC Türkçe ve Reuters'e göre Savunma Bakanı Pete Hegseth görevden alınma sürecinden şimdilik kurtuldu.",
+   "neden_onemli": "ABD'de savunma bakanının görevde kalıp kalmayacağı hem iç siyaseti hem askeri kararları etkiliyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cmj6j6414dy6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEZBbDYzZmduNEtFSjVMNXJ4UmVyUDlLNDRXblhTd2I0Tm0zc1BJV0xMSHQwVXNQQnViR283X0FscXh4VkJiTlh5NUpldFc5ZjEybjU5TGx6cXNQUmVkT1BYV3hqeEtWbk1HWV8zcjF3eXBDa1F4YnVUTGhMQWd2MVg2QzBhRms0TVdYTHo5bzdTMlZ1eDNoMTRZVF9ycnZ1Y3BVUlRHNG1aQzJJdFFqMVk0ckhudDRScnRHR1EyUkxYb1E?oc=5"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk9rMEFNODI4aU13aTBQX0ZscVhJZEs5RW1OYUpnTzMtNmNjTjhMNnJveVhmWmhUdFYwVDlSbXVIdEZKcDBTcF9Sa1EzemRRamJ2Vl9lbW52VWN6QkZVVDNPR1Q4NlNpZ0ZTYkVGT1R5U1NHYnBkYUUxbVA1Y1dCTW1jdXItZ0RUeEc0dUk2M3dzLXg2c1IwWndIMzJjZVN6c1RLVXJ5bw?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "baslik": "Rusya ve Ukrayna Abu Dabi'de ABD arabuluculuğunda yaklaşık dört saat görüştü",
+   "ozet": "Associated Press'e göre Rusya ve Ukrayna heyetleri Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de ABD arabuluculuğunda yaklaşık dört saat süren görüşmeler yaptı.",
+   "neden_onemli": "Savaşın sona erdirilmesine yönelik diplomatik sürecin ne kadar ilerlediğini gösteriyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/international/article/2026/11/11/russia-ukraine-talks-in-abu-dhabi-make-little-progress_6777323_4.html"
+    }
+   ]
+  },
+  {
+   "baslik": "ABD'nin İran'a olası saldırısını 2 hafta ertelediği iddia edildi",
+   "ozet": "Anadolu Ajansı'nın aktardığına göre, ABD'nin muhtemel İran saldırısını Katar'ın yürüttüğü arabuluculuk girişimi nedeniyle 2 hafta ertelediği öne sürüldü. Bu iddia henüz resmi olarak doğrulanmış değil.",
+   "neden_onemli": "Bölgedeki gerilimin petrol fiyatlarına ve diplomasiye yansıması izleniyor.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/silivri-bassavciligi-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-etti/4119512"
+     "link": "https://www.aa.com.tr/tr/dunya/abd-nin-irana-yonelik-olasi-saldirisini-arabulucularin-yuruttugu-dolayli-gorusme-icin-2-hafta-erteledigi-iddia-edildi/4119543"
     },
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/kasif-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-962839.html"
-    },
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/silivri-cumhuriyet-bassavciligindan-kasif-kozinoglunun-olumuyle-ilgili-rapora-itiraz-43373435"
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/iddia-abd-olasi-saldiriyi-2-hafta-erteledi-3926396"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "İzmir'deki HABAŞ demir çelikte patlama: Can kaybı 18'e çıktı, 11 gözaltı",
-   "ozet": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 18 kişinin ölümüyle sonuçlanan patlamanın ardından, şirketin yönetim kurulu başkanı dahil 11 kişi için gözaltı kararı…",
+   "baslik": "Antalya'da COP31 Dünya Liderler Zirvesi için güvenlik ve trafik önlemleri alınacak",
+   "ozet": "11-12 Kasım'da Antalya'da düzenlenecek COP31 Dünya Liderler Zirvesi nedeniyle kent genelinde üst düzey güvenlik ve ulaşım tedbirleri uygulanacak.",
+   "neden_onemli": "Zirve süresince Antalya'da ulaşım ve günlük yaşam kısıtlamalardan etkilenecek.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&at_campaign=rss"
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-dunya-liderler-zirvesi-kapsaminda-trafik-tedbirleri-uygulanacak/4119522"
     },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/dunya-liderleri-iklim-diplomasisi-icin-antalyada-bulusuyor-962880.html"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785040/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-cop31-kapsam%C4%B1nda-d%C3%BCnya-liderleriyle-bir-araya-geldi"
+    }
+   ]
+  },
+  {
+   "baslik": "İzmir Aliağa'daki patlamada 18 işçi ölmüştü: 11 kişi hakkında yakalama kararı",
+   "ozet": "DW Türkçe'ye göre 18 işçinin öldüğü patlamayla ilgili 11 kişi hakkında yakalama kararı çıkarıldı. Şirketin yönetim kurulu başkanı İstanbul'da gözaltına alındı.",
+   "neden_onemli": "İş güvenliği ve sorumluluk tartışmasında soruşturmanın ilk somut adımı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
     {
      "ad": "DW Türkçe",
      "link": "https://www.dw.com/tr/i̇zmir-de-18-işçinin-öldüğü-patlama-11-gözaltı-kararı/a-79911414?maca=tur-rss-tur-all-1495-rdf"
@@ -43,89 +100,8 @@
     {
      "ad": "Euronews Türkçe",
      "link": "https://tr.euronews.com/2026/11/10/izmirdeki-habas-fabrika-patlamasinda-11-kisiye-gozalti"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/izmirdeki-demir-celik-fabrikasinda-patlama-hayatini-kaybeden-17-iscinin-kimlikleri-belli-oldu-43372668"
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan'dan COP31'de yoğun diplomasi trafiği",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında çok sayıda liderle ikili…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-962843.html"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-antonio-guterres-ile-gorustu-3926340"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/10/baskan-erdogan-etiyopya-basbakani-abiy-ahmed-aliyi-kabul-etti"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSG5YZ3N6TFlFSWFaWVp6aUM3VmlBTGpWVTJlZUZwbm5NaDByV3R4UXMtRnFqRENCdlotWXpvbmhSd2R1VmVFZGpxOFkzS3dNRE9XS3RtMmNvSnFrbUlYbHBRTnVLeExKWGZsZ3YxYWFuZ0hXdkh1ZkRiNkJ5aGJFODVRRWg3bG9aYldyU215eDRwaUNZWk10R3FlZWZDUlBGRmc?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Gözaltına alınan Yonca Şık adli kontrol şartı ile serbest",
-   "ozet": "TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık İstanbul'da gözaltına alındıktan sonra adli kontrol şartı ile serbest bırakıldı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cv62y219ded5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/ti̇p-li-ahmet-şık-ın-eşi-yonca-şık-casusluk-suçlamasıyla-gözaltına-alındı-daha-sonra-serbest-bırakıldı/a-79908470?maca=tur-rss-tur-all-1495-rdf"
-    },
-    {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/10/ahmet-sikin-esi-yonca-verdioglu-sik-gozaltina-alindi"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQTVg4VFN5UF8wdTdCY3RuVGdmZnJ0TmpNM1phMHZPRkNKZWlYVVNfd0RrS3JjRG8yQmdGX19VTWtlcEtUNlhxZVBVR1lOaHhzekV5YTVQUHh6czZVMHJWWWFKekFPLUxvUmtEbGV2cWQxaTFSVTBUNkpiSElaRS1DTURpYWVockJVZk9nR0ZDc0FzYlRtcWRhdWszYW90MEZLUnZtVWpZYXo3b1RhOWZNZlVlVkhOa2VRR0tvVlJ2Y2RBNzFtUDFnTVFPOVk0TTU2Y0ZTenNpR28wOWdXR25lblgyTjRwYTcyVGNTRnAzdm1sZkFqUFVZRG1sYzd0Q3ZGcjZfd2tnb1FWeTEyVllwS2JDM0dTU1I4SUNxcnRYMDNLVWZrYlVDOE52eDNJSnJzREstd1FHbGfSAbgCQVVfeXFMT3ZYYlZ5VjZyWm9TM2xaTUtQWFlfeGV3S25XTFRFVlZ5VlBsOFhROHQxeC1XOVFYSV95dEo0M18zVFZKaTFsTGQzLXBsZ1hRYTliazBWTEtCXzNZQi02d3RxQmhnZGY3ZW9kdXMzbDkyaEJzbnZvcWdNeTJTYlEzR0I5THJzOTk1aHFwWFdJNEVfRHF1bFI3MnBQclJISmZaUE9LX2pLS2pTRGJVN2E0Nm5EZzlkQ2ZwRXJlYkc2ZkpmMTlEaFB1elRneV9QQ0NqRVRhU0YtRkNOLW5nbmYyWWJWY3lLMGlnbmpIeHM0NGpnaEthel93LXZVa3phd2lzZmlIcWE0bWpPakc3MDE4dkpKN1UzUFpZbFlxMGVuXzdTaWxBSnczUnVZQ3QzcVViZElTcWFyQ0h4?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İngiliz terörle mücadele polisi, Rusya adına casusluk yapmakla suçlanan ABD askerini tutukladı",
-   "ozet": "ABD Ordusu'nun bir üyesi İngiltere'nin Gloucester yakınlarında tutuklandı. Polis, şahsın Rusya ile bağlantılı casusluk faaliyetinde bulunduğundan şüphelenildiğini söyledi. ABD ve İngiltere'den müfettişler olaya karışıyor...",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-    },
-    {
-     "ad": "New York Times",
-     "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
-    },
-    {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss"
-    },
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5"
-    }
-   ],
-   "neden_onemli": ""
+   ]
   }
  ],
  "bolumler": [
@@ -134,38 +110,31 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Akın Gürlek'ten Yeni Partili Özer'e: \"Milletvekili olmasan evin aranacaktı\"",
-     "ozet": "Adalet Bakanı Akın Gürlek, TBMM'deki bütçe görüşmelerinde fon soruşturması, İBB operasyonları gibi konularda eleştirilere yanıt verdi. Gürlek'in Yeni Partili Özer'e yönelik sözleri nedeniyle sert…",
+     "baslik": "Silivri Başsavcılığı, Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti",
+     "ozet": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu'nun ölüm nedenine ilişkin hazırlanan Adli Tıp raporuna itirazda bulundu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/akın-gürlek-ten-yeni-partili-özer-e-milletvekili-olmasan-evin-aranacaktı/a-79906907?maca=tur-rss-tur-all-1495-rdf"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/silivri-bassavciligi-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-etti/4119512"
       },
       {
-       "ad": "Medyascope",
-       "link": "https://medyascope.tv/2026/11/10/akin-gurlek-taskin-ozere-evin-aranacakti-dedi-iste-adem-soytekinin-toplanti-iddialari-ve-celiskili-ifadeleri/"
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/kasif-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-962839.html"
+      },
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/bassavciliktan-kasif-kozinoglu-nun-olumune-iliskin-hazirlanan-rapora-itiraz-p380025"
       }
      ]
     },
     {
-     "baslik": "Kılıçdaroğlu'nun danışmanı duyurdu: Cafer Mahiroğlu hakkında suç duyurusunda bulunulacak",
-     "ozet": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun Basın Danışmanı Atakan Sönmez, Cafer Mahiroğlu'nun Kılıçdaroğlu hakkında ortaya attığı iddialar nedeniyle hukuki süreç başlatılacağını ve Mahiroğlu hakkında…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785039/haber/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-dan%C4%B1%C5%9Fman%C4%B1-duyurdu-cafer-mahiro%C4%9Flu-hakk%C4%B1nda-su%C3%A7-duyurusunda"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/atakan-sonmez-mahiroglu-hakkinda-iki-suctan-basvuru-yapilacagini-acikladi-3926380"
-      }
-     ]
-    },
-    {
-     "baslik": "Türkiye ile Suudi Arabistan arasında elektrik projelerinde işbirliği mutabakatı imzalandı",
-     "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan'la Elektrik Projelerinde İşbirliğine İlişkin Mutabakat Zaptı imzalandığını ve ACWA Power tarafından Türkiye'de iki aşamada…",
+     "baslik": "Türkiye ile Suudi Arabistan arasında elektrik projelerinde mutabakat imzalandı",
+     "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'a göre iki ülke arasında Elektrik Projelerinde İşbirliğine İlişkin Mutabakat Zaptı imzalandı. Bayraktar, ACWA Power tarafından Türkiye'de iki aşamada yatırım yapılacağını belirtti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -173,84 +142,38 @@
        "link": "https://www.indyturk.com/node/785036/d%C3%BCnya/t%C3%BCrkiye-ile-suudi-arabistan-aras%C4%B1nda-elektrik-projelerinde-i%C5%9Fbirli%C4%9Fi-mutabakat%C4%B1"
       },
       {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/suudi-arabistan-dan-turkiye-ile-demir-yolu-mutabakatina-onay-3926405"
+      },
+      {
        "ad": "Google Haberler Türkiye",
        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTRMMGJpLU1lOHNVQ1pUQXNnQnhrazZBUFNGNTlNanZLbEJIVE5nYWdsWWY4YUhfY3ltZ25HOUJzMk85cVBxTG1zTTdBalQ3Z0lXY2oteklfYW5JNWhiNl9aQXQ0OU1nUk8zWFpSNU5WWG5TX3NqcXUwN0hxV0tBODgyTk9xeUQzR2I0SmRCV2M5WUJUNmlLSkxRNGFzY1VjMkFkRGtfVHJuZw?oc=5"
-      },
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-ozbekistan-gumruk-idareleri-arasinda-anlasmalar-imzalandi/4119488"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-suudi-arabistan-arasinda-elektrik-projelerinde-isbirligi-mutabakati-imzalandi/4119225"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/turkiye-ile-suudi-arabistan-arasinda-5-bin-megavatlik-enerji-isbirligi-3794127"
       }
      ]
     },
     {
-     "baslik": "Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
-     "ozet": "Lavrov, Moskova'da düzenlenen Kolektif Güvenlik Antlaşması Örgütü'nün (KGAÖ) dışişleri, savunma ve güvenlik konseylerinin sekreterleri komitesinin ortak toplantısına katıldı. Toplantının ardından…",
+     "baslik": "Yonca Şık gözaltına alındı, adli kontrolle serbest bırakıldı",
+     "ozet": "BBC Türkçe'ye göre TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık İstanbul'da gözaltına alındı ve adli kontrol şartıyla serbest bırakıldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785034/d%C3%BCnya/rusya-avrupan%C4%B1n-ukraynada-ate%C5%9Fkes-talebini-kabul-etmeyece%C4%9Fiz"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cv62y219ded5o?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUNkWmgxazlWbDR5aW45OWgteGFOdDBSZ25FeE13YWwzSnh4M2NLU3Q4OWcyT0V2NVRhUkhwYUJMN2I5RFQ5MHJuU0tFWFJSc1dfUk1zYjlwTWx5YXdMZVZRTl9nVVBwemI0Sk92M0daQWJfeFFSVFhIVHlFY3hSUnNrWGZkdmU5WlE?oc=5"
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/ti̇p-li-ahmet-şık-ın-eşi-yonca-şık-casusluk-suçlamasıyla-gözaltına-alındı-daha-sonra-serbest-bırakıldı/a-79908470?maca=tur-rss-tur-all-1495-rdf"
       }
      ]
     },
     {
-     "baslik": "Bolu Dağı geçişinde kaza! Trafik durma noktasına geldi",
-     "ozet": "Anadolu Otoyolu'nun Bolu Dağı geçişindeki 3. Viyadük mevkisinde 1 tır ve 2 kamyonun karıştığı kazada 2 kişi yaralandı.",
-     "etiket": "teyitli",
+     "baslik": "TCMB Başkanı Karahan yılın son Enflasyon Raporu'nu yarın açıklayacak",
+     "ozet": "Türkiye Cumhuriyet Merkez Bankası Başkanı Fatih Karahan, yılın son Enflasyon Raporu'nu yarın İstanbul'da açıklayacak.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/bolu-dagi-gecisinde-kaza-trafik-durma-noktasina-geldi-43373392"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/yasam/bolu-dagi-mevkiinde-zincirleme-kaza-istanbul-istikameti-trafige-kapatildi-7699007"
-      }
-     ]
-    },
-    {
-     "baslik": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
-     "ozet": "Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 2'si tutuklu 5 sanık hakkında düzenlenen iddianame kabul edildi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-43373481"
-      },
-      {
-       "ad": "Sözcü",
-       "link": "https://www.sozcu.com.tr/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-p380031"
-      },
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-/4119333"
-      }
-     ]
-    },
-    {
-     "baslik": "Alanyaspor, Uğur Uçar’ı resmen açıkladı",
-     "ozet": "Süper Lig ekiplerinden Alanyaspor, Joao Pereira’dan boşalan teknik direktörlük koltuğuna Uğur Uçar’ın getirildiğini duyurdu.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/alanyaspor-ugur-ucari-resmen-acikladi-43373488"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/spor/alanyaspor-da-yeni-teknik-direktor-ugur-ucar-oldu-3926382"
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/ekonomi/yilin-son-enflasyon-raporu-yarin-aciklanacak-962882.html"
       }
      ]
     }
@@ -261,107 +184,112 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Açıklayıcı: Pentagon şefi Hegseth'in görevden alınması nasıl işe yarar?",
-     "ozet": "",
+     "baslik": "İsrail'de yeni Meclis yemin etti; Eisenkot, Likud'la müzakereleri iptal etme talimatı verdi",
+     "ozet": "Yeni İsrail Meclisi yemin etti. Anadolu Ajansı'na göre Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Netanyahu'nun Meclis açılışında yaptığı \"bölücü\" konuşma nedeniyle Likud'la planlanan müzakerelerin iptalini istedi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWhYdFkwaTUzVUx1RldDaV8tM0dhZ0FTNUh1UGJXcGlrc0s1T0FmamhCd0h5LXpsdWZSNmh5QTFndWc1dFlTWWI5R1VXSnY3eVo5Q1BFTEpMZVVGN3Ixd2ZtWTNMaTM2QlZrZkM1cHBmTHdoZTJUd3pqZl9kbVJJd3dCdVB5MXNsZ21zbDVGakFuR0RKVVdkWVdTV3piRHZSQ0Fj?oc=5"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati/4119545"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/eisenkot-tan-netanyahu-nun-partisi-ile-muzakereleri-iptal-etme-talimati-3926399"
+      },
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c3j4rxxn0yy2o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de Cumhuriyetçilerin Temsilciler Meclisindeki yeni lideri Jim Jordan oldu",
+     "ozet": "3 Kasım ara seçimlerinin ardından Cumhuriyetçiler Temsilciler Meclisinde Jim Jordan'ı lider seçti; Senato'da John Thune koltuğunu korudu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisindeki-cumhuriyetcilerin-yeni-lideri-jim-jordan-oldu/4119590"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZGdsY3lnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5"
       },
       {
        "ad": "France 24",
-       "link": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce"
+       "link": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat"
       }
      ]
     },
     {
-     "baslik": "Trump yönetimi 6,3 milyon kişi için gıda pullarını kesmeye hazırlanıyor",
-     "ozet": "",
+     "baslik": "ABD ordusundan bir mensup Rusya adına casusluk şüphesiyle Birleşik Krallık'ta tutuklandı",
+     "ozet": "Haber başlıklarına göre İngiliz terörle mücadele polisi, Rusya adına casusluk şüphesiyle ABD ordusundan bir mensubu tutukladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkdsb19Yam5qLTdpaWR0QnpicVk0M1k2RURwUDZadmlSX3cxRFlfY05vX254WmpXSUZTVU9CMmxHRER2Y0ZwRTlIcnJmcld6bWZYUHE5eTltV25lVFFxM3NTNmh3aVBCbTBZbFBqMFBQbFY1MFA5Y294bDhqSWxEYXJCTF9QanA3VWM0NWcwT05WeVBuZEh4TExJczhzRElHT1JUT3ZuMXU?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Eisenkot hükümet kurmaya çalışırken İsrail parlamentosu yemin etti",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5"
       },
       {
        "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Rubio, ABD'nin ekonomik kampanyası göz önüne alındığında İran'a karşı büyük bir muharebe operasyonuna gerek olmadığını söyledi",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5"
+       "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Pete Hegseth'in karşı karşıya olduğu azil maddeleri neler?",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NMbXZsZWM1TUpORFVzUVhKMFIyS3VPSk5SRHZkQ1VCcjhJU3JReEI3N3NSbW9vRGc0R3Z4WTZWWllUbEU0ODRJWkxxOXVLNy1uQTBCbWNtWlNYY0ZRUWstcWU4dlhUaVgtU2pqMW9wWkltVDBYUGxNblFDZU1aSmd5eXgzYzZfcy1TWDRNOEc1WlJIZ2IwVDJR?oc=5"
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/11/uk-arrests-us-soldier-suspected-of-spying-for-russia_6777455_4.html"
       },
       {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html"
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
       }
      ]
     },
     {
-     "baslik": "Rusya ve Ukrayna, Abu Dabi'de ABD'nin aracılık ettiği yaklaşık 4 saatlik görüşmelerde bulundu",
-     "ozet": "",
+     "baslik": "ABD, RAF Fairford üssüne yönelik terör planıyla ilgili üç kişiyi suçladı",
+     "ozet": "France 24'e göre ABD Adalet Bakanlığı, İngiltere'deki RAF Fairford hava üssüne yönelik Eylül ayındaki iddia edilen terör planıyla ilgili, \"İranlı ajanlar\" olarak tanımladığı üç kişiyi suçladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
-      }
-     ]
-    },
-    {
-     "baslik": "BM organı, Trump yönetiminin küçümsemesinin ardından ABD'nin insan hakları sicilinin incelenmesini ertelemeyi kabul etti",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkJRUkZkLUVBa0ZkR2QydWpvZDR0OWhjMkN1X3pZS0N4eDRjX3U4S1NZbnJsMlFsU3dsQ0lhVlUxY3cwQ0s3UDVpN0VkWEZvc0FVcDBpUml4bk1kd2VUcEdwQmkzaW5kTk1uV2JiUGNiQlBCWjZLOFdRREd4VTJUSVdFYVlNV1RIaFFWVHpoWVp5djMwZ3RTTDRR?oc=5"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot"
       },
       {
        "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss"
+       "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de bir hakim, Trump'ın BBC'ye açtığı 10 milyar dolarlık davanın sürebileceğine hükmetti",
+     "ozet": "Reuters'e göre bir ABD hakimi, Başkan Trump'ın BBC aleyhine açtığı 10 milyar dolarlık hakaret davasının devam edebileceğini belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/11/trump-s-10-billion-defamation-lawsuit-against-bbc-allowed-to-proceed_6777289_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Letonya ve Litvanya yeni drone tehditleri konusunda uyardı; Finlandiya kısıtlamalar getirdi",
+     "ozet": "Reuters'e göre Letonya ve Litvanya yeni drone tehditlerine karşı uyarıda bulundu, Finlandiya ise önlem olarak kısıtlamalar uyguluyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWx6TkpxdU5NeldhTTlsMTA2RklPdlVIZnYwWkZJcXVvUTkxM081UnROWUZ0Vzd0TUFwZFRQbWxLalNZUUszM3FldUlmSEpaemJLdV82NnB4Uk5mcjhMQ2h6dGVvWnpUY1d3SEc1UE9Zck1DVkVWbURmMG13VmM1R1RnNFYzT3lIOEt1TmtOdjA0bzB4MWtr?oc=5"
       }
      ]
     }
@@ -372,77 +300,96 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "COP31'de \"35'e 35\" hedefi kapsamında ilk Küresel Elektrifikasyon Forumu düzenlendi",
-     "ozet": "Enerji ve Tabii Kaynaklar Bakan Yardımcısı Demircan \"Emisyonların azaltılması ve elektrifikasyon gündemini ilerletmeye, daha güvenli, uygun maliyetli ve sürdürülebilir bir enerji geleceğine yönelik…",
+     "baslik": "ABD'de enflasyon ekimde aylık yüzde 0,4 arttı; tahvil getirileri yükseldi",
+     "ozet": "The Guardian'a göre ABD'de enflasyon eylüle kıyasla ekimde yüzde 0,4 arttı ve beklentilerin biraz üzerinde kaldı. Financial Times'a göre yüksek enflasyon verisi, iki yıllık tahvil getirilerinde 2024'ten bu yana en sert artışı tetikledi ve piyasada Fed faiz artırımı beklentisini güçlendirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-35e-35-hedefi-kapsaminda-ilk-kuresel-elektrifikasyon-forumu-duzenlendi/4119183"
+       "ad": "The Guardian Business",
+       "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
       },
       {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/dunya/cop31de-ab-ulkeleri-elektrifikasyon-hedefi-icin-uzlasti-haberi-847164"
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "baslik": "Ali Koç'tan COP31'de \"ekonomik rekabet ve enerji dönüşümü\" vurgusu",
-     "ozet": "Koç Holding Yönetim Kurulu Başkan Vekili Ali Koç, enerji dönüşümünün yalnızca iklim değişikliğiyle mücadele kapsamında değerlendirilmemesi gerektiğini belirterek, \"Yeni denklem enerji dönüşümü,…",
+     "baslik": "Petrol 90 doların altına indi",
+     "ozet": "Financial Times'a göre Trump'ın İran'a saldırı tehdidinden geri adım atması üzerine ham petrol 90 doların altına geriledi. Reuters ise Hürmüz'deki gemi saldırılarının petrolü iki ayın en düşük seviyesinden yukarı çektiğini bildirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/ali-koctan-cop31de-ekonomik-rekabet-ve-enerji-donusumu-vurgusu/4118708"
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/koc-holdingali-koc-donusum-olmazsa-olmaz-3794119"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5"
       }
      ]
     },
     {
-     "baslik": "Çin'in elektrikli araç ihracatı ekimde rekor seviyeye çıktı",
-     "ozet": "Çin'in elektrikli araç ihracatı, Orta Doğu'daki savaşın petrol fiyatlarında artışa yol açmasının​​​​​​​ etkisiyle rekor seviyelere ulaştı.",
+     "baslik": "Anthropic'in halka arzda 1,3 trilyon doları aşan değerleme hedeflediği bildirildi",
+     "ozet": "Associated Press'e göre Anthropic halka arzda yaklaşık 1,3 trilyon dolarlık değerleme hedefliyor. Financial Times ise bankacıların güçlü yatırımcı talebi nedeniyle değerleme beklentisini 1,5 trilyon dolara ve üzerine çıkarmaya hazırlandığını yazdı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cinin-elektrikli-arac-ihracati-ekimde-rekor-seviyeye-cikti/4119284"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0RzZUdwSHJSaUFqcXk5aFQ2QjYyWW0yTWxNbGhZRmo2NVlGOVhPWUdxdm9VS05oN0x6dzR1d2hYakpFRTdjd1ZNaDVhQ3BMQ3IwUXVNODRWck50MkwtWnlmUERNWXctY3FCR1JURC1BYWY2LUFlMTZQTjk0RHhwRTJGaTJ2cHhvbnFGUWQ4Y3hYOVJVQzY0UmtLQ2tRLW9tdlUtcHZHQQ?oc=5"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/cin-in-elektrikli-arac-ihracati-ekim-de-rekor-kirdi-3794130"
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "baslik": "Borsa günü düşüşle tamamladı",
-     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,43 değer kaybederek 11.661,86 puandan tamamladı.",
-     "etiket": "teyitli",
+     "baslik": "BIST 100 günü yüzde 0,43 düşüşle tamamladı",
+     "ozet": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 0,43 değer kaybederek 11.661,86 puandan kapattı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
        "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-847153"
       }
      ]
     },
     {
-     "baslik": "ABD'de enflasyon ekimde beklentilerin üzerinde arttı",
-     "ozet": "ABD'de Tüketici Fiyat Endeksi (TÜFE), ekimde aylık bazda yüzde 0,4 artarak piyasa beklentilerinin üzerinde gerçekleşti.",
+     "baslik": "TCMB iki elektronik para şirketinin faaliyet iznini iptal etti",
+     "ozet": "Bloomberg HT'ye göre Merkez Bankası, Ozan Elektronik Para A.Ş. ile A Ödeme ve Elektronik Para Hizmetleri A.Ş.'nin faaliyet izinlerini iptal etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/tcmb-iki-elektronik-para-sirketinin-faaliyet-iznini-iptal-etti-3794141"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/merkez-bankasi-iki-elektronik-para-kurulusunun-faaliyet-iznini-iptal-etti-haberi-847193"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de benzin fiyatı temmuzdan bu yana ilk kez galon başına 4 doların altına düştü",
+     "ozet": "ABD genelinde benzinin ortalama fiyatı galon başına 3,98 dolara geriledi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964"
+       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-benzin-fiyatlari-temmuzdan-bu-yana-ilk-kez-galon-basina-4-dolarin-altina-dustu/4119437"
       },
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/abd-de-ekim-enflasyonu-beklentileri-asti-3794098"
+       "link": "https://www.bloomberght.com/abd-de-benzin-fiyatlari-temmuz-dan-bu-yana-ilk-kez-4-dolarin-altina-indi-3794137"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/abdde-benzin-fiyatlari-4-dolarin-altina-indi-haberi-847175"
       }
      ]
     }
@@ -453,8 +400,8 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "Petrol fiyatları o kadar yüksek ki fosil yakıtlardan kaynaklanan CO2 emisyonları düşüyor",
-     "ozet": "İran'daki savaş, yıllık fosil yakıt karbon emisyonlarında 2026'yı düşüş yoluna soktu",
+     "baslik": "Petrol fiyatları yüksek seyrettiği için fosil kaynaklı CO2 emisyonları düşüyor",
+     "ozet": "Scientific American'a göre İran'daki savaş nedeniyle yükselen petrol fiyatları, 2026'yı yıllık fosil yakıt karbon emisyonlarında düşüş yaşanacak bir yıla çıkardı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -468,58 +415,46 @@
      ]
     },
     {
-     "baslik": "Oura, tıbbi AI sohbet robotu girişimi Counsel Health'i satın alıyor",
-     "ozet": "Oura bugün üç aylık kazancını açıkladı ve bu yılın başında şirketin yapay zeka sohbet robotunu uygulamasına ekledikten sonra Counsel Health'i 625 milyon dolara satın almayı kabul ettiğini söyledi. Danışman Sağlık çağrıları…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
-      },
-      {
-       "ad": "TechCrunch",
-       "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-      },
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Google'ın Piksel Etiketi izleyicisi artık kullanılabilir",
-     "ozet": "Samsung, Motorola ve Pebblebee gibi şirketlerin üçüncü taraf Android takip programlarından yıllar sonra Google'ın Pixel Tag'i artık satın alınabiliyor. İlk olarak Ağustos ayında duyurulan Pixel Tag…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"
-      },
-      {
-       "ad": "TechCrunch",
-       "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
-      }
-     ]
-    },
-    {
-     "baslik": "AB Siber Güvenlik Ajansı: AB'ye yönelik siber tehdit seviyesi yüksek kalmaya devam ediyor",
-     "ozet": "Avrupa Birliği Siber Güvenlik Ajansı (ENISA), birlik genelinde siber güvenlik kapasitesinde iyileşme kaydedilmesine rağmen AB'ye yönelik siber tehdit seviyesinin yüksek kalmaya devam ettiği konusunda…",
+     "baslik": "James Webb görüntülerinde gizli kalmış bir gezegen keşfedildi",
+     "ozet": "ScienceDaily'ye göre bilim insanları, James Webb Uzay Teleskobu'nun dijital ikizini kullanan yeni bir görüntüleme tekniği geliştirdi. Teknik, şimdiye dek görülemeyen birçok gezegenin ortaya çıkarılmasına imkân verebilir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ab-siber-guvenlik-ajansi-abye-yonelik-siber-tehdit-seviyesi-yuksek-kalmaya-devam-ediyor/4119487"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm"
       }
      ]
     },
     {
-     "baslik": "Almanya’da yapay zekanın 15 yılda 800 bin işi değiştirmesi bekleniyor",
-     "ozet": "Almanya Federal İş Ajansı (BA) Başkanı Andrea Nahles, yapay zekanın gelecek 15 yıl içinde ülkede yaklaşık 800 bin iş kaybına yol açacağını ancak benzer sayıda yeni istihdam oluşturacağını belirtti.",
+     "baslik": "Sivrisinekler insanları farklı kokulara göre seçiyor",
+     "ozet": "ScienceDaily'ye göre yeni bir çalışma, her sivrisinek türünün kendine özgü cilt kokusu, kimyasal ve bakteri bileşimine çekildiğini gösterdi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanya-da-yapay-zekanin-15-yilda-800-bin-isi-degistirmesi-bekleniyor/4119470"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "New York'un yapay zekâ güvenliği yasası yürürlüğe giriyor",
+     "ozet": "TechCrunch'a göre yasa, OpenAI ve Anthropic gibi büyük geliştiricilerin kayıt yaptırmasını, güvenlik uygulamalarını açıklamasını ve kritik olayları bildirmesini şart koşuyor; uymayanlara para cezası öngörülüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+      }
+     ]
+    },
+    {
+     "baslik": "DeepMind, Gemini Robotics 2.5'i ve açık güvenlik ölçütü ASIMOV-jailbreak'i duyurdu",
+     "ozet": "Ars Technica'ya göre yeni model bazı görevlerde öncekinden iki kata kadar daha başarılı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
       }
      ]
     }
@@ -530,35 +465,39 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Anlaşma, bebek randevularını etkileyen sağlık ziyaretçisi grevine son verilmesi konusunda anlaştı",
-     "ozet": "Sağlık ziyaretçileri önümüzdeki hafta işlerine dönecek ve dokuz aydır ücret ve notlandırma konusunda yaşanan anlaşmazlığa son verilecek.",
+     "baslik": "Essitalopram, depresyon nüksünü önlemede öne çıktı",
+     "ozet": "BBC Health'e göre bir analizde üç ilaç, nüksü önlemede Prozac'tan daha iyi sonuç verdi; essitalopram bunlardan biri olarak öne çıktı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c317k7kn44nzo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "İskoçya kan bağışı sıkıntısıyla karşı karşıyayken Amber alarmı verdi",
-     "ozet": "Kan stoklarının son aylarda birkaç kez hedefin altına düşmesi üzerine sarı alarm verildi",
-     "etiket": "tek kaynak",
+     "baslik": "FDA, GLP-1 ilaçlarına nadir görme kaybı uyarısı ekledi",
+     "ozet": "Reuters ve başka kaynaklara göre FDA, popüler GLP-1 ilaçlarına nadir görülen bir görme kaybı durumuna ilişkin uyarı ekledi.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c678p8yz0k38o?at_medium=RSS&at_campaign=rss"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvSnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5"
+      },
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
       }
      ]
     },
     {
-     "baslik": "Annemin histerektomi geçirmesinden sonra nadir görülen kanser keşfedildi",
-     "ozet": "Coventry'den dört çocuk annesi Donna Marklew, ameliyat sonrası biyopsi sonrasında kanser olduğunu keşfetti.",
+     "baslik": "ABD'nin kızamık eleme statüsünü kaybetmek üzere olabileceği belirtiliyor",
+     "ozet": "Scientific American'a göre resmen eleme ilan edilmesinden yıllar sonra ABD'de kızamık yaygın biçimde görülüyor ve ülke eleme statüsünü yitirme eşiğinde olabilir.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/crq5n5w26lp5o?at_medium=RSS&at_campaign=rss"
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/"
       }
      ]
     }
@@ -569,43 +508,39 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "McTominay, Dünya Kupası'nda kalp tedavisini açıkladı",
-     "ozet": "Scott McTominay, İskoçya'nın Haziran ayında Haiti'yi mağlup ettiği Dünya Kupası'ndan iki gün önce kalbinde tedavi gördüğünü açıkladı.",
-     "etiket": "teyitli",
+     "baslik": "Manchester City, Inter'i yenerek Şampiyonlar Ligi'nde sezonun ilk galibiyetini aldı",
+     "ozet": "BBC Sport'a göre Manchester City geriye düştüğü maçta Inter Milan'ı yenerek bu sezonki ilk Şampiyonlar Ligi galibiyetine ulaştı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener"
+       "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Formula 1 sezonu Orta Doğu'da tamamlayacak",
-     "ozet": "2026 Formula 1 sezonu, planlandığı gibi Katar ve Abu Dhabi grand prix'leriyle sona erecek ve İtalya'nın Imola pisti yarışlara yedek olarak geri dönecek.",
+     "baslik": "Noskova, Gauff'u yenip WTA Finals'te yarı finale çıkan ilk isim oldu",
+     "ozet": "BBC Sport'a göre Linda Noskova, Coco Gauff'u yenerek WTA Finals'te son dörde kalan ilk oyuncu oldu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/10/f1-season-finale-middle-east-conflict-formula-one-abu-dhabi-imola-qatar"
+       "link": "https://www.theguardian.com/sport/2026/nov/10/jessica-pegula-marta-kostyuk-wta-finals-tennis"
       }
      ]
     },
     {
-     "baslik": "Gençlik ve Spor Bakanı Osman Aşkın Bak: 3 milyon gencimize önümüzdeki 2,5 ile 3 yıl içerisinde istihdam sağlayacağız",
-     "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2,5 ile 3 yıl içinde 3 milyon gence istihdam sağlamayı hedeflediklerini söyledi.",
+     "baslik": "Fenerbahçe takım otobüsüne yönelik saldırının iddianamesi kabul edildi",
+     "ozet": "Nisan 2015'te Trabzon'un Sürmene ilçesinde Fenerbahçe takım otobüsüne yapılan silahlı saldırıyla ilgili, 2'si tutuklu 5 sanık hakkında hazırlanan iddianame kabul edildi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-osman-askin-bak-3-milyon-gencimize-onumuzdeki-2-5-ile-3-yil-icerisinde-istihdam-saglayacagiz/4119503"
+       "link": "https://www.aa.com.tr/tr/spor/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-/4119333"
       }
      ]
     }
@@ -616,8 +551,8 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada nüshasının bilinmeyen özellikleri ortaya çıkarıldı",
-     "ozet": "İstanbul Üniversitesinde yürütülen araştırmada, Fatih Sultan Mehmet'in kütüphanesindeki 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine ilişkin…",
+     "baslik": "Fatih Sultan Mehmet'in kütüphanesindeki İlyada el yazması İstanbul'da kopyalanmış olabilir",
+     "ozet": "Anadolu Ajansı'na göre İstanbul Üniversitesindeki araştırma, 260 yapraklık İlyada el yazmasının İstanbul'daki bir yazım atölyesinde kopyalanmış olabileceğine işaret ediyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -627,13 +562,13 @@
      ]
     },
     {
-     "baslik": "Çello virtüözü Luka Sulic, Türkiye'deki ilk konserleri için Zorlu PSM'ye geliyor",
-     "ozet": "2CELLOS grubuyla dünya çapında milyonlarca dinleyiciye ulaşan çellist ve besteci Luka Sulic, solo turnesi \"Life Tour\" kapsamında İstanbul'da konser verecek.",
+     "baslik": "14. Boğaziçi Film Festivali'nde \"Elisa\" filmi gösterildi",
+     "ozet": "Boğaziçi Kültür Sanat Vakfı tarafından düzenlenen 14. Boğaziçi Film Festivali'nde \"Elisa\" filmi izleyiciyle buluştu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/cello-virtuozu-luka-sulic-turkiyedeki-ilk-konserleri-icin-zorlu-psmye-geliyor/4118790"
+       "link": "https://www.aa.com.tr/tr/kultur/elisa-filmi-14-bogazici-film-festivalinde-sinemaseverlerle-bulustu/4119607"
       }
      ]
     }
@@ -643,58 +578,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43001763",
-   "baslik_en": "Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block.",
-   "baslik_tr": "Atriyoventriküler Blok için Sol Paket-Şube Pacing'i ile Sağ Ventriküler Pacing karşılaştırması.",
-   "dergi": "The New England journal of medicine",
-   "yazarlar": [
-    "Qian Z",
-    "Jiang L",
-    "Hou X",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "BACKGROUND: Right ventricular pacing is associated with cardiac dyssynchrony and left ventricular systolic dysfunction. Left bundle-branch pacing preserves left ventricular electrical and mechanical synchrony, but its clinical benefits relative to right ventricular pacing in patients with atrioventricular block remain unclear. METHODS: In this investigator-initiated, international, open-label, randomized, controlled trial, we assigned patients with atrioventricular block in a 1:1 ratio to receive left bundle-branch pacing or right ventricular pacing. The primary outcome was a composite of death from any cause, hospitalization for heart failure, or pacing-induced cardiomyopathy.",
-   "ozet_tr": "AMAÇ: Sağ ventriküler pacing, kardiyak senkronizasyon bozukluğu ve sol ventriküler sistolik fonksiyon bozukluğu ile ilişkilidir. Sol dal pacing'i, sol ventriküler elektriksel ve mekanik senkronizasyonu korur, ancak atriyoventriküler bloğu olan hastalarda sağ ventriküler pacing'e göre klinik faydaları belirsizliğini koruyor. YÖNTEMLER: Araştırmacının başlattığı, uluslararası, açık etiketli, randomize, kontrollü çalışmada, 1:1 oranında atriyoventriküler bloğu olan hastaları sol dal-dal pacing'i veya sağ ventriküler pacing alacak şekilde atadık. Birincil sonuç, herhangi bir nedene bağlı ölüm, kalp yetmezliği nedeniyle hastaneye kaldırılma veya kalp pilinin neden olduğu kardiyomiyopatinin birleşimiydi.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43001763/",
-   "doi": "https://doi.org/10.1056/NEJMoa2612972"
-  },
-  {
-   "pmid": "43003903",
-   "baslik_en": "An ulcerative colitis taxonomy defined by individual patient-reported response trajectories.",
-   "baslik_tr": "Bireysel hasta tarafından bildirilen yanıt yörüngeleriyle tanımlanan ülseratif kolit taksonomisi.",
+   "pmid": "43003902",
+   "baslik_en": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial.",
    "dergi": "Nature medicine",
    "yazarlar": [
-    "Schreiber S",
-    "Yajnik V",
-    "Wei C",
+    "Green DJ",
+    "Haynes A",
+    "Underwood DR",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "A barrier to precision medicine for ulcerative colitis (UC) is the inability to predict and mechanistically explain treatment responses. Using patient-reported outcomes (PROs) from a phase 3b comparative trial of 768 participants, we identified four distinct patient response-trajectory groups for vedolizumab (anti-integrin) and adalimumab (antitumor necrosis factor). Validation in a second phase 3 trial of 576 participants linked PRO-defined vedolizumab trajectories to long-term disease complications.",
-   "ozet_tr": "Ülseratif kolit (UC) için hassas ilacın önündeki bir engel, tedavi yanıtlarının tahmin edilememesi ve mekanik olarak açıklanamamasıdır. 768 katılımcının yer aldığı faz 3b karşılaştırmalı bir çalışmanın hasta tarafından bildirilen sonuçlarını (PRO'lar) kullanarak, vedolizumab (anti-integrin) ve adalimumab (antitümör nekroz faktörü) için dört farklı hasta yanıt yörüngesi grubu belirledik. 576 katılımcının katıldığı ikinci aşama 3 denemesindeki doğrulama, PRO tanımlı vedolizumab gidişatlarını uzun vadeli hastalık komplikasyonlarıyla ilişkilendirdi.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43003903/",
-   "doi": "https://doi.org/10.1038/s41591-026-04741-8"
+   "tur": "Randomize kontrollü çalışma",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003902/",
+   "doi": "https://doi.org/10.1038/s41591-026-04752-5",
+   "baslik_tr": "Obezite için tirzepatid tedavisi sırasında yağsız kütle kaybını azaltmak için direnç egzersizi: randomize kontrollü çalışma",
+   "ozet_en": "In this randomized trial, 120 adults with overweight or obesity received tirzepatide and were assigned to thrice-weekly resistance exercise or usual activities for 40 weeks. Weight loss and fat loss were similar in both groups, but resistance exercise reduced the loss of lean soft tissue mass (about 3.6 kg lost versus 4.7 kg). Muscle strength fell with tirzepatide alone and rose in the exercise group. The paper reports a single trial of 40 weeks, so longer-term effects are not shown.",
+   "ozet_tr": "Bu randomize çalışmada, fazla kilolu veya obez 120 yetişkine tirzepatid verildi ve 40 hafta boyunca haftada üç gün direnç egzersizi yapmak ya da olağan yaşamlarını sürdürmek üzere gruplara ayrıldı. İki grupta kilo ve yağ kaybı benzerdi; ancak direnç egzersizi yağsız yumuşak doku kaybını azalttı (yaklaşık 3,6 kg'a karşı 4,7 kg). Yalnızca tirzepatid alanlarda kas gücü düşerken egzersiz grubunda arttı. Çalışma tek bir 40 haftalık denemedir; daha uzun vadeli etkiler gösterilmedi.",
+   "neden_onemli": "Kilo verme ilaçlarıyla birlikte kas kaybını sınırlamanın bir yolu olarak direnç egzersizi öne çıkıyor."
   },
   {
-   "pmid": "43002780",
-   "baslik_en": "Doxycycline and Risk for Pregnancy Loss : A Multi-database, Multi-indication Cohort Study.",
-   "baslik_tr": "Doksisiklin ve Gebelik Kaybı Riski: Çok Veri Tabanlı, Çok Endikasyonlu Kohort Çalışması.",
-   "dergi": "Annals of internal medicine",
+   "pmid": "43002161",
+   "baslik_en": "Orforglipron for Obstructive Sleep Apnea: Results From 2 Randomized Clinical Trials (ATTAIN-OSA).",
+   "dergi": "JAMA",
    "yazarlar": [
-    "Winterstein AG",
-    "Chen HK",
-    "Thai T",
+    "Malhotra A",
+    "Gottlieb DJ",
+    "Woehrle H",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "BACKGROUND: Doxycycline is commonly prescribed to reproductive-aged women, but evidence about safety during pregnancy is limited. OBJECTIVE: To evaluate the risk for pregnancy loss after doxycycline exposure in the first trimester. DESIGN: Retrospective active-comparator cohort study. SETTING: Merative MarketScan commercial (2005-2021) and Medicaid (1999-2019) claims data. PARTICIPANTS: Pregnancies ending in loss or live birth among women aged 12 to 55 years. INTERVENTION: 3 cohorts of pregnancies with first-trimester oral doxycycline or comparator antibiotic prescription fills and concomitant diagnoses of respiratory tract infection (RTI) or acne.",
-   "ozet_tr": "AMAÇ: Doksisiklin genellikle üreme çağındaki kadınlara reçete edilir, ancak hamilelik sırasında güvenliğine ilişkin kanıtlar sınırlıdır. AMAÇ: İlk trimesterde doksisiklin maruziyeti sonrası gebelik kaybı riskini değerlendirmek. TASARIM: Retrospektif aktif karşılaştırıcı kohort çalışması. AYAR: Merative MarketScan ticari (2005-2021) ve Medicaid (1999-2019) talep verileri. KATILIMCILAR: 12-55 yaş arası kadınlarda kayıp veya canlı doğumla sonuçlanan gebelikler. MÜDAHALE: İlk üç aylık dönemde oral doksisiklin veya karşılaştırıcı antibiyotik reçetesi olan ve eşlik eden solunum yolu enfeksiyonu (RTI) veya akne tanısı alan 3 gebelik grubu.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43002780/",
-   "doi": "https://doi.org/10.7326/ANNALS-26-01647"
+   "tur": "Randomize klinik çalışma (faz 3)",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002161/",
+   "doi": "https://doi.org/10.1001/jama.2026.24080",
+   "baslik_tr": "Obstrüktif uyku apnesi için orforglipron: iki randomize klinik çalışmanın sonuçları (ATTAIN-OSA)",
+   "ozet_en": "Two 52-week, phase 3, double-blind, placebo-controlled trials enrolled 363 and 349 adults with moderate to severe obstructive sleep apnea and overweight or obesity, without or with positive airway pressure therapy. Apnea-hypopnea index fell by about 13 and 12 events per hour more with oral orforglipron than with placebo. Gastrointestinal side effects were more frequent with orforglipron (about 68-71% versus 37%).",
+   "ozet_tr": "52 haftalık, faz 3, çift kör, plasebo kontrollü iki çalışmaya, orta-ağır obstrüktif uyku apnesi olan ve fazla kilolu ya da obez 363 ve 349 yetişkin (biri hava yolu basınç tedavisi görmeyen, diğeri gören) katıldı. Ağızdan alınan orforglipron, apne-hipopne indeksini plaseboya göre saatte yaklaşık 13 ve 12 olay daha fazla azalttı. Sindirim sistemi yan etkileri orforglipronda daha sıktı (yaklaşık %68-71'e karşı %37).",
+   "neden_onemli": "Obez bireylerde uyku apnesi için ilaç tedavisinin bir seçenek olabileceğine dair kanıt sunuyor."
+  },
+  {
+   "pmid": "43008775",
+   "baslik_en": "Safety, tolerability, and efficacy of bepranemab in people living with prodromal-to-mild Alzheimer's disease: a randomised, double-blind, placebo-controlled, phase 2 trial.",
+   "dergi": "The Lancet. Neurology",
+   "yazarlar": [
+    "Barton ME",
+    "Byrnes W",
+    "van den Steen B",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma (faz 2)",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008775/",
+   "doi": "https://doi.org/10.1016/S1474-4422(26)00357-1",
+   "baslik_tr": "Prodromal-hafif Alzheimer hastalığında bepranemabın güvenliği, tolere edilebilirliği ve etkinliği: randomize, çift kör, plasebo kontrollü faz 2 çalışması",
+   "ozet_en": "This phase 2 trial randomized 466 people aged 50-80 with prodromal-to-mild Alzheimer's disease to the tau-targeting antibody bepranemab (45 or 90 mg/kg) or placebo every 4 weeks for 76 weeks. The primary endpoint was change in the CDR-SB score at week 80. For the 90 mg/kg group the difference versus placebo was not statistically significant (0.34, p=0.12).",
+   "ozet_tr": "Bu faz 2 çalışmada, prodromal-hafif Alzheimer hastalığı olan 50-80 yaşlarında 466 kişi, tau proteinini hedefleyen bepranemab antikorunu (45 veya 90 mg/kg) ya da plasebo almak üzere 76 hafta boyunca 4 haftada bir tedavi gördü. Birincil sonlanım noktası 80. haftada CDR-SB puanındaki değişimdi. 90 mg/kg grubunda plaseboya göre fark istatistiksel olarak anlamlı değildi (0,34; p=0,12).",
+   "neden_onemli": "Alzheimer'da tau proteinini hedefleyen tedavilerin henüz kesin bir klinik yarar göstermediğini hatırlatıyor."
   }
  ]
 }
