@@ -1,0 +1,660 @@
+{
+ "tarih": "2026-11-13",
+ "donem": "aksam",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "Küresel Microsoft kesintisi hakkında bildiklerimiz",
+   "ozet": "Microsoft, kesintinin bir siber güvenlik olayından kaynaklanmadığını ancak sorunları düzeltmeye yönelik çabaların şu ana kadar büyük ölçüde başarısız olduğunu söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/13/take-your-time-funniest-reactions-to-microsoft-global-outage"
+    },
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/microsoftta-kuresel-kesinti-outlook-ve-teams-hizmetlerinde-erisim-sorunu-yasaniyor-963125.html"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Chris Van Hollen, Schumer'e meydan okuyarak ABD Senatosu çoğunluk liderliğine adaylığını duyurdu",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Jensen Huang'ın Nvidia CEO'luğundan istifa etmesinden sonra bildiklerimiz",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/13/what-is-next-for-nvidia-after-ceo-jensen-huang-resigns"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "ABD Senatosu Huang ve Lutnick'ten Nvidia hakkında ifade vermesini istedi",
+   "ozet": "Senato Bankacılık Komitesi Başkanı Tim Scott, Ticaret Bakanı Howard Lutnick ve eski Nvidia şefi Jensen Huang'dan ifade vermelerini istedi; Temsilciler Meclisi Cumhuriyetçileri ise kapalı kapılar ardında röportaj talep ediyor…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/13/ex-nvidia-ceo-huang-and-us-commerce-secretary-howard-lutnick-summoned-to-testify-before-co"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Mustafa Sarıgül’ün oğlu Ömer Sarıgül’ün ifadesi ortaya çıktı",
+   "ozet": "Sarıgül Ailesi’ne yönelik soruşturmada tutuklanan Mustafa Sarıgül’ün oğlu Ömer Sarıgül’ün savcılık ifadesi ortaya çıktı. Emir Sarıgül hakkında iyi şeyler duymadığını söyleyen Ömer Sarıgül, “Ticari…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/mustafa-sarigulun-oglu-omer-sarigulun-ifadesi-ortaya-cikti-43376909"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/gundem/2026/11/13/son-dakika-sarigul-ailesi-sorusturmasinda-yeni-gelisme-omer-sarigulun-ifadesi-ortaya-cikti-gormedim-duymadim-bilmiyorum-savunmasi"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/omer-sarigul-un-ifadesi-ortaya-cikti-agabeyi-emir-sarigul-hakkinda-carpici-sozler-2555891"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Amasra'da maden ocağına kendilerini kapatan işçilerin eylemi sürüyor",
+     "ozet": "Bartın'ın Amasra ilçesinde özel bir maden ocağında çalışan işçiler, 2 aydır maaş ve ikramiyelerini alamadıkları gerekçesiyle dün saat 16.00 itibaren yer altında başlattıkları eylemlerini sürdürüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/amasrada-maden-ocagina-kendilerini-kapatan-iscilerin-eylemi-suruyor-43376787"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/siyaset/amasra-da-maden-iscilerinin-eylemi-sonuc-verdi-ikramiyeler-odenecek-2555898"
+      }
+     ]
+    },
+    {
+     "baslik": "AK Parti'li Çelik: İsrail'in hastane saldırısı insanlık dışı bir barbarlıktır",
+     "ozet": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İsrail'in Gazze'deki Nasır Hastanesi'ne düzenlediği saldırıya tepki göstererek, uluslararası topluma Filistin halkının korunması, barış…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/11/13/ak-parti-sozcusu-celikten-katil-israile-sert-tepki-insanlik-ve-baris-dusmani-oldugunu-bir-kez-daha-gosterdi"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGZ1OEVUZ0hPQy1vdUVmQ2pRVDhGalRmYWV1TFpLbGJiQjFST2ZXb1M4TDFuSlJEZzYxQkRSbGM3VzZMbVRyMHIyeGpuOVBYaEoyTGFnMEI3bHRkWnNrQWt6N1NxcENwWFlaRTc3aEJyelgwNzVuWWxZaXI3YkZweDE0aFlUSnJBdkM3alQtaHc4Mnl1ejhiTDMtZzcxRXdWWXlPOWJYYTdYbm5ET0E?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "SON DAKİKA...Mustafa Sarıgül soruşturmasında yeni gelişme: Çok sayıda gözaltı kararı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-sorusturmasi-19-supheli-hakkinda-gozalti-karari-p380880"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVhpQkZRSHV1XzdxZk1Db2p3WkNsaWRabnNIWmZPeGk5WkxqQXhjbTVha1VaQWNaTjNVaHNjSG5aek1ta0Z5QWdCeW52YmFDVzJVRFVWQk5FdlRwR3FuZkkxN2RLYmFMSFR6QmNGTUp6UnJoQ05ZS1E5NnFiVmZBbmZuVXpoUGhXaXdNTjhhNDU1dk1HY29XWXVWV2pKa2lPb0w1VkFHQ0pNblk?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "MAK anketinde dengeleri değiştiren tablo: AKP'nin oylarında 4,5 puanlık kayıp!",
+     "ozet": "MAK Danışmanlık’ın kasım araştırması, eylül ayından bu yana seçmen tercihlerindeki değişimi ortaya koydu. AKP’nin oy oranı iki ayda 4,5 puan gerilerken YENİ Parti 1 puanlık artışla yüzde 21’e ulaştı.…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/mak-anketinde-dengeleri-degistiren-tablo-akp-nin-oylarinda-4-5-puanlik-kayip-2555887"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjcxMzYzOEx2bF9CS1pjZkVsV3pDbDd0bHhoNm1rNXJQWE4yNk5yeWxuakhJQjh1YS1qaVRKOE5oZTdRVzB1eUFxZ0tObV9mSUtfUzZ2bTVBZk1GWmczSnZVTjY1Y21GaUFTZlBYSnc5SEdEaG41UkgxOGVvUHVFZXQ1NWhLa3F6NDAxQ1VyZUJWQy1TQ0VjYkNmMzFGWHZaeVAwaUxoU1FzX1gwWWV0dDNTOGZock9BRjhSQURIWQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Fenerbahçe'de sağlık departmanında yeni yapılanma",
+     "ozet": "Fenerbahçe Futbol A Takımı'nın sağlık departmanında kapsamlı bir yapılanmaya gidildi. Sağlık departmanının sorumluluğuna Dr. Halil Polat getirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-de-saglik-departmaninda-yeni-yapilanma-2555878"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLW5kOVlVTVlHTElibGZEbFUxMFg2Uld0MFpnTFJCX1N6YjEyWU5pbHBZMDNJUjByaENGMjF2U3V5ZDliRU82WTRtd2t0OC14UVMyWWNqQkMtRGJFa0Jiel9ZclJ6S2NLeVo3UjExREMwUkJaOTZpVVJSRUhRZ2NVNFlua3dNbXVWcVJBMlNpcWVlWUNxM1lrd2d2UEpTTnhwOUFiNXc2MUU2dw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye'ye getirilen \"yeni nesil suç örgütü\" elebaşı Sercan Sayal adliyede",
+     "ozet": "Yunanistan'da yakalanarak dün İzmir'e getirilen \"yeni nesil organize suç örgütü\" elebaşı Sercan Sayal, adliyeye sevk edildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/turkiyeye-getirilen-yeni-nesil-suc-orgutu-elebasi-sercan-sayal-adliyede/4124076"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazze'deki Sağlık Bakanlığı Genel Müdürü Burş: Dünya, bir hastane yatağını korumaktan aciz",
+     "ozet": "Gazze'deki Sağlık Bakanlığı Genel Müdürü Münir el-Burş, İsrail ordusunun 2023'ten bu yana Han Yunus kentindeki Nasır Hastanesi'ni 7 kez hedef aldığını belirterek, \"Dünya, bir hastane yatağını…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-saglik-bakanligi-genel-muduru-burs-dunya-bir-hastane-yatagini-korumaktan-aciz/4124059"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Darth Vader, iki orijinal Star Wars filmindeki ışın kılıcının Luke Skywalker'ın pervanesindeki rekoru geri almasıyla müzayedede karşılık verdi",
+     "ozet": "Darth Vader'ın ışın kılıcı yaklaşık 5 milyon dolara satılarak Luke Skywalker'ın temmuz ayında kırdığı rekoru kırdı. 1950'lerden kalma bir kamera flaşı eklentisinden yapılan kabza, orijinal iki modelde kullanıldı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/13/darth-vaders-lightsaber-breaks-star-wars-auction-record-by-selling-for-nearly-45-million"
+      }
+     ]
+    },
+    {
+     "baslik": "Devrim Muhafızları, İran'ın güneyine düzenlenen saldırının ardından Bahreyn'deki ABD radarını yok ettiğini açıkladı",
+     "ozet": "Artan askeri gerilimlere rağmen Katar ve Pakistan'ın arabuluculuğundaki diplomatik çabalar sürüyor. Tahran, Washington'la resmi müzakerelerin yeniden başlatılmasını kendi taleplerine bağlı kıldı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "UAEA'nın raporuna göre, İran'ın zenginleştirme tesisi konusunda giderek daha fazla endişe duyuluyor",
+     "ozet": "",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "IEA, Körfez ihracatının toparlanmasıyla birlikte dünya petrol piyasasının fazlaya döndüğünü söylüyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1"
+      },
+      {
+       "ad": "CNBC",
+       "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Moskova'da bomba yüklü araç Rusya yanlısı Ukraynalı siyasetçinin eski yardımcısını yaraladı",
+     "ozet": "",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere, genç işsizliğindeki artışla mücadele etmek için sosyal yardım kesintilerini hedefliyor",
+     "ozet": "",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjlYZDdzQlJPZUZOUENiNXBUQ2VaUk1CY09ubzVsWWVNd29QMjY1Qnoya3JlOGkwMHB6YjgtMVVJVVluQ3J5YkxkU1JJN0FFODBUbG0wdkk1eEhZeFNpZTZCaXY1TUVxX0ZDd1lYX1Vid3AxWkMzbUNtbUd6Tk9tUU5OZFdEbFBtZFN6VEhqWmd1aXZvM1J0V2doOXhMVTFNU05TSHhUWE9DblI3?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Kenya'nın başkenti yakınlarında çöken binada altı kişi öldü - Citizen TV",
+     "ozet": "",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGR3Mk1maEdYRWpJY3l4dHFmZzdRYUJENl85bk9NblJYaW50bW0tUkt2b20yR0tzVTRBZ0VPY1R6bTl6UTRQcFduek1KTUtoZ2ZZOXItU2ZzWXlDNWlxRTBxTjBjelRCNGpfZ1pwWFUwc09UV19CZXdyZk4zd1Q3bkFOSEQzUHloZ2hUM2FMa2EyQzlDdnVEaXpzNkpYak1pdG91RTFrLTRmdi1BWjZES2ZQNDI0YXpKRktHVg?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Türkiye ile Suudi Arabistan arasında savunma sanayisi işbirliği yeni alanlara taşınıyor",
+     "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Türkiye ile Suudi Arabistan arasında savunma sanayisi alanındaki işbirliğini geliştirmek amacıyla son üç yılda 75'i aşkın toplantı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-suudi-arabistan-arasinda-savunma-sanayisi-isbirligi-yeni-alanlara-tasiniyor/4123767"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/gundem/turkiye-suudi-arabistan-savunma-sanayii-gunleri-istanbulda-gerceklestirildi-haberi-847524"
+      }
+     ]
+    },
+    {
+     "baslik": "TCMB'nin kasım ayı Piyasa Katılımcıları Anketi'ne göre TÜFE yıl sonu artış beklentisi yüzde 30,04'e yükseldi",
+     "ozet": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) kasım ayı Piyasa Katılımcıları Anketi'ne göre Tüketici Fiyat Endeksi'nde (TÜFE) yıl sonu artış beklentisi yüzde 29,63'ten yüzde 30,04'e yükseldi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/tcmbnin-kasim-ayi-piyasa-katilimcilari-anketine-gore-tufe-yil-sonu-artis-beklentisi-yuzde-30-04e-yukseldi/4123672"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/piyasanin-enflasyon-beklentileri-3794534"
+      }
+     ]
+    },
+    {
+     "baslik": "İnşaat üretim endeksi eylülde yıllık bazda yüzde 6,3 azaldı",
+     "ozet": "Türkiye'de inşaat üretim endeksi, eylülde yıllık bazda yüzde 6,3 azalış gösterdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/insaat-uretim-endeksi-eylulde-yillik-bazda-yuzde-6-3-azaldi/4123668"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/insaat-uretimi-eylulde-azaldi-3794543"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Şimşek'ten cari açık değerlendirmesi",
+     "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, Eylül ayı cari denge verilerine ilişkin yaptığı açıklamada \"Son dönemde cari açığın milli gelire oranının yatay seyretmesi, ekonomimizin artan dayanıklılığının…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/bakan-simsek-ten-cari-acik-degerlendirmesi-3794577"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/mehmet-simsekten-cari-acik-mesaji-ovp-tahmininin-altinda-kalacak-haberi-847515"
+      }
+     ]
+    },
+    {
+     "baslik": "HSBC Türk bankaları için görünümünü pozitife yükseltti",
+     "ozet": "HSBC Global Investment Research, politika faizindeki normalleşmenin net faiz marjlarını desteklemeye devam edeceği beklentisine atıfta bulunarak Türk bankalarına ilişkin görünümünü 'nötr'den…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/hsbc-turk-bankalari-icin-gorunumunu-pozitife-yukseltti-3794559"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/finans/haberler/hsbcden-turkiye-hamlesi-turk-bankalari-icin-beklentisini-degistirdi-haberi-847535"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Microsoft Outlook hala kapalı",
+     "ozet": "Microsoft Outlook dünya genelinde insanlar, işletmeler ve kamu hizmetleri için kullanılamamaya devam ediyor ve bu da insanların e-postalarına web veya uygulamalar üzerinden erişememesine neden oluyor. Etraftaki raporlar…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+      },
+      {
+       "ad": "Hacker News",
+       "link": "https://twitter.com/MSFT365Status/status/2121079061774491735"
+      }
+     ]
+    },
+    {
+     "baslik": "Afrika'daki savunma sanayisi fuarı BAMEX \"5 benzemezi\" buluşturdu",
+     "ozet": "Mali'nin başkenti Bamako'da düzenlenen BAMEX 2026 Fuarı, savunma sanayisinde özgün yanlar barındıran ABD, Çin, Rusya ve İran gibi \"5 benzemez\" olarak nitelendirilebilecek ülkelerin firma ve…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/afrikadaki-savunma-sanayisi-fuari-bamex-5-benzemezi-bulusturdu/4123936"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de 5 büyük teknoloji şirketine yapay zekanın güvenlik riskleri nedeniyle dava açıldı",
+     "ozet": "ABD'de 5 büyük teknoloji şirketine, geliştirdikleri yapay zeka temelli teknolojilerin insanlık için ciddi riskler oluşturduğu ve yeterince kontrol edilemediği iddiasıyla dava açıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abdde-5-buyuk-teknoloji-sirketine-yapay-zekanin-guvenlik-riskleri-nedeniyle-dava-acildi/4123915"
+      }
+     ]
+    },
+    {
+     "baslik": "Atık bataryalar \"güvenli kutularda\" toplanıp yeniden otomobile dönüşüyor",
+     "ozet": "Elektrikli araçların başta bataryaları olmak üzere atık malzemeleri özel sistemlerle güvenli şekilde toplanıp ayrıştırılarak elde edilen nadir toprak elementleri yeniden sanayiye kazandırılarak…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/cop31/atik-bataryalar-guvenli-kutularda-toplanip-yeniden-otomobile-donusuyor/4123731"
+      }
+     ]
+    },
+    {
+     "baslik": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
+     "ozet": "Almanya merkezli insansız hava aracı (İHA) üreticisi Quantum Systems'in şirket ağına siber saldırı düzenlendiği ve güncelleme sunucusuna zararlı yazılım yerleştirildiği bildirildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/-alman-iha-ureticisi-quantum-systemse-siber-saldiri/4123545"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Microsoft'un kesintisinden etkilenen Birleşik Krallık hizmetleri arasında pratisyen hekimler, polis ve eczaneler var",
+     "ozet": "Hükümet, kendi hizmetleri üzerindeki etkiyi değerlendirirken, büyük havalimanları ve istihbarat servisleri etkilenmedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Düzenleyici, doktor tükenmişliğinin doğum hastalarını riske attığını söylüyor",
+     "ozet": "Kanıtlar, bebek doğuran stajyer doktorların aşırı çalışma ve tükenmişlik yaşama olasılığının diğer uzmanlık alanlarına göre daha fazla olduğunu gösteriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Tepedeki sorun: İskoçya'nın NHS liderlerine duyulan güven krizi",
+     "ozet": "BBC İskoçya sağlık muhabiri Lisa Summers, NHS Grampian hakkında verilen lanetleyici karar hakkında.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cknv4d307523o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Fernandes, Man Utd'un ikinci sözleşme teklifini reddetti",
+     "ozet": "Manchester United kaptanı Bruno Fernandes, mevcut sözleşmesinin sezon sonunda sona ermesi nedeniyle kulübün ikinci sözleşme teklifini reddetti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live"
+      }
+     ]
+    },
+    {
+     "baslik": "'Yanlış' ve 'saçmalık' - Cummins, Khawaja zımpara kağıdı iddiaları üzerine",
+     "ozet": "Avustralya kaptanı Pat Cummins, eski takım arkadaşı Usman Khawaja'nın zımpara skandalıyla ilgili iddialarına yanıt vererek bunları \"%100 yanlış\" ve \"tamamen saçmalık\" olarak nitelendirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/13/pat-cummins-press-conference-sandpapergate-usman-khawaja-ball-tampering-australia-cricket-captain-statement-ntwnfb"
+      }
+     ]
+    },
+    {
+     "baslik": "Pegula maç puanını koruyarak Noskova'yı yendi ve WTA Finalleri'nde son dörtte kaldı",
+     "ozet": "Kararlı Jessica Pegula maç puanını kurtararak Wimbledon şampiyonu Linda Noskova'yı yendi ve Coco Gauff'u yenerek WTA Finalleri'nde son dörtte kaldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Türk şiirinde bir \"Garip\" şair: Orhan Veli Kanık",
+     "ozet": "Ölçü, kafiye ve benzetmeye dayalı geleneksel şiir anlayışına karşı çıkarak şiirde anlamdan çok söyleyiş biçimini öne çıkaran Orhan Veli Kanık, vefatının 76. yılında edebi mirasıyla anılıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/turk-siirinde-bir-garip-sair-orhan-veli-kanik/4123754"
+      }
+     ]
+    },
+    {
+     "baslik": "37. Ankara Film Festivali başladı",
+     "ozet": "Dünya Kitle İletişimi Araştırma Vakfı tarafından düzenlenen 37. Ankara Film Festivali, açılış ve onur ödülleri töreniyle başladı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/37-ankara-film-festivali-basladi/4123902"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43020098",
+   "baslik_en": "Lynch syndrome.",
+   "baslik_tr": "Lynch sendromu.",
+   "dergi": "Lancet (London, England)",
+   "yazarlar": [
+    "Ryan NAJ",
+    "Gallon R",
+    "McVeigh T",
+    "et al."
+   ],
+   "tur": "Review",
+   "ozet_en": "Lynch syndrome is the most common inherited cancer predisposition syndrome, affecting approximately one in 350-450 individuals, yet the majority of carriers remain undiagnosed, representing a substantial and preventable public health burden. Caused by germline pathogenic variants in DNA mismatch repair (MMR) genes, Lynch syndrome confers markedly elevated and heterogeneous risks of colorectal, endometrial, and multiple extracolonic cancers. Advances in molecular diagnostics, particularly universal tumour testing for MMR deficiency, have transformed case identification and enabled targeted germline testing and cascade screening of relatives at risk.",
+   "ozet_tr": "Lynch sendromu, en yaygın kalıtsal kanser yatkınlık sendromudur ve yaklaşık 350-450 kişiden birini etkilemektedir, ancak taşıyıcıların çoğuna teşhis konulamamaktadır ve bu durum önemli ve önlenebilir bir halk sağlığı yükünü temsil etmektedir. DNA uyumsuzluk onarımı (MMR) genlerindeki germ hattı patojenik varyantlarının neden olduğu Lynch sendromu, kolorektal, endometrial ve çoklu kolon dışı kanserlere ilişkin belirgin derecede yüksek ve heterojen riskler doğurur. Moleküler teşhisteki ilerlemeler, özellikle MMR eksikliği için evrensel tümör testi, vaka tanımlamayı dönüştürdü ve hedeflenen germ hattı testini ve risk altındaki akrabaların kademeli taramasını mümkün kıldı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020098/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01600-4"
+  },
+  {
+   "pmid": "43020030",
+   "baslik_en": "Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism.",
+   "baslik_tr": "Otizmde striatal dikenli projeksiyon nöronlarının hücre tipine özgü moleküler programlarının bozulması.",
+   "dergi": "Cell",
+   "yazarlar": [
+    "Yuan G",
+    "Suresh V",
+    "Wigdor EM",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "Rare genetic variants contribute substantially to autism spectrum disorder (ASD), yet the regulatory logic of vulnerable subcortical cells is poorly understood. In a 16p11.2 deletion mouse model, lineage tracing across five brain regions revealed prominent striatal changes. In the human putamen from ASD and neurotypical donors, single-nucleus multi-omics showed transcriptional alterations concentrated in D1 striosome spiny projection neurons (SPNs), affecting synaptic and energy metabolism genes, with altered synapse-supporting programs in astrocytes.",
+   "ozet_tr": "Nadir genetik varyantlar, otizm spektrum bozukluğuna (ASD) önemli ölçüde katkıda bulunur, ancak hassas subkortikal hücrelerin düzenleyici mantığı tam olarak anlaşılamamıştır. 16p11.2 delesyonlu fare modelinde, beş beyin bölgesi boyunca yapılan soy takibi belirgin striatal değişiklikleri ortaya çıkardı. ASD'den ve nörotipik donörlerden elde edilen insan putamenlerinde, tek çekirdekli çoklu omikler, astrositlerde değiştirilmiş sinaps destekleyici programlarla birlikte sinaptik ve enerji metabolizması genlerini etkileyen, D1 striosome dikenli projeksiyon nöronlarında (SPN'ler) yoğunlaşan transkripsiyonel değişiklikler gösterdi.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020030/",
+   "doi": "https://doi.org/10.1016/j.cell.2026.10.027"
+  },
+  {
+   "pmid": "43018971",
+   "baslik_en": "Cumulative Stress and Health Care Utilization Among US Service Members.",
+   "baslik_tr": "ABD Hizmet Üyeleri Arasında Kümülatif Stres ve Sağlık Hizmetleri Kullanımı.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "López-Cevallos DF",
+    "Kolaja CA",
+    "Chauca E",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "IMPORTANCE: Military personnel experience unique occupational stressors, which, combined with other life stressors, may substantially impact their health readiness. Stress exposure is known to be associated with health and health care concerns in civilian populations, but little is known as to whether these associations are present among US service members. OBJECTIVE: To evaluate the association between individual stressors, cumulative stress exposure, and health care utilization (HCU) among a contemporary sample of US service members.",
+   "ozet_tr": "ÖNEMİ: Askeri personel, diğer yaşam stres etkenleriyle birleştiğinde sağlık durumlarını önemli ölçüde etkileyebilecek benzersiz mesleki stres etkenleri yaşar. Strese maruz kalmanın sivil toplumdaki sağlık ve sağlık bakımı kaygılarıyla ilişkili olduğu biliniyor ancak bu ilişkilerin ABD'li askerler arasında mevcut olup olmadığı konusunda çok az şey biliniyor. AMAÇ: Bireysel stres etkenleri, kümülatif strese maruz kalma ve sağlık hizmetlerinden yararlanma (HCU) arasındaki ilişkiyi, ABD'li hizmet mensuplarından oluşan çağdaş bir örneklemde değerlendirmek.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018971/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43810"
+  }
+ ]
+}
