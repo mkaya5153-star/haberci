@@ -1,11 +1,11 @@
 {
  "tarih": "2026-11-13",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Günün tablosunda Malatya'daki askeri helikopter kazası, İBB davasındaki tahliye kararları ve Nvidia CEO'su Jensen Huang'ın istifasının piyasalara yansımaları öne çıkıyor. Microsoft'taki küresel kesinti saatlerce sürerken Ukrayna cephesinde büyük bir esir takası ve Avrupa'nın barış görüşmelerine katılımı gündemde.",
  "one_cikanlar": [
   {
-   "baslik": "Malatya'da helikopter düştü: 4 askerimiz şehit oldu",
-   "ozet": "Milli Savunma Bakanlığı (MSB), Malatya'da S-70 tipi helikopterin henüz bilinmeyen bir nedenle kaza kırıma uğradığını açıkladı. Düşen askeri helikopterde 4 askerimiz şehit oldu.",
+   "baslik": "Malatya'da askeri helikopter düştü: 4 asker şehit oldu",
+   "ozet": "Milli Savunma Bakanlığı, Malatya'da S-70 tipi bir helikopterin kaza kırıma uğradığını duyurdu. Kazanın nedeni henüz bilinmiyor; helikopterde bulunan 4 asker şehit oldu.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
@@ -25,115 +25,111 @@
      "link": "https://tr.euronews.com/2026/11/12/msb-malatyada-askeri-helikopter-dustu-4-asker-sehit-oldu"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Kazanın nedeni henüz açıklanmadı; soruşturma sonuçları belirleyici olacak."
   },
   {
-   "baslik": "Beyaz Saray çevresinde silah sesleri",
-   "ozet": "ABD'nin başkenti Washington'da Beyaz Saray'a yakın bölgede düzenlenen silahlı saldırıda ilk belirlemelere göre 1 kişinin hayatını kaybettiği ve 5 kişinin vurulduğu bildirildi.",
+   "baslik": "İBB davasında ara karar: Mehmet Pehlivan dahil 8 kişiye tahliye",
+   "ozet": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu, 46'sı tutuklu 436 sanığın yargılandığı davada mahkeme ara karar açıkladı. Karara göre İmamoğlu'nun avukatı Mehmet Pehlivan'ın da aralarında olduğu sekiz kişi hakkında tahliye kararı verildi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-cevresinde-silah-sesleri-963089.html"
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss"
     },
     {
      "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/12/beyaz-saray-yakinlarinda-silahli-saldiri-5-kisi-vuruldu-saldirgan-araniyor"
+     "link": "https://tr.euronews.com/2026/11/12/ibb-davasi-imamoglunun-avukati-mehmet-pehlivan-dahil-8-kisi-tahliye-edildi"
     },
     {
      "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785137/d%C3%BCnya/abdde-beyaz-saray-yak%C4%B1nlar%C4%B1nda-silahl%C4%B1-sald%C4%B1r%C4%B1-5-ki%C5%9Fi-yaraland%C4%B1"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/dunya/son-dakika-beyaz-saray-yakinlarinda-silahli-catisma-4-kisi-vuruldu-43376027"
+     "link": "https://www.indyturk.com/node/785145/haber/i%CC%87bb-davas%C4%B1nda-i%CC%87mamo%C4%9Flu%E2%80%99nun-avukat%C4%B1-mehmet-pehlivan%E2%80%99%C4%B1n-da-aralar%C4%B1nda-bulundu%C4%9Fu-8"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Türkiye'nin en kapsamlı siyasi davalarından birinde yargılama süreci sürüyor."
   },
   {
-   "baslik": "Nvidia'nın eski CEO'su Jensen Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
-   "ozet": "ABD'li çip üreticisi Nvidia'nın eski Üst Yöneticisi (CEO) Jensen Huang'ın, ABD'nin ulusal güvenliğine yönelik tehditlerin ele alınacağı kapalı oturumda ifade vermeyi kabul ettiği bildirildi.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/nvidianin-eski-ceosu-jensen-huang-abd-kongresinde-ifade-vermeyi-kabul-etti/4123360"
-    },
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/dunya/jensen-huang-nvidia-ceolugundan-istifa-etti-963087.html"
-    },
-    {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/12/nvidia-ceosu-jensen-huang-hakkindaki-iddialarin-ardindan-istifa-etti"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/dunya/nvidia-ceosu-jensen-huang-istifa-etti-yasak-ask-ve-casusluk-iddialari-7700387"
-    },
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Sağlık Bakanlığı, İsrail'in Gazze'deki hastaneye saldırısında aralarında bir doktor ve bir çocuğun da bulunduğu 6 kişinin hayatını kaybettiğini açıkladı",
-   "ozet": "",
+   "baslik": "Nvidia CEO'su Jensen Huang istifa etti; geçici CEO Colette Kress",
+   "ozet": "Nvidia'nın kurucusu Jensen Huang, CEO'luk görevinden istifa etti; şirketin finans direktörü Colette Kress geçici CEO oldu. Uluslararası basına göre istifa, Huang etrafında büyüyen skandallar sonrasında geldi. Haberin ardından Wall Street'te dalgalanma yaşandı, ABD'de Senato Bankacılık Komitesi başkanı Huang'ı ve Ticaret Bakanı Howard Lutnick'i ifadeye çağırdı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5"
     },
     {
      "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement"
+    }
+   ],
+   "neden_onemli": "Yapay zekâ çip pazarının lideri olan şirketin liderlik değişimi küresel piyasaları etkiliyor."
+  },
+  {
+   "baslik": "Microsoft'ta küresel kesinti: Outlook ve Teams saatlerce erişilemedi",
+   "ozet": "Microsoft, aralarında ABD, Japonya, Birleşik Krallık ve Avustralya'nın da bulunduğu birçok ülkede Outlook, Teams ve Copilot hizmetlerini etkileyen bir kesintiyi gidermeye çalıştı. Reuters'a göre kesinti saatlerce sürdü ve şirketleri ile kamu kurumlarını aksattı; kullanıcıların sayısı on binleri buldu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5"
     },
     {
      "ad": "DW English",
-     "link": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf"
+     "link": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"
     },
     {
      "ad": "France 24",
-     "link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
+     "link": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
     },
     {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/ingiliz-milletvekilleri-gazzeye-yardimlari-engelleyen-israilli-yetkililere-yaptirim-cagrisinda-bulundu/4123427"
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/dunya/microsoftta-kuresel-kesinti-outlook-ve-teams-hizmetlerinde-erisim-sorunu-yasaniyor-963125.html"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/12/microsoft-kesintisi-outlook-teams-ve-copilotta-on-binlerce-kullanici-erisemedi"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Kurumsal e-posta ve iş birliği araçlarına bağımlılığın riskini gösteriyor."
   },
   {
-   "baslik": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
-   "ozet": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu.",
+   "baslik": "Zelenskiy: Rusya'yla şimdiye kadarki en büyük esir takası yapılacak",
+   "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'yla \"şimdiye kadarki en büyük esir takasının\" yapılacağını söyledi. Kushner da ABD'nin savaşın en büyük esir takası için çalıştığını belirtti. Zelenskiy ayrıca ABD'nin Avrupa'yı barış görüşmelerine dahil etmesini olumlu karşıladı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-43375334"
+     "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-rusyayla-simdiye-kadarki-en-buyuk-esir-takasinin-yapilacagini-soyledi/4123552"
     },
     {
      "ad": "Habertürk",
-     "link": "https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3794502"
+     "link": "https://www.haberturk.com/dunya/ukrayna-devlet-baskani-zelenskiy-den-esir-takasi-aciklamasi-3926983"
     },
     {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2tsdm9Ta0tCMUpIV3NfbXFsQ25qTWU3NHhxN3pmN0JPZ2VBcWdMb0ZQcTg1OTZoWGN6VFFPdGl1YVVYRG95eFI4WHc5VExtTW1EcUgzN1Atd0Jnb085R1gzR2Fyc25xT2M0Q3JmdmdvanVaVnJTWklTc1FJdGlHcWpzYWhmek02bndj?oc=5"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785144/d%C3%BCnya/i%CC%87srail-fransa-cumhurba%C5%9Fkan%C4%B1-aday%C4%B1-ve-partisinin-grup-ba%C5%9Fkan%C4%B1n%C4%B1n-%C3%BClkeye-giri%C5%9Fini"
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Savaşta diplomasi trafiğinin hızlandığına işaret ediyor."
   }
  ],
  "bolumler": [
@@ -142,111 +138,61 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "TBMM'ye sunuldu: GSS prim borçları silinecek",
-     "ozet": "AK Parti, Genel Sağlık Sigortası (GSS) prim borçlarının silinmesini de içeren kanun teklifini TBMM Başkanlığı'na sundu.",
-     "etiket": "teyitli",
+     "baslik": "Halk TV'ye kayyum Brüksel gündeminde",
+     "ozet": "DW Türkçe'ye göre bir grup Avrupa Parlamentosu üyesi, Halk TV'ye kayyum atanması üzerine AB aday ülkesi Türkiye'ye yapılan katılım öncesi yardımların kesilmesini gündeme getirdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/tbmmye-sunuldu-gss-prim-borclari-silinecek-963073.html"
-      },
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/12/gss-prim-borclari-silinmesini-ongoren-teklif-tbmmye-sunuldu"
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/halk-tv-ye-kayyum-brüksel-gündeminde-ab-yardımları-kesilir-mi/a-79934106?maca=tur-rss-tur-all-1495-rdf"
       }
      ]
     },
     {
-     "baslik": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
-     "ozet": "Merkez Bankası Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yükseltti. 2026 yıl sonu tahmini %28'den %29,5'e çıkarıldı. Ekonomistler nasıl değerlendirdi?",
-     "etiket": "teyitli",
+     "baslik": "AKP'de fon krizi nasıl tartışılıyor",
+     "ozet": "BBC Türkçe'ye göre AKP içinde, kamuoyunda tepki yaratan fon skandalının ardından krizin nasıl aşılacağı tartışılıyor. Bazı AKP'liler yaşananları \"24 yıllık iktidarımızda yaşadığımız en büyük kriz\" olarak nitelendiriyor.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/ck1l05363jevo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZzhNLVA0dWRpM1lpNkdMNTBKaGw1aW1PSXdOckdVa0tsNmEtdXBJWUtBcXgzUk5fTkRjOXRXNG9nQktweXFweklDdDdHSUk1WkpMRUt4V1lELThKQkHSAWNBVV95cUxNNUdmUlNRcXVrc1BuN0VyenJoTXNJRkcwdkJhNFNfSTFRbjBnRTZMMUQzUXBQTlkwckRuNEJzcXpXTXBBcnBYODllRHN3WndZeFZGVkRKendzMzZuQ0dkNElac1U?oc=5"
+       "link": "https://www.bbc.com/turkce/articles/c6205jnldngwo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Arda Güler'den jeneriklik frikik! Milli Takım'ın hasretini bitirdi",
-     "ozet": "Arda Güler, Belçika karşısında yaklaşık 30 metreden attığı muhteşem frikik golüyle A Milli Takım'ın 5,5 yıllık frikik golü hasretine son verdi.",
-     "etiket": "teyitli",
+     "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik Resmi Gazete'de",
+     "ozet": "Diyaliz Merkezleri Hakkında Yönetmelik Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-jeneriklik-frikik-milli-takimin-hasretini-bitirdi-43376267"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/spor/de-bruyne-den-arda-guler-icin-flas-sozler-butun-sorumluluk-onun-uzerinde-3926957"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGdkTlNOZ0F4aWNYS1MwWmh4dG9RNDJudm1CVEhsbXYxdlc1XzJCVWFMc241NjJnOU1UNG1URS01VzlIeVBBaGxKX3c1ckFpcWRRd2NxNmFxX0VQdGUtWjE0YVVOaDNUSVdzUGdrQ0IwYVRhNElRZTMzRHBsZXlXNjR1dmJtX2lWR252MmFndTl2dWlldHllSGI1bDFaQWJTRG9wX0t0V2w2dW5qaENZMTJB?oc=5"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/diyaliz-merkezleri-hakkinda-yonetmelik-resmi-gazetede-yayimlandi/4123551"
       }
      ]
     },
     {
-     "baslik": "BUDO'nun 10 seferi iptal edildi",
-     "ozet": "BUDO'nun 10 seferi olumsuz hava koşulları nedeniyle iptal edildi",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/budo-nun-10-seferi-iptal-edildi-3926976"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/budo-nun-10-seferi-iptal-edildi-2555777"
-      }
-     ]
-    },
-    {
-     "baslik": "Diyaliz merkezleri yönetmeliği Resmi Gazete'de",
-     "ozet": "Diyaliz hizmetlerinin planlanması, sunumu ve denetimine ilişkin usul ve esaslar günümüz ihtiyaçları doğrultusunda yeniden düzenlendi. Yönetmelik Resmi Gazete’de yayımlandı",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/diyaliz-merkezleri-yonetmeligi-resmi-gazete-de-3926975"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/diyaliz-merkezlerinde-yeni-duzenleme-resmi-gazete-de-2555778"
-      }
-     ]
-    },
-    {
-     "baslik": "Mersin'de korku dolu anlar: Pompalı tüfekle rastgele ateş açtı! Ölü ve yaralılar var",
-     "ozet": "Mersin'in Erdemli ilçesinde kimliği belirsiz bir kişi, pompalı av tüfeğiyle kaldırımda yürüyenlere ateş açtı. Bir kadının öldüğü, 4 kişinin de yaralandığı olayda şüpheli, başına dayadığı silahı…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/yasam/mersinde-korku-dolu-anlar-pompali-tufekle-rastgele-ates-acti-olu-ve-yaralilar-var-7700614"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/yoldan-gecenlere-pompali-tufekle-ates-acti-1-olu-4-yarali-2555759"
-      }
-     ]
-    },
-    {
-     "baslik": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı",
-     "ozet": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı.",
+     "baslik": "Dışişleri Bakanlığı Gazze'deki hastane saldırısını kınadı",
+     "ozet": "Dışişleri Bakanlığı, İsrail'in Han Yunus'taki Nasır Hastanesi'ne düzenlediği saldırıyı kınadı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasi-8-macla-basladi/4123521"
+       "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537"
       },
       {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasi-8-macla-basladi/4123521"
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/disisleri-bakanligindan-israil-e-kinama-3926982"
+      }
+     ]
+    },
+    {
+     "baslik": "Erdoğan: Yeşil kalkınma yolculuğumuzu sürdürüyoruz",
+     "ozet": "Cumhurbaşkanı Erdoğan, COP31 kapsamında yaptığı açıklamada enerjiden sanayiye, ulaştırmadan tarıma ve binalara kadar tüm sektörlerin yeniden yapılandırıldığını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yesil-kalkinma-yolculugumuzu-kararlilikla-surduruyoruz-963099.html"
       }
      ]
     }
@@ -257,114 +203,84 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Downdetector, Microsoft 365 ve Outlook'un binlerce ABD kullanıcısı için kapalı olduğunu gösteriyor",
-     "ozet": "",
+     "baslik": "İsrail'in Gazze'deki hastane saldırısında 6 kişi öldü",
+     "ozet": "Gazze Sağlık Bakanlığı'na göre İsrail'in bir hastaneye düzenlediği saldırıda aralarında bir doktor ve bir çocuğun da bulunduğu 6 kişi öldü.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5"
       },
       {
        "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5"
-      },
-      {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
-      }
-     ]
-    },
-    {
-     "baslik": "Silahlı adam Washington DC'nin kalabalık mahallesinde birini öldürdü, dördünü yaraladı",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5"
-      },
-      {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/12/gunman-kills-one-and-barricades-himself-in-building-after-gym-shooting-in-washington-dc"
-      }
-     ]
-    },
-    {
-     "baslik": "İtalyan okulları açık kalabilmek için yeni bomba tehdidi dalgasına meydan okuyor",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczRoNWNUVU5mZVpLZ2VBVW1DUWxwYnVrX0JFemdmTHR1SFp4ZVFibDE1S1ltZzhQWl9OaUNwZVctTjh2b3IteDBOWldsRVk0MUJ3REY2MWx0MVpKOGEycE9xSjBKT2YyWTZQQ3I2RTc4MmEyMHN2anlUNWN0NFlhZ0hjZHR3aG1ZNDFoX2QxLVhLNHRfTW9uU0k5aWRtb0du?oc=5"
       },
       {
        "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/12/italy-hit-by-second-day-of-school-bomb-threats-as-meloni-summons-opposition"
-      },
-      {
-       "ad": "Le Monde",
-       "link": "https://www.lemonde.fr/en/international/article/2026/11/12/italy-evacuates-few-schools-in-second-day-of-bomb-threats_6778906_4.html"
-      }
-     ]
-    },
-    {
-     "baslik": "İngiltere'de iki İranlı, İran istihbaratına yardım etmekten suçlu bulundu",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWdPVmJKU0hSSFFKaHZqSjhkbmswNjdjN0V5ak1BZHdna1AzWk1YeXlsdHd0WEFxSEppRlpadHY4UTBQTWV1MVliRTVtN005WTdHNTdOWndramJPbXFCYnZQNmJTcldoM3FMbTFmU0RTcGt4TTBETnVqTGFiNDkxNnhYaUlZU2QyeTJPZ2QtR2FPaXFqR3MwamRKRkpON0VFR1NUN0dOaUFYRUxidWJ4M2F3?oc=5"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
-      }
-     ]
-    },
-    {
-     "baslik": "Tanıdık kaynaklar, Beyaz Saray'ın Howard Lutnick'in Ticaret Bakanı olarak geleceğini tartıştığını söylüyor",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5"
+       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "France 24",
-       "link": "https://www.france24.com/en/white-house-reportedly-discussing-howard-lutnick-s-future-as-commerce-secretary"
+       "link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
       }
      ]
     },
     {
-     "baslik": "Hegseth, Meçhul Askerin Mezarı'nda kendisini ve yardımcılarını azarlayan askeri ödüllendirdi",
-     "ozet": "",
+     "baslik": "İran Devrim Muhafızları: Bahreyn'deki ABD radarını hedef aldık",
+     "ozet": "Devrim Muhafızları, ABD'nin Bahreyn'deki erken uyarı radarını hedef aldığını açıkladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3JEOXVsV1JxdWZmM3o1c3RrN2ZaOU5fRmtRekFSRVFWb0ZGdXpYb2ZKQUFNaTNwcy1zOUgzUHF4QmtOY1pudFBhQnF1R3I2dTZmUlpwVTU4cEVGVm9SR1JGMUY1TXRvbnIxQ0NvdnluOXYwU1pvZ1hUSlk5dDRWS1A0UF82aUJaV3doX1Y2NXFJX2pLVUo0b1Z6X0pVRHdpM01rVXNqV0dDeVk?oc=5"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
       },
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
       }
      ]
     },
     {
-     "baslik": "Endonezya'nın başkan yardımcısı, uygunluğu ve akademik yeterliliğinin sorgulanması nedeniyle istifa etti",
-     "ozet": "",
+     "baslik": "ABD'de Van Hollen, Schumer'e meydan okuyarak Senato çoğunluk liderliğine aday oldu",
+     "ozet": "Senatör Chris Van Hollen, Senato çoğunluk liderliği için Chuck Schumer'e karşı aday olacağını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/13/us-senator-chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+      }
+     ]
+    },
+    {
+     "baslik": "FBI: Kuzey Koreli hackerlar 400 milyon doların üzerinde çaldı",
+     "ozet": "FBI'ın açıklamasına göre Kuzey Koreli hackerlar video görüntülerini kullanarak 400 milyon doları aşan bir tutarı çaldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUJYTGpUb1lrNXVCaVFFUjN3all5a2w1cF9HdW51OWROWC1taVFOOFozQ0pkYmpReklqTEhtNm1McUhtYVBvWTVMM2tHczJlUFZaem14Q1U0VndNaWk2Z3AxdzFvVThleTFNUXpPd3E0WlU2ZkdPSFFXeXJqNktka05TYUZmTER4TExyS3dOVTFLVWNLcVVHejdkVTk3UXVkRnUtNmNrQ3B3anBHelhIaGlka0RFMTZ0bnNWUWREeU0xV0tRNXp1THBIdw?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Endonezya Cumhurbaşkanı Yardımcısı istifa etti",
+     "ozet": "Endonezya Cumhurbaşkanı Yardımcısı, görev ehliyeti ve akademik diploması sorgulanmasının ardından istifa etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -372,8 +288,34 @@
        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5"
       },
       {
-       "ad": "NPR",
-       "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Mercedes-Benz Almanya'daki yatırımlarını durduruyor",
+     "ozet": "DW'ye göre şirket, işyeri konseyi ve sendikalardan gelen artan baskı sırasında Almanya'daki tesislerinde yeni yatırımları durdurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures"
+      }
+     ]
+    },
+    {
+     "baslik": "New York'ta bina çökmesi: 8 ölü",
+     "ozet": "Reuters'a göre New York'ta bir binanın çökmesinde 8 kişi öldü; belediye başkanı soruşturmanın kapsamını genişletti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMDNXZXZfWXd6WXFDRWFCVThnWWRkVldNaFZ4a25wTF9HaW9JV2xNX1oyUzVSaF9JZ2gyM0J1MFhGd0p2UWNYcjdtc1RqaUFwRmxxZXF4ZEhFQmRxV0VQOTg4WFZGR0RydEVJVFNGeV8xUllsdmlSU0V4aDNLNXlVR3Vyb1NvdG1wVzJleFdrSURqOEpFVWdLYzJJZjFRMERKTzhB?oc=5"
       }
      ]
     }
@@ -384,53 +326,53 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Fed, gelecek yıl ekim toplantısında para politikası kararı vermeyecek",
-     "ozet": "ABD Merkez Bankası (Fed), 26-27 Ekim 2027'de yapılacak Federal Açık Piyasa Komitesi (FOMC) toplantısında, geniş kapsamlı para politikası stratejisi konularının tartışılacağını ve politika kararı…",
+     "baslik": "ABD bütçe açığı ekimde 404 milyar dolar",
+     "ozet": "ABD federal bütçe açığı, 2027 mali yılının ilk ayında geçen yılın aynı dönemine göre yüzde 42,1 artarak 404,1 milyar dolara çıktı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fed-gelecek-yil-ekim-toplantisinda-para-politikasi-karari-vermeyecek/4123349"
+       "link": "https://www.aa.com.tr/tr/ekonomi/abd-2027-mali-yilina-404-milyar-dolarlik-butce-acigiyla-basladi/4123404"
       },
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/fed-ekim-2027-toplantisinda-politika-karari-aciklamayacak-3794492"
+       "link": "https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/abdnin-butce-acigi-ekimde-404-milyar-dolara-ulasti-haberi-847461"
       }
      ]
     },
     {
-     "baslik": "Jensen Huang'ı başarmak için yarışanlarla tanışın",
-     "ozet": "Rakip şirketlerin başkanlarından eski CEO'nun kendi çocuklarına kadar Nvidia'ya liderlik etme yarışı başladı",
+     "baslik": "ABD'de ikinci el konut satışları 16 yılın en düşüğünde",
+     "ozet": "ABD'de ikinci el konut satışları ekimde aylık bazda yüzde 5,5 azalarak Ağustos 2010'dan bu yana en düşük seviyeye indi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909"
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ikinci-el-konut-satislari-ekimde-16-yilin-en-dusuk-seviyesine-geriledi/4123080"
       },
       {
-       "ad": "The Economist",
-       "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/abd-de-ikinci-el-konut-satislari-16-yilin-en-dusuk-seviyesinde-3794483"
       }
      ]
     },
     {
-     "baslik": "Trump, başkan yardımcısının İran barış anlaşması çabalarının sona erdiğinin sinyallerini verdi",
-     "ozet": "Başkan, JD Vance'e iç meselelere odaklanması talimatını verirken ABD'nin Tahran'la bir anlaşmaya ihtiyacı olmadığını söyledi",
-     "etiket": "teyitli",
+     "baslik": "IMF: ABD'de enflasyon hedefe 2028 ortasında dönecek",
+     "ozet": "IMF Sözcüsü Julie Kozack, ABD'de enflasyonun 2028 ortasında yüzde 2'lik hedefe dönmesini beklediklerini söyledi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1"
-      },
-      {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/imf-ye-gore-abdde-enflasyonun-hedefe-donusu-2028-e-sarkiyor-3794482"
       }
      ]
     },
     {
-     "baslik": "SpaceX'ten yapay zeka altyapısına 74 milyar doları aşan yatırım planı",
-     "ozet": "SpaceX, Teksas ve Arizona'daki iki süper bilgisayar tesisi için toplam 74 milyar dolardan fazla yatırım planlıyor. Şirket, Teksas'taki Starbase tesisine 24 milyar dolardan fazla, yerel yönetimin…",
+     "baslik": "SpaceX'ten 74 milyar dolarlık yapay zekâ altyapısı planı",
+     "ozet": "SpaceX, Teksas ve Arizona'daki iki süper bilgisayar tesisi için toplam 74 milyar doları aşan yatırım planlıyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -440,25 +382,17 @@
       {
        "ad": "Dünya Gazetesi",
        "link": "https://www.dunya.com/ekonomi/spacexten-74-milyar-dolarlik-yapay-zeka-yatirimi-haberi-847464"
-      },
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abdde-yapay-zeka-altyapisina-74-milyar-dolari-askin-yatirim-planliyor/4123466"
       }
      ]
     },
     {
-     "baslik": "Trump'tan Nvidia için Tim Cook önerisi",
-     "ozet": "ABD Başkanı Donald Trump, Nvidia'daki görevinden istifa eden Jensen Huang'ın yerine Apple Yönetim Kurulu Başkanı Tim Cook'un geçmesi gerektiğini söyledi.",
-     "etiket": "teyitli",
+     "baslik": "Borsa İstanbul günü yükselişle kapattı",
+     "ozet": "BIST 100 endeksi günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/trump-tan-nvidia-icin-tim-cook-onerisi-3794481"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/dunya/trumptan-nvidianin-yeni-ceosu-icin-surpriz-oneri-haberi-847439"
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4123035"
       }
      ]
     }
@@ -469,65 +403,35 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "Google'ın yeni Gemini modeli karmaşık soruları anlamada daha iyi",
-     "ozet": "Google, yeni Gemini 4 Hydrogen modelinin \"çok parçalı sorular, anlaşılması zor yazım hataları veya son derece spesifik istekler\" dahil olmak üzere karmaşık sorulara daha yararlı yanıtlar verebileceğini söylüyor. …",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
-      },
-      {
-       "ad": "TechCrunch",
-       "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
-      }
-     ]
-    },
-    {
-     "baslik": "Jensen Huang skandalı bitmek üzere değil",
-     "ozet": "Jensen Huang'ın ikinci ilişkisi ortaya çıkana kadar Huang'ın kurşun geçirmez olduğundan emindim. Sonuçta neden olmasın ki? Kendisini vazgeçilmez bir şekilde yapay zeka endüstrisinin merkezine yerleştirdi ve…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
-      },
-      {
-       "ad": "TechCrunch",
-       "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-      }
-     ]
-    },
-    {
-     "baslik": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşanıyor",
-     "ozet": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
+     "baslik": "Yapay zekâ destekli ispat, kuantum bilgisayarların avantajına sınır getirdi",
+     "ozet": "New Scientist'e göre yapay zekâ destekli bir ispat, kuantum bilgisayarların matematiksel problemlerin bir sınıfında çok büyük avantaj sağlamayacağını gösterdi ve uzun süredir savunulan bir varsayımı doğruladı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoftun-bazi-hizmetlerinde-erisim-sorunu-yasaniyor/4123522"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "Bakan Kacır elektrikli ve hibrit araç sayısını 16 milyona çıkarmayı hedeflediklerini belirtti",
-     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'de elektrikli ve hibrit araç sayısını 2040 yılına kadar 16 milyona, güneş ve rüzgar enerjisinin toplam kurulu gücünü ise 175 gigavata çıkarmayı…",
+     "baslik": "Uzayda ilk kez bir robot yapı inşa etti",
+     "ozet": "New Scientist'e göre araştırmacılar, bir robotun uzayda astronot yardımı olmadan bir radyo anteni kurmasını sağladı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-elektrikli-ve-hibrit-arac-sayisini-16-milyona-cikarmayi-hedeflediklerini-belirtti/4123111"
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "Bakan Kacır, Brezilyalı ve Bangladeşli bakanlarla görüştü",
-     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) için bulunduğu Antalya'da Brezilyalı ve Bangladeşli bakanlarla…",
+     "baslik": "Manyetizmada atılım yapay zekâ çiplerinin enerji tüketimini azaltabilir",
+     "ozet": "ScienceDaily'ye göre Brown Üniversitesi araştırmacıları, ultra düşük güçlü çiplerin önündeki önemli bir engeli aştı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-brezilyali-ve-bangladesli-bakanlarla-gorustu/4122706"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm"
       }
      ]
     }
@@ -538,35 +442,24 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Genç bir bakıcı olarak tükendim ve unutulmuş hissediyorum",
-     "ozet": "16 yaşındaki Min, insanların onun fedakarlıklarını ve desteğin ne kadar değerli olduğunu her zaman anlamadığını söylüyor.",
+     "baslik": "Amerikan Kanser Derneği rutin prostat kanseri taramasını öneriyor",
+     "ozet": "Ars Technica'ya göre Amerikan Kanser Derneği, ortalama riskli 50-69 yaş arası erkeklerde iki yılda bir PSA taraması yapılmasını öneriyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c68xzylnzjv9o?at_medium=RSS&at_campaign=rss"
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
       }
      ]
     },
     {
-     "baslik": "\"Bir mamografi hayatınızı kurtarabilir.\"",
-     "ozet": "Sophie Law, mamografi tarayıcısını denemek için Oxford'daki Manor Hastanesi'ni ziyaret etti.",
+     "baslik": "Bilim insanları bazal gangliyonların en ayrıntılı haritasını yayımladı",
+     "ozet": "STAT'a göre büyük bir bilimsel iş birliği, psikiyatrik ve nörolojik hastalıklarla ilişkili beyin bölgesi bazal gangliyonların şimdiye kadarki en ayrıntılı haritasını üretti.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/c6wy4994lkjno?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Tuvaletler: Gecekondu mu yoksa bakıcı mısınız?",
-     "ozet": "Oturmak yerine çömelerek dışkılamanın ortalama süresinin daha kısa olduğunu biliyor muydunuz? Josie Peters bunun nedenini araştırıyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/videos/cm0qjeqnd30eo?at_medium=RSS&at_campaign=rss"
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/12/brain-map-basal-ganglia-offers-treatment-clues-parkinsons-schizophrenia/?utm_campaign=rss"
       }
      ]
     }
@@ -577,23 +470,38 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "İngiltere efsanesi Anderson (44), Surrey'e katıldı",
-     "ozet": "Efsanevi İngiliz bowling oyuncusu James Anderson, Surrey'e imza atarak rekor kıran kariyerini 45. yaş gününün ötesine taşıyor.",
+     "baslik": "A Milli Takım Belçika'ya 2-1 yenildi",
+     "ozet": "Türkiye, UEFA Uluslar Ligi'nde İzmir'de Belçika'ya 2-1 yenildi. A Milli Takım 45 yıl sonra ilk kez üst üste beş maç kaybetti; Sergen Yalçın dönemi bu yenilgiyle başladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/12/cricket-jimmy-anderson-joins-surrey"
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785143/spor/milli-futbol-tak%C4%B1m%C4%B1-bel%C3%A7ikaya-2-1-ma%C4%9Flup-oldu"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckNaYW1PNjk3M0ZvSGs5T0R0T1dqU1lqbGxzU2lvT0xtZ0lWRTVxM0p3emcxclhXYmh0UWpiQUw5UHhhb015T0pGbmF0ZDU1MXI2QmVjRW15MDN1WUdoU1M3MnNGc2dQd3YtZW9vd1N3aWVhR3NBdnczMUhXS1hqanljZGMtQQ?oc=5"
       }
      ]
     },
     {
-     "baslik": "Arsenal, yenilmezlik başlangıcını uzatmak için Barcelona ile berabere kalmaya çalışıyor",
-     "ozet": "Arsenal, Barcelona'yı Camp Nou'da 1-1 berabere tutmak için inatçı bir gösteri sergileyerek Uefa Kadınlar Şampiyonlar Ligi'ndeki yenilmezlik serisini dört maça çıkardı. Önemli olan Renee'yi harekete geçiriyor…",
+     "baslik": "İngiltere, Hırvatistan'ı 2-1 yendi",
+     "ozet": "UEFA Uluslar A Ligi 3. Grup'ta İngiltere, sahasında Hırvatistan'ı 2-1 mağlup etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/ingiltere-uefa-uluslar-liginde-hirvatistani-iki-golle-gecti-/4123518"
+      }
+     ]
+    },
+    {
+     "baslik": "Arsenal, Barcelona deplasmanında 1-1 berabere kaldı",
+     "ozet": "BBC Sport'a göre Arsenal Kadın Takımı, UEFA Kadınlar Şampiyonlar Ligi'nde Camp Nou'da Barcelona ile 1-1 berabere kalarak ilk dört maçtaki yenilmezliğini sürdürdü.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -605,17 +513,6 @@
        "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report"
       }
      ]
-    },
-    {
-     "baslik": "A Milli Takım, kötü gidişi durduramadı",
-     "ozet": "UEFA Uluslar A Ligi 1. Grup beşinci maçında Belçika'ya 2-1 mağlup olan A Milli Futbol Takımı, yine puanla tanışamadı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/a-milli-takim-kotu-gidisi-durduramadi/4123328"
-      }
-     ]
     }
    ]
   },
@@ -624,8 +521,8 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "\"Eşyaların Dilinden Asr-ı Saadet\" sergisi Hz. Peygamber dönemine ışık tutuyor",
-     "ozet": "Merhum Mahmut Karakış'ın kaleme aldığı eser ile Hz. Muhammed döneminde kullanılan 425 eşyanın incelendiği sergi, düzenlenen vefa programıyla sanat ve ilim dünyasının beğenisine sunuldu.",
+     "baslik": "\"Eşyaların Dilinden Asr-ı Saadet\" sergisi",
+     "ozet": "Mahmut Karakış'ın eserinde incelenen, Hz. Muhammed döneminde kullanılan 425 eşyayı ele alan sergi, düzenlenen bir programla sanat ve ilim dünyasına sunuldu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -635,8 +532,8 @@
      ]
     },
     {
-     "baslik": "\"Yapay Zeka ve Türkiye Müzik Endüstrisi Araştırması\", 1170 müzik profesyonelinin katılımıyla gerçekleştirildi",
-     "ozet": "Pro Creative ve Türkiye Musiki Eseri Sahipleri Meslek Birliğinin (MESAM) ortak çalışmasıyla hazırlanan \"Yapay Zeka ve Türkiye Müzik Endüstrisi\" araştırmasının sonuçları kamuoyuna duyuruldu.",
+     "baslik": "Yapay zekâ ve Türkiye müzik endüstrisi araştırması",
+     "ozet": "Pro Creative ve MESAM'ın ortak hazırladığı araştırmanın sonuçları, 1170 müzik profesyonelinin katılımıyla açıklandı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
@@ -651,58 +548,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43000472",
-   "baslik_en": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial.",
-   "baslik_tr": "Korunmuş ejeksiyon fraksiyonu ve obezite ile kalp yetmezliği olan bireylerde semaglutidin hemodinamik etkileri: plasebo kontrollü, randomize bir klinik çalışma.",
+   "pmid": "43013837",
+   "baslik_en": "Intismeran Autogene plus Pembrolizumab for Resected Stage IIB to IV Melanoma.",
+   "baslik_tr": "Rezeke edilmiş evre IIB–IV melanomda intismeran autogene ile pembrolizumab",
+   "dergi": "The New England journal of medicine",
+   "yazarlar": [
+    "Long GV",
+    "Khattak MA",
+    "Gogas HJ",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma (faz 3)",
+   "ozet_en": "This phase 3 double-blind trial randomized 1137 patients with completely resected high-risk melanoma to an individualized neoantigen therapy plus pembrolizumab or placebo plus pembrolizumab. At 24 months, recurrence-free survival was 82.2% versus 70.0%, and distant-metastasis-free survival was 88.5% versus 80.2%. The benefit appeared mainly after the first 6 months, and grade 3 or higher adverse events were somewhat more frequent with the combination.",
+   "ozet_tr": "Bu faz 3 çift kör çalışmada, tamamen rezeke edilmiş yüksek riskli melanomlu 1137 hasta, kişiselleştirilmiş bir neoantijen tedavisi artı pembrolizumab ya da plasebo artı pembrolizumab almak üzere rastgele atandı. 24. ayda hastalıksız sağkalım %82,2'ye karşı %70,0, uzak metastazsız sağkalım %88,5'e karşı %80,2 oldu. Yarar ağırlıklı olarak ilk 6 aydan sonra görüldü ve derece 3 veya üzeri yan etkiler kombinasyonda biraz daha sıktı.",
+   "neden_onemli": "Cilt kanserinde ameliyat sonrası nüksü azaltmaya yönelik kişiye özel aşı yaklaşımlarının büyük bir çalışmada olumlu sonuç verdiğini gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013837/",
+   "doi": "https://doi.org/10.1056/NEJMoa2609762"
+  },
+  {
+   "pmid": "43018973",
+   "baslik_en": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
+   "baslik_tr": "Erken doğan bebeklerde erken başlangıçlı sepsiste prokalsitonin ve presepsin rehberliğinde antibiyotik kullanımı: randomize klinik çalışma",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Dani C",
+    "Poggi C",
+    "Pietrasanta C",
+    "et al."
+   ],
+   "tur": "Randomize kontrollü çalışma (eşdeğerlik/noninferiority)",
+   "ozet_en": "In 17 Italian neonatal intensive care units, 283 very preterm infants were randomized to biomarker-guided antibiotic treatment or universal antibiotic treatment. The composite primary outcome occurred in 53% versus 55% of infants. Noninferiority of the biomarker-guided strategy was not demonstrated because the confidence interval crossed the prespecified margin, so the findings do not support routine use of this approach.",
+   "ozet_tr": "İtalya'daki 17 yenidoğan yoğun bakım ünitesinde 283 çok erken doğan bebek, biyobelirteç rehberliğinde ya da herkese antibiyotik verilen tedaviye rastgele atandı. Bileşik birincil sonuç bebeklerin %53'ünde ve %55'inde görüldü. Güven aralığı önceden belirlenen sınırı aştığı için biyobelirteç temelli stratejinin geri kalmadığı gösterilemedi; bulgular bu yaklaşımın rutin kullanımını desteklemiyor.",
+   "neden_onemli": "Erken doğan bebeklerde gereksiz antibiyotik kullanımını azaltma çabasında bu biyobelirteç yönteminin henüz yeterli kanıta ulaşmadığını gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018973/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43418"
+  },
+  {
+   "pmid": "43009642",
+   "baslik_en": "Blood-based RNA biomarker for the early detection of ovarian cancer.",
+   "baslik_tr": "Yumurtalık kanserinin erken tespiti için kana dayalı RNA biyobelirteci",
    "dergi": "Nature medicine",
    "yazarlar": [
-    "Borlaug BA",
-    "Jensen MD",
-    "Packer M",
+    "Wilhelm J",
+    "Kumar A",
+    "Vasiyani H",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in heart failure with preserved ejection fraction (HFpEF) through unclear mechanisms. Here, in this double-blind, placebo-controlled trial, we randomly assigned 81 patients (47 women) with HFpEF and obesity to semaglutide (2.4 mg weekly) or placebo for 52 weeks. The primary outcome was the change in invasively measured pulmonary artery wedge pressure (PAWP), a direct measure of cardiac congestion, during low-intensity exercise. Additional mechanistic outcomes included other hemodynamic measures and hemodynamic HFpEF remission (defined as normal PAWP under conditions of both rest and exercise at 52 weeks).",
-   "ozet_tr": "Glukagon benzeri peptid-1 reseptör agonisti semaglutid, belirsiz mekanizmalar yoluyla korunmuş ejeksiyon fraksiyonu (HFpEF) ile kalp yetmezliğindeki semptomları iyileştirir. Burada, bu çift kör, plasebo kontrollü çalışmada, HFpEF ve obezitesi olan 81 hastayı (47 kadın) 52 hafta boyunca semaglutid (haftalık 2,4 mg) veya plaseboya rastgele atadık. Birincil sonuç, düşük yoğunluklu egzersiz sırasında kalp tıkanıklığının doğrudan bir ölçümü olan, invazif olarak ölçülen pulmoner arter kama basıncındaki (PAWP) değişiklikti. Ek mekanik sonuçlar, diğer hemodinamik ölçümleri ve hemodinamik HFpEF remisyonunu (52 haftada hem dinlenme hem de egzersiz koşulları altında normal PAUB olarak tanımlanır) içeriyordu.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43000472/",
-   "doi": "https://doi.org/10.1038/s41591-026-04762-3"
-  },
-  {
-   "pmid": "43015467",
-   "baslik_en": "Glycosylation and importins liquefy the FG barrier in live nuclear pores.",
-   "baslik_tr": "Glikosilasyon ve ithalatlar canlı nükleer gözeneklerdeki FG bariyerini sıvılaştırır.",
-   "dergi": "Nature",
-   "yazarlar": [
-    "Yu M",
-    "Heidari M",
-    "Palacio-Rodriguez K",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "The nuclear pore complex (NPC) regulates molecular traffic between nucleus and cytoplasm1,2. Its permeability barrier is formed by intrinsically disordered phenylalanine-glycine-rich nucleoporins (FG-NUPs), whose physical state has long been debated3-13. Deciphering how FG-NUPs behave inside living cells is crucial for understanding how NPCs achieve both selective and rapid transport. By combining site-specific labelling with time-resolved fluorescence anisotropy, here we show that FG domains exhibit nanosecond-scale, liquid-like segmental motion in live cells, whereas reconstituted FG condensates undergo a liquid-to-solid transition in vitro.",
-   "ozet_tr": "Nükleer gözenek kompleksi (NPC), çekirdek ve sitoplazma1,2 arasındaki moleküler trafiği düzenler. Geçirgenlik bariyeri, fiziksel durumu uzun süredir tartışılan, doğası gereği düzensiz fenilalanin-glisin açısından zengin nükleoporinler (FG-NUP'ler) tarafından oluşturulur3-13. FG-NUP'ların canlı hücreler içinde nasıl davrandığını çözmek, NPC'lerin hem seçici hem de hızlı taşımayı nasıl başardığını anlamak için çok önemlidir. Sahaya özgü etiketlemeyi zamanla çözülen floresans anizotropisi ile birleştirerek, burada FG alanlarının canlı hücrelerde nanosaniye ölçeğinde, sıvı benzeri segmental hareket sergilediğini, buna karşın yeniden yapılandırılmış FG yoğunlaşmalarının in vitro sıvıdan katıya geçiş yaptığını gösteriyoruz.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43015467/",
-   "doi": "https://doi.org/10.1038/s41586-026-11258-0"
-  },
-  {
-   "pmid": "43015474",
-   "baslik_en": "NRF2 is a mechanosensitive checkpoint for NLRP3 inflammasome activation.",
-   "baslik_tr": "NRF2, NLRP3 inflamatuar aktivasyonu için mekanosensitif bir kontrol noktasıdır.",
-   "dergi": "Nature",
-   "yazarlar": [
-    "Okin D",
-    "Choi JH",
-    "Wang C",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "Disconnects between in vitro and in vivo results in experimental biology have long been recognized as potential hurdles to understanding health and disease. A prototypical example of such a disconnect is the NLRP3 inflammasome, which mediates inflammation in diverse settings of disease and protective immunity1,2. Activation of the NLRP3 inflammasome in vitro requires two signals: (1) priming by pathogen-associated molecular patterns such as bacterial lipopolysaccharides and (2) activation by molecules that disrupt cellular homeostasis1,3. By contrast, the NLRP3 inflammasome in vivo is activated by lipopolysaccharide alone.",
-   "ozet_tr": "Deneysel biyolojide in vitro ve in vivo sonuçlar arasındaki bağlantısızlıklar, uzun süredir sağlık ve hastalığın anlaşılmasında potansiyel engeller olarak kabul edilmektedir. Böyle bir kopukluğun prototipik bir örneği, çeşitli hastalık ortamlarında inflamasyona ve koruyucu bağışıklığa aracılık eden NLRP3 inflamatuarıdır1,2. NLRP3 inflamatuarının in vitro aktivasyonu iki sinyal gerektirir: (1) bakteriyel lipopolisakkaritler gibi patojenle ilişkili moleküler modeller tarafından hazırlanma ve (2) hücresel homeostaziyi bozan moleküller tarafından aktivasyon1,3. Buna karşılık, in vivo NLRP3 inflamatuarı tek başına lipopolisakkarit tarafından aktive edilir.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43015474/",
-   "doi": "https://doi.org/10.1038/s41586-026-11324-7"
+   "tur": "Biyobelirteç çalışması (vaka-kontrol)",
+   "ozet_en": "Researchers measured a tumor-associated RNA called Tu-stroma in serum vesicles from 506 individuals with normal tissue, benign lesions, early precursor lesions and high-grade serous ovarian cancer. The marker discriminated precursor lesions and cancer from controls better than CA125 (AUC about 0.99). The authors note that prospective validation in real-world cohorts is still required.",
+   "ozet_tr": "Araştırmacılar, normal doku, iyi huylu lezyon, erken öncül lezyon ve yüksek dereceli seröz yumurtalık kanseri olan 506 kişinin serum veziküllerinde Tu-stroma adlı tümörle ilişkili bir RNA'yı ölçtü. Bu belirteç, öncül lezyonları ve kanseri kontrollerden CA125'ten daha iyi ayırdı (AUC yaklaşık 0,99). Yazarlar, gerçek yaşam kohortlarında ileriye dönük doğrulamanın hâlâ gerekli olduğunu belirtiyor.",
+   "neden_onemli": "Yumurtalık kanserinin erken evrede kan testiyle saptanabilmesi yönünde umut verici ancak henüz doğrulanmamış bir adım.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009642/",
+   "doi": "https://doi.org/10.1038/s41591-026-04732-9"
   }
  ]
 }
