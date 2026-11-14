@@ -1,17 +1,13 @@
 {
  "tarih": "2026-11-14",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "ABD'de hava trafik kontrolündeki iletişim sorunu nedeniyle ülke genelinde uçuşların durdurulması ve Microsoft'taki küresel kesinti, gecenin öne çıkan teknik aksaklıklarıydı. Türkiye'de Mekke Anlaşması yürürlüğe girerken, AB Ukrayna müzakerelerinde Avrupa'yı temsil edecek ekibi belirledi.",
  "one_cikanlar": [
   {
-   "baslik": "ABD Federal Havacılık İdaresi, ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı",
-   "ozet": "ABD Federal Havacılık İdaresi, Hava Yolu Trafik Kontrol Merkezlerini etkileyen iletişim sorununun ardından ABD genelindeki tüm havalimanlarında uçuşların durdurulması kararı aldı.",
+   "baslik": "ABD'de tüm uçuşlar kısa süreliğine durduruldu",
+   "ozet": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ülke genelindeki havalimanlarında uçuşları durdurdu. Ulaştırma Bakanı Sean Duffy, kararın Türkiye saatiyle 04.15 itibarıyla kaldırıldığını duyurdu. Duffy kesintiyi eskimiş ekipmana bağladı; Ars Technica, bunun FAA tarihindeki üçüncü ülke çapında uçuş durdurma olduğunu yazdı.",
    "etiket": "teyitli",
    "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785"
-    },
     {
      "ad": "TRT Haber",
      "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html"
@@ -21,48 +17,112 @@
      "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/dunya/son-dakika-abd-genelinde-tum-ucaklar-durduruldu-3927258"
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abdde-ulke-genelinde-ucuslari-durdurma-karari-kaldirildi/4124785"
     },
     {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5"
+    },
+    {
+     "ad": "Ars Technica",
+     "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Ülke genelinde havacılık altyapısının kırılganlığını gösteriyor."
   },
   {
-   "baslik": "İş insanı Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan 5 şüpheli tutuklandı",
-   "ozet": "İş insanı Mahiroğlu hakkında \"rüşvet\", \"ihaleye fesat karıştırma\" ve \"suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından yürütülen soruşturma kapsamında düzenlenen ikinci dalga…",
+   "baslik": "New Orleans'ta tanker, nehir gemisine çarptı",
+   "ozet": "Reuters'a göre Mississippi Nehri'nde bir tankerin yolcu gemisine çarpması sonucu 32 kişi hastaneye kaldırıldı. Euronews, gemide 129 yolcu bulunduğunu ve kurtarma çalışmalarının sürdüğünü bildirdi; BBC Türkçe, geminin yan yattığını aktardı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGJQd2ZPVXZtMTIxS2dDR2ZOWjU5bVpGSGNXXzY4OFNEWWFTTDV0c0k3cjM5QWF3MVRqaU1RaWhja3YwZzVJOHNHYV9jWkNUR3NrWXRCUl9XSG9QODZNMHhkeUloNVI5a1U5Skg0TzhubXl0ZFZGc3JkdDkzRmstR3pPZi1USEdLTW9rRkdVOXdRakxSX1QwOVBsUEZsWTVFMHE1SkpNV19qMzM5UVE?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss"
+    }
+   ],
+   "neden_onemli": "Büyük çaplı bir deniz kazası; yaralı sayısı ve soruşturma sonuçları izlenecek."
+  },
+  {
+   "baslik": "Microsoft'ta küresel kesinti sonrası geniş çaplı toparlanma",
+   "ozet": "Microsoft, küresel çapta yaşanan kesinti için özür diledi ve hizmetlerde geniş çaplı iyileşme sağlandığını açıkladı. Uzmanlar, olayın dünyanın az sayıda büyük teknoloji sağlayıcısına ne kadar bağımlı olduğunu gösterdiğini söylüyor. The Guardian, Avustralya'daki etkinin milyar dolarlık olabileceğini yazdı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+    }
+   ],
+   "neden_onemli": "Kritik hizmetlerin tek sağlayıcıya bağımlılığı tartışmasını yeniden açtı."
+  },
+  {
+   "baslik": "AB, Ukrayna müzakerelerinde Avrupa'yı temsil edecek ekibi belirledi",
+   "ozet": "AB Konseyi Başkanı Antonio Costa'ya göre liderler, Ukrayna barış müzakerelerinde Avrupa'yı AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'den oluşan E5 grubunun temsil edeceği konusunda anlaştı. AP, Avrupa'nın bir diplomat ekibi göndereceğini bildirdi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735"
+     "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-muzakerelerinde-avrupayi-temsil-edecek-5-ulke-ve-ab-kurumlarindan-olusan-ekip-uzerinde-anlasti/4124715"
     },
     {
      "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785182/haber/i%CC%87%C5%9F-insan%C4%B1-cafer-mahiro%C4%9Fluna-y%C3%B6nelik-soru%C5%9Fturmada-g%C3%B6zalt%C4%B1na-al%C4%B1nan-5-%C5%9F%C3%BCpheli"
+     "link": "https://www.indyturk.com/node/785184/d%C3%BCnya/ab-ukrayna-m%C3%BCzakerelerinde-avrupay%C4%B1-temsil-edecek-5-%C3%BClke-ve-ab-kurumlar%C4%B1ndan"
     },
     {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/gundem/cafer-mahiroglu-sorusturmasinda-6-supheliye-tutuklama-talebi-3927240"
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5"
     },
     {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-5-tutuklama-p381142"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3NoMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2E5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Avrupa, ABD öncülüğündeki müzakerelerde söz sahibi olmaya çalışıyor."
   },
   {
-   "baslik": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de",
-   "ozet": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun, Resmi Gazete'de…",
+   "baslik": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "ozet": "Türkiye, Pakistan ve Suudi Arabistan arasında ortak savunmaya ilişkin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun Resmi Gazete'de yayımlandı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
      "link": "https://www.aa.com.tr/tr/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-resmi-gazetede/4124780"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss"
     },
     {
      "ad": "Habertürk",
@@ -73,55 +133,15 @@
      "link": "https://www.sozcu.com.tr/son-dakika-mekke-anlasmasi-resmi-gazete-de-yayimlandi-p381153"
     },
     {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/turkiye/mekke-anlasmasi-resmi-gazete-de-yayimlanarak-yururluge-girdi-2556032"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile görüştü. Görüşme sonrası iki ülke arasında ticaret, eğitim, diplomasi ve savunma alanlarını kapsayan 5 anlaşma…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
      "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorustu-963198.html"
+     "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-yururluge-girdi-963230.html"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/dunya/katar-emiri-al-saniden-turkiye-mesaji-cesitli-alanlarda-stratejik-ortakligimiz-gelismeye-devam-ediyor-43377641"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/13/baskan-erdogan-katar-emiri-al-saniyi-dolmabahce-sarayinda-kabul-etti"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnpBV1lPRmpxeTdoQjc0b0wwZVd0OF9TMFQ4OWRYaV9KQnVMcVNCazVDVkhtNUFCS3ROSnR4d3FOV05YNV9KUEpjaEx5TEZPSXJsX0h0aUlmMTZFY2U2WXN1NzNLODlxd3pzR2JENF9UcUhYRUwwcUxIZGUzbVVpREJsaXZnSFROa0lxQTFURkxGeVozT2tRUzFWWTI4Y3E2VjlKRkFn?oc=5"
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785187/haber/t%C3%BCrkiye-pakistan-ve-suudi-arabistan-aras%C4%B1ndaki-mekke-anla%C5%9Fmas%C4%B1-resmi-gazete%E2%80%99de"
     }
    ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Anadolu Efes, Virtus Bologna'yı 103-91 yendi",
-   "ozet": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında Anadolu Efes, sahasında İtalya ekibi Virtus Bologna'yı 103-91 mağlup etti.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-virtus-bolognayi-103-91-yendi/4124720"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-virtus-bologna-ya-sans-tanimadi-2556006"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFctNlVEUTRycFc1VVkwNEt0SmhwMEdNSTdUa3J0eGJwMHQtUTd5aFh3cjFmVFlBMjh6bklLZFRsQzhDVzBheml4Y0c3bmMyNkpFOGU4U1JVak5ORm9SakpPa2FLNUVUalhROW5fOHJYc081SlhBeTNRVlI2SmhuVkV2eWpxenZGQzlUQ2hDRWtiNGZSUzVpaURIcXNNUm9SWUJ2Y1VfN2FONzdQQUp3YWdSNEN1TU9pMTh4ckx4c2luZjdzeVFEc2lqSjhrckJ2Q0I2dU5OaEVycmItVm83Yw?oc=5"
-    }
-   ],
-   "neden_onemli": ""
+   "neden_onemli": "Üç ülke arasındaki savunma iş birliği hukuken yürürlüğe girdi."
   }
  ],
  "bolumler": [
@@ -130,115 +150,81 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Gazze'deki ateşkesin arabulucuları İsrail ihlallerinin durdurulmasını ve yardımların artırılmasını istedi",
-     "ozet": "Türkiye, Mısır ve Katar istihbarat başkanları, Gazze Şeridi'ndeki son gelişmeleri ele almak üzere Kahire'de üçlü toplantı gerçekleştirdi.",
+     "baslik": "Mahiroğlu soruşturmasında 5 şüpheli tutuklandı",
+     "ozet": "İş insanı Cafer Mahiroğlu hakkında rüşvet, ihaleye fesat karıştırma ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlamalarıyla yürütülen soruşturmanın ikinci dalgasında gözaltına alınan 5 şüpheli tutuklandı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-ve-yardimlarin-artirilmasini-istedi/4124773"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/dunya/israil-ordusunun-gazze-deki-hastaneleri-isaretlemesi-yeni-saldiri-endiselerini-artirdi-3927235"
-      }
-     ]
-    },
-    {
-     "baslik": "AB, Ukrayna müzakerelerinde Avrupa'yı temsil edecek 5 ülke ve AB kurumlarından oluşan ekip üzerinde anlaştı",
-     "ozet": "AB Konseyi Başkanı Antonio Costa, liderlerin Ukrayna'da barış müzakerelerinde Avrupa'yı temsil edecek ekibin AB kurumları ile Almanya, Polonya, Fransa, İtalya ve İngiltere'nin yer aldığı E5 grubundan…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/ab-ukrayna-muzakerelerinde-avrupayi-temsil-edecek-5-ulke-ve-ab-kurumlarindan-olusan-ekip-uzerinde-anlasti/4124715"
+       "link": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735"
       },
       {
        "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785184/d%C3%BCnya/ab-ukrayna-m%C3%BCzakerelerinde-avrupay%C4%B1-temsil-edecek-5-%C3%BClke-ve-ab-kurumlar%C4%B1ndan"
-      },
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Bakan Çiftçi'den yolda kalan iki kadına yardım eden polislere teşekkür paylaşımı",
-     "ozet": "İçişleri Bakanı Mustafa Çiftçi, Bartın'da gece saatlerinde aracı arızalanarak yolda kalan iki kadına yardım eden polislere teşekkür etti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-yolda-kalan-iki-kadina-yardim-eden-polislere-tesekkur-paylasimi/4124684"
+       "link": "https://www.indyturk.com/node/785182/haber/i%CC%87%C5%9F-insan%C4%B1-cafer-mahiro%C4%9Fluna-y%C3%B6nelik-soru%C5%9Fturmada-g%C3%B6zalt%C4%B1na-al%C4%B1nan-5-%C5%9F%C3%BCpheli"
       },
       {
        "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-iki-kadina-yardim-eden-polislere-tesekkur-43377648"
+       "link": "https://www.hurriyet.com.tr/gundem/mahiroglu-sorusturmasinda-5-tutuklama-daha-43377707"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/cafer-mahiroglu-sorusturmasinda-6-supheliye-tutuklama-talebi-3927240"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-5-tutuklama-p381142"
       }
      ]
     },
     {
-     "baslik": "Dışişleri Bakanlığından BAE'deki trafik kazasında hayatını kaybedenler için taziye mesajı",
-     "ozet": "Dışişleri Bakanlığı, Birleşik Arap Emirlikleri'nde (BAE) meydana gelen zincirleme trafik kazasında hayatını kaybedenler için derin üzüntü duyulduğunu belirterek, ölenlerin yakınlarına ve BAE halkına…",
+     "baslik": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı genelgesi yayımlandı",
+     "ozet": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi Resmi Gazete'de yayımlandı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligindan-baedeki-trafik-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/4124618"
+       "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787"
       },
       {
        "ad": "Habertürk",
-       "link": "https://www.haberturk.com/dunya/disisleri-bakanligi-bae-nin-fuceyre-emirligi-ndeki-kazada-olenler-icin-bassagligi-diledi-3927243"
+       "link": "https://www.haberturk.com/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazete-de-3927262"
       }
      ]
     },
     {
-     "baslik": "İstanbul Valiliği fırtına tedbirlerini açıkladı",
-     "ozet": "İstanbul Valiliği, kent genelinde etkili olan kuvvetli rüzgar ve fırtına nedeniyle alınan tedbirler kapsamında 12 koru ve doğal yaşam alanının ziyaretçi girişine kapatıldığını; teleferik ve çok…",
+     "baslik": "Guterres: Türkiye yılın en büyük BM konferansına ev sahipliği yapıyor",
+     "ozet": "BM Genel Sekreteri Antonio Guterres, Türkiye'nin şimdiye kadarki en büyük COP'lardan birine ev sahipliği yaptığını belirterek teşekkür etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/istanbul-valiligi-firtina-tedbirlerini-acikladi-963184.html"
+       "link": "https://www.trthaber.com/haber/dunya/bm-genel-sekreteri-guterres-turkiyeye-ev-sahipligi-ve-misafirperverligi-icin-tesekkur-etti-963224.html"
       },
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-hizi-saatte-90-km-yi-bulacak-istanbul-da-firtina-3927043"
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785178/haber/bm-genel-sekreteri-guterres-t%C3%BCrkiye-%C5%9F%C3%BCphesiz-bu-y%C4%B1l%C4%B1n-en-b%C3%BCy%C3%BCk-bm-konferans%C4%B1na-ev"
       }
      ]
     },
     {
-     "baslik": "BEYLİKDÜZÜ VERGİ DAİRESİ MÜDÜRLÜĞÜ",
-     "ozet": "",
-     "etiket": "teyitli",
+     "baslik": "Uluslararası Göç Örgütü: İklim krizi 200 milyon kişiyi göçe zorlayabilir",
+     "ozet": "COP31 sürerken Uluslararası Göç Örgütü, iklim krizinin 200 milyon insanı göçe zorlayabileceği uyarısında bulundu; kuraklık ve orman yangınları gibi nedenlerle 2025'te 30 milyon kişi evini terk etti.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/beylikduzu-vergi-dairesi-mudurlugu-43377535"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/goztepe-vergi-dairesi-mudurlugu-2555958"
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/antalya-dan-dünyaya-uyarı-200-milyon-insan-göçe-zorlanabilir/a-79944101?maca=tur-rss-tur-all-1495-rdf"
       }
      ]
     },
     {
-     "baslik": "Zelenski'den Meloni'ye 'göndermeli' yanıt: 'Görüşmeyi sen istemedin'",
-     "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, bir süredir görüşmediklerini belirten İtalya Başbakanı Giorgia Meloni'ye 'görüşme göndermesinde bulunarak yanıt verdi. Zelenski, Meloni'ye mesajında…",
-     "etiket": "teyitli",
+     "baslik": "HABAŞ fabrikasındaki patlamada kayıp işçinin cenazesine ulaşıldı",
+     "ozet": "19 işçinin hayatını kaybettiği, 14 kişinin yaralandığı HABAŞ demir çelik fabrikasında aranan bir işçinin de cenazesine ulaşıldı. BBC Türkçe'ye göre fabrika önünde işçiler eylem yaptı ve kolluk müdahale etti.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/zelenskiden-meloniye-gondermeli-yanit-gorusmeyi-sen-istemedin-43377258"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVYwWkFPQjNpajdxU1piZlUtX1RSemFQT0o3RHYyYmFPZXUyTjZaWk5TWDhmWTNSRExuYjlLNUh2UHNLZ3U4YVhJUU1WN3JyenhycUtDRktjWEE0c1poTGg5Mkx2NGhSSzBmdjAwRlprWkdlb1ZYVlMxZ1dySkJKTm56RkFhQnk5NkZXcXFlRkdvdWNNMTJLQ19rWEk1YnV1Z01wTGZzTQ?oc=5"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c539gl7dw2l0o?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -249,8 +235,79 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Yüksek Mahkeme, Trump'ın ABD-Meksika sınırındaki sığınma kısıtlamalarını değerlendirecek",
-     "ozet": "",
+     "baslik": "Trump'ın Çin ziyaretinde Şi ve Putin'le üçlü görüşme planlanıyor",
+     "ozet": "Anadolu Ajansı'na göre ABD Başkanı Trump'ın Filipinler ve Çin gezisinin ikinci ayağında Şi Cinping ve Putin'le üçlü bir görüşme yapması bekleniyor. Reuters, Beyaz Saray'a atfen Trump'ın nükleer silah indirimi konusunu gündeme getireceğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-cine-yapacagi-ziyarette-si-ve-putinle-uclu-gorusme-gerceklestirecek/4124828"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Ukrayna, Rusya'ya yaklaşık 1.200 insansız hava aracı gönderdi",
+     "ozet": "AP'ye göre Ukrayna, ABD öncülüğündeki görüşmelerde daha geniş Avrupa güvenliğinin ele alınacağı bir dönemde Rusya'ya yaklaşık 1.200 dron fırlattı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXVZUW9PS0M3SlFocHN4c3ZfZE5aZmwzamtmX3lkRHYtMm14N2EzVFV1M3ZzQ0tsbjNiMWVOMlBtRkdrLVp1cGhubG1yc283Y1RRMnk3SkRtXzVhQkItYlVJME9vX2stYUxNOEJTU2puX19kUHM4NnpZdVN4QUdTN2FNMGw5Sk9xeEtuV1hUT2pyYjBIRnQ0dDF1Um1lVFlMSEJzS1JmNUpYQjA?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "BMGK'de ABD ile İran birbirini suçladı",
+     "ozet": "Orta Doğu'daki durumu ele alan BM Güvenlik Konseyi toplantısında ABD, İran'ı uluslararası deniz güvenliğini baltalamakla suçladı; İran ise ABD'yi yasa dışı davranmakla itham etti. BM ayrıca Hürmüz ve Babulmendeb boğazlarındaki gerilimin küresel güvenlik ve ekonomi için ciddi risk oluşturduğunu belirtti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyindeki-toplantida-abd-ile-iran-birbirini-sucladi/4124813"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/bm-hurmuz-ve-babulmendeb-bogazlarindaki-gerilim-kuresel-guvenligi-tehdit-ediyor/4124767"
+      }
+     ]
+    },
+    {
+     "baslik": "Gazze ateşkesinin arabulucuları İsrail ihlallerinin durdurulmasını istedi",
+     "ozet": "Türkiye, Mısır ve Katar istihbarat başkanları Kahire'deki üçlü toplantıda İsrail ihlallerinin durdurulmasını ve yardımların artırılmasını talep etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-ateskesin-arabuluculari-israil-ihlallerinin-durdurulmasini-ve-yardimlarin-artirilmasini-istedi/4124773"
+      }
+     ]
+    },
+    {
+     "baslik": "Eisenkot, Netanyahu'yu Arap azınlığa karşı 'ırkçı' kampanyayla suçladı",
+     "ozet": "The Guardian'a göre İsrail'de başbakanlık adayı Gadi Eisenkot, geçici başbakan Binyamin Netanyahu'yu ülkenin Arap azınlığına yönelik ırkçı bir kampanya yürütmekle suçladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD Yüksek Mahkemesi, Trump'ın iltica kısıtlamalarını inceleyecek",
+     "ozet": "Reuters'a göre ABD Yüksek Mahkemesi, Trump yönetiminin ABD-Meksika sınırındaki iltica kısıtlamalarını ele alacak.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -264,92 +321,24 @@
      ]
     },
     {
-     "baslik": "Fakslar, telefonlar ve Bluetooth: Microsoft kesintisi işletmeleri çözüm bulmaya zorluyor",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTd4RWIwQ1RNZXNmZzVFT3czU0dhcjBGNlBvV0RmNkQtdExIaWdNeEpZQ2NzR2MwS3J4R0g0MTdxaDVUSGlyRG1LZGxuNTNsb3pLTTBfZzhLZ1l2amJKdnhLLUhJUXp5NXdUalNCSHd4LWJMc05zbDBaeUI2TGhsN0ZDNVdwdTJxV0NDeG5qejNtcUxDWTRfU0ExQ19QeEFtZGJhd05oVUI3WG54WmxvbmlQYXNUSGs1NmlGLUhB?oc=5"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
-      },
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/cr1ew8v4z9g8o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "ABD vize kısıtlamaları bazı Afrikalı yarışmacıları Kainat Güzeli yarışmasının dışında bırakıyor",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk1Bd3FOcWR5QXBFWEhjRzNPVTgtUHdmVEVCNmdCQ19hOFlkRjUtV0F1eTlQRXltd2NSbktxd2J6aVF4aG44ajVJM1BtV2xOMS10a2xXX2V5SENZYWR0cmJQdEFZM1hBMWw5TE5EU0RKellHX2ZnaXduVlN3RXVDWERWMENQU0Z0d0tLRE5PUmZvS3FvOFdWeTFKV2JHd2VaQjBTTlNWc2hORjlrRUxIZktUdw?oc=5"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Microsoft, neredeyse 24 saatlik kesintinin ardından küresel kesintiden dolayı 'çok üzgün'",
-     "ozet": "Uzmanlar, etkinliğin dünyanın büyük teknoloji sağlayıcılarından oluşan küçük bir gruba ne kadar bağımlı olduğunun \"kesin bir hatırlatıcısı\" olduğunu söylüyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/13/microsoft-365-global-outage-disrupts-portuguese-government-health-services-and-schools"
-      }
-     ]
-    },
-    {
-     "baslik": "İzleyin: Bir sunucu kesintisi Microsoft Teams ve Outlook'u nasıl devre dışı bıraktı?",
-     "ozet": "Microsoft'ta yaşanan bir kesinti; Teams, Outlook ve AI yazılımı Copilot gibi hizmetleri etkiliyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
-      }
-     ]
-    },
-    {
-     "baslik": "Hindistan'ın kuzeydoğusunda otobüsle kamyonun çarpışması sonucu en az 24 kişi hayatını kaybetti",
-     "ozet": "Yerel yetkili Atul Bora'ya göre ölenlerin birçoğu üniversite öğrencisi ama kimlikleri henüz kamuya açıklanmadı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Eski CIA şefi Brennan'ın oğlu, reşit olmayan kızların cinsel görüntüleri nedeniyle suçlandı",
-     "ozet": "",
+     "baslik": "Venezuela'da geçiş süreci görüşmelerinde dördüncü tur başlıyor",
+     "ozet": "Hükümet ile muhalefetin bir kesimi, ABD öncülüğündeki geçiş süreci görüşmelerinin dördüncü turuna bugün başlayacak.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlFRcGwxaWJpNUlQeTdsaU1HUWF2b0VaNEhOMlNsLVdCUUVWYk9OTWw4Y0VIWHlZbVVjWVRaZ3FVcGpveGRSa1JiQWtUWWtuV1FTN0dNY1NpWnMzY0ZKOVB1YjFWUHdXOHhjZ3BVYUMtOExXQ0dFZ3ZrQ254UXJrXzBVYkFXTHN0VmFjRjVnRnMzUG04VkRjU0J5V3BHU054Z2p0MUJqMjlkb3VvOEstTXBPVlotOFk?oc=5"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/venezuelada-gecis-sureci-diyalogunda-dorduncu-tur-basliyor/4124823"
+      }
+     ]
+    },
+    {
+     "baslik": "Almanya'da istihbarat kurumlarının yetkileri artırıldı",
+     "ozet": "Alman Meclisi, sabotaj ve dezenformasyon kampanyalarına karşı istihbarat kurumlarının yetkilerini artıran düzenlemeyi kabul etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/alman-istihbaratına-yeni-yetkiler-verildi/a-79942564?maca=tur-rss-tur-all-1495-rdf"
       }
      ]
     }
@@ -360,53 +349,53 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "ABD Hazine Bakanı Bessent, aylardır Megaspeed'in kara listeye alınmasından yana olduklarını söyledi",
-     "ozet": "ABD Hazine Bakanı Bessent, Bakanlığının, Nvidia ile ilgili casusluk iddialarının merkezinde bulunan Megaspeed'in ABD'nin çıkarlarına tehdit oluşturduğu değerlendirilen kuruluşların yer aldığı \"Varlık…",
+     "baslik": "ABD-Çin Ticaret Kurulu ilk resmi toplantısını yaptı",
+     "ozet": "ABD Ticaret Temsilciliği (USTR), ABD-Çin Ticaret Kurulu'nun ilk resmi toplantısının yapıldığını duyurdu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-aylardir-megaspeedin-kara-listeye-alinmasindan-yana-olduklarini-soyledi/4124590"
+       "link": "https://www.aa.com.tr/tr/ekonomi/abd-cin-ticaret-kurulunun-ilk-resmi-toplantisi-yapildi-/4124690"
       },
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/bessent-hazine-aylardir-megaspeed-in-kara-listeye-alinmasini-destekliyor-3794639"
+       "link": "https://www.bloomberght.com/abd-cin-ticaret-kurulu-ilk-resmi-toplantisini-yapti-3794646"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/abd-ile-cin-arasinda-ticaret-adimi-ilk-resmi-toplanti-yapildi-haberi-847573"
       }
      ]
     },
     {
-     "baslik": "ABD'de Üretici Fiyat Endeksi yıllık yüzde 6,5 ile beklentilerin altında arttı",
-     "ozet": "ABD'de Üretici Fiyat Endeksi (ÜFE), ekimde aylık bazda yüzde 0,3, yıllık bazda yüzde 6,5 ile beklentilerin altında arttı.",
+     "baslik": "Türkiye ile Katar arasında 5 anlaşma imzalandı",
+     "ozet": "Türkiye-Katar Yüksek Stratejik Komitesi'nin 12. toplantısında ticaret, eğitim, diplomasi ve savunma alanlarında beş anlaşma imzalandı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/abdde-uretici-fiyat-endeksi-yillik-yuzde-6-5-ile-beklentilerin-altinda-artti/4124176"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/turkiye-ile-katar-arasinda-5-anlasma-imzalandi-3794630"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/abd-de-uretici-fiyatlari-beklentilerin-altinda-artti-3794619"
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/cumhurbaskani-erdogan-ve-al-sani-imzaladi-turkiye-ile-katar-arasinda-savunma-anlasmasi-haberi-847553"
       }
      ]
     },
     {
-     "baslik": "Televizyon kanallarının \"reyting\"ini ölçen Fifty5Blue medya araştırmaları şirketine rekabet soruşturması",
-     "ozet": "Rekabet Kurulu, televizyon izleyici ölçümü hizmetlerini yürüten Fifty5Blue Medya Araştırmaları Danışmanlık ve Ticaret AŞ hakkında soruşturma açılmasını kararlaştırdı.",
-     "etiket": "teyitli",
+     "baslik": "Fed raporu: Yapay zekâ finansal istikrar riskleri arasında öne çıktı",
+     "ozet": "Fed raporu, yapay zekâyı yüksek hisse değerlemeleri, siber saldırılar ve yapay zekâ bağlantılı karmaşık finansman yapılarıyla birlikte finansal istikrar risklerinde öne çıkan başlıklar arasında gösterdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/televizyon-kanallarinin-reytingini-olcen-fifty5blue-medya-arastirmalari-sirketine-rekabet-sorusturmasi/4123980"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/rekabet-kurulu-ndan-reyting-olcum-sirketine-sorusturma-3794598"
+       "link": "https://www.aa.com.tr/tr/ekonomi/fedin-raporu-yapay-zekanin-finansal-istikrara-yonelik-riskler-arasinda-one-ciktigini-gosterdi/4124826"
       }
      ]
     },
     {
-     "baslik": "UEA Başkanı Birol: Enerji güvenliği ve iklim hedefleri artık örtüşüyor",
-     "ozet": "Uluslararası Enerji Ajansı (UEA) Başkanı Fatih Birol, Antalya'daki COP31'de enerji güvenliği ile iklim hedeflerinin son dönemde büyük ölçüde örtüşmeye başladığını söyledi.",
+     "baslik": "UEA Başkanı Birol: Enerji güvenliği ve iklim hedefleri örtüşüyor",
+     "ozet": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, COP31'de enerji güvenliği ile iklim hedeflerinin büyük ölçüde örtüşmeye başladığını söyledi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -420,17 +409,13 @@
      ]
     },
     {
-     "baslik": "Türkiye ile Katar arasında 5 anlaşma imzalandı",
-     "ozet": "Türkiye ile Katar, Dolmabahçe'de düzenlenen Türkiye-Katar Yüksek Stratejik Komitesi'nin 12. toplantısı kapsamında ticaret, eğitim, diplomasi ve savunma alanlarında beş anlaşma imzaladı.",
-     "etiket": "teyitli",
+     "baslik": "Borsa İstanbul günü yükselişle kapattı",
+     "ozet": "BIST 100 endeksi günü yüzde 0,27 değer kazanarak 11.842,82 puandan tamamladı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/turkiye-ile-katar-arasinda-5-anlasma-imzalandi-3794630"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/ekonomi/cumhurbaskani-erdogan-ve-al-sani-imzaladi-turkiye-ile-katar-arasinda-savunma-anlasmasi-haberi-847553"
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4124427"
       }
      ]
     }
@@ -441,8 +426,8 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "ChatGPT Cüzdanı, OpenAI'nin Dots temsilcilerinin sizin için alışveriş yapmasına olanak tanır",
-     "ozet": "OpenAI, bu yılın başında Dots AI temsilci platformunu başlattıktan sonra temsilciler için bir cüzdan da başlatıyor. ChatGPT Cüzdanı bugünden itibaren ABD'deki 18 yaşındaki ChatGPT Pro aboneleri için kullanıma sunuluyor…",
+     "baslik": "OpenAI, yapay zekâ ajanları için ChatGPT Wallet'ı duyurdu",
+     "ozet": "The Verge'e göre ChatGPT Wallet, ABD'de 18 yaş üstü ChatGPT Pro abonelerine açılmaya başladı ve OpenAI'nin Dots ajanlarının kullanıcı adına alışveriş yapmasını sağlıyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -452,50 +437,44 @@
       {
        "ad": "TechCrunch",
        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5"
       }
      ]
     },
     {
-     "baslik": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
-     "ozet": "ABD merkezli teknoloji şirketi Microsoft, bazı hizmetlerinde yaşanan erişim sorununun ardından hizmetlerinin genelinde geniş çaplı iyileşme ve istikrar sağlandığını bildirdi.",
-     "etiket": "tek kaynak",
+     "baslik": "Nvidia'da Jensen Huang'ın istifası ulusal güvenlik tartışması yarattı",
+     "ozet": "TechCrunch'a göre Jensen Huang bir ilişki nedeniyle Nvidia'dan istifa etti; olay ABD ile Çin arasındaki yapay zekâ rekabeti nedeniyle ulusal güvenlik tartışmasına yol açtı. Reuters, kaynaklara dayanarak eski CEO'nun şirketin üst düzey hukuk yöneticisini yanılttığını bildirdi. ABD Hazine Bakanı Bessent, Ticaret Bakanlığı'nı Nvidia çip ihracatını kısıtlamamakla eleştirdi.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigini-acikladi/4124635"
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmthd2p1bWNiTUNEQ1puWC14bVlmeTJ2MjVIcGN2ZEkzdVlncWJYVUZ2TGdEdzRQd1NCb2RGRG5ZRm9RX3BXMVJfd25SQjVzdEN1RTdpc2VkSkdlVkxGMW5CNURkb3gxS25uYzRuZGFqZjV5Mk1KSXlCR2NaTlI4NHZudkZXUXduU0lXNmpMZHl4LWdoZk82akdoenV5c1piemdKX0RaSEw?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
       }
      ]
     },
     {
-     "baslik": "OpenAI, yapay zeka destekli ödemeler için ChatGPT Wallet'ı duyurdu",
-     "ozet": "OpenAI, yapay zeka ajanlarının kullanıcıların gerçek kart bilgilerine erişmeden ödeme yapmasına imkan tanıyan ve her satın alma işlemi için güvenlik kontrolü gerektiren ChatGPT Wallet adlı dijital…",
+     "baslik": "Gaziantepli öğrenciler 120 metre irtifaya çıkan İHA geliştirdi",
+     "ozet": "Öğrenciler mekanik, elektronik ve yazılım sistemlerini kendileri tasarlayarak 120 metre irtifaya ulaşabilen sabit kanatlı bir insansız hava aracı geliştirdi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-walleti-duyurdu/4124633"
-      }
-     ]
-    },
-    {
-     "baslik": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
-     "ozet": "Pistlerin kullanılamayacağı acil durum senaryolarına yönelik yürütülen çalışmalar kapsamında AKINCI ile Bayraktar TB2 SİHA'lar, Manisa-Balıkesir kara yoluna başarıyla iniş ve kalkış gerçekleştirdi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti/4124283"
-      }
-     ]
-    },
-    {
-     "baslik": "Afrika'daki savunma sanayisi fuarı BAMEX \"5 benzemezi\" buluşturdu",
-     "ozet": "Mali'nin başkenti Bamako'da düzenlenen BAMEX 2026 Fuarı, savunma sanayisinde özgün yanlar barındıran ABD, Çin, Rusya ve İran gibi \"5 benzemez\" olarak nitelendirilebilecek ülkelerin firma ve…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/afrikadaki-savunma-sanayisi-fuari-bamex-5-benzemezi-bulusturdu/4123936"
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gaziantepli-ogrenciler-kendi-yazilimlariyla-iha-gelistirdi/4124795"
       }
      ]
     }
@@ -506,35 +485,24 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "NHS, okullar ve polis güçleri Microsoft kesintisinden etkilendi",
-     "ozet": "Büyük havaalanları ve istihbarat servisleri etkilenmezken, hükümet hâlâ etkiyi değerlendiriyor.",
+     "baslik": "ABD kızamıksız ülke statüsünü kaybetti",
+     "ozet": "Reuters'un aktardığına göre Wall Street Journal, hastalığın yayılmaya devam etmesi nedeniyle ABD'nin kızamıksız ülke statüsünü kaybettiğini bildirdi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5"
       }
      ]
     },
     {
-     "baslik": "'Görünüşümden dolayı okul üniformamı giydiğimde kendimi berbat hissettim'",
-     "ozet": "Charlie, Kuzey İrlanda'da pektus rahatsızlığı nedeniyle ameliyat olmayı bekleyen 85 kişiden biri",
+     "baslik": "Ebola salgınının ilk sinyalleri cep telefonu verileriyle incelendi",
+     "ozet": "Demokratik Kongo Cumhuriyeti'nde 5 binden fazla kişinin ölümüne yol açan Ebola salgınını inceleyen araştırmacılar, virüsün resmi açıklamadan haftalar önce yayılmaya başladığını ortaya koydu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/cmx295rvd281o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "STAT+: Demokratlar 'Daha Fazlası İçin Medicare' ve 'Medikids' önerileri etrafında birleşiyor",
-     "ozet": "Demokratlar, Medicare'in hepsine olmasa da daha fazla Amerikalıya sunulmasına yönelik bir plan etrafında birleşiyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/13/ebola-salgini-cep-telefonu-verileriyle-incelendi-ilk-sinyaller-nasil-kacirildi"
       }
      ]
     }
@@ -545,8 +513,8 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Gözyaşlı Pochettino, Man Utd'a gitmek için ABD'den ayrılmanın 'zor' kararını anlattı",
-     "ozet": "Mauricio Pochettino, Manchester United'daki işi almak için neden ABD'den ayrıldığını açıklarken duygulandı.",
+     "baslik": "Pochettino Manchester United'ın başına geçti",
+     "ozet": "BBC Sport'a göre Mauricio Pochettino, ABD milli takımından ayrılma kararını gözyaşları içinde açıkladı ve Manchester United'ın yeni teknik direktörü oldu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -560,24 +528,39 @@
      ]
     },
     {
-     "baslik": "Türkiye 2027 yılında işitme engellilerin 4 dünya şampiyonasına ev sahipliği yapacak",
-     "ozet": "İşitme Engelliler Spor Federasyonu Başkanı Dursun Gözel, 2027 yılında işitme engelliler güreş, voleybol, futbol ve masa tenisi dünya şampiyonalarının Türkiye'nin ev sahipliğinde yapılacağını söyledi.",
+     "baslik": "Anadolu Efes, Virtus Bologna'yı 103-91 yendi",
+     "ozet": "Basketbol Avrupa Ligi'nin 11. haftasında Anadolu Efes, sahasında Virtus Bologna'yı 103-91 mağlup etti.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/turkiye-2027-yilinda-isitme-engellilerin-4-dunya-sampiyonasina-ev-sahipligi-yapacak/4124659"
+       "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-virtus-bolognayi-103-91-yendi/4124720"
       }
      ]
     },
     {
-     "baslik": "TFF'den bu hafta yapılacak profesyonel maçlar öncesi saygı duruşu kararı",
-     "ozet": "Türkiye Futbol Federasyonu (TFF), 14-15 Kasım tarihlerinde oynanacak tüm profesyonel müsabakaların öncesinde saygı duruşunda bulunulacağını duyurdu.",
+     "baslik": "Fransa, Güney Afrika'yı 21-19 yendi",
+     "ozet": "Fransa, Paris'te Güney Afrika karşısında 21-19 kazanarak beş maçlık yenilgi serisine son verdi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/tffden-bu-hafta-yapilacak-profesyonel-maclar-oncesi-saygi-durusu-karari/4124377"
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Salah iki gol attı, Mısır ve Nijerya Afrika Uluslar Kupası elemelerini kazandı",
+     "ozet": "Mohamed Salah'ın iki gol attığı Mısır, Malavi'yi yendi; Nijerya da Tanzanya'yı geçerek 2027 Afrika Uluslar Kupası umutlarını artırdı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -586,87 +569,64 @@
   {
    "id": "kultur",
    "ad": "Kültür & Sanat",
-   "haberler": [
-    {
-     "baslik": "Türk şiirinde bir \"Garip\" şair: Orhan Veli Kanık",
-     "ozet": "Ölçü, kafiye ve benzetmeye dayalı geleneksel şiir anlayışına karşı çıkarak şiirde anlamdan çok söyleyiş biçimini öne çıkaran Orhan Veli Kanık, vefatının 76. yılında edebi mirasıyla anılıyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/turk-siirinde-bir-garip-sair-orhan-veli-kanik/4123754"
-      }
-     ]
-    },
-    {
-     "baslik": "37. Ankara Film Festivali başladı",
-     "ozet": "Dünya Kitle İletişimi Araştırma Vakfı tarafından düzenlenen 37. Ankara Film Festivali, açılış ve onur ödülleri töreniyle başladı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/37-ankara-film-festivali-basladi/4123902"
-      }
-     ]
-    }
-   ]
+   "haberler": []
   }
  ],
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43015477",
-   "baslik_en": "Human replisomes direct a dedicated leading-strand primase for fork restart.",
-   "baslik_tr": "İnsan replizomları, çatalın yeniden başlatılması için özel bir öncü iplikçik primazı yönlendirir.",
-   "dergi": "Nature",
+   "pmid": "43013304",
+   "baslik_en": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans.",
+   "baslik_tr": "ABD'li yaşlı gazilerde mRNA-1283 ile BNT162b2 COVID-19 aşılarının etkinliğinin karşılaştırılması",
+   "dergi": "JAMA Network Open",
    "yazarlar": [
-    "Polo Rivera C",
-    "Roske JJ",
-    "Hands EL",
+    "McConeghy KW",
+    "Skov B",
+    "DeVone F",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Disruptions to leading-strand synthesis impair and stall replication forks because DNA synthesis by the leading-strand polymerase, Pol ε, is essential for optimal template unwinding by the replicative CMG (CDC45-MCM-GINS) helicase1,2. Failure to efficiently restart and/or protect stalled replication forks is a major source of genomic instability3-6. Stalled forks can be restarted by a variety of mechanisms, including repriming downstream of the impediment4. In human cells, the primase-polymerase PRIMPOL promotes fork progression during replication stress7-10, but how its activity is coordinated by the replisome is unresolved.",
-   "ozet_tr": "Öncü iplikçik sentezindeki kesintiler replikasyon çatallarını bozar ve durdurur çünkü öncü iplikçik polimeraz Pol ε tarafından yapılan DNA sentezi, replikatif CMG (CDC45-MCM-GINS) helikaz1,2 tarafından optimal şablon çözülmesi için gereklidir. Durmuş replikasyon çatallarının verimli bir şekilde yeniden başlatılmaması ve/veya korunmaması, genomik istikrarsızlığın önemli bir kaynağıdır3-6. Durmuş çatallar, engelin aşağı yönünde yeniden besleme de dahil olmak üzere çeşitli mekanizmalarla yeniden başlatılabilir4. İnsan hücrelerinde primaz-polimeraz PRIMPOL, replikasyon stresi7-10 sırasında çatal ilerlemesini destekler, ancak aktivitesinin replizom tarafından nasıl koordine edildiği henüz çözülmemiştir.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43015477/",
-   "doi": "https://doi.org/10.1038/s41586-026-11204-0"
+   "tur": "Retrospektif eşleştirilmiş kohort çalışması",
+   "ozet_en": "This retrospective matched cohort study compared two LP.8.1-formulated mRNA vaccines in US veterans aged 65 or older, with 60,340 mRNA-1283 and 321,845 BNT162b2 recipients followed for up to 150 days. Medically attended COVID-19 occurred in 0.16% of mRNA-1283 and 0.28% of BNT162b2 recipients (estimated relative effectiveness 35.9%), and hospitalization in 0.02% versus 0.05%. The authors conclude mRNA-1283 was associated with lower risks, though this is an observational study in a population that was 94.2% male.",
+   "ozet_tr": "Bu geriye dönük eşleştirilmiş kohort çalışması, 65 yaş ve üzeri ABD'li gazilerde LP.8.1 formülasyonlu iki mRNA aşısını karşılaştırdı; 60.340 mRNA-1283 ve 321.845 BNT162b2 alıcısı 150 güne kadar izlendi. Tıbbi bakım gerektiren COVID-19 mRNA-1283 alanların %0,16'sında, BNT162b2 alanların %0,28'inde görüldü (tahmini göreli etkinlik %35,9); hastaneye yatış ise %0,02'ye karşı %0,05 oldu. Yazarlar mRNA-1283'ün daha düşük risklerle ilişkili olduğu sonucuna varıyor; ancak çalışma gözlemsel ve katılımcıların %94,2'si erkek.",
+   "neden_onemli": "Yaşlılar için mevsimlik aşı seçimine dair politika tartışmalarına veri sağlıyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013304/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44727"
   },
   {
-   "pmid": "43020033",
-   "baslik_en": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain.",
-   "baslik_tr": "Bütünleştirici bir tek hücreli epigenomik atlas, yetişkin fare beyninin düzenleyici genomunu açıklar.",
-   "dergi": "Cell",
+   "pmid": "43024239",
+   "baslik_en": "Tumor Treating Fields and Quality of Life Among Patients With Locally Advanced Pancreatic Adenocarcinoma: A Secondary Analysis of a Randomized Clinical Trial.",
+   "baslik_tr": "Lokal ileri pankreas adenokarsinomlu hastalarda Tümör Tedavi Alanları ve yaşam kalitesi: Randomize klinik çalışmanın ikincil analizi",
+   "dergi": "JAMA Network Open",
    "yazarlar": [
-    "Wang Z",
-    "Zu S",
-    "Armand EJ",
+    "Macarulla T",
+    "Picozzi V",
+    "Chandana SR",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Histone modifications underpin the cell-type-specific gene regulatory programs that drive the remarkable cellular diversity of the mammalian brain. Here, we jointly profiled four histone modifications and the transcriptome in 2.5 million nuclei from the adult mouse brain. By integrating these data with chromatin accessibility, DNA methylation, and three-dimensional genome organization, we constructed a unified epigenomic atlas spanning over 100 brain cell subclasses and assigned active, primed, and repressive chromatin states across 81% of the genome.",
-   "ozet_tr": "Histon modifikasyonları, memeli beyninin olağanüstü hücresel çeşitliliğini yönlendiren hücre tipine özgü gen düzenleyici programların temelini oluşturur. Burada, yetişkin fare beynindeki 2,5 milyon çekirdekteki dört histon modifikasyonunun ve transkriptomun ortaklaşa profilini çıkardık. Bu verileri kromatin erişilebilirliği, DNA metilasyonu ve üç boyutlu genom organizasyonu ile entegre ederek, 100'den fazla beyin hücresi alt sınıfını kapsayan ve genomun %81'ine aktif, hazır ve baskıcı kromatin durumları atanan birleşik bir epigenomik atlas oluşturduk.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43020033/",
-   "doi": "https://doi.org/10.1016/j.cell.2026.10.022"
+   "tur": "Randomize kontrollü çalışma (faz 3) ikincil analizi",
+   "ozet_en": "This prespecified secondary analysis of the open-label phase 3 PANOVA-3 trial included 571 patients with unresectable locally advanced pancreatic cancer, randomized to gemcitabine plus nab-paclitaxel with or without Tumor Treating Fields. Global health status stayed stable in both arms, while pain and digestive symptoms improved in the TTFields arm. Deterioration-free survival for pain was longer with TTFields (10.1 vs 7.4 months), as was time to opioid use (9.3 vs 6.7 months); the trial was open-label.",
+   "ozet_tr": "Bu önceden planlanmış ikincil analiz, açık etiketli faz 3 PANOVA-3 çalışmasındaki, ameliyat edilemeyen lokal ileri pankreas kanserli 571 hastayı kapsıyor; hastalar gemsitabin ve nab-paklitaksele Tümör Tedavi Alanları eklenen veya eklenmeyen gruplara randomize edildi. Genel sağlık durumu iki grupta da stabil kalırken, TTFields grubunda ağrı ve sindirim belirtileri düzeldi. Ağrıda kötüleşmesiz sağkalım TTFields ile daha uzundu (10,1'e karşı 7,4 ay), opioid kullanımına kadar geçen süre de öyleydi (9,3'e karşı 6,7 ay); çalışma açık etiketli.",
+   "neden_onemli": "Yaşam süresinin yanında ağrı ve yaşam kalitesinin de tedavi kararlarında ölçüldüğünü gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024239/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41241"
   },
   {
-   "pmid": "43020026",
-   "baslik_en": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
-   "baslik_tr": "Tek hücreli multimodal atlas, insan beynindeki düzenleyici programları ortaya koyuyor",
-   "dergi": "Cell",
+   "pmid": "43008767",
+   "baslik_en": "Reframing disease elimination: an update from the Lancet Commission on chronic obstructive pulmonary disease.",
+   "baslik_tr": "Hastalığın ortadan kaldırılmasını yeniden çerçevelemek: Lancet KOAH Komisyonu güncellemesi",
+   "dergi": "Lancet",
    "yazarlar": [
-    "Xie Y",
-    "Chang L",
-    "Zhong G",
+    "Stolz D",
+    "Hoheisel A",
+    "Sin DD",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Direct measurement of chromatin states together with transcription is essential for understanding how cell-type-specific regulatory programs are established and maintained in the adult human brain. Here, we present a large-scale single-cell multimodal atlas by jointly profiling the transcriptome with active (H3K27ac) or repressive (H3K27me3) histone modifications across 18 adult brain regions. We targeted over 750,000 nuclei spanning 160 cell types and integrated these data with chromatin accessibility, DNA methylation, 3D genome architecture, and spatial transcriptomes.",
-   "ozet_tr": "Kromatin durumlarının transkripsiyonla birlikte doğrudan ölçümü, yetişkin insan beyninde hücre tipine özgü düzenleyici programların nasıl oluşturulduğunu ve sürdürüldüğünü anlamak için gereklidir. Burada, transkriptomun 18 yetişkin beyin bölgesinde aktif (H3K27ac) veya baskılayıcı (H3K27me3) histon modifikasyonlarıyla ortaklaşa profilini çıkararak büyük ölçekli tek hücreli multimodal bir atlas sunuyoruz. 160 hücre tipini kapsayan 750.000'den fazla çekirdeği hedefledik ve bu verileri kromatin erişilebilirliği, DNA metilasyonu, 3D genom mimarisi ve uzaysal transkriptomlarla entegre ettik.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43020026/",
-   "doi": "https://doi.org/10.1016/j.cell.2026.08.012"
+   "tur": "Derleme (Lancet Komisyonu güncellemesi)",
+   "ozet_en": "This Review updates the Lancet Commission's vision for eliminating chronic obstructive pulmonary disease (COPD) and assesses progress since 2022. It argues that COPD is not one uniform disease but a condition shaped by genetic, developmental, environmental, infectious and behavioural factors across life. The authors call for earlier recognition, biological stratification and prevention that preserves lung health, and say the global burden can be substantially reduced; it is a narrative framework rather than a new trial.",
+   "ozet_tr": "Bu derleme, Lancet Komisyonu'nun kronik obstrüktif akciğer hastalığını (KOAH) ortadan kaldırma vizyonunu güncelliyor ve 2022'den bu yana kaydedilen ilerlemeyi değerlendiriyor. KOAH'ın tek tip bir hastalık olmadığını; yaşam boyu genetik, gelişimsel, çevresel, bulaşıcı ve davranışsal etkenlerle şekillendiğini savunuyor. Yazarlar erken tanıma, biyolojik sınıflandırma ve akciğer sağlığını koruyan önlemler çağrısı yapıyor ve küresel yükün önemli ölçüde azaltılabileceğini belirtiyor; bu yeni bir deney değil, kavramsal bir çerçeve.",
+   "neden_onemli": "Dünya genelinde ölüm ve hastalık yükünün başlıca nedenlerinden biri olan KOAH'a bakışın önleme odaklı değişmesini savunuyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008767/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01947-1"
   }
  ]
 }
