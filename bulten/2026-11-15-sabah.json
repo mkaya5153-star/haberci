@@ -1,0 +1,571 @@
+{
+ "tarih": "2026-11-15",
+ "donem": "sabah",
+ "giris": "Günün öne çıkan başlıkları: Putin, Trump ve Şi'nin 19 Kasım'da APEC kapsamında bir araya geleceğinin açıklanması, SpaceX'in Starship'i ilk kez kule kollarıyla yakalaması ve ABD'de ülke çapında uçuş durdurma sonrası süren aksamalar. Hürmüz Boğazı'nda tankerlerin mayına çarpması ve İran-ABD gerginliği Orta Doğu gündemini belirlerken, Türkiye'de Yeni Parti kurultayı ve COP31 öne çıkıyor.",
+ "one_cikanlar": [
+  {
+   "baslik": "Putin, Trump ve Şi 19 Kasım'da üçlü görüşme yapacak",
+   "ozet": "Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Putin, Çin Devlet Başkanı Şi ve ABD Başkanı Trump'ın 19 Kasım'da APEC zirvesi kapsamında bir araya geleceğini açıkladı. Associated Press, görüşmenin Beyaz Saray ve Kremlin tarafından duyurulduğunu aktarıyor. Reuters'ın analizi ise Şi'nin böyle bir buluşmaya ev sahipliği yapma konusunda çekingen olduğunu öne sürüyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": "Üç büyük gücün liderlerinin aynı masada yer alması, küresel diplomasi açısından olağandışı bir adım."
+  },
+  {
+   "baslik": "SpaceX Starship'i fırlatma kulesinin kollarıyla yakalayarak geri aldı",
+   "ozet": "SpaceX, yörüngeden dönen Starship aracını fırlatma kulesinin kollarıyla yakalamayı ilk kez başardı. Şirket, aynı uçuşta planlanan hızlandırıcı roket yakalamasını ise iptal etmişti. Başarı, tamamen yeniden kullanılabilir roket hedefi için bir eşik olarak değerlendiriliyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+    }
+   ],
+   "neden_onemli": "Yeniden kullanılabilir roketler uzaya erişimin maliyetini düşürmeyi hedefliyor."
+  },
+  {
+   "baslik": "ABD'de ülke genelinde uçuşlar durduruldu, aksamalar pazar gününe sarktı",
+   "ozet": "ABD'de hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle uçuşlar 4 saatten fazla durduruldu. FAA yetkilileri, aksamaların pazar günü geç saatlere kadar sürebileceğini söyledi. Reuters, kesintinin L3Harris tarafından kurulan bir yönlendiriciye bağlandığını bildirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abdde-ucuslarin-durdurulmasi-kararinin-ardindan-hava-ulasimindaki-aksamalar-suruyor/4125365"
+    }
+   ],
+   "neden_onemli": "Binlerce yolcuyu ve spor takımlarının seyahatlerini etkileyen kesinti, altyapı eksikliği tartışmasını yeniden açtı."
+  },
+  {
+   "baslik": "Hürmüz Boğazı'nda petrol tankerleri mayına çarptı",
+   "ozet": "İran Devrim Muhafızları Deniz Kuvvetleri, Hürmüz Boğazı'nın güneyinde 2 petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu. Reuters ise İran donanmasına dayanarak üç tankerin yandığını aktardı; sayı kaynaklar arasında farklılık gösteriyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-alev-aldi/4125481"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5"
+    }
+   ],
+   "neden_onemli": "Hürmüz, küresel petrol taşımacılığının kritik geçiş noktalarından biri."
+  },
+  {
+   "baslik": "Yeni Parti'nin ilk kurultayında Özgür Özel yeniden genel başkan seçildi",
+   "ozet": "Yeni Parti, Kuruluş Kurultayı'nı 14-15 Kasım'da Ankara'da yapıyor. Euronews Türkçe'ye göre Özel 1154 oyla yeniden genel başkan seçildi; BBC Türkçe'ye göre konuşmasında \"Seçimi kazanacak cesarete sahibiz\" dedi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/14/ozgur-ozel-yeni-parti-kurultayinda-1154-oyla-yeniden-genel-baskan-secildi"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/yeni-parti-nin-sansi-ve-bagaji-2556202"
+    }
+   ],
+   "neden_onemli": "Ana muhalefet siyasetindeki yeni yapılanmanın ilk kurumsal adımı."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Binbaşı Kulaksız'ı şehit eden firari şüpheli Bitlis'te yakalandı",
+     "ozet": "İçişleri Bakanlığı, 2015'te Jandarma Binbaşı Arslan Kulaksız'ın şehit edilmesi olayının firari şüphelisi İ.Y.'nin Bitlis'te yakalandığını açıkladı. Sözcü, şüphelinin 11 yıl sonra yakalandığını yazdı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/sehit-binbasi-kulaksizin-faili-bitliste-yakalandi-963299.html"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/son-dakika-icisleri-bakanligindan-aciklama-binbasi-kulaksizin-sehit-eden-faillerden-biri-ile-yardim-ve-yataklik-eden-iki-sahis-yakalandi-43378540"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/gundem/2026/11/15/binbasi-kulaksizi-sehit-eden-zanli-yakalandi"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/binbasi-kulaksiz-saldirisinin-firari-suphelisi-11-yil-sonra-yakalandi-p381344"
+      }
+     ]
+    },
+    {
+     "baslik": "Yılmaz: Tasfiyedeki fonların 444 bin 987 yatırımcısına ödeme yapıldı",
+     "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de fonların tasfiyesi için bütçeden kaynak kullanılmadığını söyledi. Bloomberg HT'ye göre yaklaşık 161 milyar lira ödeme yapıldı ve ara ödemelerin bir ila iki hafta içinde tamamlanması planlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-yapildi-963302.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Yılmaz: Emekli aylıklarında hedef enflasyonun üzerinde artış",
+     "ozet": "Cevdet Yılmaz, TRT Haber'de emekli aylıklarına ilişkin çalışmayı anlattı. Yılmaz'a göre hedef, emeklilere enflasyonun üzerinde bir artış sağlamak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785226/haber/cevdet-y%C4%B1lmaz-emekli-ayl%C4%B1klar%C4%B1nda-hedef-enflasyonun-%C3%BCzerinde-art%C4%B1%C5%9F"
+      }
+     ]
+    },
+    {
+     "baslik": "Malatya'da şehit olan dört asker son yolculuğuna uğurlandı",
+     "ozet": "Malatya'da şehit olan Kara Pilot Binbaşı Orhun Pınar, Astsubay Kıdemli Çavuş Serkan Önder, Kara Pilot Binbaşı Erdem Çimen ve Astsubay Kıdemli Üstçavuş Hüseyin Zehir'in cenazeleri toprağa verildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/malatyada-sehit-olan-askerlerimiz-son-yolculuklarina-ugurlandi-963300.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Ticaret Bakanlığı fal ve büyü hizmeti reklamlarını durdurdu",
+     "ozet": "Ticaret Bakanlığı Reklam Kurulu, internet siteleri ve sosyal medyada yayımlanan fal, medyumluk ve büyü hizmetlerine yönelik reklamların durdurulmasına karar verdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/ticaret-bakanligi-fal-ve-buyu-hizmetlerini-tanitan-reklamlari-durdurdu-3927428"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 Antalya'da sürüyor: Bolat'a göre tarihin en kalabalık COP zirvesi",
+     "ozet": "Ticaret Bakanı Mehmet Bolat'a göre COP31'e yurt dışından 100 bine yakın katılımcı geliyor ve yaklaşık 100 ülkenin lideri zirvede yer alıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yurt-disindan-100-bine-yakin-katilimciyla-tarihin-en-kalabalik-cop-zirvesi-oluyor/4125408"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Fransa'da beşinci hafta sonu protestoları: 106 bin kişi yürüdü",
+     "ozet": "DW'ye göre yaklaşık 106 bin kişi Fransa'nın şehirlerinde art arda beşinci hafta sonu yürüdü; katılım son haftaların en düşüğü oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/france/20261114-no-justice-no-peace-fifth-round-of-protests-sweep-across-france"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Netanyahu yeniden ulusal birlik hükümeti çağrısı yaptı, Eisenkot reddetti",
+     "ozet": "Geçici Başbakan Netanyahu, Gadi Eisenkot'a ulusal birlik hükümeti çağrısını yeniledi. Eisenkot, teklifi siyasi bir hamle olarak niteleyerek reddetti; AA'ya göre \"yeni bir algı operasyonu\" dedi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Suudi öncülüğündeki koalisyon Riyad'a yönelen füzeleri ve İHA'ları engelledi",
+     "ozet": "Arap Koalisyonu, Suudi Arabistan'ın doğusunda bir insansız hava aracını engellediğini duyurdu. Reuters ve Al Jazeera, koalisyonun Riyad'a yönelik füzeleri ve Doğu Eyaleti'ndeki İHA'ları da önlediğini aktardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Hamas: Üst düzey silahlı komutan İsrail saldırısında öldürüldü",
+     "ozet": "Hamas, üst düzey bir silahlı komutanının İsrail'in düzenlediği saldırıda öldürüldüğünü açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İsrail basını: İran, Trump'ı İHA saldırısıyla hedef almayı planladı",
+     "ozet": "İsrail basınında yer alan iddiaya göre Mossad, İran'ın Trump'ı ve ABD yönetiminin üst düzey isimlerini İHA saldırısıyla hedef almayı planladığını tespit etti. İddia bağımsız olarak doğrulanmış değil.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israil-basini-iranin-trumpi-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti/4125449"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/dunya/israil-basini-iran-in-trump-i-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-3927437"
+      }
+     ]
+    },
+    {
+     "baslik": "New Orleans'ta tanker ile yolcu gemisi çarpışması: veri kayıt cihazı bulundu",
+     "ozet": "ABD Ulusal Ulaşım Güvenliği Kurulu (NTSB), çarpışmaya karışan tankerin veri kayıt cihazının ele geçirildiğini bildirdi. Hürriyet'e göre kazada 129 kişinin bulunduğu gemi alabora oldu ve 30 yolcu ile 2 polis dahil 32 kişi yaralandı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Portekiz'de konut fiyatları protesto edildi",
+     "ozet": "Associated Press'e göre Portekiz şehirlerinde on binlerce kişi yükselen konut fiyatlarını protesto etmek için yürüdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1FaVplM2tzTFN1dlhQeEZJeV9TenlabFM3b3RQdFMtaXhPbTJGdnZTdmlQNDRvOWlmTHh5WWFQbWRaZFFsYTNjSTRNczRIQUp1VmtQSzVYR1F2TTJpLVpsTlMwUHdscEpJNFVGQmdsUTZWQ1Bua1FWNWJMODc3MXhlNGFPWFozYWlSWg?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "İtalya, Android kullanıcı verilerine erişim nedeniyle Meta'ya yaklaşık 887 milyon dolar ceza kesti",
+     "ozet": "Reuters, İtalya'nın Meta'ya Android kullanıcı verilerine erişim nedeniyle 887 milyon dolar ceza verdiğini bildirdi. DW English ise cezayı 805 milyon avro olarak yazıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "İran, ABD Dışişleri Bakanı Rubio'nun sözlerini halkı aç bırakma tehdidi olarak yorumladı",
+     "ozet": "İran Dışişleri Sözcüsü İsmail Bekayi, Rubio'nun \"Nihayetinde yemek yemek zorundasınız\" sözlerine tepki gösterdi. Bekayi'ye göre Washington, abluka yoluyla İran halkını aç bırakmakla tehdit ediyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/iran-abd-halkimizi-ac-birakmakla-tehdit-ediyor-3794667"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/irandan-rubioya-tepki-halki-ac-birakmakla-tehdit-ediyor-haberi-847636"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31'de ikinci hafta için taslak metin hazırlanıyor",
+     "ozet": "COP31 Müzakereler Başkanı Chris Bowen, ikinci haftadaki görüşmelere temel olabilecek kapsamlı bir taslak metin üzerinde çalıştıklarını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/cop31-de-ikinci-hafta-gorusmelerine-temel-olusturabilecek-taslak-metin-hazirlaniyor-3794664"
+      }
+     ]
+    },
+    {
+     "baslik": "Financial Times: ABD'deki hava ulaşımı krizi altyapı ihmalini gösteriyor",
+     "ozet": "Financial Times'a göre uzmanlar, onlarca yıllık iki partili ihmalin ABD havacılık altyapısını yetersiz bıraktığını söylüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Euclid uzay teleskobu evrenin ilk dönemlerinden 31 kuasar keşfetti",
+     "ozet": "ESA'nın Euclid teleskobu 31 eski kuasar buldu. Bunlardan ikisi, evren 670 milyon yaşındayken bir trilyon Güneş parlaklığında ışıyan rekor nesneler.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Yapay zekâ, rutin kalp taramalarında ani ölümü öngörebilecek bir işaret buldu",
+     "ozet": "ScienceDaily'ye göre araştırmacılar rutin kalp görüntülemelerinde ani kalp ölümü riskine işaret eden gizli bir sinyal tespit etti; yapay zekâ destekli yöntem geleneksel taramadan daha iyi sonuç verdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Starship yakalamasında dikkat çeken ayrıntı",
+     "ozet": "Ars Technica, Starship'in geri alınmasını \"geleceğe adım atmak gibi\" tanımlarken başarının bir ayrıntıyla birlikte geldiğine dikkat çekiyor; The Verge ise hızlandırıcı yakalamasının iptal edildiğini bildiriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Alzheimer, hafıza kaybından yıllar önce iki beyin bölgesini küçültmeye başlıyor olabilir",
+     "ozet": "Johns Hopkins araştırmacılarına göre beyin taramaları, hafıza kaybından yaklaşık on yıl önce bazı uyarı işaretleri görülebileceğini gösterdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "Novo Nordisk'in Wegovy hapı gerçek yaşam verisinde üç ayda yaklaşık %6 kilo kaybı sağladı",
+     "ozet": "Reuters'a göre gerçek yaşam verileri, Wegovy hapı kullanan hastaların üç ayda ortalama yaklaşık yüzde 6 kilo verdiğini gösteriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQkdyMW8wZ1VqOEc4U1NpVGM1MU95bENTYXZzb0Z4SmhpamNyWlFyQlNWWVdWbk9WMW1NemttalZtbThJQVg5czVCRXM4cDJwT0hWYlJSc253T3JNSmxnWTFac1p5QjhWRU90ZXByVENNdmtCWGdBRmt2WXQtb3luQ1dwN2o3MnJtQmR4YmEwNG82WERJa2FHRW9YUUtGN1RiM0w1Y1F6eDlQWmpETmdwOU1SVmtXa0xzYk1OcnhiMXFiSVZCQ1NCYUh4dDdJNkt4a0FlQW14ZDlCRWJqNkd2WDVn?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Galler, 73 yıl sonra ilk kez Yeni Zelanda'yı yendi",
+     "ozet": "Galler ragbi milli takımı, 73 yıllık bekleyişin ardından Yeni Zelanda'yı mağlup etti. BBC Sport galibiyeti Galler'in en büyük zaferlerinden biri olarak niteledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVThfc1FEa2JYVEhSMDZMMnhNcXI3UnFjS2VWSDlveWU3SmF3YVB3REtUd1NWOTF5bDRRamZqQlZ6RElRVmt0eG9uQ3R4NnEwamtMcWVPRmZ6dl9VUnRaaFltVDh6ZXFYaXNJdjliVW8zNEZObmtIdWNmXzR5cklEWTV2Z3VsbDl1YkZGTUxidHFFcTBBWkE1VQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Danimarka, Portekiz'i 4-1 yendi",
+     "ozet": "Reuters'a göre Danimarka, Ronaldo'ya düzenlenen anma gecesinde Portekiz'i 4-1 mağlup etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWNCMzNxNG5ZbXZWYUdvZ3VsWWZFVzVDMXJWTHFUdjZkdDJVZWVsVGtKUWc5X0ZXNUQ1T0RVWnNId3g2NHI2QmFwTnlTUXhEUnpfMTJ3WWUyNmxWY2dkRndSaXFsWmVIV0NrZ0RMWm4wbUhZY09HUkJZX2FzQmhoUGtrODRQRnpsWXhGSVNFTlhjdjNUSjRDUzlva1JTQVNsaGc?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "A Milli Kadın Basketbol Takımı İsrail'i 76-67 yendi",
+     "ozet": "2027 FIBA Avrupa Şampiyonası Elemeleri 2. tur I Grubu'ndaki ikinci maçta A Milli Kadın Basketbol Takımı, İsrail'i 76-67 yendi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-israili-76-67-maglup-etti/4125412"
+      }
+     ]
+    },
+    {
+     "baslik": "WTA Finalleri'nde Svitolina finale çıktı",
+     "ozet": "Elina Svitolina yarı finalde Linda Noskova'yı yalnızca üç oyun vererek yendi ve finalde Mirra Andreeva ile karşılaşacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "30. Uluslararası Ankara Caz Festivali 16-30 Kasım'da",
+     "ozet": "\"Caz Evrenseldir\" temasıyla düzenlenecek festival, 5 ülkeden konuk sanatçıyı başkentin farklı sahnelerinde buluşturacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/30-uluslararasi-ankara-caz-festivali-farkli-ulkelerden-sanatcilari-baskentte-bulusturacak/4125438"
+      }
+     ]
+    },
+    {
+     "baslik": "14. Boğaziçi Film Festivali'nde sinemada dekolonizasyon konuşuldu",
+     "ozet": "Festival kapsamındaki panelde sinemada kültürel temsil, kolektif hafıza ve güç ilişkileri ele alındı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/uluslararasi-sinemacilar-14-bogazici-film-festivalinde-dekolonizasyonu-konustu/4125322"
+      }
+     ]
+    },
+    {
+     "baslik": "180 milyon dolarlık Van Gogh'un Sotheby's satışına itiraz",
+     "ozet": "BBC'ye göre eserin eski sahibi ailenin mirasçıları, tablonun baskı altında satıldığını öne sürüyor. Sotheby's, mirasçılarla bir çözüm bulmak için çalışacağını söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43013308",
+   "baslik_en": "Importance of Angina Pectoris by Coronary Artery Disease Severity.",
+   "baslik_tr": "Koroner arter hastalığı şiddetine göre anjina pektorisin önemi",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Welén Schef K",
+    "Dworeck C",
+    "Johnston N",
+    "et al."
+   ],
+   "tur": "Kohort çalışması",
+   "ozet_en": "In a Swedish population-based cohort of 24,176 people (median age 57) followed for about 7.7 years, 3.0% reported angina. Those with angina had a higher rate of heart attack or coronary death (HR 2.50; adjusted HR 1.65), independent of how severe their coronary disease looked on CT angiography. The authors conclude that asking about symptoms still adds prognostic information, though this is an observational study.",
+   "ozet_tr": "İsveç'te 24.176 kişilik, nüfus temelli bir kohortta (ortanca yaş 57) yaklaşık 7,7 yıl izlem yapıldı ve katılımcıların %3,0'ında anjina bildirildi. Anjinası olanlarda kalp krizi veya koroner ölüm sıklığı daha yüksekti (HR 2,50; düzeltilmiş HR 1,65) ve bu durum BT anjiyografide görülen damar hastalığının şiddetinden bağımsızdı. Yazarlar, semptom sorgulamasının hâlâ prognostik bilgi kattığını belirtiyor; çalışma gözlemseldir.",
+   "neden_onemli": "Göğüs ağrısı gibi belirtilerin, görüntüleme normal görünse bile ciddiye alınması gerektiğini hatırlatıyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013308/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43292"
+  },
+  {
+   "pmid": "43013685",
+   "baslik_en": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study.",
+   "baslik_tr": "İnsani kriz bölgelerinde pnömokok aşı kampanyalarının etkililiği: Modelleme çalışması",
+   "dergi": "PLoS medicine",
+   "yazarlar": [
+    "van Zandvoort K",
+    "Bobe MO",
+    "Hassan AI",
+    "et al."
+   ],
+   "tur": "Modelleme çalışması",
+   "ozet_en": "Using survey data from a displacement camp in Somaliland, the authors modelled one- and two-dose pneumococcal vaccine campaigns. A single-dose campaign for children under 5 could prevent about 27% of severe pneumococcal disease for up to three years, and about 38% if children under 15 were vaccinated. Limitations include sparse real-world data from humanitarian settings.",
+   "ozet_tr": "Yazarlar, Somaliland'deki bir sığınmacı kampından topladıkları anket verileriyle bir ve iki dozluk pnömokok aşı kampanyalarını modelledi. 5 yaş altı çocuklara tek doz kampanya, üç yıla kadar ağır pnömokok hastalığının yaklaşık %27'sini, 15 yaş altı çocukları kapsayan kampanya ise yaklaşık %38'ini önleyebilir. Sınırlılık olarak insani kriz ortamlarından gerçek veri azlığı belirtiliyor.",
+   "neden_onemli": "Savaş ve kriz nedeniyle yerinden edilen kalabalıkların aşılanmasında pratik bir yol haritası sunuyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013685/",
+   "doi": "https://doi.org/10.1371/journal.pmed.1004768"
+  },
+  {
+   "pmid": "43024233",
+   "baslik_en": "Neighborhood Exposome at Birth and Trajectories of Epigenetic Age Acceleration Across Childhood.",
+   "baslik_tr": "Doğumdaki mahalle ekspozomu ve çocukluk boyunca epigenetik yaş hızlanması yörüngeleri",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Yuan QE",
+    "Bozack AK",
+    "Paquin V",
+    "et al."
+   ],
+   "tur": "Kohort çalışması",
+   "ozet_en": "In 570 children from the Project Viva birth cohort, the authors studied how neighbourhood conditions at birth relate to epigenetic age acceleration at ages 3, 8 and 13. Children born in urban areas with high residential instability and highway proximity had higher odds of increasing acceleration on one epigenetic clock (adjusted OR 1.67). Other neighbourhood profiles showed no association, and the authors call for further research.",
+   "ozet_tr": "Project Viva doğum kohortundaki 570 çocukta, doğumdaki mahalle koşullarının 3, 8 ve 13 yaşlarındaki epigenetik yaş hızlanmasıyla ilişkisi incelendi. Konut istikrarsızlığının yüksek olduğu ve otoyola yakın kentsel mahallelerde doğan çocuklarda, bir epigenetik saatte hızlanmanın artma olasılığı daha yüksekti (düzeltilmiş OR 1,67). Diğer mahalle profillerinde ilişki bulunmadı; yazarlar daha fazla araştırma gerektiğini belirtiyor.",
+   "neden_onemli": "Çocukluk dönemindeki yaşam çevresinin uzun vadeli sağlıkla bağlantılı olabileceğine işaret ediyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024233/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44321"
+  }
+ ]
+}
