@@ -4,117 +4,125 @@
  "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
  "one_cikanlar": [
   {
-   "baslik": "Yeni Parti'de ilk kurultay: Parti Meclisi listesinde kimler yer alıyor?",
-   "ozet": "Yeni Parti'nin \"Türkiye yenileniyor\" sloganıyla yaptığı ilk kurultayında ikinci gün 160 kişilik Parti Meclisi (PM) ve 15 kişilik Yüksek Disiplin Kurulu (YDK) aday listeleri açıklandı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785244/haber/yeni%CC%87-parti-kurultay%C4%B1-%C3%B6zg%C3%BCr-%C3%B6zel%E2%80%99-pm-ve-ydk-listesi-belli-oldu"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-tuzun-partisinin-kurultayinda-cumhuriyet-e-konustu-2556312"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdXg3UTktbzBCNkZiZ0JDb2hyaC1kOTJsM1otckRrU01Td3hUVXpaZ0IxcE42QnE1MUtuLVFWSUJHTUpWS2hhR2cxWkVUeDd5LTBjZWtSNDZVS0J3TlR0b285QURZMTY0R2cySkdrNnoxYVJwdVpxazA2ZWplNFloZGl3VWJKMnJpc1M0Z1BJb2JVZXlqYl8ydXd2amE5TTR3Qk5EUVc5LWxEQ2Vza2JqbFk2dEs2SjdhMVlxYmtiOEI4aFltMXVsZ1FTckE5MUFrS3V4NW9TZHAzZnl3aF9lR25ZMTBiTzFyNGNIUFAzRWZBdGw5VlRmb1g5aw?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Cape Verde, göç odağında cumhurbaşkanına oy verdi",
+   "baslik": "Estonya, kundaklama saldırısı girişiminin ardından Rusya sınır kapılarını kapatacak",
    "ozet": "",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWI3OGxfWTRxVTVMY3diaEZFMWZmRlZGYnZ0dnJKSzZqYjN4U2xmMTIyMVJ4U3QxcnI1VEVSblhZck40NTZCaGVhamRFQ2l0VDZnNXhYLTRTRUNRSDNqVW9FQ2pHZXRfQzNQOUEzRG9vaU82Q094M2J0eGo4T3N3QWdadEVmQ3BJR3FPRGNHUXdmcWpWcWItVl9LVERRUQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
     },
     {
      "ad": "France 24",
-     "link": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president"
+     "link": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
     },
     {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
-    },
-    {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss"
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
     }
    ],
    "neden_onemli": ""
   },
   {
-   "baslik": "ABD'li yargıç, Trump'ın DC golf sahasını yenileme planını bir kez daha engelledi",
+   "baslik": "On binlerce Çek hükümetin medya finansman planına karşı yürüdü",
    "ozet": "",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5"
     },
     {
      "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5"
     },
     {
      "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+     "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "NPR",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/15/hundreds-of-thousands-in-prague-protest-czech-governments-public-media-funding-plans"
     }
    ],
    "neden_onemli": ""
   },
   {
-   "baslik": "Devlet Bahçeli'den 50 maddelik \"süreç\" değerlendirmesi",
-   "ozet": "MHP Genel Başkanı Devlet Bahçeli, Türkgün gazetesine \"Terörsüz Türkiye\"ye ilişkin açıklamalarda bulundu. Devlet Bahçeli, dünyanın, ağır bunalımların yaşandığı tarihi bir dönemden geçtiğini, bu…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785239/haber/devlet-bah%C3%A7eliden-50-maddelik-s%C3%BCre%C3%A7-de%C4%9Ferlendirmesi"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/devlet-bahceliden-tarihi-yol-haritasi-50-maddede-terorsuz-turkiye-vizyonu-43378880"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/15/son-dakika-mhp-lideri-devlet-bahceliden-50-maddede-terorsuz-turkiye"
-    },
-    {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNk5uTUxuUmRfX3lmTmhPT1Rsakp6blhqLW9mcFcyaW14WTdrS2hmd2pJdkdiOEVzakdUQkZFT184WXYtdUF6WTk5bTdkWUtKVG9LVFExb0huVG9iWGJ0Wk5Gb1YtSmE3N2ZMakh2dEc2V043VXByQUdzOXVXRGlXY2JQaXROWmZlTl9FbWlEZDV2UGk1ZlZVNDhTdFRaOUk3NlNwcU8zeTZKeWRobF9teXFNaU9rbUhq?oc=5"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İsrail'in Gazze'deki saldırısında Hamas'ın üst düzey komutanı öldürüldü",
+   "baslik": "Kanarya Adaları'na bir günde 1.500'e yakın göçmen ulaştı",
    "ozet": "",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/15/record-immigration-day-in-el-hierro-as-1488-arrive-in-canary-islands"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "İran, Bahreyn'deki ABD askeri üssünü drone saldırısıyla hedef aldı",
+   "ozet": "Bu, üç gün içinde ülkeye yapılan ikinci saldırı anlamına geliyor ve ABD ile İran'ın Hürmüz Boğazı konusunda çıkmaza girdiği bir dönemde geldi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 4 kişi hayatını kaybetti",
+   "ozet": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 4 kişi yaşamını yitirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-4-kisi-hayatini-kaybetti/4125977"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785258/haber/i%CC%87srailin-ate%C5%9Fkese-ra%C4%9Fmen-gazzeye-d%C3%BCzenledi%C4%9Fi-sald%C4%B1r%C4%B1larda-son-24-saatte-4-ki%C5%9Fi"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/israil-ateskese-ragmen-lubnanin-guneyine-saldirdi-43379367"
     },
     {
      "ad": "BBC News",
      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Politico Europe",
-     "link": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
     }
    ],
    "neden_onemli": ""
@@ -126,115 +134,107 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Teknoloji liderini çökerten bal tuzağı! Antik Çin’in ‘güzellik stratejisi’ Silikon Vadisi'ni nasıl vurdu?",
-     "ozet": "Kurduğu şirketi dünyanın en değerli teknoloji devine dönüştüren efsanevi CEO Jensen Huang’ın sürpriz vedasının perde arkasından casusluk filmlerini aratmayan bir iddia çıktı. Gözler, Huang’ın ilişki…",
+     "baslik": "Mahmut Arıkan: Türkiye, Hz. Eyüp’ün bile sabrını zorlayacak bir adaletsizlikle karşı karşıya",
+     "ozet": "Saadet Partisi Genel Başkanı Mahmut Arıkan, Şanlıurfa'nın Siverek ilçesinde partisinin düzenlediği ilçe kongresinde yaptığı konuşmada, Türkiye'deki adalet mekanizmasına ve gündemdeki fon yolsuzluğu…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785263/siyaset/mahmut-ar%C4%B1kan-t%C3%BCrkiye-hz-ey%C3%BCp%E2%80%99%C3%BCn-bile-sabr%C4%B1n%C4%B1-zorlayacak-bir-adaletsizlikle"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/siyaset/mahmut-arikan-dan-sert-fon-vurgunu-mesaji-hz-eyup-un-bile-sabrini-zorlayacak-2556441"
+      }
+     ]
+    },
+    {
+     "baslik": "Beyoğlu'nda halıya sarılı cesedi bulunmuştu: Kimliği belli oldu",
+     "ozet": "Beyoğlu'nda bir evde halıya sarılı halde cesedi bulunan kişinin kimliği belirlendi. Cesedin, Oğuzhan Kalkan'a (30) ait olduğu tespit edildi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/teknoloji-liderini-cokerten-bal-tuzagi-antik-cinin-guzellik-stratejisi-silikon-vadisini-nasil-vurdu-43377883"
+       "link": "https://www.hurriyet.com.tr/gundem/evde-haliya-sarili-cesedi-bulunmustu-kimligi-belli-oldu-43379310"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/beyoglunda-haliya-sarili-bulunan-cesedin-sirri-cozuldu-p381606"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 Başkanı Kurum, CNN International’a konuştu: Antalya'da işler değişti diyebileceğimiz bir COP Başkanlığı bizim için başarı",
+     "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 İklim Zirvesi, diplomatik gündemde önemli bir yer edinirken, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/cop31-baskani-kurum-cnn-internationala-konustu-antalyada-isler-degisti-diyebilecegimiz-bir-cop-baskanligi-bizim-icin-basari-43379052"
       },
       {
        "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONHFpTUttS1VSM1M0UVpDZnI1czJlM1dXQVl3aUdmN1k1N3FyamdDVnJzZ1ZxTXFTbFBWYWxDaVVEeFRtdDIwbU9mNGJiNFNLeU9zSzZzU1ZkRHFUdGx0WGpYWXFKNFQ0MzJEMWh3RzNmU1pUTDNlN2ZLY3k5VUZBSThVNEUycmJiNUpIM0xSaHRsSjNyT1Fuck1fM1BvaHd2ZUNJNXZPWUJnTWVzNk9aUDhVc1J6Z2I5RGR4bl8xMXdfUmN3TFVRd2l4Q1hZWGk5ZjFQVHRwdzJOUQ?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN0dxNFJsb0dIZmtBczBvendocTJVN2F3cHZVbXNHdGI0TVZaWk5ZMzJUTGY1OFp1dEZMMi1yNFphNkwzWUdsbHNaaHBtZUh1TUR0SE5HXzVVQlgyb19rU2tGQXp2V1lrRWQwcjZ5ZWQ4dndYbXRkSzZaSWRkYkVPdFdGMlZJWjlydlNScHZvNHBvaDhhb2dCUjZUZWlfYkFGZk95YnQ3RTJOeW12WThZQ3h0dE9ia1hqV1NFVUpuUGNFaUc4TW9ZdnJmRXkxV2hXX3ZxMlhkbjN2YnptZWtyUHNFUmw1MjVNazlIMTVzaDdtWjR5ZnF4WVd1bw?oc=5"
       }
      ]
     },
     {
-     "baslik": "Yeni Parti'de PM ve YDK seçimleri başladı",
-     "ozet": "Yeni Parti 1. Olağan Kurultayı'nda, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) üyelerinin belirlenmesi için oylamaya geçildi",
+     "baslik": "Uğurcan Çakır için sakatlık açıklaması! Fransa maçının kadrosundan çıkarıldı",
+     "ozet": "A Millî Futbol Takımı file bekçisi Uğurcan Çakır, Belçika ile oynanan müsabakanın ardından yapılan MR sonucu sonrası omuz eklem kapsülünde hafif gerilme tespit edildiği açıklandı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/yeni-parti-de-pm-ve-ydk-secimi-yapilacak-3927459"
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/ugurcan-cakir-icin-sakatlik-aciklamasi-fransa-macinin-kadrosundan-cikarildi-43379490"
       },
       {
-       "ad": "Medyascope",
-       "link": "https://medyascope.tv/2026/11/15/yeni-partide-parti-meclisi-secimi-iste-ozgur-ozelin-blok-listesi/"
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS3Y1aVcxaUdFYkY2aU5hLXlCUmxzUzktN3Fsdnl0MDREaG5FU2RRZ1hfWnJJRTExN0VEMWRBTGFnTlJEUHAxWFNKUEdObE0yMUFIY1Z5MHktQklQaDRvdVpjQXFCTWNJdEw3eFJ2c2gtUkdxRnowYnFxMjFOVThxd1hJX29kekJxZXpNMGMtMlRwVV9UMWlTRUVIYWx4NGRVS1Bla0xDMGZZRHNYWk83aWZoM1I5ZGg3dGE5bEtGbw?oc=5"
       }
      ]
     },
     {
-     "baslik": "Futbolcuları taşıyan otobüs yandı! Son anda kurtuldular!",
-     "ozet": "TFF 3'üncü Lig'de mücadele eden Karaman Futbol Kulübü kafilesini taşıyan otobüs, belirlenemeyen nedenle alev aldı. Futbolcular, teknik ekip ve kulüp çalışanları otobüsü tahliye ederken, spor…",
+     "baslik": "Fransa-Türkiye maçı öncesi Zidane'den Arda Güler itirafı",
+     "ozet": "A Milli Takım'ın Fransa ile oynayacağı UEFA Uluslar Ligi maçı öncesi, Zinedine Zidane Arda Güler hakkında konuştu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-karaman-futbol-kulubu-kafilesini-tasiyan-otobus-yandi-futbolcular-son-anda-kurtuldu-3927485"
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/fransa-turkiye-maci-oncesi-zidaneden-arda-guler-itirafi-43379137"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0dwdHJiY0xjQjdlMV9lLWs3ZDdibzE4cnc4OFBRQnBldUdLSGZHVWRwTXVHcHYwcHR4TWRJQ3hXWENwZ2dPRE5ZQ1JQaG00Nk9qZVdONmRpdGgzVUxENFJNY0IwVlhMaV9NSHZCUEh4c2NaWXNDYXZiZXlRYl9MRXItRzhpY1NxNDVzbHc4SzBRM2h4cFB0SjdtS0RuTlk4VnFPVg?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "İran: ABD'nin şartlarımıza verdiği yanıtlar uygulanabilir değil",
+     "ozet": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, ABD'nin İran'ın şartlarına verdiği yanıtların uygulanabilir olmadığını belirterek, Washington yönetiminin bazı şartların yerine getirilmesini…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/iran-abdnin-sartlarimiza-verdigi-yanitlar-uygulanabilir-degil-43379517"
       },
       {
        "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/yasam/karaman-futbol-kafilesini-tasiyan-otobus-alev-alev-yandi-futbolcular-son-anda-kurtuldu-7702124"
+       "link": "https://www.sabah.com.tr/dunya/iran-abdnin-sartlarimiza-verdigi-yanitlar-uygulanabilir-degil-7702425"
       }
      ]
     },
     {
-     "baslik": "\"Kıbrıs bizim milli davamızdır\"",
-     "ozet": "Cumhurbaşkanı Erdoğan, \"Kıbrıs bizim milli davamızdır. Kıbrıs'ı ne olursa olsun asla yalnız bırakmayacağız\" dedi",
+     "baslik": "Derbide kazanan Fenerbahçe!",
+     "ozet": "Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin, sahasında ağırladığı Anadolu Efes'e karşı 16 sayı farktan döndü ve parkeden 77-75 galip ayrıldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-kibris-bizim-milli-davamizdir-3927490"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/gundem/2026/11/15/baskan-erdogandan-kktc-mesaji-kibris-bizim-milli-davamizdir"
-      }
-     ]
-    },
-    {
-     "baslik": "Sağlık Bakanlığı 38 bin personel alımı ne zaman?",
-     "ozet": "Sağlık Bakanlığı bünyesine 38 bin personel alımı yapılacak. Hekim dışı personel ve sürekli işçi alımı başvuru tarihi, şartları ve kadro dağılımı merak ediliyor. Hemşirelik, ebelik, sağlık…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/bilgi/foto/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-saglik-bakanligi-personel-alimi-basvurusu-nasil-yapilir-sartlari-nelerdir-3927400"
+       "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-anadolu-efes-mac-sonucu-ozeti-ve-detaylari-basketbol-super-ligi-3927550"
       },
       {
        "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/turkiye/saglik-bakanligi-acikladi-sigara-birakma-polikliniklerinde-tum-zamanlarin-rekoru-kirildi-2556324"
-      }
-     ]
-    },
-    {
-     "baslik": "Toplum ve Siyaset (43): Barış mı tırmanan bir savaş mı? ABD ve İsrail’deki siyasi krizlerin gölgesinde İran savaşı | Ezgi Uzun Teker",
-     "ozet": "Gülener Kırnalı, Ezgi Uzun Teker ile ABD ve İsrail'deki siyasi gelişmeler çerçevesinde İran savaşı üzerine değerlendirmelerde bulundu. Toplum ve Siyaset (43): Barış mı tırmanan bir savaş mı? ABD ve…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Medyascope",
-       "link": "https://medyascope.tv/2026/11/15/toplum-ve-siyaset-43-baris-mi-tirmanan-bir-savas-mi-abd-ve-israildeki-siyasi-krizlerin-golgesinde-iran-savasi-ezgi-uzun-teker/"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHEyUDcyWWxKb21OS0ZWWjA2MDhmRjM2UVVaRTlvM05iMXVnU2wtb0RZWUVhYUdnT3lGUHlQeUFXOW5lY1BUd0Q2SVZQQnFmakFUNVR2cGd0NkFMZDRKVnkyRUN4cEV2c2gzUzZ6aXZZU1ZpeHA2WW1XU1FqaENTOUl6X20zZkhRZnBIOFBB?oc=5"
-      },
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/iran-ne-savas-ne-baris-durumu-icinde-kalmayacagiz-3794673"
-      }
-     ]
-    },
-    {
-     "baslik": "TBMM Başkanı Kurtulmuş: Filistin davasına sahip çıkmak, tarihi bir sorumluluktur",
-     "ozet": "TBMM Başkanı Kurtulmuş, \"'İnsanlık Cephesi'nin ortak vicdanında kök salan Filistin davasına sahip çıkmak, yalnızca Filistin halkına karşı değil, adalete ve insanlık onuruna karşı da tarihi bir…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-filistin-davasina-sahip-cikmak-tarihi-bir-sorumluluktur/4125758"
+       "link": "https://www.cumhuriyet.com.tr/spor/basketbol-derbisinde-kazanan-fenerbahce-tarfin-2556435"
       }
      ]
     }
@@ -245,83 +245,99 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Filipinler Asya'daki ilk Eurovision Şarkı Yarışmasını kazandı",
-     "ozet": "Bangkok'taki yarışmaya 11 ülke katıldı. Gençlerin kazananı Carmelle Collado'nun kazanan dans şarkısı Filipinli kadınlara saygı duruşu niteliğindedir.",
+     "baslik": "Zelenskyy, Yıldız Kalkanı kısıtlamalarının kış öncesinde Ukrayna'nın enerji savunmasını tehdit ettiğini söyledi",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBGVVA1c2RUMjI4QVhIb2RGb193VUVXanFoaGxvUFV6MExoS1NsOUJnWDFENzhsbTk3UGs1T1lIYUs2a3phVkU2RGVlbWRvbUtPMk5ya3dsclFOdThkMWdNMFdXSFVFTlhSUUFncjlIbEFhXzZhZ3M0SkNjQk50cHh1elBVMlpWcXZDQ2pYRXB2cWNfaGdGelBsWmxRR0NkcjdSU1hQYlBkR0pCZXFF?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "LSU gardiyanı MiLaysia Fulwiley, trafik durağının olduğu yerden kaçtığı iddiasıyla tutuklandı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGFtcnBhUlAwMzFwWWFaWThIdDVWQ3Y1SWktRTVLbndhTzEwTXBueVNheHVYNHVTNm9TVHIwYUdnSXhLSGRlbW1PRkRhT2YxdEwzMjhfaXVySEtVaEZNU1V3WEZUVVVxVkZEQ1Nlem11U2Zvam0xV0hyenVHaEFEV2pMZWtaQ3hRNldGYzNUdXUwQQ?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car"
+      }
+     ]
+    },
+    {
+     "baslik": "Almanya haberleri: Almanya ulusal anma günü düzenliyor",
+     "ozet": "Savaş ve baskı kurbanlarının anıldığı 'Volkstrauertag' günü için etkinlikler düzenleniyor. Bu arada uzmanlar ülkenin bir bütçe krizine doğru gittiğini söylüyor. DW'de daha fazlası var.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "DW English",
-       "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf"
+       "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf"
       },
       {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/philippine-star-carmelle-wins-first-asian-edition-of-eurovision-song-contest"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss"
       }
      ]
     },
     {
-     "baslik": "Kanarya Adaları'na bir günde 1.500'e yakın göçmen ulaştı",
+     "baslik": "FT'nin haberine göre Jensen Huang, müttefikleriyle Nvidia CEO'su olarak geri dönüşü tartışıyor",
      "ozet": "",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5"
       }
      ]
     },
     {
-     "baslik": "Megaspeed, Alice Huang'ın Ağustos 2025'te şirketten ayrıldığını söyledi",
+     "baslik": "Yemenli Husiler, Riyad havaalanı ve finans merkezine balistik füze fırlattıklarını söyledi",
      "ozet": "",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2NSdXVjeDlTU0lLeTAtMGs5RmdHaW0wTVhVbzUwempOYUdlNVB3NXprMGZqYksyVjhLUU1OV250QlczemJOT2tXcVFIZEJYb0dwblVCblExbnFmZkVyeGZnZ0NJY3Z3a3NTcmxUQ21tR0ZsQVdhTTNRNWJaZW5pOEk4RDNEMXN3aExOaEE0QVNzaXV3UTM3ZjlNa2hDenRtajR2aGVGT3RQR0NOSnY1VHQ3czdCSkJWSUgxaFFYNThEUlBBMVpn?oc=5"
       }
      ]
     },
     {
-     "baslik": "Yemen hükümet güçleri Bab el-Mendeb Boğazı yakınlarındaki bölgeden çekiliyor, Husiler kontrol altında",
+     "baslik": "ABD'de hava yolculuğundaki aksamalar üçüncü günde de devam ediyor",
      "ozet": "",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5"
       }
      ]
     },
     {
-     "baslik": "ASEAN, Myanmar'la olan ilişkisini yeniden teyit etti ve barış planını ilerletmeyi hedefliyor",
+     "baslik": "Bessent, Nvidia'nın yeni CEO bulmak için 'şirket dışına çıkması' gerektiğini söyledi",
      "ozet": "",
-     "etiket": "tek kaynak",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2lVZFhnSzJQQnIxTUhnVXpjbGl2eDdWT0RVMEwzamtmMGJZWFVpU1V1TDlhZEQwdU1hSEFMa1E3bVMzRTg0SnREcDZuNXRLQTZnbFlMMjFvQk9rODZxYkVMUVVGS3ZRdi1nRDJKTnBpOFJybUl1MmdDMy1IbmxYb2dCUEhvTklULXhFNDNCV3BxRUNrYUpiNUJTbEFCU1pHR3hGeVdua3Bja0RCREpid0xWaGtyRFJsZGk4VU0tdFQ3WUE2Y3Nieg?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Filipinler ve Avustralya, Çin'i gözeterek savunma anlaşması imzaladı",
-     "ozet": "",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5"
+      },
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVp4NnMwSDJUWVYzTmJ2NDFUMkdvVlZqUm5PUU1pLVRHMEtVd1k1NDVTakFYUURCZGR3Y3ZHMGRyVktDQmZ4UC1lN0NIREp0bHpzYTQ1RHlvZjl2dmFZNkFINmJVS3luVmVvMlNFVmhQQVJjVXJiWUc0S0dwTDRVNzRMYzNlbGpZSFU3MFFmY2dKNzVodTdqNmZGd3BGWFlfTmhnSg?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Tahran ABD üssüne saldırdığını söylerken Bahreyn İran'ın hava saldırılarını önledi",
-     "ozet": "",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1"
+      },
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5"
+       "ad": "CNBC",
+       "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
       }
      ]
     }
@@ -331,6 +347,36 @@
    "id": "ekonomi",
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
+    {
+     "baslik": "SPK'den \"Olağanüstü Tasfiyede Halka Açık Ortaklıkların Geri Aldığı Paylara İlişkin\" açıklama",
+     "ozet": "Sermaye Piyasası Kurulu (SPK), olağanüstü tasfiyede halka açık ortaklıkların geri aldığı paylara ilişkin açıklamada bulundu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-olaganustu-tasfiyede-halka-acik-ortakliklarin-geri-aldigi-paylara-iliskin-aciklama/4125941"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/spk-dan-olaganustu-tasfiyedeki-pay-geri-alimlarina-iliskin-aciklama-3794681"
+      }
+     ]
+    },
+    {
+     "baslik": "Üreticilere ekimde 2 milyar lira hasar tazminatı ödendi",
+     "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 1-31 Ekim tarihlerinde, Devlet Destekli Tarım Sigortası kapsamında ödenen 2 milyar lira hasar tazminatıyla üreticinin yanında olduklarını bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ureticilere-ekimde-2-milyar-lira-hasar-tazminati-odendi/4125842"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/bakan-yumakli-ureticiye-ekimde-2-milyar-lira-hasar-tazminati-odendi-haberi-847685"
+      }
+     ]
+    },
     {
      "baslik": "QNB Leasing ile Proparco'dan 75 milyon avroluk sürdürülebilir enerji anlaşması",
      "ozet": "QNB Leasing, COP31 kapsamında, Fransız Kalkınma Ajansı (AFD) Grubu bünyesinde faaliyet gösteren Proparco ile Türkiye'deki sürdürülebilir enerji yatırımlarını desteklemek üzere 75 milyon avroluk…",
@@ -347,54 +393,32 @@
      ]
     },
     {
-     "baslik": "Bakan Çiftçi'den süresi dolacak kimlik ve sürücü belgelerine ilişkin uyarı",
-     "ozet": "İçişleri Bakanı Mustafa Çiftçi, 2026 sonuna kadar 112 bin 791 kimlik kartı ve 374 bin 805 sürücü belgesinin yenilenmesi gerektiğini açıkladı. Çiftçi, vatandaşlardan belgelerinin geçerlilik…",
+     "baslik": "Trump'tan Kongre'ye: Hava trafik kontrolü için fonu acilen onaylayın",
+     "ozet": "ABD Başkanı Donald Trump, ülke genelinde uçuşları geçici olarak durduran iletişim kesintisinin ardından Kongreye, hava trafik kontrol sisteminin yenilenmesi için gereken finansmanı hızla onaylama…",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/bakan-ciftci-den-suresi-dolacak-kimlik-ve-surucu-belgelerine-iliskin-uyari-3794675"
+       "link": "https://www.bloomberght.com/trump-tan-kongre-ye-hava-trafik-kontrolu-icin-fonu-acilen-onaylayin-3794683"
       },
       {
        "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/gundem/bakan-ciftciden-kimlik-ve-ehliyet-uyarisi-son-gune-birakmayin-haberi-847662"
+       "link": "https://www.dunya.com/dunya/abd-baskani-trump-hava-trafik-kontrol-sistemini-acilen-yenilemeliyiz-haberi-847708"
       }
      ]
     },
     {
-     "baslik": "VakıfBank ile Dünya Bankası arasında 250 milyon dolarlık finansman anlaşması",
-     "ozet": "VakıfBank, \"Sanayinin Teknolojiyle Dönüşümü Projesi\" kapsamında Dünya Bankası ile 250 milyon dolarlık finansman anlaşması imzaladı.",
+     "baslik": "Megaspeed'den Nvidia çipleriyle ilgili iddialara iç soruşturma",
+     "ozet": "Bulut hizmetleri sağlayıcısı Megaspeed, Nvidia'nın gelişmiş yapay zeka çiplerinin ABD'nin ihracat kısıtlamalarına rağmen Çin'e ulaştırıldığı iddiaları üzerine iç soruşturma başlattı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/vakifbank-ile-dunya-bankasi-arasinda-250-milyon-dolarlik-finansman-anlasmasi-3794672"
+       "link": "https://www.bloomberght.com/megaspeed-den-nvidia-cipleriyle-ilgili-iddialara-ic-sorusturma-3794682"
       },
       {
        "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/sirketler/vakifbank-dunya-bankasindan-250-milyon-dolarlik-donusum-finansmani-sagladi-haberi-847657"
-      }
-     ]
-    },
-    {
-     "baslik": "İklim risklerine karşı sigorta sektörü \"karar masası\"nda yer almayı bekliyor",
-     "ozet": "Türkiye Sigorta Birliği (TSB) Başkanı Yaşar, politika yapıcıların sigortacılığın önleyici rolünden faydalanması gerektiğini belirterek, \"İklim riskleri konuşulacaksa sigortacıların masada bulunması…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/iklim-risklerine-karsi-sigorta-sektoru-karar-masasinda-yer-almayi-bekliyor/4125649"
-      }
-     ]
-    },
-    {
-     "baslik": "THY'den Japonya pazarı için özel reklam filmi",
-     "ozet": "THY Yönetim Kurulu ve İcra Komitesi Başkanı Prof. Dr. Murat Şeker, \"Filmde, Japoncada kimi duyguları anlatan kelimeler Türkiye’nin doğasında, kültüründe ve misafirperverliğinde karşılık buluyor.\"…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/thyden-japonya-pazari-icin-ozel-reklam-filmi-/4125646"
+       "link": "https://www.dunya.com/dunya/nvidia-ciplerinin-cine-ulastigi-iddiasi-megaspeedi-harekete-gecirdi-haberi-847707"
       }
      ]
     }
@@ -466,13 +490,24 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Akıl sağlığı şaka değil ama bunu bir stand-up rutinine dönüştürdüm",
-     "ozet": "Akıl sağlığı sorunlarıyla mücadele eden insanlar hikayelerini anlatmak için stand-up'a çıkıyor.",
+     "baslik": "Birçoğumuzun hiç antrenman yapmadığı, vücudun en sık yaralanan kısımlarından biri",
+     "ozet": "Performans fizyoterapisti Genevieve Taiwah, A&E ziyaretlerinin %5'ini oluşturan eklemlerin bakımıyla ilgili en önemli ipuçlarını paylaşıyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/ck1l05lqjrq6o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "STAT+: FDA, Summit Therapeutics'in akciğer kanseri tedavisi olan ivonescimab'ı reddetti",
+     "ozet": "FDA, ABD biyoteknoloji Zirvesi Terapötikleri ve Çinli ilaç üreticisi Akeso tarafından geliştirilen bir tür akciğer kanseri tedavisi olan ivonescimab'ı reddetti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss"
       }
      ]
     }
@@ -483,43 +518,47 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Baskın Avustralya, Erkekler Dünya Kupası finalinde Yeni Zelanda'yı mağlup etti",
-     "ozet": "Avustralya, Brisbane'deki finalde Yeni Zelanda'yı rahat bir şekilde yenerek Erkekler Rugby Ligi Dünya Kupası'nı üst üste dördüncü kez kazandı.",
+     "baslik": "Gözyaşı döken McIlroy rekora eşit galibiyetini hasta babasına adadı",
+     "ozet": "Rory McIlroy, rekor kıran sekizinci Dubai Yarışı şampiyonluğunu hasta babası Gerry'ye adaırken gözyaşlarını siliyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm9q8l51pgeqo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/15/rory-mcilroy-wins-golfs-race-to-dubai-title-for-record-equalling-eighth-time"
+      }
+     ]
+    },
+    {
+     "baslik": "46 yaşındaki Ronaldinho, Ravenna'ya geri dönüyor",
+     "ozet": "Brezilya efsanesi Ronaldinho, 46 ​​yaşında Ravenna formasıyla geri dönüş yapıyor ve İtalya üçüncü kademe derbisinin ilk yarısında Forli'ye karşı oynuyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career"
+      }
+     ]
+    },
+    {
+     "baslik": "Zafer mi başarısızlık mı? Rugby Ligi Dünya Kupası görüş ayrılığına neden oldu",
+     "ozet": "Rugby Ligi Dünya Kupası uluslararası oyun için yeni bir ölçüt belirledi mi? BBC Sport, bu sorunun cevabının kuzey ve güney yarımkürelerde farklılık gösterdiğini keşfediyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cwdr1dl21l1vo?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
        "link": "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates"
-      }
-     ]
-    },
-    {
-     "baslik": "Harrison, UFC'nin unvanını korumak için geri dönmesi konusunda Nunes'u şok etti",
-     "ozet": "Kayla Harrison, eski çifte şampiyonunu New York'taki UFC 334'te horoz siklet unvanını korumaya davet ederek geri dönen muhteşem Amanda Nunes'u şok ediyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5742819x9n3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-amanda-nunes-ufc-334-ciryl-gane-josh-hokit"
-      }
-     ]
-    },
-    {
-     "baslik": "Yeni Mersin İdmanyurdu-Karaman FK maçı ertelendi",
-     "ozet": "Türkiye Futbol Federasyonu (TFF), Yeni Mersin İdmanyurdu-Karaman FK maçının ertelendiğini duyurdu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/yeni-mersin-idmanyurdu-karaman-fk-maci-ertelendi/4125742"
       }
      ]
     }
@@ -530,24 +569,24 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Şair ve mütefekkir Sezai Karakoç, \"diriliş\" düşüncesiyle Türk edebiyatında iz bıraktı",
-     "ozet": "Hayatını \"Diriliş Nesli\" dediği, yeni bir gençliğin yetişmesine adayan Karakoç, \"diriliş\" düşüncesi etrafında şekillendirdiği medeniyet tasavvuruyla Türk edebiyatı ve fikir hayatında derin izler…",
+     "baslik": "COP31'de \"Kökler ve Ateş\" gösterisi izleyiciyle buluştu",
+     "ozet": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Anadolu'nun kültürel mirasını müzik ve dansla buluşturan \"Kökler ve Ateş\" sahne gösterisi…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/sair-ve-mutefekkir-sezai-karakoc-dirilis-dusuncesiyle-turk-edebiyatinda-iz-birakti/4125711"
+       "link": "https://www.aa.com.tr/tr/kultur/cop31de-kokler-ve-ates-gosterisi-izleyiciyle-bulustu/4126008"
       }
      ]
     },
     {
-     "baslik": "AA yapımı \"Salda: Kızıl Gezegene Açılan Köprü\" belgeseli izleyicilerle buluştu",
-     "ozet": "Türkiye ve ABD'den bilim insanlarının katkılarıyla hazırlanan belgeselde Burdur'daki Salda Gölü'nün jeolojik, ekolojik ve biyolojik özellikleri ile Mars araştırmaları arasındaki ilişki ele alınıyor.",
+     "baslik": "Yeşil Bölge'deki Kültür ve Medeniyet Pavilyonu ziyaretçileri ağırlıyor",
+     "ozet": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında oluşturulan Ziraat Bankası Kültür ve Medeniyet Pavilyonu yerli ve yabancı…",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/aa-yapimi-salda-kizil-gezegene-acilan-kopru-belgeseli-izleyicilerle-bulustu/4125550"
+       "link": "https://www.aa.com.tr/tr/cop31/yesil-bolgedeki-kultur-ve-medeniyet-pavilyonu-ziyaretcileri-agirliyor/4125934"
       }
      ]
     }
@@ -557,58 +596,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43015468",
-   "baslik_en": "Evolutionary dynamics in the years preceding acute myeloid leukaemia.",
-   "baslik_tr": "Akut miyeloid lösemiden önceki yıllarda evrimsel dinamikler.",
-   "dergi": "Nature",
+   "pmid": "43020901",
+   "baslik_en": "Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial.",
+   "baslik_tr": "İki yaygın GVHD profilaksi rejiminin randomize bir faz 3 denemesinde bağırsak mikrobiyomu üzerindeki etkisi.",
+   "dergi": "Nature medicine",
    "yazarlar": [
-    "Watson CJ",
-    "Poon GYP",
-    "MacGregor HAJ",
+    "Wirbel J",
+    "Saber W",
+    "Martens MJ",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Somatic evolution in ageing tissues underlies many cancers1,2. However, our quantitative understanding of the rules governing this pre-cancerous evolution remains incomplete. Here we exploit a unique collection of serial blood samples3, collected annually for up to a decade and beginning as early as 15 years before diagnosis of acute myeloid leukaemia, to provide a quantitative description of pre-cancerous evolutionary dynamics. Using deep duplex sequencing and evolutionary theory, we quantify the acquisition ages and fitness effects of the key driver events in acute myeloid leukaemia development.",
-   "ozet_tr": "Yaşlanan dokulardaki somatik evrim birçok kanserin temelini oluşturmaktadır1,2. Bununla birlikte, bu kanser öncesi evrimi yöneten kurallara ilişkin niceliksel anlayışımız henüz tamamlanmamıştır. Burada, kanser öncesi evrim dinamiklerinin niceliksel bir tanımını sağlamak için, on yıla kadar yıllık olarak toplanan ve akut miyeloid lösemi tanısından 15 yıl önce başlayan benzersiz bir seri kan örnekleri koleksiyonundan3 yararlanıyoruz. Derin çift yönlü sıralama ve evrim teorisini kullanarak, akut miyeloid lösemi gelişimindeki temel etken olayların edinim yaşlarını ve uygunluk etkilerini ölçüyoruz.",
+   "tur": "Randomized Controlled Trial, Clinical Trial, Phase III",
+   "ozet_en": "Allogeneic hematopoietic cell transplantation can cure certain hematological disorders but has many complications. In retrospective studies, low gut microbiome diversity is associated with adverse clinical outcomes. In 2023, the Blood and Marrow Transplant Clinical Trials Network 1703 randomized phase 3 trial demonstrated the superiority of post-transplant cyclophosphamide (PTCy) and mycophenolate mofetil to tacrolimus and methotrexate (Tac/MTX) for graft-versus-host disease prophylaxis in participants with hematological malignancies undergoing allogeneic hematopoietic cell transplantation.",
+   "ozet_tr": "Allojeneik hematopoietik hücre nakli, bazı hematolojik bozuklukları tedavi edebilir ancak birçok komplikasyonu vardır. Retrospektif çalışmalarda düşük bağırsak mikrobiyom çeşitliliği olumsuz klinik sonuçlarla ilişkilidir. 2023 yılında, Kan ve İlik Nakli Klinik Araştırmalar Ağı 1703 randomize faz 3 çalışması, allojeneik hematopoietik hücre nakli yapılan hematolojik maligniteleri olan katılımcılarda graft-versus-host hastalığı profilaksisi için nakil sonrası siklofosfamid (PTCy) ve mikofenolat mofetilin, takrolimus ve metotreksata (Tac/MTX) göre üstünlüğünü gösterdi.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43015468/",
-   "doi": "https://doi.org/10.1038/s41586-026-11269-x"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020901/",
+   "doi": "https://doi.org/10.1038/s41591-026-04712-z"
   },
   {
-   "pmid": "43024234",
-   "baslik_en": "Racial and Ethnic Differences in County-Level Availability of Uterine Cancer Clinical Trials.",
-   "baslik_tr": "Rahim Kanseri Klinik Araştırmalarının İlçe Düzeyinde Kullanılabilirliğinde Irksal ve Etnik Farklılıklar.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Felix AS",
-    "Meade CE",
-    "Wing JJ",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "IMPORTANCE: Racial and ethnic disparities exist in clinical trial enrollment, but whether such disparities exist in geographic availability of uterine cancer trials is unknown. OBJECTIVE: To examine associations between race and ethnicity and county-level presence and rates of available uterine cancer clinical trials. DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study linked Surveillance, Epidemiology, and End Results Research Plus; Aggregate Analysis of ClinicalTrials.gov; and American Community Survey data of adult patients (aged ≥18 years) diagnosed with uterine cancer between January 1, 2008, and December 31, 2021.",
-   "ozet_tr": "ÖNEMİ: Klinik araştırmalara kayıtlarda ırksal ve etnik eşitsizlikler mevcuttur, ancak rahim kanseri araştırmalarının coğrafi olarak erişilebilirliği açısından bu tür eşitsizliklerin mevcut olup olmadığı bilinmemektedir. AMAÇ: Irk ve etnik köken ile ilçe düzeyindeki varlığı ve mevcut rahim kanseri klinik araştırmalarının oranları arasındaki ilişkileri incelemek. TASARIM, YER VE KATILIMCILAR: Bu retrospektif kohort çalışması Sürveyans, Epidemiyoloji ve Nihai Sonuçlar Araştırma Plus'ı birbirine bağladı; ClinicalTrials.gov'un Toplu Analizi; ve 1 Ocak 2008 ile 31 Aralık 2021 arasında rahim kanseri tanısı konulan yetişkin hastalara (≥18 yaş) ilişkin American Community Survey verileri.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43024234/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44045"
-  },
-  {
-   "pmid": "43019436",
-   "baslik_en": "Limited genomic predictability of complex trait evolution despite genotype-phenotype stability.",
-   "baslik_tr": "Genotip-fenotip stabilitesine rağmen karmaşık özellik evriminin sınırlı genomik öngörülebilirliği.",
+   "pmid": "43019434",
+   "baslik_en": "Carbon dioxide and amorphous water ices in the debris disk around β Pictoris.",
+   "baslik_tr": "β Pictoris çevresindeki enkaz diskinde karbondioksit ve amorf su buzları.",
    "dergi": "Science (New York, N.Y.)",
    "yazarlar": [
-    "Smiley-Rhodes JA",
-    "Bitter MC",
-    "Berardi S",
+    "Betti SK",
+    "Chen CH",
+    "Xie C",
     "et al."
    ],
    "tur": "",
-   "ozet_en": "Whether genomic data can be used to effectively predict adaptation in natural populations is unknown. Here, we tested the efficacy of genomic prediction of complex trait evolution by monitoring genome-wide allele frequencies and pigmentation variation in genetically diverse populations of Drosophila melanogaster during evolution in both field mesocosms and a controlled, lab-based setting. At two points during trait evolution, we produced a high-powered, well-resolved genotype-phenotype map that exhibited marked stability across independent populations.",
-   "ozet_tr": "Doğal popülasyonlardaki adaptasyonu etkili bir şekilde tahmin etmek için genomik verilerin kullanılıp kullanılamayacağı bilinmemektedir. Burada, hem alan mezokozmlarında hem de kontrollü, laboratuvar bazlı bir ortamda evrim sırasında genetik olarak çeşitli Drosophila melanogaster popülasyonlarındaki genom çapında alel frekanslarını ve pigmentasyon varyasyonunu izleyerek karmaşık özellik evriminin genomik tahmininin etkinliğini test ettik. Özellik evrimi sırasında iki noktada, bağımsız popülasyonlar arasında belirgin stabilite sergileyen, yüksek güçlü, iyi çözümlenmiş bir genotip-fenotip haritası ürettik.",
+   "ozet_en": "The star β Pictoris is orbited by a dusty debris disk, within which planet formation is occurring. The outer disk is sufficiently far from the star that volatile molecules are expected to freeze into solid ices. We observed the β Pictoris disk in the near-infrared using the James Webb Space Telescope. The spectrum shows features due to amorphous water ice (<7% crystallinity) and carbon dioxide (CO2) ice in both the 12CO2 and 13CO2 isotopologues. We infer that the CO2 ice is intimately mixed with the water ice at a ratio of 1:10. This implies that the ices formed in cold conditions, likely in the interstellar medium.",
+   "ozet_tr": "β Pictoris yıldızı, içinde gezegen oluşumunun meydana geldiği tozlu bir enkaz diski tarafından yörüngede dönmektedir. Dış disk yıldızdan yeterince uzakta olduğundan uçucu moleküllerin donarak katı buzlara dönüşmesi bekleniyor. James Webb Uzay Teleskobu'nu kullanarak β Pictoris diskini yakın kızılötesinde gözlemledik. Spektrum, hem 12CO2 hem de 13CO2 izotopologlarındaki amorf su buzu (<%7 kristallik) ve karbondioksit (CO2) buzundan kaynaklanan özellikleri gösterir. CO2 buzunun su buzuyla 1:10 oranında iyice karıştırıldığını çıkarıyoruz. Bu, buzların soğuk koşullarda, muhtemelen yıldızlararası ortamda oluştuğunu ima ediyor.",
    "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43019436/",
-   "doi": "https://doi.org/10.1126/science.aee0342"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019434/",
+   "doi": "https://doi.org/10.1126/science.adw7770"
+  },
+  {
+   "pmid": "43015462",
+   "baslik_en": "Bureaucratic incentives shaped effectiveness of the one-child policy in China.",
+   "baslik_tr": "Bürokratik teşvikler Çin'deki tek çocuk politikasının etkinliğini şekillendirdi.",
+   "dergi": "Nature",
+   "yazarlar": [
+    "Meng L",
+    "Yang H",
+    "Miller G",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "Empirical research so far largely suggests that population policies around the world do not explain a majority of the global fertility decline1-10. Notably, even China's total fertility rate declined little after implementation of the one-child policy in 1979 and 1980, but fertility then fell sharply by more than one-third during the early 1990s. Here we show that strengthening bureaucratic incentives under China's one vote veto policy, which strictly prohibited career advancement for adherence failure, was instrumental in more effective implementation of the one-child policy, and in its delayed impact on fertility.",
+   "ozet_tr": "Şu ana kadar yapılan ampirik araştırmalar, büyük ölçüde dünya çapındaki nüfus politikalarının küresel doğurganlık düşüşünün büyük bir kısmını açıklamadığını ileri sürmektedir1-10. Dikkate değer bir şekilde, Çin'in toplam doğurganlık oranı bile 1979 ve 1980'de tek çocuk politikasının uygulanmasından sonra çok az düştü, ancak doğurganlık 1990'ların başında üçte birden fazla keskin bir düşüş gösterdi. Burada, Çin'in, uyum başarısızlığı durumunda kariyer ilerlemesini kesinlikle yasaklayan tek oy veto politikası kapsamındaki bürokratik teşviklerin güçlendirilmesinin, tek çocuk politikasının daha etkili bir şekilde uygulanmasında ve bunun doğurganlık üzerindeki gecikmeli etkisinde etkili olduğunu gösteriyoruz.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015462/",
+   "doi": "https://doi.org/10.1038/s41586-026-11232-w"
   }
  ]
 }
