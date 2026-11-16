@@ -1,0 +1,692 @@
+{
+ "tarih": "2026-11-16",
+ "donem": "sabah",
+ "giris": "Bugün gündemin merkezinde ABD, Çin ve Rusya liderlerinin 19 Kasım'da Şencen'de planlanan üçlü zirvesi, Körfez ve Yemen'de artan gerilim ile İsrail'deki hükümet kurma krizi var. Nvidia'daki yönetim tartışması ve ABD'deki hava trafiği aksaklığı teknoloji ve ekonomi gündemini belirliyor. Türkiye'de COP31 hazırlıkları, Yeni Parti kurultayı ve milli takımın Fransa mağlubiyeti öne çıkıyor.",
+ "one_cikanlar": [
+  {
+   "baslik": "Trump, Şi ve Putin 19 Kasım'da Şencen'de ilk kez aynı masada",
+   "ozet": "Hürriyet'e göre ABD Başkanı Trump, Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Putin 19 Kasım'da Çin'in Şencen kentinde ilk kez bir araya gelecek. BBC Türkçe'ye göre Avrupa'da bazı çevreler bu üçlü görüşmeyi İkinci Dünya Savaşı sonrası nüfuz alanı paylaşımına benzetiyor; gündemde nükleer pazarlıklar ve İran krizi de var.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/dunya/yalta-2-0-uc-lider-dunyayi-yeniden-mi-paylasacak-43379565"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1"
+    }
+   ],
+   "neden_onemli": "Küresel güç dengelerini ve Avrupa'nın güvenlik hesaplarını etkileyebilecek bir zirve."
+  },
+  {
+   "baslik": "İran, Bahreyn'deki ABD üssüne saldırı iddiasında bulundu",
+   "ozet": "France 24'e göre Bahreyn pazar günü Eylül'den bu yana ilk kez iki tehdit uyarısı yayımladı ve başkent Manama'da patlama sesleri duyuldu. İran, ABD'nin müttefiki adadaki bir hava üssünü hedef aldığını öne sürdü. Aynı gün Yemen'de Husi karşıtı güçlerin geri çekildiği bildirildi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+    },
+    {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5"
+    }
+   ],
+   "neden_onemli": "Körfez'de gerilimin tırmanması bölgesel güvenliği ve enerji piyasalarını etkileyebilir."
+  },
+  {
+   "baslik": "Eisenkot: Netanyahu görevdeyken İsrail'de adil seçim yapılamaz",
+   "ozet": "İsrail'de hükümet kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot, Başbakan Binyamin Netanyahu'nun görevde olduğu sürece adil seçim yapılamayacağını söyledi. France 24'e göre Eisenkot, bir yardımcının seçime müdahale ettiği yönündeki haberlerin ardından Netanyahu'nun derhal ayrılması gerektiğini belirtti. İsrail basınındaki haberlere göre Netanyahu 'seçimler çalındı' iddiasını desteklemek için istihbarat ve polisi kullandı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/eisenkot-netanyahu-gorevde-oldugu-surece-israilde-adil-secim-yapilamayacagini-belirtti/4126081"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/eisenkot-gorevde-oldugu-surece-israil-de-adil-ve-mesru-secimler-artik-yapilmayacak-3927565"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss"
+    }
+   ],
+   "neden_onemli": "İsrail'de hükümet kurma sürecinin seyrini belirleyebilecek bir siyasi kriz."
+  },
+  {
+   "baslik": "Nvidia'da Huang'ın dönüşü tartışılıyor",
+   "ozet": "Anadolu Ajansı'na göre Elon Musk ve çok sayıda teknoloji yöneticisi, Jensen Huang'ın Nvidia'daki görevine iade edilmesini isteyen dilekçeye imza attı. Financial Times'a göre Huang, Çinli olduğu öne sürülen bir casusla ilişkisi nedeniyle istifa etmişti. ABD Hazine Bakanı Bessent ise şirketin dışarıdan bir CEO bulması gerektiğini söyledi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmxIVmdtc0d3ZlBQUlBKYkNSWWlxUjRzWkxvOHVMcUZNcFo3aW1yMmV5YmVoTkRZMnlDM1BYMFBab3RxdDZZSmd6eXZLY2RFZGlhTTdLeTkwT0VCOFp6c3VoY3dSdXZqZldYRFpFN3N5OVZma2lrYXNYd2RBV3pvWjFSaVh0NjNpRjVKbTJoZ3NXNllZMThUdlFIcUlyOHM?oc=5"
+    },
+    {
+     "ad": "Financial Times",
+     "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
+    }
+   ],
+   "neden_onemli": "Yapay zekâ çipi üreticisinin yönetimi, küresel teknoloji ve ihracat politikalarını etkiliyor."
+  },
+  {
+   "baslik": "ABD'de uçuşları durduran iletişim kesintisi: Trafik pazartesiye normale dönecek",
+   "ozet": "ABD Ulaştırma Bakanı Sean Duffy, cuma günü ülke genelinde uçuşların durmasına yol açan iletişim kesintisinin ardından hava trafiğinin pazartesi gününe kadar normale dönmesini beklediğini söyledi. Başkan Trump ise Kongre'den hava trafik kontrol sisteminin yenilenmesi için fonu hızla onaylamasını istedi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/abd-ulastirma-bakani-kesintinin-ardindan-hava-trafiginin-pazartesi-gunune-kadar-normale-donmesini-bekliyor/4125966"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/abd-li-bakandan-hava-trafigine-dair-aciklama-3927555"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "neden_onemli": "Binlerce uçuşu etkileyen aksaklık, altyapı yatırımı tartışmasını öne çıkardı."
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Yeni Parti'nin ilk kurultayında Parti Meclisi belirlendi",
+     "ozet": "Yeni Parti, 'Türkiye Yenileniyor' sloganıyla Ankara Spor Salonu'nda yaptığı 1. Olağan Kurultay'ın ikinci gününde Parti Meclisi ve 15 üyeli Yüksek Disiplin Kurulu üyeliklerini belirledi. BBC Türkçe, Parti Meclisi'nin 160 kişiye çıkarıldığını aktardı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/yeni-partinin-yeni-yuzleri-43379592"
+      }
+     ]
+    },
+    {
+     "baslik": "Bahçeli 'Terörsüz Türkiye' hedefini 50 maddede anlattı",
+     "ozet": "MHP Lideri Devlet Bahçeli, Terörsüz Türkiye hedefini 50 maddede anlattı ve 'Gün doğmuş şafak sökmüştür' dedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/terorsuz-turkiye-hedefinde-bahceliden-50-madde-43379551"
+      }
+     ]
+    },
+    {
+     "baslik": "Kacır: 2030'a kadar sanayide 5 milyar avroluk karbonsuzlaşma yatırımı hedefleniyor",
+     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Sanayide Karbonsuzlaşma Yatırım Platformu kapsamında 2030 yılına kadar 5 milyar avronun üzerinde yatırımı desteklemeyi hedeflediklerini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sanayide-karbonsuzlasma-yatirimini-desteklemek/4125972"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Kurum, COP31 için CNN International'a konuştu",
+     "ozet": "Antalya'daki COP31 Zirvesi'nde CNN International sunucusu Becky Anderson'ın sorularını yanıtlayan Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum hedeflerini anlattı. Hürriyet'e göre Kurum, başarı ölçütünün 'Antalya'da işler değişti' denebilmesi olduğunu belirtti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/kurum-cnn-internationala-konustu-antalya-hedefleri-43379553"
+      }
+     ]
+    },
+    {
+     "baslik": "SPK'den olağanüstü tasfiyedeki fonların payları hakkında açıklama",
+     "ozet": "Sermaye Piyasası Kurulu (SPK), olağanüstü tasfiyedeki yatırım fonlarının portföylerinde bulunan payların halka açık ortaklıklarca geri alınmasına ilişkin basındaki haberler üzerine açıklama yaptı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/spkden-olaganustu-tasfiyede-halka-acik-ortakliklarin-geri-aldigi-paylara-iliskin-aciklama/4125941"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785256/haber/spkden-ola%C4%9Fan%C3%BCst%C3%BC-tasfiye-kapsam%C4%B1ndaki-yat%C4%B1r%C4%B1m-fonlar%C4%B1n%C4%B1n-pay-sat%C4%B1%C5%9F%C4%B1na-ili%C5%9Fkin"
+      }
+     ]
+    },
+    {
+     "baslik": "İçişleri Bakanı: 487 bin kimlik ve ehliyetin süresi doluyor",
+     "ozet": "İçişleri Bakanı Mustafa Çiftçi, vatandaşları kimlik ve sürücü belgelerinin geçerlilik süresini kontrol etmeye çağırdı. Bakanın verdiği rakamlara göre yıl sonuna kadar 112 bin 791 kimlik kartı ve 374 bin 805 sürücü belgesinin süresi doluyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-487-bin-kimlik-ve-ehliyette-sure-doluyor-43379552"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni haftada yağış sürecek, hafta ortasından sonra sıcaklıklar artacak",
+     "ozet": "TRT Haber'e göre yurdun büyük bölümünde yağmur ve sağanak, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde kar yağışı etkili olacak. Sıcaklıkların hafta ortasından itibaren artması bekleniyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-hava-sicakliklar-artacak-963367.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Prag'da yüz binlerce kişi kamu yayıncılarının finansman planını protesto etti",
+     "ozet": "Çekya'nın başkenti Prag'da yüz binlerce kişi, hükümetin kamu yayıncılarının finansman sistemini değiştirme planına karşı yürüdü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+      }
+     ]
+    },
+    {
+     "baslik": "Estonya, saldırı girişiminin ardından Rusya sınır kapılarını kapatıyor",
+     "ozet": "Reuters'e göre Estonya, bir kundaklama girişiminin ardından Rusya ile sınır kapılarını kapatacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+      }
+     ]
+    },
+    {
+     "baslik": "Dört ülkeden İsrail'e Gazze'ye insani yardım çağrısı",
+     "ozet": "Avustralya, Kanada, İtalya ve Birleşik Krallık dışişleri bakanları ortak açıklamayla kış koşullarının Gazze'deki insani krizi ağırlaştırdığına dikkat çekti ve İsrail'e yardımların girişine izin vermesi çağrısı yaptı. Anadolu Ajansı'na göre ayrıca ateşkese rağmen Gazze'ye düzenlenen saldırılarda son 24 saatte 4 kişi öldü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/batili-4-ulke-israile-gazzeye-insani-yardimlarin-girisine-izin-vermesi-cagrisi-yapti/4126017"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785262/d%C3%BCnya/avustralya-kanada-i%CC%87talya-ve-birle%C5%9Fik-krall%C4%B1ktan-i%CC%87sraile-gazzeye-yard%C4%B1m-%C3%A7a%C4%9Fr%C4%B1s%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Zelenskiy: Starshield kısıtlamaları Ukrayna'nın enerji savunmasını tehdit ediyor",
+     "ozet": "Associated Press'e göre Ukrayna Devlet Başkanı Volodimir Zelenskiy, Starshield'a getirilen kısıtlamaların kış öncesinde Ukrayna'nın enerji savunmasını tehlikeye soktuğunu söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBGVVA1c2RUMjI4QVhIb2RGb193VUVXanFoaGxvUFV6MExoS1NsOUJnWDFENzhsbTk3UGs1T1lIYUs2a3phVkU2RGVlbWRvbUtPMk5ya3dsclFOdThkMWdNMFdXSFVFTlhSUUFncjlIbEFhXzZhZ3M0SkNjQk50cHh1elBVMlpWcXZDQ2pYRXB2cWNfaGdGelBsWmxRR0NkcjdSU1hQYlBkR0pCZXFF?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "İki günde yaklaşık 2.200 göçmen Kanarya Adaları'na ulaştı",
+     "ozet": "İspanya'nın verdiği bilgiye göre iki gün içinde yaklaşık 2.200 göçmen Kanarya Adaları'na ulaştı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3hsQmM3QjN3aXVLQ0UzaF9LcVJMb2xHd0JsYXY5WTNtd2tZT1VFX3pydVprLTdiaktwelM0dlkyZldVR19yT3cwMlhGbk4wemc2ajU1NzBPd01PQi1zMkZFNVRKdnpUTE13X3RtYy04ZGduR00tb1NSMHFoWWFTeDdzT1RNd2FLZWtTYmNmbThmQ0FxdGxScWRYREJQRDUxN1FGSA?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days"
+      }
+     ]
+    },
+    {
+     "baslik": "Papa Peru yağmur ormanında çevre savunucuları için adalet istedi",
+     "ozet": "Associated Press'e göre Papa, Peru'daki Amazon yağmur ormanında Amazon'u korurken öldürülen çevre savunucuları için adalet talep etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+      }
+     ]
+    },
+    {
+     "baslik": "Guadalajara Karteli'nin kurucusu Félix Gallardo 80 yaşında öldü",
+     "ozet": "BBC News'e göre 'Patronların Patronu' olarak bilinen Miguel Ángel Félix Gallardo, 1980'lerde Guadalajara Karteli'nin başındaydı ve tutuklanmasıyla örgüt dağıldı. Reuters'e göre hastanede 80 yaşında öldü.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXRlTGlzNmUtbEZnZkZNVDhBYlZmdmxOdVJqaGlSaEMzQ04wb3duRUwyY1VDUjJiamE1OFVWNHl4T1ZhYnhlTU1xRDBzWGszVzAtRmxKek42bzQwVWNfRHpadXY0RllwcGZtcWNLZ0Z6bEg2VFlTallPQjFwd191YVhoLU5YUEttRktMeWxOdkp0YVh4UjFzUHBPMmExeXU4NUZnQk5wSlVKMFVXTVg3bG5oRl9zaU5USW52NE45NVo?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Japonya ekonomisi beklenmedik biçimde küçüldü",
+     "ozet": "Reuters'e göre Japonya ekonomisi temmuz-eylül döneminde yıllıklandırılmış yüzde 0,1 daraldı; enflasyonun hane halkını sıktığı belirtildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Çin'de ekonomik aktivite ekimde beklenenden fazla yavaşladı",
+     "ozet": "Financial Times'a göre Çin'de ekim ayı verileri, bütçe harcamalarını hızlandırarak zayıf büyümeyi aşmaya çalışan politika yapıcılar için yeni bir zorluk oluşturuyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/7a6f84cf-ebea-4225-a31a-571fb877286a?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Petrol fiyatları arz fazlası beklentisiyle düştü",
+     "ozet": "Reuters'e göre petrol fiyatları, yakında arz fazlası oluşacağı beklentisiyle geriledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD ve müttefikleri yapay zekâ tedarik zincirini korumak için anlaşma imzaladı",
+     "ozet": "Financial Times'a göre ABD ve müttefikleri, yapay zekâ tedarik zincirlerini Çin'e karşı korumayı amaçlayan bir anlaşma imzaladı. Anlaşma, Trump'ın Şencen'deki APEC forumunda Şi ile görüşmesinden önce geldi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Intel hissedarları yüzde 29'luk düşüşün ardından dava açtı",
+     "ozet": "Reuters'e göre Intel, hisselerinin yüzde 29 değer kaybetmesinin ardından hissedarlar tarafından dava edildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHB2RXZCbUwzeDlxQl9pSlRsWi1UUFZ4TkNWb1JEOXlqZDJHUjFVU0pway1BWmw5dHRuclY1MGNPbERVQThaOUZQTDR3MTFqLTBJakxoYVBRNzVJZlFNOEhXakxrM0JzRllCbm8yYU9PbkJ0TEwyaWdiYU9EWng3cm11SjlhSGljbHg4WXV1NEV1bHBudWZPYmVtU0pBZw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Vulcan roketi arızalandı, 40 Amazon Leo uydusu kaybedildi",
+     "ozet": "The Verge'e göre United Launch Alliance'ın Vulcan roketi fırlatma sırasında arızalandı ve 40 Amazon Leo uydusu yörüngeye ulaşamadı. Şirketin 20 yıllık tarihindeki ilk tam görev başarısızlığı olduğu bildirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+      },
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "Apple, yapay zekânın sağlık amaçlı kullanımını inceleyen çalışma başlattı",
+     "ozet": "TechCrunch'a göre Apple, insanların yapay zekâ sağlık araçlarını nasıl kullandığını araştıran yeni bir çalışma için uygulama yayımladı. Uygulama gündelik tıbbi soruları yanıtlıyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      },
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD Kongresi yapay zekâ çipi ihracat kurallarını sıkılaştırmak istiyor",
+     "ozet": "The Verge'e göre Nvidia'daki casusluk skandalının ardından Kongre'de yapay zekâ çiplerinin ihracatını daha da kısıtlama girişimi var. Megaspeed ise Nvidia çiplerinin Çin'e aktarıldığı iddiaları üzerine iç soruşturma başlattı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      },
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/megaspeed-nvidia-ciplerinin-cine-aktarildigi-iddialari-uzerine-ic-sorusturma-baslatti/4125931"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785255/d%C3%BCnya/megaspeed-nvidia-%C3%A7iplerinin-%C3%A7ine-aktar%C4%B1ld%C4%B1%C4%9F%C4%B1-iddialar%C4%B1-%C3%BCzerine-i%C3%A7-soru%C5%9Fturma"
+      }
+     ]
+    },
+    {
+     "baslik": "Danimarka'da bulunan iskelet, tarımın gelişini gören bir adama ait",
+     "ozet": "New Scientist'e göre yaklaşık 6.000 yıl önce yaşamış 'Rødhals Adamı'nın beslenmesine dair ipuçları, onun insanlık tarihinin en köklü değişimlerinden birine tanık olduğunu gösteriyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "New Scientist",
+       "link": "https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "'Sünger' kanser testi daha fazla hazımsızlık hastasına sunulabilir",
+     "ozet": "BBC Health'e göre ipli sünger testi, kamerayla yapılan endoskopinin aksine hastane yerine aile hekimi muayenehanelerinde yapılabiliyor ve ciddi hazımsızlık yaşayan daha fazla kişiye önerilebilir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "FDA, Summit Therapeutics'in akciğer kanseri ilacı ivonescimab'ı reddetti",
+     "ozet": "STAT News'e göre ABD Gıda ve İlaç Dairesi (FDA), Summit Therapeutics ile Çinli Akeso'nun geliştirdiği akciğer kanseri tedavisi ivonescimab'ı onaylamadı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Africa CDC: Ebola salgını altı ayda kontrol altına alınamadı",
+     "ozet": "Reuters'e göre Afrika Hastalık Kontrol Merkezi (Africa CDC), ilan edilmesinden altı ay sonra Ebola salgınının hâlâ kontrol dışı olduğunu söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "A Milli Takım Fransa'ya 2-1 yenildi, Uluslar Ligi grubunu sonuncu bitirdi",
+     "ozet": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki son maçında deplasmanda Fransa'ya 2-1 yenildi ve grubu son sırada tamamladı. Hürriyet'e göre A Ligi'nde kalma ihtimali sürüyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785267/haber/milli-futbol-tak%C4%B1m%C4%B1-fransaya-2-1-ma%C4%9Flup-oldu"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/fransa-turkiye-mac-sonucu-iste-fransa-turkiye-maci-ozeti-ve-golleri-uefa-uluslar-ligi-a-milli-takim-3927446"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/a-milli-takim-fransa-dan-maglup-dondu-ay-yildizlilar-uluslar-ligi-nde-6-da-sifir-cekti-p381623"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-a-liginde-nasil-kalir-tek-bir-ihtimal-var-43379584"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiltere, İspanya'nın 43 maçlık yenilmezlik serisine son verdi",
+     "ozet": "İngiltere deplasmanda İspanya'yı 3-2 yenerek rakibinin 43 maçlık yenilmezlik serisini bitirdi. Reuters'e göre İtalya Uluslar Ligi'ne veda etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-6-haftasi-8-macla-basladi/4126067"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/turkiye-uefa-uluslar-a-ligini-puansiz-tamamladi-963366.html"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3ZhSGtta2ltYVFfbXVVSC00alNLM3hwX0JOR09kbkZiQW5mQy10clVEX2lXYUhacnUtTjRPbUtYbC1SZTM4bThUNkp3WVg5RXl2VURGYlREMm5BNU14NjNic2RrNEg3bldja1liYmx5SXI0dnBsaHRidldoYmczQ3hjWnptRzFKMmlpd2w5S2RuSGJfeUZxUDlPdmZxMjJNQVc3TE1iS3hJblFCN2ZqRmJxdzFfYzBK?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Andreeva WTA Finalleri'ni kazandı",
+     "ozet": "BBC Sport'a göre Fransa Açık şampiyonu Mirra Andreeva, Elina Svitolina'yı yenerek WTA Finalleri'nde şampiyon oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGpZUTNSUW5rSjR0OExrWVZqM0NHZVBsTGJHUEwwSDZ1Q3lQN24yakx1WV9IS19GLXNuak5aTWRhOTl0UFphZF9aVW52VFAwSmU3T0RGanBERDJ1YThsbjl4VFEyQi1TbS1wMlBEMnFTZ3hfYWF5eDJ0dGViWTE3N0JZaFM2NEFEQ191dGxxd09pU1VSWndFWUVJcnRGdi0z?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "14. Boğaziçi Film Festivali'nde ödüller sahiplerini buldu",
+     "ozet": "Boğaziçi Kültür Sanat Vakfı'nın düzenlediği 14. Boğaziçi Film Festivali'nde ödüller sahiplerini buldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinde-oduller-sahiplerini-buldu/4126053"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/kultur-sanat/trabzon-altin-taka-film-festivali-nde-56-film-yarisacak-3927518"
+      }
+     ]
+    },
+    {
+     "baslik": "'Dans Gaza' belgeseli Montreal'de en iyi belgesel seçildi",
+     "ozet": "Hélène Lam Trong'un yönettiği 72 dakikalık 'Dans Gaza', Montreal'deki Cinemania festivalinde en iyi belgesel ödülünü kazandı. Euronews Türkçe'ye göre film, savaşın ilk aylarını AFP muhabirleri üzerinden izliyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/15/dans-gaza-belgeseli-montrealdeki-cinemaniada-en-iyi-belgesel-secildi"
+      }
+     ]
+    },
+    {
+     "baslik": "Georgia O'Keeffe tablosu New York'ta bir daire dolabında bulundu, açık artırmaya çıkıyor",
+     "ozet": "Associated Press'e göre bir Georgia O'Keeffe tablosu New York'taki bir dairenin dolabında gömülü bulundu ve açık artırmaya çıkarılacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHVDTnhaXzRWQWc0VEM3bjlKellVSzJzRl84TDdETS1RbVJwMW1sNlZqNnE5Z3NKREllVTY0ZUdLQTNuLWl0QUVNVGllNXJCeGFIaUxINHg0M1VuQlBuMWtVc0ltVkJnMWtQdV9QZFhEMld5TjBSdHJlSERJd0gzVVlFZm5VM1AtU3dLcU8wTVg5WTc0RWVmRGVuLWt0UjBlVDRoN21ybGNuU2FTZHc?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43018975",
+   "baslik_en": "Cefazolin vs Cloxacillin for Methicillin-Susceptible S aureus Bacteremia: A Meta-Analysis of 2 Randomized Clinical Trials",
+   "baslik_tr": "Metisiline duyarlı S. aureus kan dolaşımı enfeksiyonunda sefazolin ile kloksasilin: 2 randomize klinik çalışmanın meta-analizi",
+   "ozet_en": "This Bayesian meta-analysis pooled two randomized clinical trials comparing cloxacillin with cefazolin for bloodstream infection caused by methicillin-susceptible Staphylococcus aureus. It synthesizes mortality and safety outcomes of the two antibiotics. The available abstract does not give the numerical results.",
+   "ozet_tr": "Bu Bayesçi meta-analiz, metisiline duyarlı Staphylococcus aureus kaynaklı kan dolaşımı enfeksiyonunda kloksasilin ile sefazolini karşılaştıran iki randomize klinik çalışmayı birleştiriyor. İki antibiyotiğin ölüm ve güvenlik sonuçlarını bir araya getiriyor. Mevcut özette sayısal sonuçlar yer almıyor.",
+   "neden_onemli": "Yaygın ve ciddi bir bakteriyel enfeksiyonda hangi antibiyotiğin tercih edileceğine dair kanıtı güçlendiriyor.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Lee TC",
+    "Tong SYC",
+    "Davis JS",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018975/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43836"
+  },
+  {
+   "pmid": "43024632",
+   "baslik_en": "Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial",
+   "baslik_tr": "Mali'deki LAKANA azitromisin çalışmasında antimikrobiyal direncin analizi: Küme randomize klinik çalışmanın alt çalışması",
+   "ozet_en": "In this sub-study of a placebo-controlled cluster-randomized trial in Mali, infants aged 1-11 months received placebo, twice-yearly or quarterly azithromycin for two years, and over 5,000 nasopharyngeal and 5,000 rectal swabs were analyzed. Twice-yearly azithromycin did not increase macrolide resistance in treated children or untreated contacts and met the predefined noninferiority margin. A modest dose-dependent increase with quarterly dosing could not be excluded, and the study may have been too small to detect a small rise in S. pneumoniae resistance.",
+   "ozet_tr": "Mali'de plasebo kontrollü bir küme randomize çalışmanın bu alt çalışmasında 1-11 aylık bebekler iki yıl boyunca plasebo, yılda iki kez veya üç ayda bir azitromisin aldı; 5.000'den fazla burun-geniz ve 5.000'den fazla rektal sürüntü incelendi. Yılda iki kez azitromisin, tedavi edilen çocuklarda veya tedavi edilmeyen temaslılarda makrolid direncini artırmadı ve önceden belirlenen eşdeğerlik sınırını karşıladı. Üç ayda bir uygulamada ılımlı, doza bağlı bir artış dışlanamadı ve çalışma S. pneumoniae direncindeki küçük bir artışı saptamak için yeterince büyük olmayabilir.",
+   "neden_onemli": "Toplu antibiyotik uygulamalarının direnç riskini değerlendirmek halk sağlığı kararları için önemli.",
+   "dergi": "PLoS medicine",
+   "yazarlar": [
+    "Juma J",
+    "Luoma J",
+    "Traore A",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024632/",
+   "doi": "https://doi.org/10.1371/journal.pmed.1005296"
+  },
+  {
+   "pmid": "43019393",
+   "baslik_en": "Hantavirus pulmonary syndrome outbreak linked to cruise ship travel in April-May 2026",
+   "baslik_tr": "Nisan-Mayıs 2026'da yolcu gemisi seyahatiyle bağlantılı hantavirüs akciğer sendromu salgını",
+   "ozet_en": "In April 2026, an Andes virus outbreak of hantavirus pulmonary syndrome occurred on a cruise ship with 13 identified cases. Genome sequences from 10 cases, together with symptom onsets and contact patterns, point to a tightly linked cluster consistent with one or very few spillover events before boarding, followed by person-to-person spread on board. The authors say this does not suggest an unusual new viral strain.",
+   "ozet_tr": "Nisan 2026'da bir yolcu gemisinde Andes virüsünün neden olduğu hantavirüs akciğer sendromu salgını yaşandı ve 13 vaka saptandı. 10 vakadan alınan genom dizileri, belirti başlangıçları ve temas örüntüleri, gemiye binmeden önce bir veya çok az sayıda hayvandan insana geçiş ve ardından gemide kişiden kişiye bulaşla uyumlu sıkı bağlantılı bir küme olduğunu gösteriyor. Yazarlar bunun alışılmadık yeni bir virüs türüne işaret etmediğini belirtiyor.",
+   "neden_onemli": "Seyahatle yayılan nadir bir virüs salgınının nasıl izlendiğini gösteriyor.",
+   "dergi": "Science (New York, N.Y.)",
+   "yazarlar": [
+    "Oude Munnink BB",
+    "Cordey S",
+    "Diagne MM",
+    "et al."
+   ],
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019393/",
+   "doi": "https://doi.org/10.1126/science.aej1376"
+  }
+ ]
+}
