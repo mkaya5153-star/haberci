@@ -1,0 +1,656 @@
+{
+ "tarih": "2026-11-16",
+ "donem": "aksam",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "Balıkesir'de şoförü kalp krizi geçiren yolcu minibüsü denize düştü",
+   "ozet": "Balıkesir'in Ayvalık ilçesinde denize düşen yolcu minibüsünün kalp krizi geçiren şoförü hayatını kaybetti, araçtaki 11 yolcu kurtarıldı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/balikesirde-soforu-kalp-krizi-geciren-yolcu-minibusu-denize-dustu/4126629"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/sofor-kalp-krizi-gecirdi-minibus-denize-uctu-can-pazarinin-yasandigi-anlar-kamerada-43380114"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-kalp-krizi-gecirdi-kullandigi-yolcu-dolu-minibus-denize-dustu-3927695"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/yasam/balikesirde-feci-olay-yolcu-minibusu-denize-uctu-7702797"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Fransız aktör Gerard Depardieu cinsel saldırı itirazını geri çekerek mağdurlardan özür diledi",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDFWVEVFRVlsR013V215amZvMFoyYUMyVjVPSG9ySkxLeW53UTZ4d0poRkFfMVZQOHZId0xGelphTmxYSVJPTzNDOVZGTE1ZZHRIS0kydTlnSWtBYTRsU2IwS21XWVdIaWM1eW8tQl80VmgxbUlVb1paZ3JYNTdhcXlieERvX2ZXSERreUF1eVlDSEVid3BpMDZyNDJRZWFOYlBOd2FuMjMycEt6UUZIbUxpVDNHRF9rLXc?oc=5"
+    },
+    {
+     "ad": "Euronews",
+     "link": "https://www.euronews.com/2026/11/16/french-actor-gerard-depardieu-drops-appeal-for-sexual-assault-conviction"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/france/article/2026/11/16/french-actor-gerard-depardieu-drops-appeal-for-sexual-assault-conviction_6782042_7.html"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Ukrayna Rusya ile Kırım'ı birbirine bağlayan köprüyü vurdu, Kremlin hasarın 'küçük' olduğunu söyledi",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEtSYVEzeHNfTmkxeDJMbTVXRWxob25fM2dMU2RBRFBYOGxSV2Y2TGMyUldFeVdlMWFMc21sV2gyTWdFOFZnelItcklxdDdPaU5QQ0hJZV9OZE5PaS1rek5ZN3pXdEpURWJSdjlkRWhOSlRsUS1sZXpPN3JBUjgyaWlTNDhIa0tUQU5LQl8wT0J3X3o3d2lIZWpEVUY4NU5WNk9Vd1ZLSWc3M1BJOUxhdA?oc=5"
+    },
+    {
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+    },
+    {
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/international/article/2026/11/16/ukraine-hits-key-crimea-bridge-in-1-300-drone-barrage_6782010_4.html"
+    },
+    {
+     "ad": "Politico Europe",
+     "link": "https://www.politico.eu/article/russia-claims-ukraine-attacked-crimean-bridge-moscow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Beş AB ülkesi Ruanda sınırdışı merkezi planını açıklayacak",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVpJQWlwdjFDa3FpbGZ3aDVFdE5fREVGZTBnNGY4Rm9jeDJXWng3SU5uOGZOSG1FT3JDZG1jd3VUVVYwNFBtcTZTXzR4Z01OTVJrYVRPTndoRGc4Yk9uVXFickRTYzIxMXc4VWxvcXMzNDVOLU9JcGVFeE1jcEVjNkhFb3VmaVV2YkExbEJ1VTc0aGtfZC1xMThkOUw2WnM?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Yeni Parti yönetimi belli oldu, PM'de kimler var?",
+   "ozet": "Özgür Özel'in yeniden genel başkan seçildiği kurultayda Yeni Parti yönetimini de seçti. 160 kişilik Parti Meclisi'nde kimler yer aldı?",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/yeni-parti-yönetimi-belli-oldu-pm-de-kimler-var/a-79954360?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/16/yeni-parti-kurultayinda-yonetim-belirlendi-160-kisilik-parti-meclisinde-kimler-var"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785285/haber/yeni%CC%87-parti-fon-krizi-ile-ilgili-ilk-dosyay%C4%B1-a%C3%A7%C4%B1klad%C4%B1-listede-kimler-yer-al%C4%B1yor"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Meteoroloji tarih verdi: Kuvvetli sağanak ve fırtına geri geliyor! Günlerce sürecek | İstanbul ve Ankara dahil birçok ilde alarm",
+     "ozet": "Meteoroloji ve AKOM’dan gelen peş peşe uyarıların ardından Türkiye genelinde sağanak alarmı verildi. Salı gününden itibaren etkisini artırarak hafta sonuna kadar sürecek yağışlar Marmara, Ege,…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSHdmUk9LUWR2QWRpdnp2b0FJbUEzbXFPRGVpOWlwX3JISnZOQ0tPbFlSWUpjZS1hb0hPemNvc0U2bmZaRndtbHJvSFpXajNUYThfZFphX0FGRDNCbXZsbjRheGNmZVJHdDg0S1BpbUFUOFk0QTl3OG5pN05NUmZCWjg0OWNHSWRTSEFj?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Gençlik Buluşması | Cumhurbaşkanı Erdoğan’dan önemli açıklamalar",
+     "ozet": "AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'na katılan Cumhurbaşkanı Recep Tayyip Erdoğan önemli açıklamalarda bulunuyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/genclik-bulusmasi-cumhurbaskani-erdogandan-onemli-aciklamalar-43379708"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3927664"
+      }
+     ]
+    },
+    {
+     "baslik": "566 kilo uyuşturucu ele geçirildi",
+     "ozet": "İçişleri Bakanlığı yaptığı duyuruda, Şanlıurfa ve Hakkari'de jandarma ekiplerince düzenlenen operasyonlarda, 566 kilogram uyuşturucu madde ele geçirildiğini açıkladı",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-sanliurfa-ve-hakkaride-566-kilo-uyusturucu-madde-ele-gecirildi-3927714"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-uyusturucu-operasyonu-kilolarca-pregabalin-ve-hap-ele-gecirildi-2556602"
+      }
+     ]
+    },
+    {
+     "baslik": "Galatasaray-Samsunspor maçı Başakşehir'e alındı!",
+     "ozet": "Trendyol Süper Lig'in 12. haftasında Galatasaray ile Samsunspor kozlarını paylaşacak. RAMS Park Stadyumu'nda oynanması beklenen müsabaka, zeminin elverişsiz olması nedeniyle Başakşehir Fatih Terim…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-samsunspor-maci-rams-park-in-bozuk-zemini-yuzunden-basaksehir-de-oynanacak-3927709"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0RmR2x3WmtRbUJRWVgyZ3JFdXFnQzN4MV9hLXhsWFVudkNiSXhBM3hhWmo5OWt5Y1BaaWdnZjdBbEJYWG9Fb3VDaUVDaE5OUEVMcnlyYXIzN0o2dHhQU1luNzFpRHVjRDMtc25ETXVrOXVSbEJrcDBOODYxRlRRUzVXSDFRTFpUcFhHZTI5RVlsRlF6R1dfUXc4emZHYjZyZjBDaC05S1ZSUVBvZ1NtN05ZdlU0ZDdyRW02QkZTaVFobmhjX2J1MlhEcTR4aWpSOV9rVlJPVFZJZw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "F.Bahçe Medicana'da kadro dışı kararı!",
+     "ozet": "Fenerbahçe Medicana Erkek Voleybol Takımı, Yiğit Gülmezoğlu'nun kadro dışı bırakıldığını açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/fenerbahce-medicana-da-yigit-gulmezoglu-kadro-disi-birakildi-3927700"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-medicana-da-yigit-gulmezoglu-kadro-disi-birakildi-2556600"
+      }
+     ]
+    },
+    {
+     "baslik": "Ömer Sarıgül adliyede",
+     "ozet": "Sarıgül soruşturması kapsamında tutuklu bulunan Ömer Sarıgül, ek ifade vermek üzere İstanbul Adalet Sarayı’na getirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/son-dakika-omer-sarigul-ek-ifade-vermek-icin-adliyede-3927692"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/tutuklu-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-p381880"
+      }
+     ]
+    },
+    {
+     "baslik": "Galatasaray-Samsunspor maçının stadı değişti",
+     "ozet": "Galatasaray, Samsunspor maçının Başakşehir Fatih Terim Stadyumu'nda oynanacağını açıkladı. Devamı için tıklayınız",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/spor/futbol/2026/11/16/galatasaray-samsunspor-macinin-stadi-degisti"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/spor/sari-kirmizili-ekip-duyurdu-galatasaray-samsunspor-macinin-stadyumu-degisti-2556611"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "Çekler, hükümetin kamu medyasının finansmanını elden geçirme planını reddetmek için çok sayıda toplandı",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+      }
+     ]
+    },
+    {
+     "baslik": "Carney, Trump'ın ticaret görüşmeleri başarısız olursa Kanada'nın Çinli otomobil üreticilerine yönelebileceğini söyledi",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
+      }
+     ]
+    },
+    {
+     "baslik": "Brooklyn'deki binanın çökmesinden bu yana kayıp olan kedi Isaac, genç sahibine kavuştu",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjI1ZmhJQVcyOGtfNHFaWDBBTVJkWGF4NFZxaGprVmNieXFfOEFQSXV1RVZQRzF3c0xabzhsVTlEQ2dGU3k4blUxeW5jY0RVbU1RSDNWU3BSc1ViaFBoa3B4ajBkVnB4aXVqVGMyTjM5TmNoX29fMjg0Y3ZiNnlqWmdERS13aGZ6a3NDR0hDdGw4VFhXeW1pY2FvNXJpYkNFN3I3N2ZpdXI0QQ?oc=5"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Rapor, ABD üniversitelerinde okumak için yurtdışından daha az öğrencinin seyahat ettiğini gösteriyor",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXJEYVVTZEhLOWtoWDhvYTkxZVBoLTVWSTl5R0M2OGF4eHdMSE5pckE4T1ZIVFJwcndwR25icEJySmhzdFpfUU9BUmJ5MXh4YVprYS1CSVBJS3poaHhuTGUtdE1ISFhWMTRfUE9PU3RBTzI0Q2w0QzdrTHVrMmMwV3lFbzlrN0gtNFVEN2RMb1ROUV9pcVNQNk9IQkVYVFU5VmNvWElrdjJ1ODN1a2wzVTVRVQ?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/16/fewer-students-are-traveling-from-abroad-to-study-at-us-universities-new-report-shows"
+      }
+     ]
+    },
+    {
+     "baslik": "İngiliz kadınlara geçmişteki kürtaj mahkumiyetleri için otomatik olarak af verilecek",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzZURkdrYjc4WWoxV2U3a1NjTGMxc3BtZ3hkZkVuTUp4c3p4VWZYWFNHM2d1R25vemNuY1dHUjkzNG13RngwRkxqVkhPMlZtS2xKVmFQRUJuVlc3RnE5VXVsQ2VheEZ0N1pyTXNLSkI0WDlCVVVJeUJLbEZCcEp5NVlpUmRZaDVzU0VfM0Z5T0hlTUlZY0xsTjZDOUVXN1hhaVpOd3lkOVdMeFU?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/16/british-women-to-receive-automatic-pardons-for-previous-abortion-convictions"
+      }
+     ]
+    },
+    {
+     "baslik": "Frankofoni zirvesi, Demokratik Kongo-Ruanda anlaşmazlığının ortasında yeni lider seçimini erteledi",
+     "ozet": "Organizasyon Internationale de la Francophonie (OIF), Pazartesi günü Kamboçya'nın başkenti Phnom Penh'deki görüşmeler sırasında yeni genel sekreterini seçmeye hazırlanıyordu. Ancak delegeler erteleme kararı aldı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/africa/20261116-francophonie-summit-postpones-new-leader-vote-amid-dr-congo-rwanda-dispute"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/16/dr-congo-rwanda-row-derails-francophone-summit-vote_6782050_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "AB, UniCredit'in Alman Commerzbank'ı devralmasını onayladı",
+     "ozet": "AB, Avrupa bankacılık sektörünü güçlendirmeyi amaçlayan sınır ötesi bir anlaşma olan UniCredit'in Almanya'daki Commerzbank'ı devralmasını onayladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/16/eu-clears-unicredit-takeover-of-germanys-commerzbank"
+      },
+      {
+       "ad": "Politico Europe",
+       "link": "https://www.politico.eu/article/eu-clears-unicredit-takeover-of-commerzbank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Türk Telekom'un dijital altyapısını üstlendiği COP31'de eş zamanlı bağlı cihaz rekoru kırıldı",
+     "ozet": "Türk Telekom'un \"Küresel Dijital Dönüşüm ve Teknoloji Destekçisi\" olarak yer aldığı COP31'de, Mavi Bölge'de eş zamanlı bağlı cihaz sayısı 27 bin 794'e ulaşarak, COP organizasyonları tarihindeki en…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-dijital-altyapisini-ustlendigi-cop31de-es-zamanli-bagli-cihaz-rekoru-kirildi/4126498"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/cop31-de-es-zamanli-bagli-cihaz-rekoru-kirildi-3794749"
+      }
+     ]
+    },
+    {
+     "baslik": "Yapı Kredi'den 2030'a kadar 1,5 trilyon liralık sürdürülebilir finansman sağlama hedefi",
+     "ozet": "Yapı Kredi, 2030'a kadar toplam 1,5 trilyon lira tutarında sürdürülebilir finansman sağlamayı hedeflediğini duyurdu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/yapi-krediden-2030a-kadar-1-5-trilyon-liralik-surdurulebilir-finansman-saglama-hedefi/4126194"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/yapi-kredi-den-1-5-trilyon-tl-lik-surdurulebilir-finansman-hedefi-3794737"
+      }
+     ]
+    },
+    {
+     "baslik": "Trafiğe ekimde 130 bin 697 taşıtın kaydı yapıldı",
+     "ozet": "Trafiğe ekimde 130 bin 697 taşıtın kaydı yapılırken 5 bin 975'inin kaydı silindi, böylece trafikteki toplam araç sayısı 124 bin 722 arttı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/trafige-ekimde-130-bin-697-tasitin-kaydi-yapildi/4126209"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/trafige-kaydi-yapilan-tasit-sayisi-yillik-yuzde-26-8-azaldi-3794725"
+      }
+     ]
+    },
+    {
+     "baslik": "Ücretli çalışan sayısı eylülde yıllık yüzde 1,7 arttı",
+     "ozet": "Sanayi, inşaat ve ticaret-hizmet sektörleri toplamında ücretli çalışan sayısı, eylülde geçen yılın aynı ayına göre yüzde 1,7 artarak 16 milyon 448 bin 397 oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ucretli-calisan-sayisi-eylulde-yillik-yuzde-1-7-artti/4126162"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ucretli-calisan-sayisi-insaat-ve-hizmetlerin-katkisiyla-yuzde-1-7-artti-3794722"
+      }
+     ]
+    },
+    {
+     "baslik": "Rekabet Kurulu'ndan Siemens'e soruşturma",
+     "ozet": "Rekabet Kurulu, Siemens Aktiengesellschaft, Siemens Beteiligungen Europa GmbH ve Siemens Industry Software Yazılım Hizmetleri AŞ'den oluşan ekonomik bütünlük, Siemens'in distribütörü Boğaziçi Yazılım…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/rekabet-kurulu-ndan-siemens-e-sorusturma-3794754"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/gundem/rekabet-kurulundan-siemens-ve-8-sirkete-sorusturma-haberi-847800"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Amazon'un Zoox robotaksileri artık Uber'de mevcut",
+     "ozet": "Uber, Waymo'dan ayrılıyor olabilir ama aynı zamanda yeni bir robotaksi BFF kazanıyor: Amazon. Bugünden itibaren Las Vegas'taki Uber yolcuları, Amazon'un sahibi olduğu Zoox'un özel olarak tasarlanmış, çift yönlü…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakan Kacır: 2030 Sanayi ve Teknoloji Stratejisi yeşil dönüşümü ulusal öncelikler arasına yerleştirdi",
+     "ozet": "Sanayi ve Teknoloji Bakanı Kacır, Türkiye'nin 2030 Sanayi ve Teknoloji Stratejisi'nin yeşil dönüşümü ulusal öncelikler arasına yerleştirdiğini belirtti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-2030-sanayi-ve-teknoloji-stratejisi-yesil-donusumu-ulusal-oncelikler-arasina-yerlestirdi/4126564"
+      }
+     ]
+    },
+    {
+     "baslik": "İTÜ'de kurulan laboratuvarda robotların hareketlerine karar vermesine yönelik çalışmalar yapılıyor",
+     "ozet": "Yükseköğretim Kurulu (YÖK), İstanbul Teknik Üniversitesinde (İTÜ) robotların çevrelerini algılayabilmesi, değişen koşullara uyum sağlayabilmesi ve kendi hareketlerine karar verebilmesi için…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/itude-kurulan-laboratuvarda-robotlarin-hareketlerine-karar-vermesine-yonelik-calismalar-yapiliyor/4126494"
+      }
+     ]
+    },
+    {
+     "baslik": "Antalya Yapay Zeka Taahhüdü'ne 80 destek beyanı, 271 somut taahhüt",
+     "ozet": "Sanayi ve Teknoloji Bakanı Kacır, yapay zekanın çevresel etkilerini azaltmayı ve iklim mücadelesinde kullanımını yaygınlaştırmayı hedefleyen Antalya Yapay Zeka Taahhüdü'ne 80 destek beyanı…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/antalya-yapay-zeka-taahhudune-80-destek-beyani-271-somut-taahhut/4126180"
+      }
+     ]
+    },
+    {
+     "baslik": "ASELSAN ile ROKETSAN 1,3 milyar avroluk sözleşme imzaladı",
+     "ozet": "ASELSAN ile ROKETSAN arasında füze veri bağı ve arayıcı başlık sistemlerinin tedariki kapsamında toplam tutarı 1,3 milyar avro olan sözleşme imzalandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-ile-roketsan-1-3-milyar-avroluk-sozlesme-imzaladi/4126329"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "Kürtaj suçundan dolayı kadınların sabıka kayıtları silindi",
+     "ozet": "Yasadışı kürtaj yapmaktan tutuklanan veya hüküm giyen kadınların sabıka kayıtları, İngiltere ve Galler'de yeni otomatik aflar yürürlüğe girdiğinde silinecek.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Hazımsızlık sorunu olan daha fazla kişiye kanser 'sünger' testleri sunulabilir",
+     "ozet": "Küçük bir kamera kullanan endoskopi kontrollerinin aksine, \"ip üzerindeki sünger\" testleri hastaneler yerine pratisyen hekim ameliyatlarında yapılabilir.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Öğretmenime genç bakıcının ne olduğunu açıklamam gerekiyordu; daha fazla desteğe ihtiyacımız var",
+     "ozet": "Neraya, kendisi gibi genç bakıcıların \"kendi çocukluğumuza\" sahip olma şansını istediklerini söylüyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cqgm0myvjv12o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Gençlik ve Spor Bakanı Bak: Spor yapan bir gençlik istiyoruz",
+     "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, \"Amacımız gençlerimizin sporla bir arada olması. Sporun iyileştirici ve birleştirici gücüyle beraber sporun tabana yayılmasını arzu ediyoruz. Spor yapan bir…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-bak-spor-yapan-bir-genclik-istiyoruz/4126535"
+      }
+     ]
+    },
+    {
+     "baslik": "Milli bocceciler Mine Türker ile Burak Altay, dünya 3'üncüsü oldu",
+     "ozet": "Dünya Erkekler ve Karma Volo Şampiyonası'na katılan milli bocceciler Mine Türker ile Burak Altay, karışık röle kategorisinde bronz madalya kazandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/milli-bocceciler-mine-turker-ile-burak-altay-dunya-3uncusu-oldu/4126509"
+      }
+     ]
+    },
+    {
+     "baslik": "Basketbol Avrupa Ligi'nde \"çift maç haftası\" heyecanı",
+     "ozet": "Basketbol Avrupa Ligi'nde (EuroLeague) bu sezon 4. kez çift maç haftası heyecanı yaşanacak.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Spor",
+       "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-cift-mac-haftasi-heyecani/4126395"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Bakan Ersoy: Sanat üniversitelerimiz kültürel hafızamıza sahip çıkıyor",
+     "ozet": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türk Dünyası Sanat Üniversiteleri Birliğinin, ortak medeniyetin çağdaş dünyadaki kültürel ve sanatsal temsil gücünü artıracak önemli bir fırsat olduğunu…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/bakan-ersoy-sanat-universitelerimiz-kulturel-hafizamiza-sahip-cikiyor/4126599"
+      }
+     ]
+    },
+    {
+     "baslik": "Türk tiyatro sahnesinde iz bırakan usta oyuncu: Yıldız Kenter",
+     "ozet": "Yaşamını tiyatroya adayan, sahnedeki güçlü yorumunun yanı sıra oyuncu yetiştirme, yönetmenlik ve tiyatro kuruculuğuyla da Türk sanat hayatında iz bırakan Yıldız Kenter'in vefatının ardından 7 yıl…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/turk-tiyatro-sahnesinde-iz-birakan-usta-oyuncu-yildiz-kenter/4126424"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43024238",
+   "baslik_en": "Clinician Training, Text Messages, and Human Papillomavirus Vaccination Among Children Aged 10 to 12 Years: A Randomized Clinical Trial.",
+   "baslik_tr": "10 ila 12 Yaş Arası Çocuklarda Klinisyen Eğitimi, Kısa Mesajlar ve İnsan Papilloma Virüsü Aşılaması: Rastgele Bir Klinik Araştırma.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Staras SAS",
+    "Bylund CL",
+    "Gurka MJ",
+    "et al."
+   ],
+   "tur": "Randomized Controlled Trial",
+   "ozet_en": "IMPORTANCE: Human papillomavirus (HPV) vaccination rates among adolescents remain below recommendations. OBJECTIVE: To evaluate the effectiveness of clinician communication training and parent-targeted text messages at increasing HPV vaccination among children aged 11 to 12 years. DESIGN, SETTING, AND PARTICIPANTS: This doubly randomized, 2-level nested clinical trial was conducted from February 2022 to September 2024 among clinicians at 30 pediatric primary care clinics in Florida, children aged 10 to 12 years who had not received any of the 3 adolescent HPV vaccines, and their parents. Interventions occurred for 1 year, and vaccine records were collected for 2 years.",
+   "ozet_tr": "ÖNEMİ: Ergenler arasında insan papilloma virüsü (HPV) aşılama oranları tavsiyelerin altındadır. AMAÇ: Klinisyen iletişim eğitiminin ve ebeveyn hedefli kısa mesajların 11-12 yaş arası çocuklarda HPV aşısının arttırılmasındaki etkinliğini değerlendirmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu iki kat randomize, 2 seviyeli iç içe geçmiş klinik çalışma, Şubat 2022'den Eylül 2024'e kadar Florida'daki 30 pediatrik birinci basamak kliniğindeki klinisyenler, 3 ergen HPV aşısından herhangi birini almamış 10 ila 12 yaş arası çocuklar ve ebeveynleri arasında gerçekleştirildi. 1 yıl boyunca müdahaleler yapıldı ve 2 yıl boyunca aşı kayıtları toplandı.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024238/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.42247"
+  },
+  {
+   "pmid": "43025876",
+   "baslik_en": "Effects of plastic exposure on human health.",
+   "baslik_tr": "Plastik maruziyetinin insan sağlığına etkileri.",
+   "dergi": "BMJ (Clinical research ed.)",
+   "yazarlar": [
+    "Albergamo V",
+    "Stapleton P",
+    "Yan B",
+    "et al."
+   ],
+   "tur": "Review",
+   "ozet_en": "Plastic pollution is a critical environmental and public health challenge, with growing evidence linking human exposure to microplastics, nanoplastics, and associated chemicals to adverse health outcomes. This review summarises current knowledge on the health effects of plastic exposure, addressing both established findings and critical knowledge gaps. We examine human exposure to plastics and associated health risks based on available clinical and epidemiological evidence. Additionally, we explore chemicals associated with plastic, including their potential as carcinogens and disruptors of endocrine and immune function.",
+   "ozet_tr": "Plastik kirliliği, insanların mikroplastiklere, nanoplastiklere ve ilgili kimyasallara maruz kalmasını olumsuz sağlık sonuçlarına bağlayan giderek artan kanıtlarla birlikte kritik bir çevre ve halk sağlığı sorunudur. Bu inceleme, hem belirlenmiş bulguları hem de kritik bilgi boşluklarını ele alarak, plastiğe maruz kalmanın sağlık üzerindeki etkilerine ilişkin mevcut bilgileri özetlemektedir. İnsanların plastiklere maruziyetini ve buna bağlı sağlık risklerini mevcut klinik ve epidemiyolojik kanıtlara dayanarak inceliyoruz. Ek olarak, kanserojen ve endokrin ve bağışıklık fonksiyonunu bozan potansiyeller de dahil olmak üzere plastikle ilişkili kimyasalları araştırıyoruz.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43025876/",
+   "doi": "https://doi.org/10.1136/bmj-2026-100388"
+  },
+  {
+   "pmid": "43024235",
+   "baslik_en": "Work Hours, Emergency Department Context, and Workplace Violence Among Nurses.",
+   "baslik_tr": "Hemşirelerde Çalışma Saatleri, Acil Servis Ortamı ve İşyerinde Şiddet.",
+   "dergi": "JAMA network open",
+   "yazarlar": [
+    "Munn LT",
+    "O'Connell NS",
+    "Huffman CS",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "IMPORTANCE: Workplace violence is common in high-risk health care settings, with consequences for clinician well-being and care delivery. Less is known about multilevel work-system factors associated with workplace violence in emergency department (ED) nurses. OBJECTIVE: To characterize workplace violence among ED nurses and identify multilevel work-system factors associated with workplace violence. DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used nurse survey data combined with administrative and electronic medical record data collected in 2023 from nurses working in 11 EDs in a multisite health system in the southeastern US.",
+   "ozet_tr": "ÖNEMİ: İşyerinde şiddet, yüksek riskli sağlık bakımı ortamlarında yaygındır ve klinisyenin refahı ve bakım sunumu açısından sonuçları vardır. Acil servis (AS) hemşirelerinde işyerinde şiddet ile ilişkili çok düzeyli çalışma sistemi faktörleri hakkında daha az şey bilinmektedir. AMAÇ: Acil servis hemşireleri arasındaki işyeri şiddetini karakterize etmek ve işyerinde şiddetle ilişkili çok düzeyli çalışma sistemi faktörlerini belirlemek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu kesitsel çalışmada, hemşire anketi verileri, Güneydoğu ABD'deki çok bölgeli bir sağlık sisteminde 11 acil serviste çalışan hemşirelerden 2023 yılında toplanan idari ve elektronik tıbbi kayıt verileriyle birleştirildi.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024235/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44016"
+  }
+ ]
+}
