@@ -1,0 +1,696 @@
+{
+ "tarih": "2026-11-18",
+ "donem": "sabah",
+ "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "one_cikanlar": [
+  {
+   "baslik": "Fon soruşturması kapsamında 4 şirkete kayyum atandı",
+   "ozet": "Tasarruf Mevduatı Sigorta Fonu (TMSF), İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında, Adil Katılım Bankası…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-4-sirkete-kayyum-atandi-963579.html"
+    },
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cjg46z4dv6qdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785336/haber/fon-soru%C5%9Fturmas%C4%B1nda-4-%C5%9Firkete-kayyum-atand%C4%B1"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-kapsaminda-samil-tayyar-ifade-verdi-43381766"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5"
+    },
+    {
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Nvidia chair says the board will not rehire Huang as CEO",
+   "ozet": "",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5"
+    },
+    {
+     "ad": "NPR",
+     "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-yonetim-kurulu-jensen-huangi-yeniden-ceoluk-gorevine-getirmeyi-dusunmediklerini-acikladi/4128473"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Bakan Gürlek: Fon soruşturmasında 129 şüpheli tutuklu bulunmaktadır",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Bugün itibarıyla 498 şüpheli bulunmaktadır. 129 şüpheli tutuklu, 289 şüpheli hakkında adli kontrol tedbir kararı bulunmaktadır. Hakkında…",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html"
+    },
+    {
+     "ad": "Hürriyet",
+     "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama-43381705"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3928073"
+    },
+    {
+     "ad": "Google Haberler Türkiye",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUp1QVBuVWtjaXZkTWxsUjV6MjdiMEpJVzhKaXRQU2E2b0F1b1hoYjV1bmhjY2VCanJMTTh3MDhXMlptQm5qVndRbFpMLWFKWEtDZ3Eza0NHNnFkVWZkaWNySFo3NEdyQ0pqNUpwUEwyMG9kelEwczRxS3Jjb196RlZ2Q0NEQ3JwYnVhOFB5bk9lUQ?oc=5"
+    },
+    {
+     "ad": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/fon-sorusturmasinda-7-supheli-daha-tutuklandi-3794926"
+    }
+   ],
+   "neden_onemli": ""
+  },
+  {
+   "baslik": "Sibirya'da askeri uçak düştü: 17 kişi hayatını kaybetti",
+   "ozet": "Rus medyasına göre, An-12 tipi askeri nakliye uçağının Sibirya'da düşmesi sonucu uçaktaki 17 kişi yaşamını yitirdi.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/17/sibiryada-askeri-ucak-dustu-17-kisi-hayatini-kaybetti"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/dunya/son-dakika-i-rusyada-askeri-nakliye-ucagi-dustu-17-kisi-hayatini-kaybetti-7703795"
+    },
+    {
+     "ad": "Cumhuriyet",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/otomobil-tira-ok-gibi-saplandi-1-kisi-hayatini-kaybetti-2557091"
+    }
+   ],
+   "neden_onemli": ""
+  }
+ ],
+ "bolumler": [
+  {
+   "id": "gundem_tr",
+   "ad": "Türkiye",
+   "haberler": [
+    {
+     "baslik": "Trump, Epstein, oligarklar: Deutsche Bank belgelerinde ne var?",
+     "ozet": "Almanya'da Deutsche Bank'a ait 15 milyondan fazla belgelik sızıntı, bankanın Rus oligarklardan Jeffrey Epstein'a kadar tartışmalı müşterilerle ilişkilerini ve kurum içi uyarıların nasıl göz ardı…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/trump-epstein-oligarklar-deutsche-bank-belgelerinde-ne-var/a-79968399?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/17/deutsche-bank-hisseleri-dustu-sorusturma-trump-vergi-belgesi-hatasini-ortaya-koydu"
+      }
+     ]
+    },
+    {
+     "baslik": "ABD'de teknoloji krizi: Apple, Gmail ve NSA'de de erişim sorunları yaşanıyor",
+     "ozet": "ABD'de son günlerde peş peşe yaşanan teknoloji arızalarına yenileri eklendi. Apple'ın çeşitli hizmetlerinde küresel erişim sorunları görülürken Gmail kullanıcıları da e-posta kesintileri bildirdi.…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/17/abdde-teknoloji-krizi-apple-gmail-ve-nsade-de-erisim-sorunlari-yasaniyor"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/apple-hizmetlerinde-erisin-sorunu-3928074"
+      }
+     ]
+    },
+    {
+     "baslik": "İçişleri Bakanlığı'ndan 'sağanak ve fırtına' uyarısı",
+     "ozet": "İçişleri Bakanlığı, yarın birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulundu. Meteoroloji Genel Müdürlüğü de (MGM), Marmara Bölgesi için yarın fırtına…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligindan-saganak-ve-firtina-uyarisi-43381737"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/icislerinden-saganak-ve-firtina-uyarisi-p382255"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni Parti Genel Başkanı Özgür Özel yarın mazbatasını alacak",
+     "ozet": "Hafta sonu yapılan Yeni Parti'nin 1'inci Olağan Kurultayı'nda Genel Başkan seçilen Özgür Özel, yarın mazbatasını teslim alacak. Özel'in ardından Anıtkabir'i ziyaret etmesi beklenirken, yeni MYK için…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozgur-ozel-yarin-mazbatasini-alacak-43381229"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbldXQ3o1TU13bFJtam5DNnRQaHNIQVVGcGpEQmRhWXlGaWdwUUdmbl8xeGxRd0RJQk9xcmstZDFUdGVJSElwY3JmelFUaFdmS2stakJXMl9Mem9nNnl6a2ZfOVg0bmNpOFF2YTBEazZKY3dteExySEd6Z2xzaWlKbllUSVp6R0pEeW1TOEJBbndTdUFibVhBUjJuU1ZySm5tZWUyY2dVTDJyYlBpcG5jSnhNQ0FNMFgwUW5pZDFEc1BNZw?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31 | Bakan Kurum, Demirören Medya Lisesi'nin standını ziyaret etti",
+     "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 kapsamında girişimcilere ayrılan özel alanda (Startup Zone) Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/cop31-bakan-kurum-demiroren-medya-lisesinin-standini-ziyaret-etti-43381509"
+      },
+      {
+       "ad": "Google Haberler Türkiye",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTlpSTliSC1QclNtWkp0S0FsZHJIdWFzc1ZKRjNNcmkzX3d5a1RhY3VyQUhGVHBSOXdJNFR6b0lqTzZ5V0VOcEExYjhBeHFFcjRXUE9PUFhlVzQtZmFUT2haNTc1ZVRkTTJ6U0VYWEpvZ2xXbnBxQzhYN3A2elpUajB6X0JaUGJGVmxfZFJyXy15SENGVEJPREV3QVNteG5rc0FzcWJFRHVuWEpsTHc?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Roland Sallai'den kötü haber!",
+     "ozet": "UEFA Uluslar Ligi için Macaristan Milli Takımı'nda bulunan Galatasaray'ın yıldız isimlerinden Roland Sallai, Kuzey İrlanda maçı öncesi sakatlandı. 29 yaşındaki futbolcu, teknik heyet tarafından ilk…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/roland-sallai-den-galatasaray-a-kotu-haber-macaristan-milli-takimi-nda-sakatlandi-3928079"
+      },
+      {
+       "ad": "Cumhuriyet",
+       "link": "https://www.cumhuriyet.com.tr/spor/macaristan-dan-galatasaray-a-kotu-haber-roland-sallai-ilk-11-den-cikarildi-2557057"
+      }
+     ]
+    },
+    {
+     "baslik": "İşte Uluslar Ligi'nde gecenin sonuçları",
+     "ozet": "UEFA Uluslar Ligi'nde 6. hafta maçlarında bugün 8 karşılaşma oynandı. Günün dikkat çeken maçında Portekiz, Galler'i deplasmanda 3-2 mağlup etti. Aynı grubun diğer maçında ise Norveç, yine aynı skorla…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/iste-uefa-uluslar-ligi-nde-6-haftanin-sonuclari-3928091"
+      },
+      {
+       "ad": "Sabah",
+       "link": "https://www.sabah.com.tr/spor/futbol/2026/11/17/danimarka-norvec-canli-danimarka-norvec-maci-a-haberde-iste-11ler"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunya",
+   "ad": "Dünya",
+   "haberler": [
+    {
+     "baslik": "US strikes Iranian missile launch site on Qeshm Island, US official says",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENzVXNRVjR0NU9lejlJWll3U01GOENvbnlKVWJuZG9ZSmwtdVRXSDRPZ3JGcGZnSGhfQmYzNnFRQ0p4d2ZaZk80Q0NKUEgtdTI3cmFwb2JxT1FOamJYVllwTFR3UV9ZN2xfMTNTTFZiS0gtSjU2Q3B6dkVLUmgyYzlpcHprNXdCMEdST0RqNkdkTEgycGFEQkVwY01yWENOcVNpYWpFYlRrRG1waGlwVHNKM3h5UHBidHpMcXlkcw?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
+      }
+     ]
+    },
+    {
+     "baslik": "Kalshi suspends Trump speech wagers on US regulatory order",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUxvREJseXMtOWhTYnY1RUdXZkhROXJrTEtBRjQxaW1VTWJrQkctUm5xZWc5aFAwU1dtS2FwZmd4SmtaVEdrc1lLT0NzNXZ1VUZpaTYtTTVSLTU2UUUyZF92eGZqTGt6U1hNczBVOUpDTUhXUjdraFZFYUF0V250dE45WEVLWWh4Q1NmZkZ2QUg0bWV5ZDJpTUVsbzNQNG1rTlRuRlVCMDY3SURP?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Jensen Huang's daughter helped steer Nvidia response to Megaspeed scrutiny, FT reports",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTQ1VUdLUzhnTkJscVVGZkYyMnA5b2QwU0FrTEdDVnR6bXVnU0dZUG8teHFsX3Y3OUlLaVlUTm85S0hEN3gwSW1YMVhoUW1Pb3hXaVNzRDVfaldMaUkyZGhBSmM5N3hlVHVBSDQ2aWRsc19sZkI3Xzg2MGxFMlRwOGY4NElWcTZjQ0x5NkdhWTZ4ejExd1Nqc1B4VDYzOWc2SzdoT0hWTTFQM2xfUklRODZtOXRodFoxV3VVWQ?oc=5"
+      },
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261117-deepfakes-memes-and-misinformation-ai-turns-against-nvidia-s-jensen-huang"
+      },
+      {
+       "ad": "Ars Technica",
+       "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+      }
+     ]
+    },
+    {
+     "baslik": "What is the Crimean Bridge and why does it matter in the Russia-Ukraine war?",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR5S0xzeDVGTnpYR0UyWEJCdTNiZzUyUW9TNmpuRU4yby1ndElhR2dYcDYxMmFDRmJna2ROZ2MxNEt3czFDemhzYTU3OHVlTnNQNlhlVFloanJzUWVndFdfTkZGOVdQekI4VUdYeG0tVUFGeGVnYkdMZ2t1QjZGQWxBTFJkUVlvS3NVZU5sUjZzY0g3OXVTRVVoVklyb3dHN0FqN0xQYlQ3eDBwTHc?oc=5"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+      },
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/17/how-ukraine-succeeded-in-destroying-part-of-putin-s-crimean-bridge_6782830_4.html"
+      }
+     ]
+    },
+    {
+     "baslik": "What to know about the online banking delays that affected major US banks",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGVEZlplOUhicFlIX003TWFGTWhyUFNHSDQzeTVoc25sUUUzMVA5Rm95U2w5Tk9rRFFRVENXUXFuWEkyNC1vOHRvZ1BPaUJMd1ItanFRd3MwdkludFdCaHZ2RFJzMzE0aHpWOEZhR1Z5ZFhQZC1OOUVGM1pRV1VUbllxTDRXb1lwWU43UmZvV0ZIWW92M2psaG5renA4M1l6TUJIUg?oc=5"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/17/world/asia/apec-asean-quad.html"
+      }
+     ]
+    },
+    {
+     "baslik": "North Macedonia arrests 5 over foiled terror plot in Greece linked to Iranian wanted by FBI",
+     "ozet": "",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTZuVnZ3QkxIbTh1SFJ6aFVRdnJfTlRSZGVIWGtpUzYwaFIyN2NOV1lmNjUtaWNrNG9WaXhiY05Zc0Jac3lveEJYbGEzNmdmOTZKMkVnQkJFZ09jdTJnb0dSNnJYRTJoMkhFX2QxRDRnSHJ1VWlyRTlEcDlIeHlBUHZUY0J3ajRqOHRoNzZvbUZyYzR0VlRaQ0ZpNA?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/17/north-macedonia-prevents-terrorist-assassination-plot-targeting-person-in-greece"
+      }
+     ]
+    },
+    {
+     "baslik": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "ozet": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/international/article/2026/11/17/uk-transfers-nato-assigned-american-soldier-accused-of-spying-for-russia-to-us-military_6782832_4.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "Bakan Kacır, yeşil dönüşüm için verilecek 3 milyar liralık destek çağrısının detaylarını açıkladı",
+     "ozet": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Yeşil Sanayi Programı kapsamında KOBİ'lere sağlanacak 3 milyar liralık yeni desteğe yönelik son başvuru tarihinin 31 Ocak 2027 olduğunu bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-donusum-icin-verilecek-3-milyar-liralik-destek-cagrisinin-detaylarini-acikladi/4128186"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/kobi-lere-3-milyar-liralik-yesil-donusum-destegi-3794915"
+      }
+     ]
+    },
+    {
+     "baslik": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
+     "ozet": "Central bank governor says attending ‘unfair’ proceedings would endanger the ‘institution’s unique status and independence’",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1"
+      },
+      {
+       "ad": "CNBC",
+       "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Norveçli enerji devi Equinor'a siber saldırı",
+     "ozet": "Norveçli enerji devi Equinor, bazı bilişim sistemlerine yönelik siber saldırı tespit ettiğini açıkladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/norvecli-enerji-devi-equinor-a-siber-saldiri-3794930"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/enerji-devi-equinora-siber-saldiri-haberi-848004"
+      }
+     ]
+    },
+    {
+     "baslik": "Özbekistan, Karakalpakistan'ın kalkınması için 5 milyar dolarlık yatırım hedefliyor",
+     "ozet": "Özbekistan, Aral Gölü'nün kuruması nedeniyle ciddi bir çevre felaketiyle karşı karşıya bulunan Karakalpakistan Cumhuriyeti'nin ekonomik ve sosyal kalkınmasını hızlandırmak amacıyla kapsamlı yatırım…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/ozbekistan-karakalpakistanin-kalkinmasi-icin-5-milyar-dolarlik-yatirim-hedefliyor/4128413"
+      }
+     ]
+    },
+    {
+     "baslik": "COP31'de fosil yakıtlardan uzaklaşma sürecinde elektrifikasyonun rolü tartışıldı",
+     "ozet": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, elektrifikasyonun fosil yakıtlardan uzaklaşma sürecindeki rolü ve ülkelerin enerji dönüşümünü…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-fosil-yakitlardan-uzaklasma-surecinde-elektrifikasyonun-rolu-tartisildi/4127915"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+     "ozet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition…",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "MIT Technology Review",
+       "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+      },
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+      }
+     ]
+    },
+    {
+     "baslik": "Evlerdeki teknolojik cihazların elektromanyetik etkilerine karşı bilinçli kullanım uyarısı",
+     "ozet": "Prof. Dr. Süleyman Daşdağ, cep telefonu, tablet, televizyon ve saç kurutma makinesi gibi günlük yaşamda sık kullanılan birçok cihazın elektromanyetik alan etkisi oluşturduğunu belirterek, bu…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/evlerdeki-teknolojik-cihazlarin-elektromanyetik-etkilerine-karsi-bilincli-kullanim-uyarisi/4128410"
+      }
+     ]
+    },
+    {
+     "baslik": "Apple hizmetlerinde kesintiler yaşanıyor",
+     "ozet": "ABD'li teknoloji devi Apple'ın uygulama mağazası App Store ve müzik uygulaması Apple Music gibi hizmetlerinde kesintiler yaşandığı bildirildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/apple-hizmetlerinde-kesintiler-yasaniyor/4128349"
+      }
+     ]
+    },
+    {
+     "baslik": "OpenAI, siber güvenlik modellerini NATO'nun erişimine sunacak",
+     "ozet": "Yapay zeka şirketi OpenAI, gelişmiş siber güvenlik modellerini NATO'nun temel kurumlarının erişimine sunmak amacıyla NATO İletişim ve Bilgi Ajansıyla (NCIA) işbirliği yaptığını duyurdu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-siber-guvenlik-modellerini-natonun-erisimine-sunacak/4128272"
+      }
+     ]
+    },
+    {
+     "baslik": "SSB Başkanı Haluk Görgün: 2026 yılında şu ana kadar imzalanan sözleşmelerin değeri 16 milyar doları aştı",
+     "ozet": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Görgün, savunma ve havacılık sanayisinde 2026'da şu ana kadar imzalanan sözleşmelerin değerinin 16 milyar doları aştığını belirterek, yıl sonunda bu rakamın…",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Bilim-Teknoloji",
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ssb-baskani-haluk-gorgun-2026-yilinda-su-ana-kadar-imzalanan-sozlesmelerin-degeri-16-milyar-dolari-asti/4127925"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "NHS data contract to stay with Palantir until 2029",
+     "ozet": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Cass report author tells BBC draft conversion practices bill is not workable",
+     "ozet": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Fears toxic lagoon fire led to cancer and miscarriages",
+     "ozet": "The incident took place in Llwyneinion in August 1980.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Rooney says he considered taking his own life at Man Utd",
+     "ozet": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health"
+      }
+     ]
+    },
+    {
+     "baslik": "Woods set to return next month after two years out",
+     "ozet": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/sport/2026/nov/17/tiger-woods-return-hero-world-challenge-golf"
+      }
+     ]
+    },
+    {
+     "baslik": "Arsenal Double winner Storey dies aged 81",
+     "ozet": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian Sport",
+       "link": "https://www.theguardian.com/football/2026/nov/17/peter-storey-arsenal-england-dies-aged-81"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "COP31'de \"5 Yönetmen 5 Yeşil Film\" projesi kapsamında film gösterimleri ve söyleşiler yapıldı",
+     "ozet": "COP31 kapsamında hayata geçirilen \"5 Yönetmen 5 Yeşil Film\" projesi kapsamında izleyiciler beş filmi izledi ve film ekipleriyle söyleşilere katıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/cop31de-5-yonetmen-5-yesil-film-projesi-kapsaminda-film-gosterimleri-ve-soylesiler-yapildi/4128219"
+      }
+     ]
+    },
+    {
+     "baslik": "\"Davutpaşa Divanı\" buluşmalarının ilk konuğu Prof. Dr. Sadettin Ökten oldu",
+     "ozet": "Fatih Belediyesinin hayata geçirdiği \"Davutpaşa Divanı\" buluşmalarının ilk konuğu medeniyet düşüncesi üzerine çalışmalarıyla tanınan Prof. Dr. Sadettin Ökten oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Kültür-Sanat",
+       "link": "https://www.aa.com.tr/tr/kultur/davutpasa-divani-bulusmalarinin-ilk-konugu-prof-dr-sadettin-okten-oldu/4127923"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "farkli_bakislar": [],
+ "makaleler": [
+  {
+   "pmid": "43038431",
+   "baslik_en": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.",
+   "baslik_tr": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.",
+   "dergi": "Circulation",
+   "yazarlar": [
+    "Fang J",
+    "Chen Y",
+    "Zhou W",
+    "et al."
+   ],
+   "tur": "Clinical Trial",
+   "ozet_en": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (nHCM), defined as hypertrophic cardiomyopathy without left ventricular outflow tract obstruction, remains challenging to treat because of its heterogeneous pathophysiology. This study evaluated the safety and efficacy of transapical beating-heart septal myectomy in patients with symptomatic nHCM. METHODS: Patients with symptomatic, drug-refractory nHCM were prospectively enrolled to undergo transapical beating-heart septal myectomy through a left minithoracotomy.",
+   "ozet_tr": "BACKGROUND: Nonobstructive hypertrophic cardiomyopathy (nHCM), defined as hypertrophic cardiomyopathy without left ventricular outflow tract obstruction, remains challenging to treat because of its heterogeneous pathophysiology. This study evaluated the safety and efficacy of transapical beating-heart septal myectomy in patients with symptomatic nHCM. METHODS: Patients with symptomatic, drug-refractory nHCM were prospectively enrolled to undergo transapical beating-heart septal myectomy through a left minithoracotomy.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038431/",
+   "doi": "https://doi.org/10.1161/CIRCULATIONAHA.126.082486"
+  },
+  {
+   "pmid": "43039016",
+   "baslik_en": "Genome-directed treatment targets and mutational signature biomarkers: a retrospective, pan-solid tumour analysis.",
+   "baslik_tr": "Genome-directed treatment targets and mutational signature biomarkers: a retrospective, pan-solid tumour analysis.",
+   "dergi": "The Lancet. Oncology",
+   "yazarlar": [
+    "Black D",
+    "Davies HR",
+    "DeVerinne C",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "BACKGROUND: The clinical application of precision oncology therapies is currently restricted to selected cancer cases harbouring highly specific mutations. Targeted therapies are typically approved for use in specific tumour types in which these alterations occur frequently. We aimed to systematically catalogue targetable alterations and genome-wide biomarkers across all solid tumour types to identify additional therapeutic opportunities.",
+   "ozet_tr": "BACKGROUND: The clinical application of precision oncology therapies is currently restricted to selected cancer cases harbouring highly specific mutations. Targeted therapies are typically approved for use in specific tumour types in which these alterations occur frequently. We aimed to systematically catalogue targetable alterations and genome-wide biomarkers across all solid tumour types to identify additional therapeutic opportunities.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039016/",
+   "doi": "https://doi.org/10.1016/S1470-2045(26)00406-7"
+  },
+  {
+   "pmid": "43039357",
+   "baslik_en": "Architecture of a portal complex embedded in the poxvirus core.",
+   "baslik_tr": "Architecture of a portal complex embedded in the poxvirus core.",
+   "dergi": "Nature",
+   "yazarlar": [
+    "Hong Y",
+    "Liu S",
+    "Wang K",
+    "et al."
+   ],
+   "tur": "",
+   "ozet_en": "Gene transcription within the viral core is a distinctive feature of poxvirus replication. Following entry into the cytoplasm, the poxvirus core dissociates from the lateral bodies and undergoes expansion, functioning as a compartment for early transcription1. However, how molecules are exchanged between the viral core and the host cytoplasm remains poorly understood. Here, using cryo-electron tomography and sub-tomogram averaging, we determine the structures of the portal complex and its central pore on the vaccinia virus core at 6.7 Å and 4.4 Å resolution, respectively.",
+   "ozet_tr": "Gene transcription within the viral core is a distinctive feature of poxvirus replication. Following entry into the cytoplasm, the poxvirus core dissociates from the lateral bodies and undergoes expansion, functioning as a compartment for early transcription1. However, how molecules are exchanged between the viral core and the host cytoplasm remains poorly understood. Here, using cryo-electron tomography and sub-tomogram averaging, we determine the structures of the portal complex and its central pore on the vaccinia virus core at 6.7 Å and 4.4 Å resolution, respectively.",
+   "neden_onemli": "",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039357/",
+   "doi": "https://doi.org/10.1038/s41586-026-11399-2"
+  }
+ ]
+}
