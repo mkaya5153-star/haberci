@@ -1,688 +1,420 @@
 {
- "tarih": "2026-11-19",
- "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
- "one_cikanlar": [
-  {
-   "baslik": "Democrats nominate Hakeem Jeffries for next US House speaker",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  "tarih": "2026-11-19",
+  "donem": "sabah",
+  "giris": "Güne CHP kurultay davasında verilen hapis ve siyasi yasak kararı ile Anthropic'in rekor halka arzı damgasını vuruyor. Dış politikada Trump, Şi ve Putin'in Çin'de yapacağı üçlü zirve, Gazze'de İsrail'in Sarı Hat'ın ötesine geçen operasyonu ve Kırım Köprüsü'ne yeni saldırı iddiası öne çıkıyor. Piyasalarda Fed tutanakları ve ABD'de düşüşteki borsa dikkat çekiyor.",
+  "one_cikanlar": [
     {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5"
+      "baslik": "CHP kurultay davasında karar: İmamoğlu dahil 9 kişiye hapis cezası ve siyaset yasağı",
+      "ozet": "Ankara 26. Asliye Ceza Mahkemesi, CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan davada kararını açıkladı. BBC Türkçe'ye göre karar, Ekrem İmamoğlu'nun da aralarında bulunduğu dokuz sanığa hapis cezası ve siyaset yasağı getiriyor. DW Türkçe ise siyasi yasak kararının ne anlama geldiğini ele aldı.",
+      "neden_onemli": "Ana muhalefet partisinin liderlik kadrosunu ve siyasi takvimi doğrudan ilgilendiren bir yargı kararı.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/ekrem-i̇mamoğlu-na-yönelik-siyasi-yasak-kararı-ne-anlama-geliyor/a-79979758?maca=tur-rss-tur-all-1495-rdf"},
+        {"ad": "Euronews Türkçe", "link": "https://tr.euronews.com/2026/11/18/chp-kurultay-davasinda-karar-imamogluna-hapis-cezasi-ve-siyasi-yasak"}
+      ]
     },
     {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFKcjYyblpFekN4MnNrTUo1Z0ZIVGkyRTJHSENPZ2N6bEE3QmNPVWVnX1VkRG5xbk1IRzBsM1hkaHgwaWo1NkdQSW9PUzZoS1h5TUFteGhGakcxdVUyaml1SDNCXzNkYkhiSkpQVWFkRjh3d3JOeVlkRGt4X01sazQteW42UGIwMjJCZklydHBVbWYwLThsVUEyRnZ3ckZTZkhrcFdfcENjVG9Rc3dJ?oc=5"
+      "baslik": "Anthropic, 81,3 milyar dolarlık halka arzla tarihin en büyüğünü gerçekleştirdi",
+      "ozet": "Claude yapay zekâ modellerinin geliştiricisi Anthropic, halka arzını hisse başına 83 dolardan fiyatlandırdı. Habertürk'e göre arzın büyüklüğü 81,3 milyar dolar ve şirket bu rakamla SpaceX'i geride bıraktı. BBC'ye göre şirketin piyasa değeri halka arz öncesinde 1,5 trilyon dolara kadar çıkıyor.",
+      "neden_onemli": "Yapay zekâ sektörünün finansal ağırlığını ve piyasaların bu alana verdiği değeri gösteren rekor bir işlem.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi/4129918"},
+        {"ad": "Habertürk", "link": "https://www.haberturk.com/ekonomi/tarihin-en-buyuk-halka-arzi-3928369"},
+        {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss"}
+      ]
     },
     {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+      "baslik": "Trump, Şi ve Putin Çin'in Shenzhen kentinde üçlü zirve yapacak",
+      "ozet": "Üç liderin perşembe günü Shenzhen'de bir araya geleceği bildirildi; Financial Times zirveyi bir haftalık yoğun diplomasinin doruk noktası olarak niteliyor. Trump, zirvenin daha başlamadan 'kazanım' olduğunu söyledi; AP'ye göre Putin'le ayrıca ikili görüşme de planlıyor. BBC Türkçe'nin aktardığı değerlendirmeye göre sonuç ne olursa olsun görüşme Kremlin için bir zafer sayılıyor.",
+      "neden_onemli": "ABD, Çin ve Rusya liderlerinin aynı masada oturması küresel güvenlik ve ticaret dengeleri açısından nadir bir gelişme.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "Financial Times", "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f"},
+        {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/cqd01jmdez00o?at_medium=RSS&at_campaign=rss"},
+        {"ad": "France 24", "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"},
+        {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss"}
+      ]
     },
     {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf"
+      "baslik": "İsrail ordusu Gazze'de ateşkes hattı olan 'Sarı Hat'ın ötesinde kara operasyonu başlattı",
+      "ozet": "İsrail ordusu, Gazze'nin orta kesiminde işgalini Sarı Hat'ın ötesine taşıdığını açıkladı. BBC'ye göre ordu operasyonun bir 'terör tüneli'ni imha etmeyi amaçladığını söylüyor; Hamas ise bunu ateşkesin açık ihlali olarak nitelendiriyor.",
+      "neden_onemli": "Ateşkesin sürdürülebilirliğini ve bölgedeki gerilimin seyrini doğrudan etkileyen bir adım.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"},
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-gazzenin-orta-kesiminde-isgalini-sari-hatin-otesine-tasidigini-acikladi/4129847"},
+        {"ad": "Euronews", "link": "https://www.euronews.com/2026/11/18/israeli-military-launches-new-operation-on-central-gaza-despite-ceasefire"}
+      ]
+    },
+    {
+      "baslik": "Kırım Köprüsü'ne yeniden saldırı düzenlendiği bildirildi",
+      "ozet": "Kırım'daki Rus yönetiminin başındaki Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne yeniden saldırdığını duyurdu. BBC'ye göre Aksyonov, saldırının ardından köprüde trafiğin durdurulduğunu söyledi. Ars Technica ise Ukrayna'nın saldırıda Starlink kısıtlamalarını aşmak için röle dronları kullandığını yazdı.",
+      "neden_onemli": "Rusya'nın Kırım'a lojistik bağlantısını hedef alan saldırılar savaşın seyri açısından önem taşıyor.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"},
+        {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-kirim-koprusune-yeniden-saldirdi/4129912"},
+        {"ad": "The Guardian", "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"}
+      ]
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "CHP'nin kurultay davasında karar çıktı",
-   "ozet": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan davada aralarında Ekrem İmamoğlu'nun da bulunduğu 9 sanığa \"oylamaya hile karıştırma\" suçundan 2 yıl 1'er ay hapis cezası…",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  ],
+  "bolumler": [
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/chpnin-kurultay-davasinda-karar-cikti-963712.html"
+      "id": "gundem_tr",
+      "ad": "Türkiye",
+      "haberler": [
+        {
+          "baslik": "Fon soruşturmasında Mustafa Yazıcı için adli kontrol talebi",
+          "ozet": "Sermaye piyasalarındaki işlemlere ilişkin yürütülen 'fon soruşturması' kapsamında ifadesi tamamlanan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı hakkında adli kontrol talep edildi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-mustafa-yaziciya-adli-kontrol-talebi-963719.html"},
+            {"ad": "Habertürk", "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-mustafa-yazici-ifadeye-cagrildi-3928245"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/mustafa-yazici-ya-fon-sorusturmasi-nda-adli-kontrol-talebi-3795058"}
+          ]
+        },
+        {
+          "baslik": "Fon krizinde geri ödemeler: 444 bin yatırımcıya ödeme yapıldı",
+          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek'e göre yatırım fonu krizinde toplam 444 bin yatırımcıya ödeme yapıldı; 371 bin yatırımcı net yatırım tutarının tamamını aldı. BBC Türkçe, yaklaşık yarım milyon yatırımcıyı etkileyen geri ödemelerin hangi aşamada olduğunu inceledi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/cm20veq65xz6o?at_medium=RSS&at_campaign=rss"}
+          ]
+        },
+        {
+          "baslik": "Erdoğan: Emeklilere yönelik düzenleme yıl başından önce hayata geçirilecek",
+          "ozet": "Cumhurbaşkanı Erdoğan, AKP Meclis Grup Toplantısı'nda emeklilerin ekonomik durumunun iyileştirilmesine yönelik düzenlemenin yıl başından önce hayata geçirileceğini söyledi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Türkçe", "link": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss"}
+          ]
+        },
+        {
+          "baslik": "Enerji ve sosyal güvenlik düzenlemeleri içeren kanun teklifi komisyondan geçti",
+          "ozet": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu'nda kabul edildi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/gundem/enerjiye-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi/4129887"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/enerji-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi-3795056"}
+          ]
+        },
+        {
+          "baslik": "Bakan Güler: F-16, F-35, Eurofighter ve C-130J tedarik çalışmaları sürüyor",
+          "ozet": "Milli Savunma Bakanı Güler, yerli imkân ve kabiliyetler ihtiyaç duyulan seviyeye ulaşıncaya kadar mevcut hava gücünün korunması amacıyla F-16, F-35, Eurofighter ve C-130J tedarik çalışmalarının planlı şekilde sürdürüldüğünü söyledi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/gundem/bakan-guler-f-16-f-35-eurofighter-ve-c-130j-tedarik-calismalarimiz-planli-sekilde-surdurulmektedir/4129837"},
+            {"ad": "Habertürk", "link": "https://www.haberturk.com/gundem/bakan-guler-f-35-ve-eurofighter-tedarikindeki-son-durumu-acikladi-3928342"}
+          ]
+        },
+        {
+          "baslik": "Gazeteci İsmail Arı Ankara'da hâkim karşısında",
+          "ozet": "Eski RTÜK Başkanı Ebubekir Şahin'in şikâyeti üzerine tutuklanan gazeteci İsmail Arı, 'yanıltıcı bilgiyi alenen yayma' iddiasıyla Ankara'da hâkim karşısına çıkıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/gazeteci-i̇smail-arı-ankara-da-hakim-karşısına-çıkıyor/a-79983666?maca=tur-rss-tur-all-1495-rdf"}
+          ]
+        },
+        {
+          "baslik": "AYM, Umumi Hıfzıssıhha Kanunu'nun 128. maddesini iptal etti",
+          "ozet": "Anayasa Mahkemesinin, fuhşun devlet denetiminde yapılmasına dayanak oluşturan 1593 sayılı Umumi Hıfzıssıhha Kanunu'nun 128. maddesine ilişkin iptal kararı 17 Kasım 2026 tarihli Resmi Gazete'de yayımlandı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Independent Türkçe", "link": "https://www.indyturk.com/node/785395/haber/aym-fuh%C5%9Fun-devlet-denetiminde-yap%C4%B1lmas%C4%B1na-dayanak-olu%C5%9Fturan-kanun-h%C3%BCkm%C3%BCn%C3%BC-iptal"}
+          ]
+        }
+      ]
     },
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss"
+      "id": "dunya",
+      "ad": "Dünya",
+      "haberler": [
+        {
+          "baslik": "Hürmüz Boğazı ve Umman açıklarında tanker olayları",
+          "ozet": "İran ordusu, Hürmüz Boğazı'nın doğusunda seyrüsefer sistemlerini kapatarak izin verilmeyen bölgede ilerleyen üç petrol tankerinin deniz mayınlarına çarpıp alev aldığını açıkladı. İngiltere Deniz Ticareti Operasyonları (UKMTO) ise Umman'ın Hasab kentinin 6 deniz mili kuzeyinde bir tankerin saldırıya uğradığını duyurdu.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-3-petrol-tankeri-mayina-carparak-alev-aldi/4129823"},
+            {"ad": "Anadolu Ajansı (UKMTO)", "link": "https://www.aa.com.tr/tr/dunya/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi/4129894"},
+            {"ad": "Habertürk", "link": "https://www.haberturk.com/dunya/ingiltere-umman-aciklarinda-bir-tanker-saldiriya-ugradi-3928357"}
+          ]
+        },
+        {
+          "baslik": "Uluslararası Adalet Divanı Rohingya soykırım davasında kararını açıklıyor",
+          "ozet": "Birleşmiş Milletler'in yüksek mahkemesi UAD, Gambiya'nın Myanmar aleyhine açtığı soykırım davasındaki kararını bugün açıklayacak.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "TRT Haber", "link": "https://www.trthaber.com/haber/dunya/arakanli-muslumanlara-yonelik-soykirim-davasinda-karar-bugun-aciklanacak-963746.html"},
+            {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"},
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"}
+          ]
+        },
+        {
+          "baslik": "ABD ve Venezuela 2005'te kesilen askeri işbirliğini yeniden başlattı",
+          "ozet": "ABD Savunma Bakanı Pete Hegseth'in Karakas ziyaretinde iki ülke arasında, Hugo Chavez döneminde 2005'te kesilen teknik ve askeri işbirliği yeniden başlatıldı. Reuters, Hegseth'in askeri ortaklık anlaşmasını duyurduğunu bildirdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/venezuela-ve-abd-2005te-chavez-doneminde-kesilen-askeri-isbirligini-yeniden-baslatti/4129876"},
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss"},
+            {"ad": "Habertürk", "link": "https://www.haberturk.com/dunya/venezuela-ve-abd-askeri-isbirligini-yeniden-baslatti-3928354"}
+          ]
+        },
+        {
+          "baslik": "Haiti Devlet Başkanı Moïse suikastıyla ilgili Floridalı papaz ABD'de mahkûm edildi",
+          "ozet": "Miami'deki bir mahkeme, 2021'de Haiti Devlet Başkanı Jovenel Moïse'in öldürülmesiyle bağlantılı ABD'deki suçlamalardan Floridalı bir papazı mahkûm etti.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "The Guardian", "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"},
+            {"ad": "Al Jazeera", "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss"},
+            {"ad": "Le Monde", "link": "https://www.lemonde.fr/en/international/article/2026/11/19/florida-pastor-convicted-in-us-over-assassination-of-haitian-president-jovenel-moise_6784021_4.html"}
+          ]
+        },
+        {
+          "baslik": "Ukrayna'nın Avrupalı müttefikleri Berlin'de bir araya geliyor",
+          "ozet": "Zelenskiy, Ukrayna konusundaki Gönüllüler Koalisyonu toplantısının 19 Kasım'da Almanya'da yapılacağını bildirdi. Reuters, toplantıyı Ukrayna'ya destek gösterisi olarak aktardı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-gonulluler-koalisyonu-toplantisinin-19-kasimda-almanyada-duzenlenecegini-belirtti-/4129850"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5"}
+          ]
+        },
+        {
+          "baslik": "Bulgaristan'da hükümeti 5 yıl boyunca hedef alan siber casusluk ortaya çıkarıldı",
+          "ozet": "DW Türkçe'ye göre bilgisayar korsanları Bulgar hükümetini 5 yıl boyunca gözetledi ve 62 milyon belge ele geçirdi. Casusluk operasyonu sonlandırıldı ancak faillerin kimliği tespit edilemedi. Reuters da Bulgaristan'ın beş yıllık bir siber casusluk operasyonunu ortaya çıkardığını bildirdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "DW Türkçe", "link": "https://www.dw.com/tr/bulgaristan-da-dudak-uçuklatan-siber-casusluk-skandalı/a-79985514?maca=tur-rss-tur-all-1495-rdf"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWdlako3SVZrMWU4Nm5hRzEyRWpYLWJXRlhWaV9BZ2Raek81UmNyNHZadUlDcGl1ZVBwY0lLRUJHTkh6eGxaLWE0eGxtQndaSmtLa25MZ1BwNXI5aVBhSGF6Yk4yNlZmOHcyaTlUcVAtVm9PVUgtRm5ocEdmTC1ZaHJvUGczNkdpTWNKM2FsY0l3QVdpaHQ4b3N1M3RmUDV4eHpMcWVyWVo?oc=5"}
+          ]
+        },
+        {
+          "baslik": "Orta Doğu ülkeleri tam ölçekli savaşı önlemek için çabalarını artırıyor",
+          "ozet": "AP'nin yetkililere dayandırdığı habere göre İsrail'in İran'a yönelik saldırılar için çağrı yaptığı bir dönemde Orta Doğu ülkeleri, bölgesel bir savaşı önlemeye yönelik girişimlerini yoğunlaştırdı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5"}
+          ]
+        }
+      ]
     },
     {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/18/chp-kurultay-davasinda-karar-imamogluna-hapis-cezasi-ve-siyasi-yasak"
+      "id": "ekonomi",
+      "ad": "Ekonomi & Piyasalar",
+      "haberler": [
+        {
+          "baslik": "Fed tutanakları: Yetkililerin neredeyse tamamı ilave faiz artışı bekliyor",
+          "ozet": "Fed'in son toplantısına ilişkin tutanaklara göre yetkililerin neredeyse tamamı, enflasyonun zamanında hedefe dönmesini sağlamak için politika faizinde ilave artışların muhtemelen gerekeceğini değerlendirdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/fed-tutanaklari-neredeyse-tum-uyeler-faiz-artisindan-yana-3795047"}
+          ]
+        },
+        {
+          "baslik": "Moody's ABD'nin Aa1 notunu korudu, borç konusunda uyardı",
+          "ozet": "Moody's, ABD'ye yönelik periyodik incelemesini tamamladı. Bloomberg HT'ye göre kuruluş Aa1 notunu korurken federal borcun 31,8 trilyon dolara, bütçe açığının ise 2 trilyon dolara ulaştığını bildirdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/moodys-abdye-yonelik-periyodik-incelemesini-tamamladi/4129902"},
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/moodysten-abd-ekonomisi-icin-borc-uyarisi-3795055"}
+          ]
+        },
+        {
+          "baslik": "BIST 100 günü yüzde 1,57 düşüşle tamamladı",
+          "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,57 değer kaybederek 11.477,41 puandan kapattı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4129551"}
+          ]
+        },
+        {
+          "baslik": "S&P 500 art arda beşinci günde geriledi",
+          "ozet": "AP'ye göre S&P 500'ün beşinci ardışık düşüşü, Wall Street'i Haziran'dan bu yana en uzun kayıp serisine sürükledi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Associated Press", "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5"}
+          ]
+        },
+        {
+          "baslik": "BOJ Başkanı Ueda faiz artırımına kapıyı açık tuttu",
+          "ozet": "Japonya Merkez Bankası Başkanı Kazuo Ueda, tüketici harcamalarındaki zayıflığın geçici olduğunu belirterek ekonomik daralmaya rağmen faiz artırımlarına devam edilebileceği sinyalini verdi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Bloomberg HT", "link": "https://www.bloomberght.com/boj-baskani-ueda-dan-faiz-artirimina-acik-kapi-3795060"}
+          ]
+        }
+      ]
     },
     {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785388/haber/chpnin-38-ola%C4%9Fan-kurultay%C4%B1ndaki-usuls%C3%BCzl%C3%BCk-iddialar%C4%B1na-ili%C5%9Fkin-davada-karar"
+      "id": "bilim_teknoloji",
+      "ad": "Bilim, Teknoloji & Yapay Zekâ",
+      "haberler": [
+        {
+          "baslik": "Fosiller Homo erectus'un Çin'de tahmin edilenden yaklaşık 200 bin yıl daha uzun yaşadığını gösteriyor",
+          "ozet": "Scientific American ve New Scientist'in aktardığı yeni fosil bulgularına göre Homo erectus, Asya anakarasında daha önce düşünülenden uzun süre hayatta kaldı. New Scientist başlığında farkı 215 bin yıl olarak veriyor. Türün aynı zamanda hevesli bir gezgin olduğu belirtiliyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Scientific American", "link": "https://www.scientificamerican.com/article/ancient-fossils-reveal-homo-erectus-survived-in-china-some-200-000-years-longer-than-we-thought/"},
+            {"ad": "New Scientist", "link": "https://www.newscientist.com/article/2599635-homo-erectus-survived-on-mainland-asia-215000-years-longer-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"}
+          ]
+        },
+        {
+          "baslik": "Waymo, Kaliforniya'daki yasağın ardından robotaksilerini otoyollardan çekti",
+          "ozet": "Düzenleyiciler, bir robotaksinin polis araçlarını geçmeye çalışmasının ve üç aracın aktif bir yol çalışması bölgesine girmesinin ardından bu araçları 'yakın tehlike' olarak nitelendirdi. Euronews'e göre şirket bu gelişmenin ardından ABD'de otoyol sürüşünü durdurdu.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Euronews", "link": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban"},
+            {"ad": "The Guardian", "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"},
+            {"ad": "Ars Technica", "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"}
+          ]
+        },
+        {
+          "baslik": "Vulcan roketindeki arıza motorlara yetersiz yakıt gitmesinden kaynaklandı",
+          "ozet": "ULA'nın açıklamasına göre Vulcan roketindeki arıza, motorlara yetersiz yakıt beslenmesinden kaynaklandı. Scientific American, bu aksaklığın ABD uzay uçuşlarını yıllarca etkileyebileceğini yazıyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "Ars Technica", "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"}
+          ]
+        },
+        {
+          "baslik": "Son dönemdeki büyük teknoloji kesintilerinin nedeni yalnızca siber saldırı olmayabilir",
+          "ozet": "New Scientist'e göre tek bir haftada bankalar, bir hava trafik kontrol sistemi, milyonlarca e-posta hesabı ve istihbarat kurumu sistemleri kesintiler yaşadı. Reuters, yakın tarihli kesintilerin arkasında yazılım yamalarındaki artışın olabileceğini ve banka düzenleyicilerinin alarmda olduğunu bildirdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "New Scientist", "link": "https://www.newscientist.com/article/2599523-the-real-reasons-we-keep-seeing-big-tech-outages-its-not-just-hackers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"},
+            {"ad": "Reuters", "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saglik",
+      "ad": "Sağlık",
+      "haberler": [
+        {
+          "baslik": "Zerdeçal takviyesinin diz osteoartriti üzerindeki faydası sınırlı",
+          "ozet": "New Scientist'in aktardığı kapsamlı bir klinik çalışma incelemesine göre zerdeçal takviyelerinin diz osteoartriti olan kişilerde yaşam kalitesi üzerinde anlamlı bir etkisi görülmedi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "New Scientist", "link": "https://www.newscientist.com/article/2599636-turmeric-supplements-offer-little-benefit-for-knee-osteoarthritis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"}
+          ]
+        },
+        {
+          "baslik": "ABD'de kızamık eleme statüsünü kaybettiren veriler",
+          "ozet": "Ars Technica'ya göre kızamık ABD'de aylar önce endemik hale geldi ve vaka sayıları artmaya devam ediyor. Haber, ülkenin eleme statüsünü kaybetmesine yol açan verileri ele alıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Ars Technica", "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"}
+          ]
+        },
+        {
+          "baslik": "İngiltere'de iki saatlik ambulans devir teslim sınırı 2 binden fazla kez aşıldı",
+          "ozet": "BBC'ye göre iki saatlik ambulans devir teslim protokolü 2 binden fazla kez ihlal edildi. Üst düzey bir doktor, kış boyunca bu protokole uymanın 'çok zor' olacağını söylüyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Health", "link": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spor",
+      "ad": "Spor",
+      "haberler": [
+        {
+          "baslik": "EuroLeague'de Beşiktaş, Real Madrid'i 83-79 yendi",
+          "ozet": "Basketbol Avrupa Ligi'nin 12. haftasında Beşiktaş Fuzul, sahasında İspanyol ekibi Real Madrid'i 83-79 mağlup etti.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Anadolu Ajansı", "link": "https://www.aa.com.tr/tr/spor/besiktas-sahasinda-real-madridi-maglup-etti/4129833"}
+          ]
+        },
+        {
+          "baslik": "Kadınlar Şampiyonlar Ligi'nde Chelsea, PSG'yi 1-0 yenerek liderliğe yükseldi",
+          "ozet": "Veerle Buurman'ın 87. dakikada attığı golle Chelsea, Paris St-Germain'i 1-0 mağlup ederek tabloda zirveye çıktı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC Sport", "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss"},
+            {"ad": "The Guardian Sport", "link": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report"}
+          ]
+        },
+        {
+          "baslik": "Alcaraz, ATP Finalleri'nde Medvedev'i yenerek kazanma serisini sürdürdü",
+          "ozet": "Carlos Alcaraz, ATP Finalleri'nde dünya 5 numarası Daniil Medvedev'i yenerek turnuvadaki ilerleyişini sürdürdü. BBC, sakatlık endişesi bulunduğunu belirtiyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "BBC Sport", "link": "https://www.bbc.co.uk/sport/tennis/articles/cmdx1erlpqkxo?at_medium=RSS&at_campaign=rss"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kultur",
+      "ad": "Kültür & Sanat",
+      "haberler": [
+        {
+          "baslik": "Van Gogh'un 'Châtaigniers en fleurs' tablosu 190,4 milyon dolarla rekor fiyata satıldı",
+          "ozet": "Vincent van Gogh'un hayatının son iki ayında, 1890'da yaptığı 'Châtaigniers en fleurs' adlı tablo, tabloyla ilgili Nazi geçmişi tartışmasının ardından 190,4 milyon dolara satıldı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {"ad": "BBC News", "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"},
+            {"ad": "Le Monde", "link": "https://www.lemonde.fr/en/culture/article/2026/11/19/van-gogh-masterpiece-sells-for-record-190-4-million-after-long-running-dispute_6783889_30.html"}
+          ]
+        },
+        {
+          "baslik": "Dardenne kardeşler Avrupa Film Ödülleri'nde Yaşam Boyu Başarı Ödülü alacak",
+          "ozet": "Jean-Pierre ve Luc Dardenne, kariyerleri onuruna Avrupa Film Akademisi'nden Yaşam Boyu Başarı Ödülü'nü Atina'da alacak.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {"ad": "Euronews Türkçe", "link": "https://tr.euronews.com/2026/11/18/dardenne-kardesler-avrupa-film-odulleri-yasam-boyu-basari-odulunu-atinada-alacak"}
+          ]
+        }
+      ]
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Fon soruşturmasında Mustafa Yazıcı'ya adli kontrol talebi",
-   "ozet": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında ifade işlemleri tamamlanan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, adli kontrol…",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  ],
+  "farkli_bakislar": [],
+  "makaleler": [
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-mustafa-yaziciya-adli-kontrol-talebi-963719.html"
+      "pmid": "43052007",
+      "baslik_en": "Physical activity coaching and text messaging for adults with mobility limitations (ComeBACK): hybrid type 1 effectiveness implementation randomised controlled trial.",
+      "baslik_tr": "Hareket kısıtlılığı olan yetişkinlerde fiziksel aktivite koçluğu ve kısa mesaj gönderimi (ComeBACK): hibrit tip 1 etkililik-uygulama randomize kontrollü çalışması",
+      "dergi": "BMJ (Clinical research ed.)",
+      "yazarlar": ["Pearce LMN", "Sherrington C", "Tiedemann A", "et al."],
+      "tur": "Randomize kontrollü çalışma",
+      "ozet_en": "In this Australian trial, 512 community-dwelling adults with mobility limitations were randomised to physiotherapist-delivered telephone coaching, text messaging, or a waitlist. At six months, the coaching group walked on average 931 more steps per day than the waitlist group and 571 more than the texting group, while the texting effect was not statistically significant. Adverse events were similar across groups and none were serious. The authors describe the gain as modest, and participants and physiotherapists were not blinded to allocation.",
+      "ozet_tr": "Avustralya'da yapılan bu çalışmada, hareket kısıtlılığı olan 512 yetişkin; fizyoterapist eşliğinde telefonla koçluk, kısa mesaj veya bekleme listesi gruplarına rastgele atandı. Altıncı ayda koçluk grubu, bekleme listesine göre günde ortalama 931, kısa mesaj grubuna göre ise 571 adım fazla attı; kısa mesajın etkisi istatistiksel olarak anlamlı değildi. Yan etkiler gruplar arasında benzerdi ve hiçbiri ciddi değildi. Yazarlar artışı mütevazı olarak tanımlıyor; katılımcılar ve fizyoterapistler grup ataması konusunda körlenmemişti.",
+      "neden_onemli": "Yürümekte zorlanan kişilerde bile kişiye özel koçlukla günlük hareketin artırılabildiğini gösteriyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43052007/",
+      "doi": "https://doi.org/10.1136/bmj-2026-101157"
     },
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cjg46z4dv6qdo?at_medium=RSS&at_campaign=rss"
+      "pmid": "43050189",
+      "baslik_en": "Multicomponent Lifestyle Intervention and Brain Aging: A Secondary Analysis of a Randomized Clinical Trial.",
+      "baslik_tr": "Çok bileşenli yaşam tarzı müdahalesi ve beyin yaşlanması: Randomize klinik çalışmanın ikincil analizi",
+      "dergi": "JAMA network open",
+      "yazarlar": ["Vankee-Lin F", "Ai M", "Zhuang Y", "et al."],
+      "tur": "Randomize kontrollü çalışmanın ikincil analizi",
+      "ozet_en": "This secondary analysis of a randomized trial included 146 older adults with amnestic mild cognitive impairment who were assigned for six months to aerobic exercise plus cognitive training or to one of three comparison arms. Combined exercise and cognitive training was associated with more favourable change in an Alzheimer-signature cortical thickness measure than speed-of-processing training at 18 months and than stretching with mental leisure activities at 12 months. No primary white matter hyperintensity comparison was significant, and the attendance findings were exploratory. The authors call for larger confirmatory trials.",
+      "ozet_tr": "Randomize bir çalışmanın bu ikincil analizi, amnestik hafif bilişsel bozukluğu olan 146 yaşlı yetişkini kapsıyor; katılımcılar altı ay boyunca aerobik egzersiz ve bilişsel eğitimi birlikte alan gruba veya üç karşılaştırma grubundan birine atandı. Egzersiz ve bilişsel eğitimin birleşimi, Alzheimer işaretli kortikal kalınlık ölçümünde 18. ayda işlem hızı eğitimine, 12. ayda ise germe ve zihinsel boş zaman etkinliklerine göre daha olumlu değişimle ilişkiliydi. Birincil beyaz cevher hiperintensitesi karşılaştırmalarından hiçbiri anlamlı değildi ve katılım bulguları keşfedici nitelikteydi. Yazarlar daha büyük doğrulayıcı çalışmalar gerektiğini belirtiyor.",
+      "neden_onemli": "Egzersiz ile zihinsel eğitimi birleştirmenin hafif bilişsel bozukluğu olanlarda beyin yaşlanması göstergeleriyle ilişkili olabileceğine dair ön ipucu veriyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43050189/",
+      "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44426"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-mustafa-yazicinin-ifade-islemi-basladi-43382641"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-mustafa-yazici-ifadeye-cagrildi-3928245"
+      "pmid": "43045795",
+      "baslik_en": "Generational gains in cognitive capacity and dementia incidence rates in Western countries.",
+      "baslik_tr": "Batı ülkelerinde bilişsel kapasitedeki kuşaksal kazanımlar ve demans görülme oranları",
+      "dergi": "Nature medicine",
+      "yazarlar": ["Fjell AM", "Grødem EOS", "Lunansky G", "et al."],
+      "tur": "Uzunlamasına kohort analizi",
+      "ozet_en": "The authors analysed about 783,000 episodic-memory assessments from roughly 219,000 people in five longitudinal studies followed for up to 30 years. Later-born generations entered old age with higher memory levels and declined more slowly afterwards, a combined advantage large enough to plausibly account for the reported 13% per-decade fall in dementia incidence. The gains were concentrated among the fastest decliners, and slower decline was mirrored by lower rates of clinical impairment and slower hippocampal atrophy. The authors argue that prevention should protect brain health across the whole lifespan, starting in childhood.",
+      "ozet_tr": "Yazarlar, beş uzunlamasına çalışmada 30 yıla kadar izlenen yaklaşık 219 bin kişiden alınan yaklaşık 783 bin epizodik bellek ölçümünü analiz etti. Daha geç doğan kuşaklar yaşlılığa daha yüksek bellek düzeyiyle girdi ve sonrasında daha yavaş geriledi; bu birleşik avantaj, bildirilen on yıl başına yüzde 13'lük demans görülme azalmasını açıklayabilecek büyüklükte. Kazanımlar en hızlı gerileyenlerde yoğunlaştı ve daha yavaş gerileme, daha düşük klinik bozulma oranları ve daha yavaş hipokampüs küçülmesiyle örtüştü. Yazarlar önlemenin çocukluktan itibaren yaşam boyu beyin sağlığını korumayı hedeflemesi gerektiğini savunuyor.",
+      "neden_onemli": "Demans riskindeki düşüşün arkasında hem erken yaşta oluşan bellek düzeyinin hem de yetişkinlikteki yaşam koşullarının yattığını gösteriyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43045795/",
+      "doi": "https://doi.org/10.1038/s41591-026-04759-y"
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Israel launches ground operation in central Gaza, dozens flee",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf"
-    },
-    {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Fon soruşturması: Eski BDDK Başkanı Şahap Kavcıoğlu hakkında \"ön inceleme\" başlatıldı",
-   "ozet": "Fon soruşturması kapsamında eski Bankacılık Düzenleme ve Denetleme Kurulu Başkanı Şahap Kavcıoğlu hakkında soruşturma izni talep edilmesi üzerine \"ön inceleme\" için Bakanlık Teftiş Başkanlığı…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/fon-soruşturması-eski-bddk-başkanı-şahap-kavcıoğlu-hakkında-ön-inceleme-başlatıldı/a-79978162?maca=tur-rss-tur-all-1495-rdf"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-sahap-kavcioglu-hakkinda-sorusturma-izni-istendi-43382350"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/yasam/son-dakika-fon-sorusturmasinda-yeni-gelisme-bddk-eski-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-istendi-7704293"
-    },
-    {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/son-dakika-sahap-kavcioglu-hakkinda-sorusturma-talebi-p382447"
-    }
-   ],
-   "neden_onemli": ""
-  }
- ],
- "bolumler": [
-  {
-   "id": "gundem_tr",
-   "ad": "Türkiye",
-   "haberler": [
-    {
-     "baslik": "Venezuela ve ABD, 2005'te Chavez döneminde kesilen askeri işbirliğini yeniden başlattı",
-     "ozet": "ABD Savunma Bakanı Pete Hegseth'in Venezuela ziyaretinde, iki ülke arasında eski Venezuela Devlet Başkanı Hugo Chavez tarafından 2005'te kesilen teknik ve askeri işbirliği yeniden başlatıldı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/venezuela-ve-abd-2005te-chavez-doneminde-kesilen-askeri-isbirligini-yeniden-baslatti/4129876"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/dunya/venezuela-ve-abd-askeri-isbirligini-yeniden-baslatti-3928354"
-      }
-     ]
-    },
-    {
-     "baslik": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
-     "ozet": "Fed'in son toplantısına ilişkin tutanakları, Fed yetkililerinin neredeyse tamamının, enflasyonun zamanında hedefe dönmesini sağlamak için politika faizini artırmaya yönelik ilave adımların muhtemelen…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1NWY1RTSjVJVnJNcFFpR054LTZyTU5FN04xNWZkTmJUdU5DQ21uTDVXZWkycVRPZmdfTFMtclQwRGhLNXV3ZDdyUDdGbE5BdWRPX2xaUlY5RFJIOFhBT3F0dzBQLUkxTmFWaFFhdTA5ZWw5VXZKV3lWcFJyUkZjb3hKUGtwVGx2WmJVNnRreDRDN1FPaFVlNQ?oc=5"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-yetkililerin-neredeyse-tamaminin-ilave-faiz-artisi-bekledigini-gosterdi/4129801"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/fed-tutanaklari-neredeyse-tum-uyeler-faiz-artisindan-yana-3795047"
-      }
-     ]
-    },
-    {
-     "baslik": "Cumhurbaşkanı Erdoğan: Emeklilerimize iyileştirme yapacağız",
-     "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, emeklilere yönelik çalışmalara ilişkin, \"17 milyonu aşkın emeklimizin tamamını kapsayan bir iyileştirmeyi yüce meclisimizin de desteğiyle sene başından önce hayata…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-emeklilerimize-iyilestirme-yapacagiz-963680.html"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVpKYkhzVllkNlZhYmRRMjdreGk0ZEZtYlBtQTMydlhBa2xxVldraWNHU3hGNGc5cTNBTFRIZHM2VElvd1VCakI1dUpnUVBPaDlGNVNaeXJxNl83YW5VbF9IdXBZdkxVTHoxanhzZGlEWERBWDNZaUYwODVzNHRJLXE4aXJEcDlFbnJRdTQyckdfWWROSi1uOEdJLVRrRzFyWE45NHdIZ2tSR1JF?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Gürcistan'dan 6 firari Türkiye'ye iade edildi",
-     "ozet": "Adalet Bakanı Akın Gürlek, Gürcistan makamlarıyla yürütülen uluslararası adli işbirliği kapsamında, aralarında kırmızı bültenle aranan Ahmet Dinç ve Yusuf Namlı'nın da bulunduğu 6 firarinin…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/gurcistandan-6-firari-turkiyeye-iade-edildi-963696.html"
-      },
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785391/haber/bakan-g%C3%BCrlek-g%C3%BCrcistandan-k%C4%B1rm%C4%B1z%C4%B1-b%C3%BCltenle-aranan-su%C3%A7-%C3%B6rg%C3%BCt%C3%BC-eleba%C5%9F%C4%B1-ahmet-din%C3%A7in"
-      }
-     ]
-    },
-    {
-     "baslik": "AYM, genelev faaliyetlerini düzenleyen 96 yıllık kanun hükmünü iptal etti",
-     "ozet": "Anayasa Mahkemesi (AYM), genelevlerin devlet gözetimi ve denetimi altında faaliyet göstermesinin yasal zeminini oluşturan 96 yıllık düzenlemenin iptaline hükmetti. Karar hangi gerekçelerle alındı?",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cwe9kn34n73ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785395/haber/aym-fuh%C5%9Fun-devlet-denetiminde-yap%C4%B1lmas%C4%B1na-dayanak-olu%C5%9Fturan-kanun-h%C3%BCkm%C3%BCn%C3%BC-iptal"
-      }
-     ]
-    },
-    {
-     "baslik": "GTA 6, 13 yıllık bekleyişin ardından oyuncuların erişimine açıldı",
-     "ozet": "Grand Theft Auto serisinin merakla beklenen yeni oyunu GTA 6, oyuncuların 13 yıllık bekleyişi sonrası dünya genelinde erişime açıldı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/c8lyde1vy7g3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GZ2l1R1RHOFhsX2ZxZ1p1emx0OVl4M2JkbVJOZ2NmX25faWRqV0J6T2h1bmZUYTFrWnNTWWhKSDlqVTY1dzVLRUw3YUFFdzhMTlRHUkZnUDk5cnJCZUHSAWNBVV95cUxOQS1kaDJoR2w5UEdFeG1oMEZzYmpUQ2o5VXhRaGZIS2p3MkR6bDJMYkZ3Q3RKV3BRRVhCcTJaOHlfQ09GNVN5T2d1TTg5M3V5SWhRZGlQRzBONm9TTFAxNG1OeEk?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "KÜÇÜKÇEKMECE İCRA DAİRESİ",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/kucukcekmece-icra-dairesi-43382968"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kucukcekmece-icra-dairesi-2557067"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dunya",
-   "ad": "Dünya",
-   "haberler": [
-    {
-     "baslik": "Anthropic prices blockbuster IPO at $83 a share, source says",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
-      },
-      {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
-      },
-      {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Republican Senator Cornyn blocks Trump judicial nominee in Texas",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0NHZWwycF85Y1NfZ1lEV01yWEpOUWJacnJPRlhBeXNReGR5VXlBODhDMzF3di00amFSNjFVVkNZSGViMkxYWFg2WTBxU0kwdEN5c0FReTZoZk9rVTltSEs5Ym9vRlVQMXVVRkNVSFRXNXBjQnJsV21KVTdGWWhLNUxOMkxseE1kQ29ZOUNBTWdDUnQ1VXNQMDNiM2FHTnBMYlZYY3RiT2s2SGlBeGdjSnJWQjk?oc=5"
-      },
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnA5WkdYc21sV1ZVaHBqQTBpRnktWG1hYUw2cGh6QUtvSllCVk9rcmNWd290MjhydWRIVUlyYkE4UnRGcTNSNjBWNFBCaUVsb0NBVjNoS3lfRG5RQVdMMEZNendoajhGRkZoVG9FUl9Zc1ZmNUtEOFdmY05lbVRUc0h2WU54WnZNVV9jeWtNMVNMb084?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Cincinnati Zoo says Fiona the hippo can’t undergo surgery after swallowing a hat",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5"
-      },
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss"
-      },
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
-      }
-     ]
-    },
-    {
-     "baslik": "EU proposes fresh $49 billion loan for Ukraine as war costs mount",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQndRVDlqSy1mRWJka1d2UnFxQzlwM0c5R1R1OW9GUzVWTVJaRk8zVEhTeHBUbEhiYURRLW1UT3BJNXdGNEk4UzloeHVyYm5ZM2pTa05xc3JBZWlNTXYtNHZBUVQ3eld2YXlyaEdvUmFacWZicVlaMjh0RVVuQkh1MHFOaWZoWGxLN1JfdjNVbk9zS0x4dkNjdA?oc=5"
-      },
-      {
-       "ad": "Le Monde",
-       "link": "https://www.lemonde.fr/en/international/article/2026/11/18/eu-proposes-45-billion-loan-to-ukraine-for-2027_6783625_4.html"
-      }
-     ]
-    },
-    {
-     "baslik": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5"
-      },
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "BBC Culture & Arts",
-       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Culture",
-       "link": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ekonomi",
-   "ad": "Ekonomi & Piyasalar",
-   "haberler": [
-    {
-     "baslik": "Borsa günü düşüşle tamamladı",
-     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,57 değer kaybederek 11.477,41 puandan tamamladı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4129551"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-848113"
-      }
-     ]
-    },
-    {
-     "baslik": "COP31 kapsamındaki \"Küresel Enerji Yatırım Forumu\" yaklaşık 1 trilyon dolarlık sermayeyi bir araya getirdi",
-     "ozet": "\"Küresel Enerji Yatırım Forumu\", 60'tan fazla ülkeden 70'i aşkın kuruluşu temsil eden 60 konuşmacı ile 150'den fazla üst düzey katılımcıyı, yaklaşık 1 trilyon dolarlık varlık yönetimi ve kalkınma…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31-kapsamindaki-kuresel-enerji-yatirim-forumu-yaklasik-1-trilyon-dolarlik-sermayeyi-bir-araya-getirdi/4129575"
-      }
-     ]
-    },
-    {
-     "baslik": "Fosil yakıt kullanımını sonlandırmak için uluslararası girişime katılan ülke sayısı 30'a çıktı",
-     "ozet": "Dünyada petrol, gaz ve kömürün kullanımını aşamalı olarak sona erdirmek amacıyla uluslararası bir girişim olan Fosil Yakıt Anlaşması'na imza atan ülke sayısı 30'a yükseldi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fosil-yakit-kullanimini-sonlandirmak-icin-uluslararasi-girisime-katilan-ulke-sayisi-30a-cikti/4129496"
-      }
-     ]
-    },
-    {
-     "baslik": "COP31'de 50 tondan fazla yerli muz ikram edildi",
-     "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) devlet başkanlarına ve katılımcılara 50 tondan fazla…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-50-tondan-fazla-yerli-muz-ikram-edildi/4129348"
-      }
-     ]
-    },
-    {
-     "baslik": "60 saniyede ekonomide bugün (18 Kasım 2026)",
-     "ozet": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-18-kasim-2026/4129355"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bilim_teknoloji",
-   "ad": "Bilim, Teknoloji & Yapay Zekâ",
-   "haberler": [
-    {
-     "baslik": "Ancient fossils reveal Homo erectus survived in China some 200,000 years longer than we thought",
-     "ozet": "The ancient human species appears to have been a keen traveler, too",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Scientific American",
-       "link": "https://www.scientificamerican.com/article/ancient-fossils-reveal-homo-erectus-survived-in-china-some-200-000-years-longer-than-we-thought/"
-      },
-      {
-       "ad": "New Scientist",
-       "link": "https://www.newscientist.com/article/2599635-homo-erectus-survived-on-mainland-asia-215000-years-longer-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-      }
-     ]
-    },
-    {
-     "baslik": "Voyager 1 reaches ‘one light-day’ milestone",
-     "ozet": "The space probe Voyager 1 is humanity’s farthest and best-known interstellar “message in a bottle”—but it’s probably not the last",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Scientific American",
-       "link": "https://www.scientificamerican.com/article/voyager-1-reaches-one-light-day-milestone/"
-      },
-      {
-       "ad": "Ars Technica",
-       "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
-      }
-     ]
-    },
-    {
-     "baslik": "Antep fıstığı kabuğundan gıdaların raf ömrünü uzatan ambalaj geliştirildi",
-     "ozet": "Gaziantep Üniversitesi (GAÜN) akademisyenleri, Antep fıstığının işlenmesi sırasında ortaya çıkan kırmızı dış kabuğundan gıdaların raf ömrünü uzatan ambalaj malzemesi geliştirdi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/antep-fistigi-kabugundan-gidalarin-raf-omrunu-uzatan-ambalaj-gelistirildi/4129861"
-      }
-     ]
-    },
-    {
-     "baslik": "GEZGİN Uydu Görüntü Portalı üzerinden iklim değişikliğinin etkileri de gözlemlenebiliyor",
-     "ozet": "Bakan Kacır, Türkiye'nin Gerçek Zamanlı Görüntü İşleme Portalı'nın (GEZGİN) tarım alanlarından bitki örtüsüne, su kaynaklarından arazi kullanımına kadar pek çok değişimin izlenerek analiz edilmesine…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/gezgin-uydu-goruntu-portali-uzerinden-iklim-degisikliginin-etkileri-de-gozlemlenebiliyor/4129343"
-      }
-     ]
-    },
-    {
-     "baslik": "NASA'nın uzay aracı Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşarak tarihe geçti",
-     "ozet": "ABD Havacılık ve Uzay Ajansının (NASA) 1977'de uzaya gönderdiği Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşan ilk insan yapımı nesne oldu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nasanin-uzay-araci-voyager-1-dunyadan-bir-isik-gunu-uzakliga-ulasarak-tarihe-gecti/4129247"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "saglik",
-   "ad": "Sağlık",
-   "haberler": [
-    {
-     "baslik": "Regulator mistakenly sent complaints about doctors to newspaper",
-     "ozet": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "'Best night' of Dáithí's life all thanks to organ donation",
-     "ozet": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-     "ozet": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "spor",
-   "ad": "Spor",
-   "haberler": [
-    {
-     "baslik": "Leicester split with sponsor after porn actress row",
-     "ozet": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship"
-      }
-     ]
-    },
-    {
-     "baslik": "Buurman rescues late Chelsea win against PSG",
-     "ozet": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report"
-      }
-     ]
-    },
-    {
-     "baslik": "Volkan Demirel, Gaziantep FK'yi üst sıralara taşımak istiyor",
-     "ozet": "Trendyol Süper Lig ekiplerinden Gaziantep FK'nin teknik direktörü Volkan Demirel, takımdaki oyuncuların kalitesine ve şehrin desteğine güvendiğini belirterek, kırmızı-siyahlı ekibi üst sıralara…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/volkan-demirel-gaziantep-fkyi-ust-siralara-tasimak-istiyor/4129435"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kultur",
-   "ad": "Kültür & Sanat",
-   "haberler": [
-    {
-     "baslik": "\"In a Manner of Speaking\" filminin çekimleri İstanbul'da gerçekleştirildi",
-     "ozet": "Yönetmen Eylem Kaftan ile Fransız müzisyen ve Nouvelle Vague grubunun kurucusu Marc Collin'in ortak yönetmenliğini üstlendiği Fransız-Türk ortak yapımı \"In a Manner of Speaking\" filminin çekimleri…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/in-a-manner-of-speaking-filminin-cekimleri-istanbulda-gerceklestirildi/4129707"
-      }
-     ]
-    },
-    {
-     "baslik": "Genç piyanist İlyun Bürkev uluslararası sahnelerde adından söz ettiriyor",
-     "ozet": "Uluslararası alanda elde ettiği başarılarla klasik müzik dünyasının öne çıkan genç piyanistlerinden İlyun Bürkev, önümüzdeki dönemde müzikseverlerle buluşacağı yoğun bir konser programına…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/genc-piyanist-ilyun-burkev-uluslararasi-sahnelerde-adindan-soz-ettiriyor/4129439"
-      }
-     ]
-    }
-   ]
-  }
- ],
- "farkli_bakislar": [],
- "makaleler": [
-  {
-   "pmid": "43050191",
-   "baslik_en": "Prevalence of Chronic Traumatic Encephalopathy Without Contact Sport Repetitive Head Impact Exposure: A Systematic Review and Meta-Analysis.",
-   "baslik_tr": "Prevalence of Chronic Traumatic Encephalopathy Without Contact Sport Repetitive Head Impact Exposure: A Systematic Review and Meta-Analysis.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Mastrodicasa MJ",
-    "Olson GH",
-    "Guo RC",
-    "et al."
-   ],
-   "tur": "Systematic Review, Meta-Analysis",
-   "ozet_en": "IMPORTANCE: A pooled baseline prevalence of chronic traumatic encephalopathy (CTE) in populations without repetitive head impact (RHI) exposure is needed to contextualize prevalence in other cohorts. OBJECTIVE: To estimate the pooled prevalence of CTE in populations without documented contact sport-based RHI exposure. DATA SOURCES: PubMed and Embase were searched from inception through February 23, 2026, using terms for CTE, prevalence, epidemiology, and neuropathology.",
-   "ozet_tr": "IMPORTANCE: A pooled baseline prevalence of chronic traumatic encephalopathy (CTE) in populations without repetitive head impact (RHI) exposure is needed to contextualize prevalence in other cohorts. OBJECTIVE: To estimate the pooled prevalence of CTE in populations without documented contact sport-based RHI exposure. DATA SOURCES: PubMed and Embase were searched from inception through February 23, 2026, using terms for CTE, prevalence, epidemiology, and neuropathology.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43050191/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43928"
-  },
-  {
-   "pmid": "43050192",
-   "baslik_en": "Commercial Health Care Prices and Medical Debt in the US.",
-   "baslik_tr": "Commercial Health Care Prices and Medical Debt in the US.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Blavin F",
-    "Braga B",
-    "Pugazhendhi A",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "IMPORTANCE: Medical debt remains a major source of financial strain for US households. Although commercial health care prices vary substantially across markets, little is known about how these prices are associated with medical debt. OBJECTIVE: To examine the association between changes in commercial to Medicare price ratios and changes in medical debt in collections across US local markets. DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used data from multiple geographic areas (referred to hereinafter as geozips) in the US.",
-   "ozet_tr": "IMPORTANCE: Medical debt remains a major source of financial strain for US households. Although commercial health care prices vary substantially across markets, little is known about how these prices are associated with medical debt. OBJECTIVE: To examine the association between changes in commercial to Medicare price ratios and changes in medical debt in collections across US local markets. DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used data from multiple geographic areas (referred to hereinafter as geozips) in the US.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43050192/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43409"
-  },
-  {
-   "pmid": "43050187",
-   "baslik_en": "Cost-Effectiveness of Alcohol Use Disorder Treatment for Alcohol-Associated Liver Disease.",
-   "baslik_tr": "Cost-Effectiveness of Alcohol Use Disorder Treatment for Alcohol-Associated Liver Disease.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Gerber A",
-    "Agyekum A",
-    "Yang JY",
-    "et al."
-   ],
-   "tur": "",
-   "ozet_en": "IMPORTANCE: Alcohol-associated liver disease (ALD) is a leading cause of liver-related mortality and liver transplant. Combined behavioral interventions (CBI) and medications for alcohol use disorder (MAUD) are underutilized. Thus, it is critical to identify optimal therapeutic and cost-effective windows for CBI and MAUD in patients with ALD at earlier fibrosis stages. OBJECTIVE: To evaluate the cost-effectiveness of naltrexone and CBI in preventing cirrhosis in patients with ALD compared with no treatment. DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation used a Markov state-transition model simulating lifetime disease progression and health care costs associated with ALD.",
-   "ozet_tr": "IMPORTANCE: Alcohol-associated liver disease (ALD) is a leading cause of liver-related mortality and liver transplant. Combined behavioral interventions (CBI) and medications for alcohol use disorder (MAUD) are underutilized. Thus, it is critical to identify optimal therapeutic and cost-effective windows for CBI and MAUD in patients with ALD at earlier fibrosis stages. OBJECTIVE: To evaluate the cost-effectiveness of naltrexone and CBI in preventing cirrhosis in patients with ALD compared with no treatment. DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation used a Markov state-transition model simulating lifetime disease progression and health care costs associated with ALD.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43050187/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44980"
-  }
- ]
+  ]
 }
