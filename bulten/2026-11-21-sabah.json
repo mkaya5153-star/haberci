@@ -1,11 +1,12 @@
 {
  "tarih": "2026-11-21",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Cuma gecesi gündemi fon soruşturmasındaki yakalama, ABD-İran müzakereleri ve Antalya'da uzayan COP31 zirvesi belirledi. Piyasalarda yapay zekâ hisselerindeki satış Nasdaq'ın yıllık kazanımlarını sildi, Borsa İstanbul günü sert düşüşle kapattı.",
  "one_cikanlar": [
   {
-   "baslik": "Uluslararası seviyede aranan Serdar Altınbaş, Çekya'da yakalandı",
-   "ozet": "İçişleri Bakanlığı, \"Sermaye Piyasası Kanuna muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama\" suçlarından difüzyonla, uluslararası seviyede aranan Serdar Altınbaş'ın Çekya'da…",
+   "baslik": "Fon soruşturmasında aranan Serdar Altınbaş Çekya'da yakalandı",
+   "ozet": "İçişleri Bakanlığı, Sermaye Piyasası Kanunu'na muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarından difüzyonla aranan Serdar Altınbaş'ın Çekya'da yakalandığını duyurdu. İstanbul Cumhuriyet Başsavcılığı ise soruşturma kapsamında 108 kişinin mal varlıkları üzerinde işlem yapılması halinde kendisine bildirim yapılmasını istedi.",
+   "neden_onemli": "Tasfiye edilen fonlara ilişkin soruşturmada önemli bir gelişme.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
@@ -21,15 +22,15 @@
      "link": "https://www.indyturk.com/node/785472/haber/sermaye-piyasas%C4%B1-kanunu%E2%80%99na-muhalefetten-aranan-serdar-alt%C4%B1nba%C5%9F-%C3%A7ekya%E2%80%99da-yakaland%C4%B1"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/bakanlik-duyurdu-fon-sorusturmasinda-onemli-gelisme-serdar-altinbas-cekyada-yakalandi-43385596"
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/gundem/son-dakika-serdar-altinbas-yakalandi-3928911"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "ABD Başkanı Trump: İran’la gerçek anlaşma istiyorum",
-   "ozet": "ABD Başkanı Donald Trump, Beyaz Saray’da düzenlediği basın toplantısında İran’la devam eden müzakerelere ilişkin açıklamalarda bulundu. Petrol fiyatlarının İran’la yapılacak olası bir anlaşmaya da…",
+   "baslik": "Trump: İran'la gerçek bir anlaşma istiyorum",
+   "ozet": "ABD Başkanı Donald Trump, Beyaz Saray'daki basın toplantısında İran'la süren müzakerelere ilişkin açıklamalar yaptı. Bazı Türk yayın organları Trump'ın anlaşma teklifini reddettiğini aktardı. Reuters'in aktardığına göre ise İranlı Arakçi diplomasiyle savaşın bitirilmesini istediklerini söylerken Trump şartları kabul edilemez buldu.",
+   "neden_onemli": "ABD-İran müzakereleri bölgesel güvenliği ve petrol fiyatlarını etkileyebilecek bir başlık.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
@@ -45,87 +46,62 @@
      "link": "https://www.haberturk.com/dunya/son-dakika-trump-iran-la-anlasmayi-reddettim-3928893"
     },
     {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/dunya/abd-baskani-trump-akaryakit-fiyatlari-iranla-nasil-anlasacagimiza-bagli-7706012"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Cumhurbaşkanı Erdoğan, Kadim Dostlar Buluşması'na katıldı",
-   "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Kadim Dostlar Buluşması'na katıldı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasina-katildi/4132464"
-    },
-    {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785468/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-kadim-dostlar-bulu%C5%9Fmas%C4%B1na-kat%C4%B1ld%C4%B1"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasi-na-katildi-3928895"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/20/baskan-erdogan-kadim-dostlar-bulusmasina-katildi"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Mustafa Sarıgül'ün dokunulmazlığının kaldırılması için fezleke hazırlandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığı, bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında dokunulmazlığının kaldırılması talebiyle fezleke hazırlayarak Adalet Bakanlığına gönderdi.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigulun-dokunulmazliginin-kaldirilmasi-icin-fezleke-hazirlandi-963981.html"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/mustafa-sarıgül-için-fezleke-ankara-başsavcılığından-dokunulmazlık-hamlesi/a-80004935?maca=tur-rss-tur-all-1495-rdf"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/son-dakika-mustafa-sarigul-hakkinda-dokunulmazliginin-kaldirilmasi-talebiyle-fezleke-hazirlandi-43385293"
-    },
-    {
      "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-icin-dokunulmazlik-fezlekesi-duzenlendi-p383087"
+     "link": "https://www.sozcu.com.tr/trump-iran-aciklamasi-20-kasim-2026-p383114"
     }
-   ],
-   "neden_onemli": ""
+   ]
   },
   {
-   "baslik": "Kredi kartı asgari ödeme oranlarına ve konut kredilerine düzenleme",
-   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararıyla limiti 100 ila 200 bin lira olan kredi kartlarının asgari ödeme oranı yüzde 30'a indirildi. Limiti 200 bin liranın üzerinde olan kartlarda…",
+   "baslik": "Trump: Yurt dışında veri merkezi kuran şirketler cezalandırılacak",
+   "ozet": "Reuters'in aktardığına göre Trump, ABD dışında veri merkezi kuran şirketlere yaptırım uygulanacağını söyledi. Financial Times, Trump'ın bu merkezler için \"büyük bir vergi\" tehdidinde bulunduğunu ve gerekçe olarak Çin'in yapay zekâ teknolojisinde öne geçmesini engellemeyi gösterdiğini yazdı.",
+   "neden_onemli": "Yapay zekâ yatırımlarının nerede yapılacağını etkileyebilecek bir ticaret ve sanayi politikası sinyali.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/ekonomi/kredi-karti-asgari-odeme-oranlarina-ve-konut-kredilerine-duzenleme-963976.html"
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5"
     },
     {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/20/kredi-karti-asgari-odeme-tutarlarina-yeni-duzenleme"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtzQUtZSkNqOE9ReXZEMTlIRVNjOEdzRVp0b1E1UkFiYncyMGpadjRFV1ZSeDJqSnJuRnhhZ3JvRkt3ZG9BNlN3Z0VESFpTbHFTREp6bzVFWnBKZVNweW5wUUVpMzFaZk14UzA3RFVveWdDUW9rVjI1dTZOeEVVeGl5Ql9QYVFpdWl3cm15VHg4SlZNVXR3dWVuTm0xVk1HZkZZdg?oc=5"
     },
     {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/ekonomi/son-dakika-kredi-karti-asgari-odeme-tutari-yuzde-30a-dusuruldu-7705879"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/son-dakika-kredi-kartlarinda-asgari-odeme-oranlarinda-degisiklik-p383076"
-    },
-    {
-     "ad": "Anadolu Ajansı Ekonomi",
-     "link": "https://www.aa.com.tr/tr/ekonomi/bddkden-kredi-kartlarina-ve-konut-kredilerine-iliskin-duzenleme/4132248"
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
     }
-   ],
-   "neden_onemli": ""
+   ]
+  },
+  {
+   "baslik": "Nasdaq 2026'daki tüm kazanımlarını sildi",
+   "ozet": "Guardian'a göre yapay zekâ hisselerindeki satış dalgası Nasdaq'ın yıl başından bu yana kazanımlarının tamamını silmesine yol açtı; Anthropic'in borsadaki ikinci işlem günü de bu düşüşü tersine çeviremedi. Reuters ise Nasdaq'ın Anthropic'in halka arzının ertesi günü yüzde 5 düştüğünü bildirdi.",
+   "neden_onemli": "Yapay zekâ hisselerindeki sert düşüş küresel piyasaları ve yatırımcı beklentilerini etkiliyor.",
+   "etiket": "tek kaynak",
+   "kaynaklar": [
+    {
+     "ad": "The Guardian Business",
+     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    }
+   ]
+  },
+  {
+   "baslik": "COP31'de fosil yakıt tıkanıklığı: zirve uzadı",
+   "ozet": "Antalya'daki BM iklim zirvesi COP31, fosil yakıt konusundaki anlaşmazlık nedeniyle planlanan sürenin ötesine uzadı. Al Jazeera'ya göre AB, taslak metinde kritik iklim taahhütlerinin yer almamasından dolayı zirvenin \"fosil zirvesi\"ne dönme riskini taşıdığı uyarısında bulundu.",
+   "neden_onemli": "Küresel iklim politikasının yönünü belirleyecek müzakereler Türkiye'de sürüyor.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+    },
+    {
+     "ad": "Politico Europe",
+     "link": "https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    }
+   ]
   }
  ],
  "bolumler": [
@@ -134,107 +110,91 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Sözcü soruşturmasında yöneticilere adli kontrol ve ev hapsi",
-     "ozet": "Sözcü Grubu'na yönelik soruşturma kapsamında gözaltına alınan 4 mevcut ve eski yöneticinin savcılık işlemleri tamamlandı. Hakimlik üç kişiye adli kontrol, bir kişiye ev hapsi uygulanmasına hükmetti.",
+     "baslik": "Özlale'nin yeni iddiaları: Albayrak Grubu'ndan Bakan Bolat'a uzanan dosya",
+     "ozet": "BBC Türkçe'ye göre Ümit Özlale, 20 Kasım'da TBMM'de düzenlediği basın toplantısında dosya serisinin beşincisini açıkladı ve Albayrak Grubu şirketlerinden Ticaret Bakanı Ömer Bolat'a uzanan iddialar ileri sürdü. Bolat, iddiaları yalanladı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cm702wv2144go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785471/haber/ticaret-bakan%C4%B1-bolat-hakk%C4%B1ndaki-iddialar%C4%B1-yalanlad%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Türkiye ICAO Konseyi üyeliğine seçildi",
+     "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin Uluslararası Sivil Havacılık Örgütü Konseyi seçimlerinde 158 oyun 133'ünü alarak konsey üyeliğine seçildiğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-sivil-havacilik-orgutu-konsey-uyeligine-secildi/4132606"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/turkiye-uluslararasi-sivil-havacilik-orgutu-konseyine-secildi-3928924"
+      }
+     ]
+    },
+    {
+     "baslik": "Mustafa Sarıgül hakkındaki fezleke Adalet Bakanlığı'na gönderildi",
+     "ozet": "DW Türkçe'ye göre Mustafa Sarıgül hakkında 5 ayrı suçtan hazırlanan fezleke Adalet Bakanlığı'na gönderildi. Dosya TBMM'ye iletildiğinde Sarıgül hakkındaki süreç başlayacak.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/sözcü-soruşturmasında-yöneticilere-adli-kontrol-ve-ev-hapsi/a-79999894?maca=tur-rss-tur-all-1495-rdf"
-      },
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/20/sozcu-tv-operasyonunda-gozaltina-alinan-4-isim-icin-adli-kontrol-karari"
-      }
-     ]
-    },
-    {
-     "baslik": "‘Fiyat hatası’ diyerek iptal edilen siparişe 1 milyon TL ceza",
-     "ozet": "TİCARET Bakanlığı Reklam Kurulu, bir e-ticaret platformu üzerinden satın alınan siparişlerin ‘fiyat hatası’ gerekçesiyle iptal edilmesine ilişkin ilgili şirkete 1 milyon 83 bin 706 TL idari para…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/fiyat-hatasi-diyerek-iptal-edilen-siparise-1-milyon-tl-ceza-43385593"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/ekonomi/fiyat-hatasi-iptaline-1-milyon-tl-ceza-3928915"
-      }
-     ]
-    },
-    {
-     "baslik": "Dinyeper Nehri'ne hava saldırısı: Kiev karanlığa gömüldü",
-     "ozet": "Rusya, Ukrayna'nın doğusu ile batısını birbirine bağlayan stratejik Dinyeper Nehri üzerindeki Güney ve Kuzey köprülerini vurdu. Başkent Kiev'de art arda düzenlenen hava saldırıları sonucu elektrik…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/dinyeper-nehrine-hava-saldirisi-kiev-karanliga-gomuldu-43384998"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFgyZlFiTVpVY01LMzMyZmJkSW56WTdoc3JJenl1clRfOVJHcEd5QVpkYlhIVkVnQ2hIendPT1lpY0IycnpXZHZCNVV5WnZyMmZGSzh4Y2pDZjNFTjZraGpVUXR5ZUtlOHdpVjJvTUdEcG84ZGYxLWl5aVJ1bzRrZW5wNXpJRnNFMGI2WlEzZ3VLdnlfWkttTjk2LU1oZw?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Destek Holding AŞ'ye kayyum atandı",
-     "ozet": "Tasarruf Mevduatı Sigorta Fonu'nun (TMSF) Destek Holding AŞ'ye kayyum olarak atanmasının ardından şirketin yönetim kurulu başkanlığı ve üyeliklerine atamalar yapıldı",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/ekonomi/destek-holding-as-ye-kayyum-atandi-3928906"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemVrZ2VDbWMtRWVrZmVhemRIS1h1ZldWb3JOQ1A5RjRpUXZqdnQzV3FTa1M1N202YXltbHEyQ3REcVNGT2hTbHlQdklySG5GeGw2NVhqZTdfdUlLcGdEOWZZcGNNLWNGU0lhZTVKVmE3dHN5Z2QtT1NQZmFzQmxOVk5vUlgxbUtNTnI3M1RGSXVrakFHRjd1TU1ueWxPejZkVEdyQ3lZRWQ?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Bakan Uraloğlu'ndan HGS açıklaması: İcra takipleri durduruldu",
-     "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS tartışmalarına ilişkin açıklama yaptı. Bakan Uraloğlu, Hızlı Geçiş Sistemi (HGS) geçişleriyle ilgili özel otoyol şirketlerince yürütülen icra ve…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/yasam/bakan-uraloglundan-hgs-aciklamasi-icra-takipleri-durduruldu-7705901"
+       "link": "https://www.dw.com/tr/mustafa-sarıgül-için-fezleke-ankara-başsavcılığından-dokunulmazlık-hamlesi/a-80004935?maca=tur-rss-tur-all-1495-rdf"
       },
       {
        "ad": "Sözcü",
-       "link": "https://www.sozcu.com.tr/son-dakika-bakan-uraloglu-ndan-hgs-aciklamasi-p383090"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglundan-sureyi-asan-hgs-tahsilatlariyla-ilgili-aciklama/4132319"
+       "link": "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-icin-dokunulmazlik-fezlekesi-duzenlendi-p383087"
       }
      ]
     },
     {
-     "baslik": "Moody's, Türkiye'deki fon gelişmelerinin sistemik bir risk oluşturmadığını belirtti",
-     "ozet": "Moody's Sovereign Risk Kıdemli Başkan Yardımcısı Alexander Perjessy, Türkiye'de tasfiye sürecinde olan fonlarla ilgili gelişmelerin sistemik bir risk oluşturmasını beklemediklerini, bu durumun kredi…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/ekonomi/moodys-turkiyedeki-fon-gelismelerinin-sistemik-bir-risk-olusturmadigini-belirtti/4132611"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/moodys-turkiyedeki-fon-gelismelerinin-sistemik-bir-risk-olusturmadigini-belirtti/4132611"
-      }
-     ]
-    },
-    {
-     "baslik": "Lübnan Başbakanı, İsrail işgalini sona erdirmek için ellerinden geleni yapacaklarını söyledi",
-     "ozet": "Lübnan Başbakanı Nevvaf Selam, ülkenin güneyindeki İsrail işgalinin son bulması için hükümet olarak ellerinden geleni yapacaklarını belirtti.",
+     "baslik": "İmamoğlu'ndan süreç mektubu",
+     "ozet": "BBC Türkçe'ye göre Ekrem İmamoğlu, Silivri'deki cezaevinden yazdığı mektupta çözüm sürecine destek verdi; \"Ben iktidarı desteklemiyorum ama evet barışı ve huzuru destekliyorum\" dedi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/lubnan-basbakani-israil-isgalini-sona-erdirmek-icin-ellerinden-geleni-yapacaklarini-soyledi/4132595"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cqm2lnlxz7d3o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Selçuk Bayraktar: Güvenlik güçlerine ilk insansız savaş uçağı teslim edildi",
+     "ozet": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar'a göre KIZILELMA, dünyada ilk kez güvenlik güçlerine teslim edilen insansız savaş uçağı oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/selcuk-bayraktar-dunyada-ilk-kez-guvenlik-guclerine-bir-insansiz-savas-ucagi-teslim-edildi-43385491"
+      }
+     ]
+    },
+    {
+     "baslik": "Fon soruşturmasında 108 kişinin mal varlığı için bildirim talebi",
+     "ozet": "İstanbul Cumhuriyet Başsavcılığı, \"fon soruşturması\" kapsamında 108 kişinin mal varlıkları üzerinde işlem yapılmak istenirse ilgili kurumların kendisine bildirimde bulunmasını istedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/fon-sorusturmasinda-108-kisinin-mal-varligi-islemleri-icin-bildirim-talebi-3795364"
+      }
+     ]
+    },
+    {
+     "baslik": "Destek Holding'in yönetim kurulu oluşturuldu",
+     "ozet": "TMSF'nin 19 Kasım'da kayyum olarak atandığı Destek Holding'de, Destek Finans Faktoring'in KAP açıklamasına göre TMSF Fon Kurulu'nun kararıyla yönetim kurulu belirlendi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/destek-holding-e-kayyum-atandi-3795350"
       }
      ]
     }
@@ -245,107 +205,135 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Second judge blocks Trump's triumphal arch, calling it a 'rushed job'",
-     "ozet": "",
+     "baslik": "Missouri'de Bayer'in 7,25 milyar dolarlık Roundup uzlaşması onaylandı",
+     "ozet": "Reuters'e göre Missouri'de bir yargıç, Bayer'in 7,25 milyar dolarlık Roundup uzlaşmasını onayladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3l1OGtkWDFDWVotN3ZQazJBOWVuVUFqaFBQSWR1WWpUY0s1TnNsMnJlSmlzN3VuSTVnX0FKT1ItRm93RFhPYm9URXBzYnRIZW04NndYNlVQVncxZ3BmcTZ2U21NVVZBZDZwRERERjJ2czFyNHlnU2ZrbjVGa09XMW92dmdLVDB3UmRzbTlHRXprS2wyV0RWeXowVWJOWlAzUGpQbm1MVkg0NHM4UWVlSnM4MnU?oc=5"
       },
       {
-       "ad": "NPR",
-       "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdE1pUUZWQjVLZWF3bzVPQVZNOWFQZzNxSUVGdVFpeVY0d3d0TGE3Q2dsQ2RrYU5hQlI4Z2ROVkR2YnptQzFnRDFibExkNkptYzZzMGFZTlBWX3hsa21BSXVjNWxjWjNTR3lOOUxtX2owTmVzQk84NHg1eXB2TVNJNjFhRG05SDBRMVIwSS1DMW5WU2RjSC0xSk1zNHZhblRNdlAwQ05hcktTcThaXzhYWQ?oc=5"
+      },
+      {
+       "ad": "DW English",
+       "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/environment/article/2026/11/21/us-judge-approves-7-25-billion-roundup-cancer-settlement_6785770_114.html"
       }
      ]
     },
     {
-     "baslik": "UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit",
-     "ozet": "",
+     "baslik": "Paris'te polisler Michel Zecler'i dövmekten hapis cezası aldı",
+     "ozet": "Bir Paris mahkemesi, 2020'de siyahi müzik yapımcısı Michel Zecler'e saldıran üç polisi hapis cezasına çarptırdı; saldırı kamerayla görüntülenmişti ve nadir görülen bir karar olarak nitelendirildi. BBC'ye göre mahkeme saldırıda ırkçılığı ağırlaştırıcı unsur olarak kabul etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "France 24",
+       "link": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Danimarka, Rus diplomatı sınır dışı edecek",
+     "ozet": "Guardian'a göre Danimarka Dışişleri Bakanı, Kopenhag'daki Rus savunma ataşesinin sınır dışı edileceğini söyledi. Rus istihbaratının, ABD-Ukrayna vatandaşı müzisyen Kyivstoner'a yönelik suikast planının arkasında olduğundan şüpheleniliyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+      },
+      {
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Sih ayrılıkçı lidere suikast planında Hintli Nikhil Gupta'ya 19 yıldan fazla hapis",
+     "ozet": "BBC'ye göre Nikhil Gupta, ABD merkezli Sih ayrılıkçı lidere yönelik suikast planı nedeniyle 19 yılı aşkın hapis cezasına çarptırıldı. Gupta şubat ayında kiralık cinayet, cinayete azmettirme ve kara para aklama suçlamalarını kabul etmişti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Mamdani, Rikers Island hapishanesini kapatma planını açıkladı",
+     "ozet": "AP'ye göre Mamdani, kentin sorunlu Rikers Island hapishanesini kapatmaya yönelik planını açıkladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUdYbjJUMHZtQVZHWDJKSGNIRWdjY2M4ei1YTzJEMXdjX1ZLbGlKT0tGd205UENPZHFwN0JEYzdVMHE5dVphbTB0NXpjVmN2SXZrYklTNTB1Wnh3aXRvRXBMcC1KbWVLZ2R3azVaRWQxSXl6ZS03VF9lNkZ4bzg1SFBFN3BkYXppdkNfX0tnQ1pYUQ?oc=5"
       },
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-     "ozet": "Other tech companies have also taken a hit as share markets broadly slump.",
-     "etiket": "teyitli",
-     "kaynaklar": [
       {
        "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss"
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032"
       }
      ]
     },
     {
-     "baslik": "What we know about the latest Russian missile strikes on Ukraine",
-     "ozet": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+     "baslik": "Avrupa'da işçi ve öğrenci protestoları; İtalya'da grev hizmetleri aksattı",
+     "ozet": "AP'ye göre Avrupa genelinde işçiler ve öğrenciler protesto gösterileri düzenledi; İtalya'daki grev bazı hizmetleri aksattı.",
      "etiket": "teyitli",
      "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFlKamwzV1Zfbm9XMktPSUY2YWxfbUM3aXpna2ZycjFTaVBfOC1DVGExYUhMQ1JFM3h1S0Vkc1h5S0prXzBScTlBNFE1d2o3NlBxTk03T3NoYkFlX2Iza3FtWUZiSktkOGstenR3Nk1vY0QyZ1FPUTdiN1VDRTJNa01qcXIyNFZKS1JlTFRzZTBydTVKcDlTSVM2bG9MRHFfRVhVSDBRbzQ5Yk5JQW9pbVJRVmV3QQ?oc=5"
+      },
       {
        "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Le Monde",
-       "link": "https://www.lemonde.fr/en/international/article/2026/11/20/russian-strikes-on-kyiv-kill-at-least-six_6785275_4.html"
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/20/thousands-protest-across-europe-demanding-better-wages-and-services"
       }
      ]
     },
     {
-     "baslik": "The latest from Trump's press conference",
-     "ozet": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+     "baslik": "Fransa Senatosu polis ateşli silah kullanımı yasasını onayladı",
+     "ozet": "Reuters'e göre Fransa Senatosu, eleştirmenlerce \"öldürme ruhsatı\" olarak adlandırılan polis ateşli silah kullanımı yasasını onayladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "NPR",
-       "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1REWkppS2F2SjhjZkk2S2NYbW5HTkNsenZuaWJTRjQ0dUxXUm1rNkltdzdlM3VTY19yTTJZZjhUODB6T01sdjNNRUVFdTFlNGFLOVpvdF91X2hUU2RaaTFhSFhDdWt6YTZWeWdQUFlxNllYcEE0T2hpWXVnb1p5amxHMmNoUjRaTzZHS0QtVEMzUnJFRU9wNURJWFpnTWVwbnRGbWdFOEY5WVlCRHZYR2QxSk5aa00?oc=5"
       },
       {
        "ad": "France 24",
-       "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin"
-      }
-     ]
-    },
-    {
-     "baslik": "Trump touts meeting with Xi and Putin but offers little results",
-     "ozet": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "NPR",
-       "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
-      }
-     ]
-    },
-    {
-     "baslik": "France investigates actor Depardieu, writer Houellebecq over alleged gang rape",
-     "ozet": "French police are investigating allegations actor and convicted sex offender Gérard Depardieu raped and assaulted a woman with the complicity of bestselling author Michel Houellebecq during a 2018…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape"
-      },
-      {
-       "ad": "Le Monde",
-       "link": "https://www.lemonde.fr/en/france/article/2026/11/20/france-investigates-actor-depardieu-author-houellebecq-over-alleged-gang-rape_6785704_7.html"
+       "link": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists"
       }
      ]
     }
@@ -356,8 +344,8 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Ons altın faiz beklentileri ve teknoloji hisselerindeki satışlarla 14 ayın en düşük seviyesinde",
-     "ozet": "Küresel piyasalarda altının ons fiyatı, ABD Merkez Bankasının (Fed) faiz oranlarını daha agresif artırabileceği beklentisi ve yapay zeka hisselerindeki sert düşüşün tetiklediği satış baskısıyla Eylül…",
+     "baslik": "Ons altın 14 ayın en düşük seviyesinde",
+     "ozet": "Anadolu Ajansı'na göre ons altın, Fed'in faizleri daha agresif artırabileceği beklentisi ve yapay zekâ hisselerindeki sert düşüşün yarattığı satış baskısıyla 14 ayın en düşük seviyesine indi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -371,38 +359,45 @@
      ]
     },
     {
-     "baslik": "Anthropic halka arz sürecinin tamamlandığını bildirdi",
-     "ozet": "Claude yapay zeka modellerinin geliştiricisi Anthropic, aracı kurumların ek satış opsiyonunun tamamını kullanmasıyla toplam 1 milyar 127 milyon hisse satışı yapıldığını ve ilk halka arz sürecinin…",
-     "etiket": "teyitli",
+     "baslik": "Borsa İstanbul günü yüzde 2,36 düşüşle kapattı",
+     "ozet": "BIST 100 endeksi günü yüzde 2,36 değer kaybederek 11.131,32 puandan tamamladı. Hisse senetleri haftalık bazda yüzde 6,01 değer kaybetti.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-halka-arz-surecinin-tamamlandigini-bildirdi/4132374"
+       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4132381"
+      }
+     ]
+    },
+    {
+     "baslik": "Moody's: Türkiye'deki fon gelişmeleri sistemik risk oluşturmuyor",
+     "ozet": "Moody's yetkilisi Alexander Perjessy, Türkiye'de tasfiye sürecindeki fonlara ilişkin gelişmelerin sistemik bir risk oluşturmasını beklemediklerini söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/moodys-turkiyedeki-fon-gelismelerinin-sistemik-bir-risk-olusturmadigini-belirtti/4132611"
       },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/moody-s-ten-turkiye-deki-fon-surecine-iliskin-aciklama-3928932"
+      }
+     ]
+    },
+    {
+     "baslik": "Fed'den Cook: Gecikme daha sert faiz artışına yol açabilir",
+     "ozet": "Bloomberg HT'ye göre Fed Yönetim Kurulu Üyesi Lisa Cook, enflasyonu düşürmek için faizlerin acilen artırılması gerektiğini, gecikmenin ileride daha hızlı ve yüksek artışlar gerektirebileceğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
       {
        "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/anthropic-halka-arz-surecinin-tamamlandigini-acikladi-3795339"
+       "link": "https://www.bloomberght.com/fedcook-gecikme-daha-sert-faiz-artisina-yol-acabilir-3795351"
       }
      ]
     },
     {
-     "baslik": "Organik tarım alanlarından alınacak bakterilerle iklim dostu biyolojik ajanlar geliştirilecek",
-     "ozet": "Selçuk Üniversitesi, Tarım ve Orman Bakanlığı Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü (TAGEM) ve özel sektör işbirliğiyle başlatılan projede, Akdeniz'den elde edilecek faydalı…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/organik-tarim-alanlarindan-alinacak-bakterilerle-iklim-dostu-biyolojik-ajanlar-gelistirilecek/4131882"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/sektorler/tarim/iklim-dostu-biyolojik-alanlar-haberi-848352"
-      }
-     ]
-    },
-    {
-     "baslik": "Andy Burnham begins to undo Brexit with landmark EU deal",
-     "ozet": "Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next",
+     "baslik": "Birleşik Krallık ile AB arasında yeni anlaşma",
+     "ozet": "Financial Times'a göre Andy Burnham, AB ile Brexit'in bazı yönlerini geri almaya başlayan bir anlaşma yaptı. Guardian'a göre taraflar gıda ve içecek, emisyon ticareti ve gençlik programı konularında uzlaştı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -416,17 +411,17 @@
      ]
     },
     {
-     "baslik": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-     "ozet": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+     "baslik": "Anthropic halka arz sürecini tamamladı",
+     "ozet": "Anadolu Ajansı'na göre Anthropic, aracı kurumların ek satış opsiyonunu tamamen kullanmasıyla toplam 1 milyar 127 milyon hissenin satıldığını bildirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-halka-arz-surecinin-tamamlandigini-bildirdi/4132374"
       },
       {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/anthropic-halka-arz-surecinin-tamamlandigini-acikladi-3795339"
       }
      ]
     }
@@ -437,8 +432,8 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
-     "ozet": "Researchers are near to completing their verification of a claimed solution to the most important unsolved problem in math",
+     "baslik": "Riemann hipotezi için yapay zekâ destekli kanıt iddiası",
+     "ozet": "Scientific American'a göre bağımsız matematikçiler, yapay zekâ destekli bir ekibin ortaya koyduğu Riemann hipotezi çözümünün neredeyse kesinlikle doğru olduğunu belirtiyor ve doğrulama çalışmalarını tamamlamaya yaklaşıyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -447,51 +442,51 @@
       },
       {
        "ad": "New Scientist",
-       "link": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+       "link": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       }
      ]
     },
     {
-     "baslik": "COP31'deki TÜBİTAK Bilim Merkezi'ne yoğun ilgi",
-     "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) TÜBİTAK'ın kurduğu Bilim Merkezi, başta çocuklar…",
+     "baslik": "Navier-Stokes problemi için yapay zekâ destekli yeni kanıt",
+     "ozet": "Scientific American'a göre N.Y.U.'dan Tristan Buckmaster ve Anthropic çalışanı Levent Alpöge, Navier-Stokes denklemlerinde patlama (blowup) sorununa yapay zekâ destekli yeni bir kanıt sundu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cop31deki-tubitak-bilim-merkezine-yogun-ilgi/4132468"
+       "ad": "Scientific American",
+       "link": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
       }
      ]
     },
     {
-     "baslik": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, KIZILELMA hayalini anlattı",
-     "ozet": "Baykar Yönetim Kurulu Başkanı Bayraktar, insansız hava araçları üzerinde çalıştıkları ilk günden beri, yaklaşık 20 sene önceye uzanan hayalin insansız savaş uçağı KIZILELMA'nın güvenlik güçlerine…",
+     "baslik": "Voyager 1 artık sinyalleri bir günde ulaşacak kadar uzakta",
+     "ozet": "ScienceDaily'ye göre NASA'nın Voyager 1 uzay aracı Dünya'dan 16,1 milyar mil uzaklığa ulaştı ve sinyalleri bize ulaşmak için tam bir gün harcıyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/baykar-yonetim-kurulu-baskani-selcuk-bayraktar-kizilelma-hayalini-anlatti/4132430"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
       }
      ]
     },
     {
-     "baslik": "AB Komisyonu çalışanlarından siber saldırıya ilişkin bilgilendirme yapılmamasına tepki",
-     "ozet": "Avrupa Birliği (AB) Komisyonu bünyesinde faaliyet gösteren sendika, kuruma yönelik siber saldırının ardından çalışanların bilgilendirilmemesine tepki göstererek, kişisel verilerin etkilenip…",
+     "baslik": "Merkür'e giden X-ışını teleskobu ilk gözlemlerini yaptı",
+     "ozet": "ScienceDaily'ye göre sekiz yıl ve 10 milyar kilometrelik yolculuğun ardından Merkür'e giden X-ışını teleskobu ilk kozmik gözlemlerini yaptı ve bilim insanlarının beklediğinden iyi performans gösteriyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ab-komisyonu-calisanlarindan-siber-saldiriya-iliskin-bilgilendirme-yapilmamasina-tepki/4132145"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
       }
      ]
     },
     {
-     "baslik": "Mayınlı arazilerde geçit açmak için geliştirilen ALPAY'ın ilk hava versiyonu göreve hazır",
-     "ozet": "Makine ve Kimya Endüstrisi (MKE), piyade birliklerinin mayınlı arazilerden güvenli geçişini sağlamak üzere tasarlanan ve insansız hava aracıyla (dron) görev yapan ALPAY-D'nin saha testlerinin…",
+     "baslik": "Işıkla ilgili onlarca yıllık bilmece daha hızlı internet için umut veriyor",
+     "ozet": "ScienceDaily'ye göre KAIST ve Caltech araştırmacıları, ultra hızlı optik iletişim için umut vadeden bir malzemedeki ışık davranışını hassas biçimde ölçtü.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/mayinli-arazilerde-gecit-acmak-icin-gelistirilen-alpayin-ilk-hava-versiyonu-goreve-hazir/4132007"
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm"
       }
      ]
     }
@@ -502,35 +497,24 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made",
-     "ozet": "It comes after a leaked review identified 19 avoidable deaths following liver and pancreatic surgery at the hospital.",
+     "baslik": "FDA, Capricor'un Duchenne kas distrofisi tedavisini reddetti",
+     "ozet": "STAT'a göre FDA, Capricor Therapeutics'in Duchenne kas distrofisi hastaları için geliştirdiği hücre tedavisini reddetti.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&at_campaign=rss"
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "'Isla was let down and hopefully this will save other families'",
-     "ozet": "Isla Sneddon's name has been adopted in a set of national guidelines for medics treating young patients",
+     "baslik": "Medicare, yaşam tarzı programlarını test edecek pilot uygulama başlatıyor",
+     "ozet": "STAT'a göre Medicare, kronik hastalıkları önlemeyi hedefleyen \"yemek ilaçtır\" gibi yaşam tarzı programlarını deneyecek bir pilot uygulama yürütecek.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/cqg7l03725glo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Striking doctors warn staff will leave NI for better pay",
-     "ozet": "A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&at_campaign=rss"
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss"
       }
      ]
     }
@@ -541,39 +525,35 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Rams star Nacua suspended after assault lawsuit",
-     "ozet": "Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured.",
-     "etiket": "teyitli",
+     "baslik": "Lauren Price tartışmasız dünya şampiyonu oldu",
+     "ozet": "BBC Sport'a göre Lauren Price, Michaela Kotaskova'yı yenerek tartışmasız dünya welter sıklet şampiyonu oldu.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/20/puka-nacua-rams-knee-surgery-suspension-daniel-jones-colts-release"
+       "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ikinci gün sona erdi",
-     "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde ikinci gün etkinlikleri sona erdi.",
+     "baslik": "Alcaraz, ATP Finalleri grup aşamasını yenilgisiz tamamladı",
+     "ozet": "BBC Sport'a göre Carlos Alcaraz, Flavio Cobolli'yi yenerek ATP Finalleri grup aşamasını mükemmel rekorla bitirdi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenen-etnospor-kultur-festivalinde-ikinci-gun-sona-erdi/4132605"
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/cqrkgn17emr2o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Dünya Para Masa Tenisi Şampiyonası'nda madalya kazanan milli sporcular yurda döndü",
-     "ozet": "Tayland'da düzenlenen Dünya Para Masa Tenisi Şampiyonası'nda 3'er altın ve bronz madalya kazanan milli sporcular, yurda döndü.",
+     "baslik": "Türkiye FIBA Dünya Kupası Avrupa Elemeleri güç sıralamasında zirvede",
+     "ozet": "Türkiye, FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri güç sıralamasında zirvedeki yerini korudu.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/dunya-para-masa-tenisi-sampiyonasinda-madalya-kazanan-milli-sporcular-yurda-dondu/4132522"
+       "link": "https://www.aa.com.tr/tr/spor/turkiye-fibanin-dunya-kupasi-avrupa-elemeleri-guc-siralamasinda-zirvede/4132405"
       }
      ]
     }
@@ -584,24 +564,13 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Sanatçı Albayrak'ın Ground Zero III adlı eseri Bogota Çağdaş Sanat Müzesi koleksiyonunda",
-     "ozet": "Sanatçı Prof. Dr. Ahmet Albayrak'ın \"Ground Zero III\" adlı eseri, Kolombiya'daki Bogota Çağdaş Sanat Müzesinin (MAC) 60. yılı için koleksiyonundan derlediği sergide izleyiciyle buluştu.",
+     "baslik": "GTA 6 tek günde 3,8 milyar dolar satış yaptı",
+     "ozet": "BBC'ye göre GTA 6'nın tek günlük satışı 3,8 milyar doları buldu ve bu rakam tüm video oyunu çıkışlarını ve tek günlük film gişe rekorlarını geride bıraktı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/sanatci-albayrakin-ground-zero-iii-adli-eseri-bogota-cagdas-sanat-muzesi-koleksiyonunda/4131923"
-      }
-     ]
-    },
-    {
-     "baslik": "TRT, 4 uluslararası ödülün sahibi oldu",
-     "ozet": "TRT, Asya-Pasifik Yayın Birliği (ABU) ve Avrupa Yayın Birliği (EBU) tarafından düzenlenen iki farklı organizasyonda 4 ödül aldı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/trt-4-uluslararasi-odulun-sahibi-oldu/4132187"
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -611,58 +580,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43056497",
-   "baslik_en": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology.",
-   "baslik_tr": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology.",
-   "dergi": "JAMA",
+   "pmid": "43062829",
+   "baslik_en": "Gestational Weight Gain and Mortality Among Children in Brazil.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Miner AE",
-    "Stein TD",
-    "McKee AC",
+    "Santiago-Vieira C",
+    "de Farias Costa PR",
+    "Carrilho TRB",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "IMPORTANCE: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that cannot accurately be diagnosed during life due to the absence of in vivo biomarkers for CTE neuropathology. OBJECTIVE: To evaluate plasma endogenously cleaved microtubule-binding region tau (eMTBR-tau) as a candidate biomarker for CTE tau tangle neuropathology. DESIGN, SETTING, AND PARTICIPANTS: This case series included 21 former American-style football players who completed a blood draw as part of participation in clinical research at Boston University beginning April 17, 2008, and who subsequently died, donated their brain, and had completed autopsy by October 9, 2026.",
-   "ozet_tr": "IMPORTANCE: Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that cannot accurately be diagnosed during life due to the absence of in vivo biomarkers for CTE neuropathology. OBJECTIVE: To evaluate plasma endogenously cleaved microtubule-binding region tau (eMTBR-tau) as a candidate biomarker for CTE tau tangle neuropathology. DESIGN, SETTING, AND PARTICIPANTS: This case series included 21 former American-style football players who completed a blood draw as part of participation in clinical research at Boston University beginning April 17, 2008, and who subsequently died, donated their brain, and had completed autopsy by October 9, 2026.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43056497/",
-   "doi": "https://doi.org/10.1001/jama.2026.24780"
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062829/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.45176",
+   "baslik_tr": "Brezilya'da Gebelikte Kilo Alımı ve Çocuk Ölümleri",
+   "ozet_en": "This population-based cohort study followed 792,935 singleton live births in Brazil (2008-2020) and linked maternal weight gain to child mortality. Gaining less weight than recommended was associated with higher neonatal, infant and under-5 mortality (adjusted HR for under-5 mortality 1.18), with the highest risk among underweight women (1.47). Gaining more than recommended was not consistently linked to mortality. As an observational study, it shows association, not causation.",
+   "ozet_tr": "Bu nüfus temelli kohort çalışması, Brezilya'da 2008-2020 arasında doğan 792.935 tekil canlı doğumu izleyerek annenin gebelikte aldığı kiloyu çocuk ölümleriyle ilişkilendirdi. Önerilenden az kilo almak yenidoğan, bebek ve 5 yaş altı ölümlerde daha yüksek risk ile ilişkiliydi (5 yaş altı ölümler için düzeltilmiş risk oranı 1,18); en yüksek risk zayıf kadınlarda görüldü (1,47). Önerilenden fazla kilo alımı ölümle tutarlı biçimde ilişkili bulunmadı. Gözlemsel bir çalışma olduğundan nedensellik değil, ilişki gösterir.",
+   "neden_onemli": "Gebelikte beslenmenin izlenmesinin, özellikle dezavantajlı gruplarda çocuk sağlığı açısından önemini vurguluyor."
   },
   {
-   "pmid": "43057229",
-   "baslik_en": "Myelin pathology is a key feature of X-linked dystonia-parkinsonism.",
-   "baslik_tr": "Myelin pathology is a key feature of X-linked dystonia-parkinsonism.",
-   "dergi": "Cell",
+   "pmid": "43056117",
+   "baslik_en": "Respiratory Syncytial Virus-Related Pediatric Intensive Care Unit Admissions in Children During Their Second RSV Season.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Prakash P",
-    "Limberg KC",
-    "Zhang W",
+    "Simeone RM",
+    "Zambrano LD",
+    "Newhams MM",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "X-linked dystonia-parkinsonism (XDP) is an adult-onset movement disorder predominantly affecting males of Filipino descent. It is caused by the insertion of a SINE-variable number of tandem repeat (VNTR)-Alu subfamily F (SVA_F) retrotransposon in the TATA-box binding protein-associated factor 1 (TAF1) gene. A barrier to XDP research has been the lack of animal models. Here, we introduce a conditional humanized XDP mouse model harboring a hybrid mouse-human Taf1/TAF1 gene (hyTAF1) containing the pathogenic SVA_F. We activated hyTAF1 in Nestin+ cells and found the resulting XDP male mice recapitulate features of human XDP, including severe motor impairment and striatal atrophy.",
-   "ozet_tr": "X-linked dystonia-parkinsonism (XDP) is an adult-onset movement disorder predominantly affecting males of Filipino descent. It is caused by the insertion of a SINE-variable number of tandem repeat (VNTR)-Alu subfamily F (SVA_F) retrotransposon in the TATA-box binding protein-associated factor 1 (TAF1) gene. A barrier to XDP research has been the lack of animal models. Here, we introduce a conditional humanized XDP mouse model harboring a hybrid mouse-human Taf1/TAF1 gene (hyTAF1) containing the pathogenic SVA_F. We activated hyTAF1 in Nestin+ cells and found the resulting XDP male mice recapitulate features of human XDP, including severe motor impairment and striatal atrophy.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43057229/",
-   "doi": "https://doi.org/10.1016/j.cell.2026.10.046"
+   "tur": "Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056117/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.41333",
+   "baslik_tr": "İkinci RSV Sezonundaki Çocuklarda RSV'ye Bağlı Pediatrik Yoğun Bakım Yatışları",
+   "ozet_en": "This US cohort study looked at 574 children aged 8-23 months admitted to pediatric intensive care for severe RSV across 30 hospitals in two seasons. Only 8.2% met the criteria for second-season nirsevimab, and 61.8% had no preexisting condition. Children who met the criteria were most likely to need invasive ventilation (40.4% vs 5.9% in those without conditions). The study describes severe cases only, so it cannot estimate risk in all children.",
+   "ozet_tr": "Bu ABD kohort çalışması, iki sezonda 30 hastanede RSV nedeniyle yoğun bakıma alınan 8-23 aylık 574 çocuğu inceledi. Yalnızca %8,2'si ikinci sezon nirsevimab kriterlerini karşılıyordu, %61,8'inin ise önceden var olan bir sağlık sorunu yoktu. Kriterleri karşılayan çocuklarda invaziv mekanik ventilasyon ihtiyacı en yüksekti (%40,4; hastalığı olmayanlarda %5,9). Çalışma yalnızca ağır vakaları tanımladığı için tüm çocuklardaki riski tahmin edemez.",
+   "neden_onemli": "Bebeklerde RSV'ye karşı koruyucu antikor önerilerinin kimleri kapsaması gerektiği tartışmasına veri sağlıyor."
   },
   {
-   "pmid": "43052473",
-   "baslik_en": "Analogue simulation of massive relativistic quantum fields in 2 + 1 dimensions.",
-   "baslik_tr": "Analogue simulation of massive relativistic quantum fields in 2 + 1 dimensions.",
-   "dergi": "Nature",
+   "pmid": "43062831",
+   "baslik_en": "Applying Target Trial Emulation in Vaccine Research: A Scoping Review.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Zhang Y",
-    "Wang F",
-    "Wong PHC",
+    "Dai H",
+    "Chang TY",
+    "He X",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Quantum field theories provide fundamental models of complex interacting systems1-3, from high-energy physics and cosmology to condensed matter. However, solving these models in non-perturbative and dynamical regimes is often challenging, particularly in more than one spatial dimension. Analogue simulation using tunable synthetic quantum systems can both verify existing theoretical predictions and lead to physical insights. Here we realize analogue simulation of massive relativistic quantum fields in 2 + 1 dimensions (two spatial dimensions and time), using two coherently coupled spin components4,5 in a uniform two-dimensional atomic Bose-Einstein condensate6,7.",
-   "ozet_tr": "Quantum field theories provide fundamental models of complex interacting systems1-3, from high-energy physics and cosmology to condensed matter. However, solving these models in non-perturbative and dynamical regimes is often challenging, particularly in more than one spatial dimension. Analogue simulation using tunable synthetic quantum systems can both verify existing theoretical predictions and lead to physical insights. Here we realize analogue simulation of massive relativistic quantum fields in 2 + 1 dimensions (two spatial dimensions and time), using two coherently coupled spin components4,5 in a uniform two-dimensional atomic Bose-Einstein condensate6,7.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43052473/",
-   "doi": "https://doi.org/10.1038/s41586-026-11268-y"
+   "tur": "Scoping Review, Journal Article",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062831/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.43921",
+   "baslik_tr": "Aşı Araştırmalarında Hedef Çalışma Taklidi: Kapsam Belirleme Derlemesi",
+   "ozet_en": "This scoping review examined 79 observational vaccine studies (2021-2025) that emulated a randomized trial, mostly on COVID-19 and influenza. Only 25 (31.6%) reported clearly documented protocols, and few validated their definitions or assessed data quality. The authors call for standardized reporting. The review judges methods, not vaccine effectiveness itself.",
+   "ozet_tr": "Bu kapsam belirleme derlemesi, rastgele kontrollü çalışmayı taklit eden ve çoğu COVID-19 ve grip üzerine olan 79 gözlemsel aşı çalışmasını (2021-2025) inceledi. Yalnızca 25'i (%31,6) açıkça belgelenmiş protokol bildirdi; tanımlarını doğrulayan veya veri kalitesini değerlendiren çalışma azdı. Yazarlar standart raporlama çağrısı yapıyor. Derleme aşının etkililiğini değil, yöntemleri değerlendiriyor.",
+   "neden_onemli": "Aşı güvenliği ve etkililiği hakkındaki gerçek dünya verilerinin ne kadar güvenilir olduğunu anlamamıza yardım ediyor."
   }
  ]
 }
