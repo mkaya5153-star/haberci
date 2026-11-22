@@ -1,16 +1,68 @@
 {
  "tarih": "2026-11-22",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "İran'ın Bahreyn'deki ABD üslerini hedef aldığı haberleri Körfez'deki gerilimi öne çıkarırken, COP31 iklim zirvesi fosil yakıt tartışması yüzünden uzatmaya girdi. Meksika'da FBI'ın aranan isimlerinden bir kartel lideri yakalandı; FBI'ın suç veri tabanına yönelik olası siber saldırı ise soruşturuluyor.",
  "one_cikanlar": [
   {
-   "baslik": "Meksika, bir dizi tutuklamanın sonuncusu olan uyuşturucu baronu 'El Chapo Isidro'yu yakaladı",
-   "ozet": "",
+   "baslik": "İran, Bahreyn'deki ABD üslerini hedef aldı",
+   "ozet": "İran Devrim Muhafızları'nın Bahreyn'deki iki ABD üssünü vurduğu bildirildi. Bahreyn, İran saldırısının bir sanayi tesisine isabet ettiğini, hava savunmasının bazı saldırıları engellediğini açıkladı. ABD ise İran'ın bir füzenin Körfez üzerinde F-16'ya hasar verdiği iddiasını yalanladı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/dunya/iran-basini-devrim-muhafizlari-ordusu-bahreyndeki-iki-abd-ussunu-hedef-aldi/4133201"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/iran-bahreyn-deki-abd-ussunu-hedef-aldi-3929142"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5"
+    },
+    {
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+    }
+   ],
+   "neden_onemli": "ABD-İran geriliminin Körfez'de doğrudan askeri karşılaşmaya dönüşme riskini gösteriyor."
+  },
+  {
+   "baslik": "COP31 müzakereleri uzatmaya girdi",
+   "ozet": "BM iklim görüşmelerinde müzakereciler fosil yakıtlar konusundaki görüş ayrılıkları nedeniyle ikinci gün de fazla mesaiye kaldı. Zirve başkanı ve Bakan Murat Kurum, nihai metnin sekretaryaya gönderildiğini ve sabah genel kurula sunulmasının hedeflendiğini söyledi. Reuters, zirve başkanına dayandırdığı haberinde nihai anlaşmaya yakın olunduğunu aktardı.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRG9odk56QnZYYWdjalF0a2Zfc2hfLVUyUFVuVHh0aHN1TUFMTmNJbEhzYjRIWnctNDFxX3p1Zl9RY3h1VzZLbzBMWjB4cnh1cFNoX1NXY3EyaEF1VXlvWGkwSUlFa1dYUFRMcUxEbFNPa2FaUmkwRW90TUJXQklock10QXhlSVNpWHhIM2hPTmlxSWZRTmRINEZiTHI3cGlMLTRiUEVCQkk?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5"
+    },
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-sabah-1000-1030-itibariyla-genel-kurulumuza-ortu-kararimizi-getirmek-istiyoruz/4133280"
+    }
+   ],
+   "neden_onemli": "Fosil yakıt bırakma takvimi, küresel iklim politikasının yönünü belirliyor."
+  },
+  {
+   "baslik": "Meksika'da 'El Chapo Isidro' lakaplı kartel lideri yakalandı",
+   "ozet": "FBI'ın en çok arananlar listesindeki Fausto Isidro Meza Flores, ABD istihbaratının da katkı verdiği askeri operasyonla Meksika'da yakalandı. AP'ye göre operasyon, 11 kişinin öldüğü çatışmayla gerçekleşti; Financial Times Sinaloa'da şiddet olaylarının patlak verdiğini bildirdi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5"
+    },
+    {
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ctd3FSa0JqbXNDRG9xbGhWYUMwM1hrdnIxU3RMc29OZkM5MWx0NzVvdlVVMmRLMHJMMkpIaUhwTFlpQ2Jwb2ZhWHpHYWFmSGl1RnVBMVUtT1FuTm94amFQa1NfdEgtekhOazdNNTRwbG9VeWdKMF9fdU1xTVFKLU1WWG9LQ0pvR2sxeVl6U3o?oc=5"
     },
     {
      "ad": "DW English",
@@ -25,115 +77,71 @@
      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
     },
     {
+     "ad": "New York Times",
+     "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/21/meksikada-operasyon-fbiin-en-cok-arananlar-listesindeki-kartel-lideri-yakalandi"
+    },
+    {
      "ad": "Financial Times",
      "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Meksika-ABD güvenlik iş birliğinin ve kartel şiddetinin yeni bir aşamasına işaret ediyor."
   },
   {
-   "baslik": "Kırmızı bültenle aranan uluslararası suç örgütü üyesi İstanbul'da yakalandı",
-   "ozet": "İstanbul'da düzenlenen operasyonda, Danimarka başta olmak üzere birçok Avrupa ülkesinde suç faaliyetlerine karıştığı belirlenen ve Interpol tarafından kırmızı bültenle aranan uluslararası suç örgütü…",
+   "baslik": "FBI'ın ulusal suç veri tabanına yönelik olası siber saldırı soruşturuluyor",
+   "ozet": "AP'nin kaynağına göre FBI, ulusal suç adaleti veri tabanının hacklendiğine dair bulguları inceliyor. Trump olayı 'iyi değil' diye niteledi; ABD Tarım Bakanlığı'nın da saldırıya uğradığı bildirildi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/kirmizi-bultenle-aranan-uluslararasi-suc-orgutu-uyesi-istanbulda-yakalandi/4133154"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3JOVy03eEI4NG1USFRxZkwtd0FLc0tfWk1zMWJSX0xDeHR1Rmwwd0hoQ2RXMG15ejRzWEJJZFh5WU5la2tvWE9kNjJQOG9rVEh4MUlUQl9Cam5KR1FKNnl4UWhLRmVBMGVfT3Q1dXlsZ2lfUHlXLUV3a0ZjaE16ZzJTMFBSbW9RRHc?oc=5"
     },
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/kirmizi-bultenle-aranan-nusret-skrijelj-istanbulda-yakalandi-964058.html"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-aranan-supheli-buyukcekmecede-yakalandi-43386486"
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/fbi-criminal-database-hacked"
     },
     {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/gundem/kirmizi-bultenle-aranan-suc-orgutu-uyesi-buyukcekmece-de-operasyonla-yakalandi-3929114"
+     "ad": "TechCrunch",
+     "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+     "ad": "The Verge",
+     "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Kolluk ve kamu veri tabanlarının güvenliği konusunda ciddi soru işareti yaratıyor."
   },
   {
-   "baslik": "Rus kargo gemisi Baltık Denizi'nde drone saldırısından sonra alev aldı, mürettebat tahliye edildi",
-   "ozet": "",
+   "baslik": "Rusya Zelenskiy'in memleketini vurdu; Baltık'ta Rusya'ya giden gemi saldırıya uğradı",
+   "ozet": "Rusya'nın Zelenskiy'in memleketine düzenlediği saldırıda 2 kişi öldü; saldırılar Putin'in Ukrayna'nın Kerç Köprüsü'ne yönelik saldırılarına 'acı' karşılık vaadinin ardından geldi. Öte yandan Finlandiya Körfezi'nde Rusya'ya giden bir yük gemisi dronla vuruldu; Finlandiya savunma güçleri saldırının büyük olasılıkla Ukrayna'dan geldiğini belirtti.",
    "etiket": "teyitli",
    "kaynaklar": [
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+    },
     {
      "ad": "Reuters",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5"
     },
     {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
-    },
-    {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say"
-    },
-    {
-     "ad": "Le Monde",
-     "link": "https://www.lemonde.fr/en/international/article/2026/11/21/russian-cargo-ship-struck-by-drone-in-baltic-finnish-authorities_6786298_4.html"
-    },
-    {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/21/finlandiya-korfezinde-rus-kargo-gemisine-iha-saldirisi"
+     "ad": "BBC News",
+     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Britanya'nın Galler Prensesi Kate, kanserin iyileşmesini konu alan bir belgeselde yer alacak",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdE5pNnVYdm1rZWdzUUQ5SmZGRUhVU2lQaWZoLXgyU3c2YV92bVdLcHU0elhJamUtdl9MMVJkd1FVNUY3UEp4WjcxRlJPWVMtY0hydG84UTBXNXB2LXIyTmlXa0N3QV9PS1ZIZWIzQlZmbEZLeExKcXBpUEtpUUVkbW1wRGJlS2NaS29xNTc0bUhhMEFnTTdfb2JRaW81ZENHSno5bm1NTlVrZm5HSDlHdFBLOUlhSDBUU0VwUHZqbFd4NG5CX0FaM0ZoMXg5cXpUTXl1RFFGWXBDZw?oc=5"
-    },
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0Q1Z0Q5R0o0dnJvY2piMkNIdTFVUFBjd19pYklYd212aE0zZmpBUGc1cGI0QzcyR29MVGZHbDlmSlh1NEdfaHgtR0Y2QlFaa1hRd0xZSk9RU1FobzBSdzd3dzJlRGpxdDRoM1JEZHQzN0JScDM5VUxSTTctZ3RRWnhnc0NucmNsYWh6NjBLQmdWUlNTUU9aUXV2b01OOG9RZXBlVg?oc=5"
-    },
-    {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/21/new-documentary-princess-kate-speaks-candidly-about-how-cancer-changed-her-body-and-mind"
-    },
-    {
-     "ad": "New York Times",
-     "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Zelenskyy'nin Ukrayna'nın merkezindeki memleketine yapılan balistik füze saldırısında 2 kişi öldü ve çok sayıda kişi yaralandı",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEdyR1RJcnpvbkdBNFFKbHQ3bWh2SzBfVnBfdklPRGlubDVuZjVOYUVrTUtaVGNQc2ZtM042TmpvWFNUZU1vNlRDeUhWbS0xUU5IWndHdlNZa3JIYm1OQm55YVNvbVpxaUhBNExXbS1NOU91ODdGa2d4elRXOWhIUXZCRHR5T3ZTei1fRWRyOVJvOXJRSXNIM25QT1JIOXFPa2VTcg?oc=5"
-    },
-    {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine"
-    },
-    {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people"
-    },
-    {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
-    },
-    {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf"
-    }
-   ],
-   "neden_onemli": ""
+   "neden_onemli": "Savaşın Karadeniz ve Baltık'taki deniz ticaretine yayıldığını gösteriyor."
   }
  ],
  "bolumler": [
@@ -142,8 +150,23 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Bolu Belediye Başkanı Tanju Özcan hakkında tahliye kararı verildi: Cezaevinde kalmaya devam edecek",
-     "ozet": "Bolu Belediyesi'ndeki araç kiralama ihalelerinde usulsüzlük iddialarıyla 21 sanığın yargılandığı davada ara karar açıklandı. Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan ile Belediye…",
+     "baslik": "Fidan: Yemen'de asker bulundurulmasına yönelik karar yok",
+     "ozet": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin Mekke İttifakı kapsamındaki politikasının Suudi Arabistan'ın savunmasına yönelik olduğunu, Yemen'de asker bulundurma kararı alınmadığını söyledi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-yemen-icinde-asker-bulundurulmasina-yonelik-alinmis-bir-karar-yok-964092.html"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785522/haber/hakan-fidan%E2%80%99dan-yemen-a%C3%A7%C4%B1klamas%C4%B1-asker-bulundurmaya-ili%C5%9Fkin-karar-al%C4%B1nmad%C4%B1"
+      }
+     ]
+    },
+    {
+     "baslik": "Tanju Özcan hakkında tahliye kararı, cezaevinde kalmaya devam edecek",
+     "ozet": "Bolu Belediyesi'ndeki araç kiralama ihalelerinde usulsüzlük iddiasıyla 21 sanığın yargılandığı davada ara karar açıklandı. Görevden uzaklaştırılan Belediye Başkanı Tanju Özcan hakkında tahliye kararı verildi; haberlere göre Özcan cezaevinde kalmaya devam edecek.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -157,92 +180,50 @@
      ]
     },
     {
-     "baslik": "Bakan Gürlek: Faili meçhuller bir bir çözülüyor",
-     "ozet": "Adalet Bakanı Gürlek, \"Adliyelerimizin teknolojik yatırımlarla donatıldığı, kriminal inceleme ve adli tıp birimlerinin en donanımlı hale geldiği, faili meçhul olayların ve çözülemeyen davaların bir…",
-     "etiket": "teyitli",
+     "baslik": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
+     "ozet": "MİT Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye başkanlığındaki üst düzey heyetle bir araya geldi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-964079.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Feti Yıldız: Çerçeve yasadan cezaevindeki 2 bin 800 kişi yararlanabilir",
+     "ozet": "MHP Genel Başkan Yardımcısı Feti Yıldız, 'Terörsüz Türkiye' sürecine ilişkin çerçeve yasadan cezaevindeki 2 bin 800 kişinin yararlanabileceğini söyledi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785510/haber/bakan-g%C3%BCrlek-faili-me%C3%A7huller-bir-bir-%C3%A7%C3%B6z%C3%BCl%C3%BCyor"
-      },
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-faili-mechul-olaylarin-ve-cozulemeyen-davalarin-bir-bir-aydinlatildigi-bir-asamaya-geldik-43386364"
+       "link": "https://www.indyturk.com/node/785516/haber/feti-y%C4%B1ld%C4%B1zdan-%C3%A7er%C3%A7eve-yasa-a%C3%A7%C4%B1klamas%C4%B1-cezaevindeki-2-bin-800-ki%C5%9Fi-yasadan"
       }
      ]
     },
     {
-     "baslik": "Fenerbahçe-Kocaelispor maçına duran toplar damga vurdu! Frikik öncesi yaşananlar gündem oldu",
-     "ozet": "Trendyol Süper Lig'in 12. haftasında oynanan Kocaelispor - Fenerbahçe maçı 2-2 beraberlikle sona ererken, atılan tüm golleri duran toptan gelmesi dikkat çekti.",
-     "etiket": "teyitli",
+     "baslik": "Erdoğan: Devletleri güçlü kılan adalettir",
+     "ozet": "Cumhurbaşkanı Erdoğan, Gaziosmanpaşa Adalet Sarayı açılış töreninde konuşarak toplumları ve devletleri güçlü kılan unsurun adalet olduğunu söyledi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispor-macina-duran-toplar-damga-vurdu-frikik-oncesi-yasananlar-gundem-oldu-43386475"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUwyUW51MHdUTlk2NFZrcjNRTzVfWU1URDh5VC11eFpBN2JjUUp5dF9QeHBfUHVzV2VCZXE0SnctdGljenBuUnNMWTVrOHhMbDhhQk1aME9vczRfVVo5X2w4VnBVbXVVV255amVwWlBGdU45S1RlN0c0YnkxbWkycFc0OF9GQjR5ZFV1YWx1aWprTWFfY2ZtaXMxOWwwSEU0aHdXb0F3WUhjME0yRkZGdm1wUTN5Y3VlNTJCX1kwYk1NZ0NIbkxPLVA3dkNJOWk4bm1ENQ?oc=5"
+       "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-devletleri-guclu-kilan-adalettir-43386624"
       }
      ]
     },
     {
-     "baslik": "GTA 6 ilk gününde tarihe geçti",
-     "ozet": "Grand Theft Auto 6, ilk gününde 3,79 milyar dolarlık satış geliri elde etti. Rockstar Games, GTA 6'nın satış rakamlarıyla tarihteki herhangi bir eğlence ürününün ilk gününde elde edilen en yüksek…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/dunya/gta-6-ilk-gununde-tarihe-gecti-43385957"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wQnFhSHJ5NXM1YlBfdmFpbGlwanVYVmc2TU9TanpLN3ZOQkNGQ2duWS05eTZ5TkRzeEZIbFBYUGFhVTFKUTVvTlNGMU9FOGtWQWNQdUFsMENXOUVwbWZZcWpVd0JocFNrcVYwNHd3Z3AxbE1ucWg0bXMzdmtzZw?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Vedat Muriqi: 'Şapkamızı önümüze koyacağız!'",
-     "ozet": "Fenerbahçe'de Kojo Oppong, Mason Greenwood ve Vedat Muriqi, 2-2'lik Kocaelispor beraberliğinin ardından açıklamalarda bulundu.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-sapkamizi-onumuze-koyacagiz-43386516"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/spor/vedat-muriqi-sapkamizi-onumuze-koyacagiz-3929123"
-      }
-     ]
-    },
-    {
-     "baslik": "Sakarya'da zincirleme kaza: 14 araç birbirine girdi, yaralılar var",
-     "ozet": "Anadolu Otoyolu'nun Sakarya geçişinde şehirler arası yolcu otobüsleri, otomobiller, tırlar, kamyonlar ve panelvanların da aralarında bulunduğu 14 aracın karıştığı zincirleme trafik kazasında ilk…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/sakaryada-zincirleme-kaza-15-arac-birbirine-girdi-yaralilar-var-43386147"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/yasam/son-dakika-sakaryada-zincirleme-kaza-15-arac-birbirine-girdi-7706407"
-      }
-     ]
-    },
-    {
-     "baslik": "NATO Genel Sekreteri Rutte: NATO, Polonya topraklarının her santimetresini savunacak",
-     "ozet": "NATO Genel Sekreteri Mark Rutte, Polonya hava sahasının ihlal edilmesini \"tehlikeli\" olarak nitelendirerek, \"NATO, Polonya topraklarının her santimetresini savunacak.\" dedi.",
+     "baslik": "Şırnak'ta silah kazasında bir asker şehit oldu",
+     "ozet": "Milli Savunma Bakanlığı, Şırnak Şenoba'da silah kazası sonucu İstihbarat Astsubay Çavuş Yalın Gergün'ün şehit olduğunu bildirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/nato-genel-sekreteri-rutte-nato-polonya-topraklarinin-her-santimetresini-savunacak/4133215"
+       "link": "https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272"
       },
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5"
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/son-dakika-msb-silah-kazasinda-bir-asker-sehit-oldu-3929135"
       }
      ]
     }
@@ -253,107 +234,103 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "COP31 iklim zirvesi, görüşmelerin fazla mesaiye gitmesiyle başarısızlık riskiyle karşı karşıya",
-     "ozet": "",
+     "baslik": "Trump: İran'ın nükleer silah edinmesini engelleyecek kalıcı anlaşma hedefliyoruz",
+     "ozet": "ABD Başkanı Trump, İran'ın gelecekte de nükleer silah edinmesini engelleyecek kalıcı bir anlaşma yapmayı hedeflediğini söyledi. Bir Katar heyetinin de Tahran'da görüşmeler yaptığı İranlı bir yetkiliye dayandırılarak bildirildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı Dünya",
+       "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-nukleer-silah-edinmesini-engelleyecek-kalici-bir-anlasma-yapacagini-soyledi/4133094"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/trumptan-iran-mesaji-kalici-anlasma-istiyor-haberi-848425"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmR3b1p3TldvTzF4TnZyM082MXJ2dEh5YXl3Ym41SnBreUtLYUhVYUlCbjYyM0VGTHNwVWw2eXdKREJ6U0dzY2VLaHpVR0w5VFpBcFhzVmJLaGZ4Wk1YeTVlX1BtUlM3RWFNZ1lyeURLX3dTcjZ3aDNwbzl6VVpVanFETl9PZ2pWM29tYU1abHlJZFF0UkdmV2NBZEYtRU9IT2JBNWNKY1RsRkhxODlKNEEyMA?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "NATO Genel Sekreteri Rutte: Polonya topraklarının her santimini savunacağız",
+     "ozet": "Rutte, Polonya hava sahasının ihlal edilmesinin ardından NATO'nun Polonya'yı savunacağını belirtti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmt4Uld1TVhWSDBfaTM0b3NlcUVhNm1xOGNiWjdCZGNRdXlXNXF4RllHQ0g4VnNGTXkxVUxRd3lqZXlTR1lsZmNtb1h3cGRYVkItVl9YUi00YzFzMmVWVTBVcmxVNHhGQlRCZWtRTXRhWW1ORFBKb1Y3SmtsMVotS0RtWmRRYVhzNmtWRTRLcjJCSmVlOFRjcUZxcTgzZjdFeWdndlUyNC1Dc29CZFE2YllWZnI2MDFU?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5"
       },
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf"
+       "ad": "Anadolu Ajansı Dünya",
+       "link": "https://www.aa.com.tr/tr/dunya/nato-genel-sekreteri-rutte-nato-polonya-topraklarinin-her-santimetresini-savunacak/4133215"
       }
      ]
     },
     {
-     "baslik": "AB liderlerinin başkanı, AB 2028-2034 bütçe taslağında yeni kesintiler öneriyor ve dijital vergi öneriyor",
-     "ozet": "",
+     "baslik": "İsrail'de Eisenkot, Likud'u geniş tabanlı hükümet için müzakereye çağırdı",
+     "ozet": "Seçimlerin ardından hükümet kurma yetkisi alan Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Netanyahu'nun Likud Partisi'ni geniş tabanlı hükümet kurmak için müzakereye davet etti.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-likud-partisini-muzakere-maratonuna-davet-etme-talimati/4133259"
+      }
+     ]
+    },
+    {
+     "baslik": "Fransa'da sendikaların çağrısıyla yürüyüşler düzenlendi",
+     "ozet": "Fransa'da sendika ve Sarı Yelekliler'in çağrısıyla gösteriler yapıldı. Anadolu Ajansı polisin göstericilere biber gazı ve copla müdahale ettiğini bildirdi; Reuters ise katılımın daha düşük olduğunu ve yürüyüşlerin büyük oranda sakin geçtiğini aktardı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5"
       },
       {
-       "ad": "Politico Europe",
-       "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+       "ad": "Anadolu Ajansı Dünya",
+       "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-gostericilere-biber-gazi-ve-copla-mudahale-etti/4133172"
       }
      ]
     },
     {
-     "baslik": "Fransız polisleri müzik yapımcısına ırkçı saldırıdan suçlu bulundu",
-     "ozet": "",
+     "baslik": "Bolsonaro yoğun bakıma alındı",
+     "ozet": "Reuters ve Al Jazeera'ya göre ev hapsindeki eski Brezilya Devlet Başkanı Jair Bolsonaro yoğun bakıma alındı. Euronews Türkçe, Bolsonaro'nun karın ağrısı şikâyetiyle askeri polis eşliğinde hastaneye kaldırıldığını bildirmişti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjFqTTRmWm41aFhqSGFRR3U4cUVrSWs4aU5OLVR0ZlN4N0ZuRm1YdDNTNUQxZV94WFFkZ0RaWVFlUFpMd1ZTT0RrUlJmbnN6Uk9vYzRTWGpJWGU1ajBEclF3S0xWaUZNQkdEa3ZmaVJ3Z0F4aTBWb1kxQ25BV29HNVNUZTRwaGpMTVBIMTEyTHJKRjl3MzNiU2dSeUZnRFNoa1BZV2hKNXNoZW1PZ25MQTM1WEhuZw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRjc0toOVM1UmJiaXJrMTA4MU43ZmY2Yjc1QTlwcTQwUVA3TGZ5MVZuSzNRSmRwR2J3TkVHWWE0OWNlX3lkeU5pQnNQcWk5Q19Ua2k3ME5BalMyMEp1RzUyZ3FQdTFxdDZ1TWJLaVNmcWljSl9qMkVZaHdXbFhsUEk0OVJ5OVI5eUVVMm5haW5qanpUdW8yZDN5cw?oc=5"
       },
       {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/21/ev-hapsindeki-eski-brezilya-devlet-baskani-bolsonaro-karin-agrisi-nedeniyle-hastaneye-kald"
       }
      ]
     },
     {
-     "baslik": "Kartel liderinin yakalanmasının ardından kuzey Meksika'da yaşanan şiddet olaylarında 11 kişi öldü",
-     "ozet": "",
-     "etiket": "teyitli",
+     "baslik": "Gazze'de araca yönelik İsrail saldırısında üç kişi öldü",
+     "ozet": "Reuters, Gazze Sağlık Bakanlığı'na dayanarak bir araca yönelik İsrail saldırısında üç kişinin öldüğünü bildirdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5"
-      },
-      {
-       "ad": "Euronews",
-       "link": "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5"
       }
      ]
     },
     {
-     "baslik": "Meloni, 1992'deki bombalama olayıyla ilgili soruşturmayla karşı karşıya kalan İtalyan eski polis şefinin ölü bulunmasının şokunu dile getiriyor",
-     "ozet": "",
-     "etiket": "teyitli",
+     "baslik": "BM Genel Sekreter seçiminde süreç 100 günü aştı",
+     "ozet": "Hürriyet'e göre yeni genel sekreter seçiminde yapılan 9 tur oylamaya rağmen beş daimi üye tek bir isimde uzlaşamadı.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVTNmcUVlZFhKZW1rX05waWs0UDhNOVdQYi1ERmVKVllXZFpGQmhLZ1pIUkU3R2hYcmpHbnYydXNlTlpjTWZvM1lKc3EtT0U5Ulh2MjNrbE9yWVFfblU1QXVLUXNyRlNLdVgybUMyd2dOUUVZdE0zN2xmRmxPTVhIQmZGd1F6N2VfYVFidzh2bXl2RER2dmc?oc=5"
-      },
-      {
-       "ad": "Le Monde",
-       "link": "https://www.lemonde.fr/en/international/article/2026/11/21/italian-ex-police-chief-accused-in-killing-of-judge-found-dead-in-apparent-suicide_6786166_4.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Finlandiya Körfezi'nde Rusya'ya gidecek gemiye saldırı",
-     "ozet": "Finlandiya savunma güçleri, gemiye yapılan drone saldırısının arkasında muhtemelen Ukrayna'nın olduğunu söylüyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "Politico Europe",
-       "link": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ]
-    },
-    {
-     "baslik": "Danimarka, Rusya'yı ABD-Ukraynalı rapçiye suikast planlamakla suçladı",
-     "ozet": "Danimarka'daki Rusya büyükelçiliği, Rusya'nın savunma ataşesinin sınır dışı edilmesine yol açan iddiayı reddetti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/bmde-surec-100-gunu-asti-genel-sekreter-seciminde-daimi-5-cikmazi-43386606"
       }
      ]
     }
@@ -364,57 +341,57 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Oruç Reis, Pakistan açıklarında sismik araştırma çalışmalarına başladı",
-     "ozet": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'nın yaklaşık 120 kilometre açığında bulunan İndus-C Bloku'nda üç boyutlu sismik araştırma çalışmalarına başladı.",
+     "baslik": "Amazon, yapay zekâ girişimi Decart'ı 7,5 milyar dolara almaya yaklaştı",
+     "ozet": "Financial Times'a göre satın alma, AWS'nin bilgi işlem gücü yarışında Nvidia ile rekabet etmesine yardımcı olacak.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/oruc-reis-pakistan-aciklarinda-sismik-arastirma-calismalarina-basladi/4132892"
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "baslik": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
-     "ozet": "Değerli metaller, ABD Merkez Bankasının (Fed) para politikalarında sıkılaşmayı hızlandırabileceği endişeleri ve dolardaki güçlenmenin etkisiyle haftalık bazda son 34 haftanın en sert değer kaybını…",
+     "baslik": "AB ile Endonezya'dan iki anlaşma: gümrük vergilerinin büyük bölümü kalkacak",
+     "ozet": "Dünya Gazetesi'ne göre AB ve Endonezya iki anlaşma imzaladı; gümrük vergilerinin büyük bölümü kaldırılacak.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852"
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/dunya/ab-ile-endonezyadan-iki-anlasma-gumruk-vergilerinin-buyuk-bolumu-kalkacak-haberi-848415"
       }
      ]
     },
     {
-     "baslik": "Bursa'yı yüksek hızlı tren ağına bağlayacak projede test çalışmaları başladı",
-     "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Bandırma–Bursa–Yenişehir–Osmaneli Hızlı Tren Projesi'nde Bursa'yı hızlı tren ağına bağlayacak Osmaneli–Bursa kesiminde altyapı ve üstyapı…",
+     "baslik": "Trump, kredi kartı faizlerine yüzde 10 sınır için Demokratlarla çalışacak",
+     "ozet": "AP'ye göre Trump, kredi kartı faizlerini yüzde 10 ile sınırlamak için Demokratlarla birlikte çalışacağını söyledi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/bursayi-yuksek-hizli-tren-agina-baglayacak-projede-test-calismalari-basladi/4132773"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHFuVnp6cHlDTXlRMnZXTHlyWGo3UWdKVHZOb0x0NWFPZmxBWFl1RWNOTVBoX0NNWlozRUxVV0tZZHlJM20td2llbkRlS1MtX29DMzZTUF9qemlJcFoxTXc4cWNsbTdCc29iRGx2ajdwdkp6OUFQU3NsMzJDdzdxVEU2VlF4QmRxVzlNYVdIUU1QU1ZRUTdXSWpiR21Nbl8zSURwbWpUQ09BUQ?oc=5"
       }
      ]
     },
     {
-     "baslik": "Fosil yakıtlardan uzaklaşma sürecinde finansman kilit rol oynuyor",
-     "ozet": "Geçen yıl Brezilya'da düzenlenen COP30'un Üst Yöneticisi Ana Toni, gelişmekte olan ülkelerin fosil yakıtlara bağımlılıklarını azaltabilmeleri için iklim finansmanının artırılması ve kaynakların…",
+     "baslik": "Almanya'da otomotiv ve tersane çalışanları greve gidiyor",
+     "ozet": "Reuters'a göre IG Metall sendikası grevini genişletirken Alman otomotiv ve tersane işçileri greve hazırlanıyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/fosil-yakitlardan-uzaklasma-surecinde-finansman-kilit-rol-oynuyor/4132730"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFBhS1Fub3hkTjloT0lrX2FKMEl1aG5pTDFrRzJTZnNtSGpRUmwtdm9tc0RwQnFOajR6WVBoZXE1Q3ZTVmtjMXB1cWdELVk0ckhFdjBiLUZzVmR2UWgzajdRSi03NXFjaThXX0J4U002R0ZpajI4QXRJRUVYdG82ejM2N2IyVzFNUkQ4YkRGbnV4eEZjdVpuM2l6bUt6NUhveXNoRnNPWF9Fa0dDMzExYTBDbURKYkROVGdmQmR6WHBDalFrOHRaWg?oc=5"
       }
      ]
     },
     {
-     "baslik": "Bakan Işıkhan'dan \"sigorta prim teşviki\"ne ilişkin paylaşım",
-     "ozet": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, 15 farklı sigorta primi teşviki, destek ve indirimleriyle kayıtlı istihdamı güçlendirdiklerini belirterek, bu yılın ocak-ağustos ayları arasında 301,3…",
+     "baslik": "Oracle hisseleri 34 ayın dibinde",
+     "ozet": "Dünya Gazetesi'ne göre Oracle hisseleri 34 ayın en düşük seviyesine indi; Larry Ellison dünyanın en zengin ilk 10 ismi arasından çıktı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhandan-sigorta-prim-tesvikine-iliskin-paylasim/4132775"
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/oracle-hisseleri-34-ayin-dibinde-larry-ellison-ilk-10dan-cikti-haberi-848421"
       }
      ]
     }
@@ -425,57 +402,65 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "Türk Telekom, altyapısıyla COP31 tarihinde eş zamanlı canlı yayın rekoru kırdı",
-     "ozet": "COP31 süresince günlük ortalama 58 terabaytın (TB) üzerinde veri trafiğini kesintisiz yönetti. Eş zamanlı bağlı cihaz ve canlı yayın sayısında COP organizasyonları tarihinin en yüksek seviyesine…",
+     "baslik": "Yapay zekâ modelleri insan beyni gibi çalışmayabilir",
+     "ozet": "ScienceDaily'de yer alan bir araştırmaya göre bazı yapay zekâ modellerinin işleyişi, insan beyninin çalışma biçimiyle bekleneni kadar benzeşmiyor; bulgu yapay zekânın nasıl anlaşıldığına dair varsayımlara meydan okuyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "James Webb, bir yıldızın devasa yıldız tarafından yutulmasının sonrasını görüntüledi",
+     "ozet": "Gökbilimciler Andromeda Galaksisi'nde küçük bir yıldızın Güneş'ten 18 bin kat parlak dev bir yıldızın içine sarmal çizerek girmesini ve ardından gelen şiddetli patlamayı gözlemledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "ScienceDaily",
+       "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+      }
+     ]
+    },
+    {
+     "baslik": "BM'de 'katil robotlar' için kural çıkmadı",
+     "ozet": "Cenevre'deki BM müzakerelerinde otonom silahlara düzenleme getirilmesi konusunda sonuç alınamadı. DW Türkçe'ye göre ABD ve Rusya itiraz etti; AP'ye göre ülkeler görüşmeleri uzatmayı kabul etti ancak bağlayıcı bir taahhüt yok.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/abd-ve-rusya-itiraz-etti-katil-robotlara-yasak-çıkmadı/a-80010227?maca=tur-rss-tur-all-1495-rdf"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5"
+      },
+      {
+       "ad": "The Verge",
+       "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      }
+     ]
+    },
+    {
+     "baslik": "Signal, yapay zekâ gözetimi gerekçesiyle ekran görüntüsü almayı kısıtlıyor",
+     "ozet": "TechCrunch'a göre Signal, Android ve iOS uygulamalarında kullanıcıların ekran görüntüsü alma imkânını sınırlıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      }
+     ]
+    },
+    {
+     "baslik": "Prostat kanserinde tümör hacmi yaşam süresini öngörmede önemli gösterge",
+     "ozet": "Anadolu Ajansı'na göre bir araştırmada toplam tümör hacmi arttıkça hastaların yaşam süresinin kısaldığı, hacim azaldıkça sağ kalım olasılığının yükseldiği saptandı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-telekom-altyapisiyla-cop31-tarihinde-es-zamanli-canli-yayin-rekoru-kirdi/4132874"
-      }
-     ]
-    },
-    {
-     "baslik": "Parkinson hastalığının tespitine yönelik yapay zeka modeli geliştirildi",
-     "ozet": "Parkinson hastalığının tespitine yönelik 3 üniversiteden akademisyenlerin geliştirdiği yapay zeka modeli, beyin MR görüntülerini analiz ederek hastalığın tespitinde yüzde 94,4 doğruluk oranına ulaştı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/parkinson-hastaliginin-tespitine-yonelik-yapay-zeka-modeli-gelistirildi/4132790"
-      }
-     ]
-    },
-    {
-     "baslik": "5G ve 6G Türkiye'nin dijital dönüşümünde stratejik kaldıraç olacak",
-     "ozet": "Türkiye Odalar ve Borsalar Birliği Telekomünikasyon Meclisi Başkanı Kemal Turnacı, 5G ve geleceğin haberleşme teknolojisi 6G'nin Türkiye'nin dijital dönüşümü, sanayi rekabetçiliği ve ekonomik…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/5g-ve-6g-turkiyenin-dijital-donusumunde-stratejik-kaldirac-olacak/4132736"
-      }
-     ]
-    },
-    {
-     "baslik": "En İyi Ekran Koruyucu Markaları - 2026",
-     "ozet": "2026'nın en iyi ekran koruyucu markalarını karşılaştırıyor; Spigen, Baseus, Nillkin, Benks, ESR, Belkin ve PanzerGlass modellerinin özelliklerini ve detaylarını inceliyoruz.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Webtekno",
-       "link": "https://www.webtekno.com/en-iyi-ekran-koruyucu-markalari-h229294.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Garip bir şekilde hızlanan uzay kayası gökbilimcileri şaşırtmaya devam ediyor",
-     "ozet": "Tuhaf \"karanlık kuyruklu yıldız\" 1998 KY26, bilim adamlarının henüz tam olarak anlayamadığı bir şekilde hareket ediyor. 2031'de bir Japon uzay aracının ziyareti planlandı, ancak motordaki sorun bu karşılaşmayı önleyecek ve...",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Scientific American",
-       "link": "https://www.scientificamerican.com/article/weirdly-accelerating-space-rock-keeps-puzzling-astronomers/"
+       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/prostat-kanserinde-olculen-tumor-hacmi-yasam-suresini-ongormede-onemli-gosterge-oldu/4133266"
       }
      ]
     }
@@ -486,35 +471,28 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "NHS Grampian tarafından yürütülen ameliyatla ilgili bağımsız inceleme talimatı verildi",
-     "ozet": "Bu, bir muhbirin sağlık kurulunda önlenebilir 19 ölüm olduğunu gösteren bir belgeyi sızdırmasının ardından geldi.",
+     "baslik": "ABD'de Virginia'da bu yılki ilk kızamık ölümü bildirildi",
+     "ozet": "AP'ye göre Virginia'da küçük bir çocuk eyaletin 2026'daki ilk kızamık ölümü oldu.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles"
+      }
+     ]
+    },
+    {
+     "baslik": "NHS Grampian'daki ameliyatlar için bağımsız inceleme başlatıldı",
+     "ozet": "BBC'ye göre bir muhbirin sızdırdığı belge sağlık kurulunda 19 önlenebilir ölüm yaşandığını gösterdi; bunun ardından bağımsız inceleme emredildi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "BBC Health",
        "link": "https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "'Bu beni sinirlendiriyor': Birini video oyunuyla aldatabilir misin?",
-     "ozet": "Grand Theft Auto VI, romantik bir ilişki kurmanıza ve geliştirmenize olanak tanıyor ancak bazıları, kurgusal bir karakterle çıkmanın çok ileri bir adım olduğunu söylüyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Görüş: Tıp fakültesi ne zaman başlamalı?",
-     "ozet": "STAT okuyucuları tıp fakültesinin kısaltılması, pediatrik acil bakımın düzeltilmesi ve daha pek çok konuya ağırlık veriyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss"
       }
      ]
     }
@@ -525,23 +503,23 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "İrlanda gerilimde dünya şampiyonu Güney Afrika'yı yendi",
-     "ozet": "İrlanda, İngiltere'nin Yeni Zelanda'ya karşı kazandığı zaferin Andy Farrell'ın takımının gelecek hafta sonu Milletler Şampiyonası'na ulaşma umutlarını suya düşürmesinin ardından Dublin'de heyecan verici bir galibiyetle dünya şampiyonu Güney Afrika'dan intikamını aldı.",
+     "baslik": "Fransa, Nations Championship finalinde Güney Afrika ile eşleşti",
+     "ozet": "Fransa, Paris'te Arjantin'i yenerek finalde Güney Afrika'nın rakibi oldu; final önümüzdeki pazar oynanacak.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/live/2026/nov/21/ireland-v-south-africa-nations-championship-rugby-union-live"
+       "link": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-championship-final-with-south-africa"
       }
      ]
     },
     {
-     "baslik": "Arsenal, Newcastle'daki canlı beraberliğin ardından altı puan farkla öne geçti",
-     "ozet": "Noni Madueke'nin ikinci yarıdaki golü, Arsenal'in St James' Park'ta Newcastle United'a karşı 2-2 berabere kalmasını sağlarken, son şampiyon Premier Lig sıralamasında altı puan farkla zirveye yerleşti.",
+     "baslik": "Arsenal Newcastle ile 2-2 berabere kaldı, farkı altı puana çıkardı",
+     "ozet": "Noni Madueke'nin ikinci yarıdaki golüyle Arsenal, Newcastle deplasmanında 2-2 berabere kalarak Premier Lig'de liderliğini altı puana çıkardı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -555,17 +533,36 @@
      ]
     },
     {
-     "baslik": "Bournemouth, Forest'ı yenerken Evanilson tekrar saldırdı",
-     "ozet": "Bournemouth, Vitality Stadyumu'nda Nottingham Forest'ı 2-0 mağlup ederken, Evanilson üst üste altıncı Premier Lig maçında gol attı.",
+     "baslik": "Alcaraz ATP Finals'te Zverev'in rakibi",
+     "ozet": "Carlos Alcaraz, Ben Shelton'a karşı geri dönüşle kazanarak finalde dünya bir numarası Alexander Zverev ile karşılaşacak.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report"
+       "link": "https://www.theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals"
+      }
+     ]
+    },
+    {
+     "baslik": "Kocaelispor-Fenerbahçe maçı 2-2 bitti",
+     "ozet": "Süper Lig'in 12. haftasında Kocaelispor ile Fenerbahçe 2-2 berabere kaldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/kocaelispor-ile-fenerbahce-berabere-kaldi/4133132"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-sapkamizi-onumuze-koyacagiz-43386516"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/vedat-muriqi-sapkamizi-onumuze-koyacagiz-3929123"
       }
      ]
     }
@@ -576,24 +573,32 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "Özgün 4 koreografi \"Momentum\"da buluşuyor",
-     "ozet": "Çağdaş dansın farklı anlatım biçimlerini bir araya getiren \"Momentum\", 4 özgün koreografiyle 24 Kasım'dan itibaren Kadıköy Belediyesi Süreyya Opera Sahnesi'nde sanatseverlerin beğenisine sunulacak.",
-     "etiket": "tek kaynak",
+     "baslik": "İtalyan mücevherci Paolo Bulgari 89 yaşında öldü",
+     "ozet": "Aile işini küresel lüks markaya dönüştüren Paolo Bulgari Roma'da hayatını kaybetti.",
+     "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/ozgun-4-koreografi-momentumda-bulusuyor/4133149"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXRQMHRTRkRCTXd0ejh0aGpGcWozZTBhdTJjMGV2WFZPMTVKR3pHQURGZWlYQ3dDdkRYTjI4Rmpmcjd1T19vVFdxNk1seF93V3I1cVhMVlNBOE01bktZSkkyVldMY0hpM2YzRWZWSjFyRVRwTTdKbFFMMFdkX3d4WUc1cE1YNUJLcF9JX1Nwb0l0Vzl3OXRaOU8tbklNa2NTMy1CbzNwM2tadw?oc=5"
+      },
+      {
+       "ad": "Euronews",
+       "link": "https://www.euronews.com/2026/11/21/paolo-bulgari-italian-jewellery-tycoon-dies-aged-89"
+      },
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/21/italyan-mucevherci-paolo-bulgari-89-yasinda-romada-hayatini-kaybetti"
       }
      ]
     },
     {
-     "baslik": "Anadolu'nun hazineleri COP31'de dünyaya tanıtıldı",
-     "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 'de kurulan Anadolu Hazineleri Bahçesi'nde, Hititlerden Cumhuriyet dönemine uzanan süreçte Anadolu'da kurulan medeniyetlerin doğayla ilişkisi…",
+     "baslik": "Spitting Image'ın yaratıcılarından Peter Fluck 85 yaşında öldü",
+     "ozet": "Fluck, kısa süre önce geçirdiği hastalığın ardından Cornwall'daki evinde hayatını kaybetti.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/anadolunun-hazineleri-cop31de-dunyaya-tanitildi/4132831"
+       "ad": "BBC Culture & Arts",
+       "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -603,58 +608,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43051188",
-   "baslik_en": "Application of the 2024 McDonald multiple sclerosis criteria in the international Acute Optic Neuritis Network (ACON): a cross-sectional cohort study.",
-   "baslik_tr": "2024 McDonald multipl skleroz kriterlerinin uluslararası Akut Optik Nörit Ağı'nda (ACON) uygulanması: kesitsel bir kohort çalışması.",
+   "pmid": "43063957",
+   "baslik_en": "Anticoagulants compared with aspirin in patients with embolic strokes of undetermined source: an individual participant data meta-analysis of randomised trials",
+   "baslik_tr": "ESUS'lu hastalarda antikoagülanlar ile aspirinin karşılaştırılması: randomize çalışmaların bireysel katılımcı verili meta-analizi",
+   "ozet_en": "This individual participant data meta-analysis pooled four randomised trials with 13,970 patients who had an embolic stroke of undetermined source. Anticoagulants and aspirin gave similar rates of recurrent stroke (adjusted HR 0.94, 95% CI 0.78-1.14). Major bleeding was also not significantly different (HR 1.19, 95% CI 0.52-2.73), though results varied considerably between trials. A possible benefit in patients with left atrial enlargement came from a subgroup analysis and needs testing in future trials.",
+   "ozet_tr": "Bu bireysel katılımcı verili meta-analiz, nedeni belirlenemeyen embolik inme geçiren 13.970 hastayı içeren dört randomize çalışmayı birleştirdi. Antikoagülanlar ve aspirin benzer inme tekrarı oranları verdi (düzeltilmiş HR 0,94; %95 GA 0,78-1,14). Majör kanama da anlamlı biçimde farklı değildi (HR 1,19; %95 GA 0,52-2,73), ancak sonuçlar çalışmalar arasında belirgin farklılık gösterdi. Sol atriyum genişlemesi olanlardaki olası yarar alt grup analizinden geldi ve yeni çalışmalarda sınanmalı.",
+   "neden_onemli": "İnme sonrası ilaç seçiminde pahalı antikoagülanların aspirine genel bir üstünlüğü olmadığını gösteriyor.",
+   "tur": "Sistematik derleme ve meta-analiz",
    "dergi": "The Lancet. Neurology",
    "yazarlar": [
-    "Klyscz P",
-    "Asseyer S",
-    "Stiebel-Kalish H",
+    "Katsanos AH",
+    "Sharma M",
+    "Diener HC",
     "et al."
    ],
-   "tur": "Multicenter Study, Observational Study",
-   "ozet_en": "BACKGROUND: The 2024 McDonald criteria for multiple sclerosis incorporate optic nerve lesions as a fifth topography for dissemination in space, and other additional diagnostic features. We evaluated their performance in patients with acute optic neuritis, a common first manifestation of multiple sclerosis. METHODS: In this cross-sectional cohort analysis from the prospective, multicentre Acute Optic Neuritis Network (ACON) study, we compared the 2024 and 2017 McDonald criteria for multiple sclerosis in patients with a first documented presentation of optic neuritis from 25 centres in 17 countries across six continents.",
-   "ozet_tr": "AMAÇ: Multipl skleroz için 2024 McDonald kriterleri, uzayda yayılma için beşinci topografi olarak optik sinir lezyonlarını ve diğer ek tanısal özellikleri içermektedir. Multipl sklerozun yaygın bir ilk belirtisi olan akut optik nöritli hastalardaki performanslarını değerlendirdik. YÖNTEMLER: Prospektif, çok merkezli Akut Optik Nörit Ağı (ACON) çalışmasından elde edilen bu kesitsel kohort analizinde, altı kıtada 17 ülkedeki 25 merkezden ilk belgelenmiş optik nevrit sunumu olan hastalarda multipl skleroz için 2024 ve 2017 McDonald kriterlerini karşılaştırdık.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43051188/",
-   "doi": "https://doi.org/10.1016/S1474-4422(26)00352-2"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063957/",
+   "doi": "https://doi.org/10.1016/S1474-4422(26)00366-2"
   },
   {
-   "pmid": "43056462",
-   "baslik_en": "Meso-microporous zeolitic materials with thin walls containing ordered 10-ring channels.",
-   "baslik_tr": "Düzenli 10 halkalı kanallar içeren ince duvarlı orta-mikro gözenekli zeolitik malzemeler.",
-   "dergi": "Science (New York, N.Y.)",
+   "pmid": "43050188",
+   "baslik_en": "Sleep-Wake Cycle Profiles and Incident Dementia and Cognitive Decline in Older Adults",
+   "baslik_tr": "Uyku-uyanıklık döngüsü profilleri ile yaşlı yetişkinlerde demans ve bilişsel gerileme",
+   "ozet_en": "In the Whitehall II cohort, 3,973 dementia-free adults aged 60+ wore accelerometers and were followed for a median of 12.3 years; 379 developed dementia. Those with a weak, fragmented rest-activity rhythm plus low physical activity and poor sleep had about twice the dementia risk (HR 1.94) compared with those with a robust rhythm and good sleep. People with a robust rhythm and higher activity had similar cognitive outcomes regardless of sleep. The study is observational, so it cannot show that improving rhythms lowers risk.",
+   "ozet_tr": "Whitehall II kohortunda demansı olmayan, 60 yaş ve üstü 3.973 kişi akselerometre taktı ve ortalama 12,3 yıl izlendi; 379 kişide demans gelişti. Zayıf ve parçalı dinlenme-aktivite ritmi, düşük fiziksel aktivite ve kötü uykusu olanlarda demans riski, güçlü ritmi ve iyi uykusu olanlara göre yaklaşık iki kat yüksekti (HR 1,94). Güçlü ritimli ve daha aktif kişilerde bilişsel sonuçlar uykudan bağımsız olarak benzerdi. Çalışma gözlemsel olduğundan ritmi düzeltmenin riski azalttığını gösteremez.",
+   "neden_onemli": "Düzenli günlük hareket ve istikrarlı gece-gündüz ritminin ileri yaşta bilişsel sağlıkla ilişkili olabileceğini düşündürüyor.",
+   "tur": "Prospektif kohort çalışması",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Zhang Z",
-    "Sun J",
-    "Ma C",
+    "Vidil S",
+    "Danilevicz IM",
+    "Dugravot A",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Aluminosilicate zeolites offer exceptional size and shape selectivity but suffer from diffusion limitations imposed by subnanometer micropores. Intrinsically meso-microporous zeolites integrate mesopores with micropores to create interconnected pathways that accelerate diffusion while preserving selectivity, yet their synthesis remains challenging. In this study, we report NJU120-5 and NJU120-7, intrinsically meso-microporous aluminosilicates that integrate micropores with mesopores enclosed by two-T-atom-thick walls containing 10-ring channels, forming a fully interconnected three-dimensional pore network.",
-   "ozet_tr": "Alüminosilikat zeolitler olağanüstü boyut ve şekil seçiciliği sunar ancak nanometre altı mikro gözeneklerin neden olduğu difüzyon sınırlamalarından muzdariptir. Özünde mezo-mikro gözenekli zeolitler, seçiciliği korurken difüzyonu hızlandıran birbirine bağlı yollar oluşturmak için mezo gözenekleri mikro gözeneklerle bütünleştirir, ancak sentezleri zorlu olmaya devam eder. Bu çalışmada, tamamen birbirine bağlı üç boyutlu bir gözenek ağı oluşturan, 10 halkalı kanallar içeren iki T atom kalınlığında duvarlarla çevrelenmiş mezo gözeneklerle mikro gözenekleri birleştiren, doğası gereği mezo-mikro gözenekli alüminosilikatlar olan NJU120-5 ve NJU120-7'yi rapor ediyoruz.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43056462/",
-   "doi": "https://doi.org/10.1126/science.aei6161"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050188/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44843"
   },
   {
-   "pmid": "43052437",
-   "baslik_en": "Rainforest adaptation in late Homo erectus from southern China.",
-   "baslik_tr": "Güney Çin'den geç Homo erectus'un yağmur ormanı adaptasyonu.",
-   "dergi": "Nature",
+   "pmid": "43056070",
+   "baslik_en": "Medical Imaging and Pediatric and Adolescent Brain Tumor Risk",
+   "baslik_tr": "Tıbbi görüntüleme ile çocuk ve ergenlerde beyin tümörü riski",
+   "ozet_en": "This retrospective cohort followed 3,704,860 children in six US health systems and Ontario, with 1,536 brain tumours diagnosed. Tumour risk rose with cumulative radiation dose to the brain from imaging, for example HR 2.30 at 50 to under 75 mGy and 3.85 at 150 mGy or more compared with no exposure. A single head CT averaged 66.2 mGy. As an observational study it shows association, not proof of cause.",
+   "ozet_tr": "Bu geriye dönük kohort, ABD'deki altı sağlık sistemi ve Ontario'dan 3.704.860 çocuğu izledi ve 1.536 beyin tümörü saptandı. Tümör riski, görüntülemeden kaynaklanan birikimli beyin radyasyon dozuyla arttı; örneğin hiç maruz kalmayanlara göre 50 ile 75 mGy arasında HR 2,30, 150 mGy ve üzerinde HR 3,85. Tek bir baş BT'si ortalama 66,2 mGy'di. Gözlemsel çalışma olduğundan nedensellik değil ilişki gösterir.",
+   "neden_onemli": "Çocuklarda görüntüleme kararlarının gerekliliğini ve radyasyon dozunu gözeten yaklaşımın önemini vurguluyor.",
+   "tur": "Retrospektif kohort çalışması",
+   "dergi": "JAMA",
    "yazarlar": [
-    "Westaway KE",
-    "Joannes-Boyau R",
-    "Liao W",
+    "Miglioretti DL",
+    "Alber SA",
+    "Kwan ML",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Homo erectus represents one of the longest-persisting hominin species, with a geographic range from Africa to eastern Eurasia from approximately 1.9 million years ago1 to 108 thousand years ago (ka)2. Despite this, there are still large gaps in our understanding of the adaptation capabilities of this species and the extent of its persistence in China. Assumptions over ecological preferences based on the Trinil3, Sangiran4 and Ngandong2 (in Java) open woodland-grassland mosaics have persisted, combined with limited direct stable carbon isotope measurements in Asia.",
-   "ozet_tr": "Homo erectus, yaklaşık 1,9 milyon yıl öncesinden1 108 bin yıl öncesine (ka)2 kadar Afrika'dan Doğu Avrasya'ya kadar uzanan coğrafi aralığıyla en uzun süre varlığını sürdüren hominin türlerinden birini temsil eder. Buna rağmen, bu türün adaptasyon yetenekleri ve Çin'deki varlığının boyutuna ilişkin anlayışımızda hâlâ büyük boşluklar var. Trinil3, Sangiran4 ve Ngandong2 (Java'da) açık ormanlık-otlak mozaiklerine dayanan ekolojik tercihlere ilişkin varsayımlar, Asya'daki sınırlı doğrudan kararlı karbon izotop ölçümleriyle birleştiğinde varlığını sürdürdü.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43052437/",
-   "doi": "https://doi.org/10.1038/s41586-026-11155-6"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056070/",
+   "doi": "https://doi.org/10.1001/jama.2026.20441"
   }
  ]
 }
