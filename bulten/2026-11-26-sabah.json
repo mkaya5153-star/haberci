@@ -1,684 +1,660 @@
 {
- "tarih": "2026-11-26",
- "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
- "one_cikanlar": [
-  {
-   "baslik": "Yeni dalga ikonu Duran Duran'ın gitaristi Andy Taylor, 65 yaşında hayatını kaybetti",
-   "ozet": "",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  "tarih": "2026-11-26",
+  "donem": "sabah",
+  "giris": "ABD'nin 14 ticaret ortağına yönelik yeni gümrük vergisi önerisi küresel piyasaları ve diplomasiyi meşgul ediyor; Borsa İstanbul günü sert düşüşle kapattı. Türkiye'de gözler bugün yapılacak bakanlar basın toplantısında, dünyada ise Mısır'daki tanker faciası, Netanyahu davasındaki gelişme ve SpaceX'e verilen dev uydu izni öne çıkıyor.",
+  "one_cikanlar": [
     {
-     "ad": "Associated Press",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2V2OUxYWk12T2E3d0g5SFVQNDA2LW9qdkNtZDZJdmVtelh4amRUNEtNYXNfN1hraG9KcnhnSFlpbmZ5TXlpSkVrVVgxa3lMaUpydlRyeHVGREN5aGpUN1BDUEJpYnE1dC1lTGh3OHR1UWkzZVJpMkdPaEkzd1padXdRYnNrQXBJYnlaVEc1bVVVUQ?oc=5"
+      "baslik": "Mısır'da tanker yangınında 31 kişi öldü",
+      "ozet": "Giza'da petrol yüklü bir tankerde çıkan yangında ölenlerin sayısı 31'e, yaralananların sayısı 21'e yükseldi. Reuters ve DW, kazanın karayolunda bir yakıt aracının devrilmesiyle başladığını aktarıyor.",
+      "neden_onemli": "Yakın dönemin en ağır karayolu kazalarından biri; can kaybı hâlâ değişebiliyor.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tanker-yangininda-olenlerin-sayisi-31e-yaralananlarin-sayisi-21e-yukseldi/4138115"
+        },
+        {
+          "ad": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5"
+        },
+        {
+          "ad": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "ad": "DW English",
+          "link": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "ad": "France 24",
+          "link": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
+        }
+      ]
     },
     {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf"
+      "baslik": "ABD, AB ve Çin dahil 14 ortağa yeni gümrük vergisi öneriyor",
+      "ozet": "ABD yönetimi, 'kapasite fazlası' gerekçesiyle Çin, AB, Hindistan, Japonya, Güney Kore, Vietnam ve diğer ülkelerden bazı ithalat kalemlerine ek vergi önerdi. AB Komisyonu, Avrupa'nın sanayide kapasite fazlasına yol açtığı iddiasını reddetti.",
+      "neden_onemli": "Küresel ticaret ve ihracatçı ülkelerin maliyetleri açısından yeni bir gerginlik kaynağı.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {
+          "ad": "Euronews Türkçe",
+          "link": "https://tr.euronews.com/2026/11/25/abd-aralarinda-ab-ve-cinin-de-oldugu-14-ticaret-ortagina-yeni-gumruk-vergileri-onerdi"
+        },
+        {
+          "ad": "Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5"
+        },
+        {
+          "ad": "DW English",
+          "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "ad": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/ab-den-abd-nin-kapasite-fazlasi-iddiasina-yalanlama-3795681"
+        },
+        {
+          "ad": "Anadolu Ajansı Ekonomi",
+          "link": "https://www.aa.com.tr/tr/ekonomi/abd-yonetimi-kapasite-fazlasi-gerekcesiyle-14-ekonomiye-ek-tarife-onerdi/4137787"
+        }
+      ]
     },
     {
-     "ad": "France 24",
-     "link": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65"
+      "baslik": "İsrailli yargıçlar Netanyahu'nun en ağır suçlamalarının düşürülmesini tavsiye etti",
+      "ozet": "BBC'ye göre yargıçlar, üç davadan birinde mahkûmiyet ihtimalinin düşük olduğunu belirterek en ağır suçlamaların düşürülmesini önerdi. Netanyahu ise davasının sona ermesi gerektiğini söylüyor.",
+      "neden_onemli": "Netanyahu'nun yargılanma süreci ve İsrail siyaseti açısından önemli bir dönüm noktası.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {
+          "ad": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "ad": "New York Times",
+          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
+        },
+        {
+          "ad": "Financial Times",
+          "link": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1"
+        }
+      ]
     },
     {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
+      "baslik": "Fon soruşturması için bakanlardan ortak basın toplantısı",
+      "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in 26 Kasım Perşembe günü fon soruşturmasına ilişkin ortak basın toplantısı düzenleyeceği bildirildi.",
+      "neden_onemli": "Soruşturmanın son durumu ilk kez üç bakanın ağzından kamuoyuna açıklanacak.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {
+          "ad": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "ad": "Habertürk",
+          "link": "https://www.haberturk.com/ekonomi/bestepe-de-fon-toplantisi-cumhurbaskani-yardimcisi-yilmaz-ve-bakanlar-son-durumu-aciklayacak-3930191"
+        }
+      ]
     },
     {
-     "ad": "BBC Culture & Arts",
-     "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
+      "baslik": "ABD, SpaceX'in uzayda veri merkezleri için 1 milyon uydu fırlatmasına izin verdi",
+      "ozet": "ABD Federal İletişim Komisyonu (FCC), SpaceX'in uzayda veri merkezleri kurmak amacıyla 1 milyon uydu fırlatma talebini onayladı. Ars Technica'ya göre bu, yörüngedeki uydu sayısını yaklaşık 50 kat artıracak bir takımyıldız anlamına geliyor.",
+      "neden_onemli": "Yörünge kalabalığı ve yapay zekâ altyapısının geleceği açısından görülmemiş ölçekte bir yetki.",
+      "etiket": "teyitli",
+      "kaynaklar": [
+        {
+          "ad": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5"
+        },
+        {
+          "ad": "Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUmh3LVh3RnFNUW5hVjJWcXlzOERNTTloeEdIbnRiRGVSV1B4UzJaWVhudzNvS0Q4YlRvN1pUTThRVjhka1JpYUFBWC1RWW1hYnFxT3RxM0VoMERWRmlJdmd4LXJJR0F5S083cThjNDFWay1zRWVPcmRUeXR5WWVuQ01ObUVGRVZBOGFzTDdobUxMUQ?oc=5"
+        },
+        {
+          "ad": "France 24",
+          "link": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
+        },
+        {
+          "ad": "Le Monde",
+          "link": "https://www.lemonde.fr/en/science/article/2026/11/25/us-clears-spacex-to-launch-up-to-one-million-orbital-data-center-satellites_6788575_10.html"
+        },
+        {
+          "ad": "Anadolu Ajansı Bilim-Teknoloji",
+          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879"
+        },
+        {
+          "ad": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+        },
+        {
+          "ad": "The Verge",
+          "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        }
+      ]
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Emre Belözoğlu, Fenerbahçe tarihine geçti!",
-   "ozet": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, sarı-lacivertli kulübün tarihine geçti.",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  ],
+  "bolumler": [
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-fenerbahce-tarihine-gecti-43391255"
+      "id": "gundem_tr",
+      "ad": "Türkiye",
+      "haberler": [
+        {
+          "baslik": "İzmir'de suya yüzde 63 indirim",
+          "ozet": "İzmir Büyükşehir Belediye Meclisi, suyun metreküp fiyatında 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasına karar verdi.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "TRT Haber",
+              "link": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html"
+            },
+            {
+              "ad": "Euronews Türkçe",
+              "link": "https://tr.euronews.com/2026/11/25/izmirde-suya-yuzde-63-indirim-yeni-tarife-1-ocakta-basliyor"
+            },
+            {
+              "ad": "Habertürk",
+              "link": "https://www.haberturk.com/ekonomi/izmir-de-suya-yuzde-63-indirim-3930193"
+            }
+          ]
+        },
+        {
+          "baslik": "Anayasa Mahkemesi, İmamoğlu'nun tutukluluğunu değerlendirecek",
+          "ozet": "BBC Türkçe'ye göre AYM, Ekrem İmamoğlu'nun tutukluluğunun sona ermesi için yapılan bireysel başvuruyu ele alacak. Üyelerden sekizinin lehte oy vermesi hâlinde tutuklu siyasetçinin durumu değişebilecek.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "BBC Türkçe",
+              "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Özgür Özel yeni MYK'sını belirledi",
+          "ozet": "BBC Türkçe'ye göre Yeni Parti Genel Başkanı Özgür Özel, CHP Genel Başkanlığı döneminde kullandığı geniş MYK yapılanmasını Yeni Parti'ye de taşıdı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "BBC Türkçe",
+              "link": "https://www.bbc.com/turkce/articles/cmrlg02zkp6xo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Erdoğan, Hafter'i Ankara'da ağırladı",
+          "ozet": "Euronews Türkçe'ye göre Hafter'in Ankara ziyareti, Türkiye'nin Libya'nın hem batısı hem doğusuyla ilişkilerini geliştirme çabasının yanı sıra Doğu Akdeniz'deki dengeler açısından da önem taşıyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Euronews Türkçe",
+              "link": "https://tr.euronews.com/2026/11/25/erdogan-hafteri-ankarada-agirladi-iliskilerde-neler-degisiyor"
+            }
+          ]
+        },
+        {
+          "baslik": "HSK kararnamesiyle 957 hâkim ve savcının görev yeri değişti",
+          "ozet": "HSK'nin yayımladığı mazeret kararnamesiyle 957 hâkim ve savcı yeni görevlere atandı; aralarında İstanbul Anadolu, Bakırköy ve İzmir başsavcılıkları da var.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Bloomberg HT",
+              "link": "https://www.bloomberght.com/hsk-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-3795682"
+            }
+          ]
+        }
+      ]
     },
     {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/spor/foto/emre-belozoglu-fenerbahce-tarihine-gecti-3930156"
+      "id": "dunya",
+      "ad": "Dünya",
+      "haberler": [
+        {
+          "baslik": "Kim Jong Un, taktik nükleer silahların yaygınlaştırılmasını istedi",
+          "ozet": "Kuzey Kore devlet ajansı KCNA'ya göre Kim, nükleer tesis gezisinde taktik nükleer silahların konuşlandırmasının genişletilmesi çağrısı yaptı. AP, Kim'in Trump'ın uzattığı ele yanıt vermeden daha fazla nükleer silah üretme sözü verdiğini aktarıyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxZanZuLVM5QUcwTnVIS2FTQlJQQk1nQzRUd2dzUTRvUzZxbkpRMmxMdG1SUUNSLUgtNlRfbTRjcHpab2hGMHczTU02aDl6NnJOd2tXWlJ5MGJtQ0QtZDQ2SW4xOEVNVk55T1E4bmJEU2x6T3R0UUVmVnYzSllaZnRLNzRhOFp6dU80dEtUWTByZDloR1U4RlI1U1M1dF9wTnFaTTRYOUl1V05IVU43M0NtdC1TTVB6cWtoOGFLald3bU4xc2xlM1pBNkgyM0U?oc=5"
+            },
+            {
+              "ad": "DW English",
+              "link": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf"
+            },
+            {
+              "ad": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss"
+            },
+            {
+              "ad": "Associated Press",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "baslik": "Ukrayna: Rus hava üssünde beş savaş uçağı vuruldu",
+          "ozet": "Ukrayna, Savasleyka hava üssüne yönelik saldırıda beş Rus askerî uçağının vurulduğunu açıkladı. Üs, Rusya'nın hipersonik füze ve süzülen bomba fırlatan uçaklarına ev sahipliği yapıyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "BBC News",
+              "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "ad": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Rusya Ukrayna'nın enerji altyapısını vurdu, Kiev üç Rus rafinerisini hedef aldı",
+          "ozet": "Euronews Türkçe'ye göre Rusya'nın İHA saldırılarında Ukrayna'nın altı bölgesinde can kaybı yaşandı ve enerji tesisleri hedef alındı. Ukrayna ise Rusya'daki üç rafineri ile bir hava üssünü vurdu.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Euronews Türkçe",
+              "link": "https://tr.euronews.com/2026/11/25/rusya-ukraynanin-enerji-altyapisini-vurdu-kiev-3-rus-rafinerisini-hedef-aldi"
+            }
+          ]
+        },
+        {
+          "baslik": "Polonya, Ukrayna sınırında uçuşa yasak bölge kuracak",
+          "ozet": "DW'ye göre Polonya, tekrarlanan Rus hava sahası ihlalleri sonrası NATO müttefiklerini sınırlarında tetikte olmaya çağırdı ve sınırda uçuşa yasak bölge oluşturacağını duyurdu.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "DW English",
+              "link": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122?maca=en-rss-en-all-1573-rdf"
+            },
+            {
+              "ad": "France 24",
+              "link": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations"
+            }
+          ]
+        },
+        {
+          "baslik": "Irak Yüksek Mahkemesi: Kürt bölgesi dahil tüm sınırlarda federal yetki",
+          "ozet": "DW Türkçe'ye göre mahkeme, Kürt bölgesi dahil tüm sınırlar ve petrol faaliyetlerinde federal hükûmetin yetkili olduğuna hükmetti. Kürdistan Bölgesel Yönetimi kararı 'anayasa ihlali' olarak niteledi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "DW Türkçe",
+              "link": "https://www.dw.com/tr/irak-yüksek-mahkemesi-nden-kürt-bölgesi-dahil-tüm-sınırlarda-federal-güç-kararı/a-80052217?maca=tur-rss-tur-all-1495-rdf"
+            }
+          ]
+        },
+        {
+          "baslik": "Kolombiya'da süpermarkette 17 saat süren rehine krizi bitti",
+          "ozet": "BBC'ye göre polis, Cartagena'da bir süpermarkette 17 saat boyunca rehin tutulan 76 kişiyi kurtardı. Bir silahlı kişi öldürüldü; Cumhurbaşkanı olayı zırhlı para taşıma aracına yönelik başarısız bir soygun olarak tanımladı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "BBC News",
+              "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "ad": "The Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
+            }
+          ]
+        },
+        {
+          "baslik": "Fransa'daki lise eylemlerinde yaklaşık 500 öğrenci yaralandı",
+          "ozet": "Fransa Eğitim Bakanı Edouard Geffray, 2 ayı aşkın süredir süren lise eylemlerinde yaklaşık 500 öğrencinin yaralandığını bildirdi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı",
+              "link": "https://www.aa.com.tr/tr/dunya/fransada-2-ayi-askin-suredir-devam-eden-eylemlerde-yaklasik-500-ogrenci-yaralandi/4138102"
+            }
+          ]
+        },
+        {
+          "baslik": "Belçika'da yapay zekâ destekli siber saldırıda 1,2 milyon kişinin verisi çalındı",
+          "ozet": "Flaman Bölgesi'nde 82 belediyedeki yaklaşık 1,2 milyon kişinin kişisel verilerinin yapay zekâ destekli bir siber saldırıda çalındığı bildirildi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı",
+              "link": "https://www.aa.com.tr/tr/dunya/belcikada-yapay-zeka-destekli-siber-saldirida-yaklasik-1-2-milyon-kisinin-verileri-calindi/4137902"
+            }
+          ]
+        }
+      ]
     },
     {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/spor/futbol/2026/11/25/son-dakika-fenerbahce-shakhtar-donetski-devirdi-emre-belozoglu-ilk-macinda-galip"
+      "id": "ekonomi",
+      "ad": "Ekonomi & Piyasalar",
+      "haberler": [
+        {
+          "baslik": "Borsa İstanbul günü yüzde 2,83 düşüşle kapattı",
+          "ozet": "BIST 100 endeksi günü yüzde 2,83 değer kaybederek 10.655,74 puandan tamamladı. Bloomberg HT'ye göre dolar 50,68 TL'yi gördü.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı Ekonomi",
+              "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4137729"
+            },
+            {
+              "ad": "Bloomberg HT",
+              "link": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-25-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795672"
+            }
+          ]
+        },
+        {
+          "baslik": "Fed'in Bej Kitabı: Büyüme ve fiyat artışı sürüyor",
+          "ozet": "Fed, ülkenin çoğu bölgesinde ekonomik faaliyetin hafif ila ılımlı büyüdüğünü, fiyatların ise ılımlı artmaya devam ettiğini bildirdi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı",
+              "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-buyume-ve-fiyat-artisinin-surdugune-isaret-etti/4138073"
+            }
+          ]
+        },
+        {
+          "baslik": "ABD'de yıllık enflasyon yüzde 3,8'e çıktı",
+          "ozet": "Guardian'a göre ABD'de tüketici fiyatları son bir yılda yüzde 3,8 artarak Mayıs'tan bu yana en yüksek düzeye ulaştı; artışta enerji fiyatları etkili oldu.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "The Guardian Business",
+              "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation"
+            }
+          ]
+        },
+        {
+          "baslik": "ABD'de üçüncü çeyrek büyümesi yüzde 4,3'e revize edildi",
+          "ozet": "Financial Times'a göre Ekonomik Analiz Bürosu üçüncü çeyrek büyümesini yıllıklandırılmış yüzde 4,3'e çıkardı (ilk tahmin yüzde 3,4). Veri, Fed'in Aralık'ta faiz artırma ihtimalini canlı tutuyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Financial Times",
+              "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "baslik": "ABD öncülüğündeki konsorsiyum Lukoil'in yurt dışı varlıklarını alıyor",
+          "ozet": "ABD destekli bir konsorsiyum, Lukoil International'ın Rusya dışındaki petrol ve doğal gaz varlıklarını satın almak için anlaşmaya vardı. Reuters, anlaşmanın Todd Boehly tarafından hisse takası yoluyla imzalandığını yazıyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı",
+              "link": "https://www.aa.com.tr/tr/dunya/abd-onculugundeki-konsorsiyum-lukoilin-rusya-disindaki-enerji-varliklarini-satin-alacak/4137903"
+            },
+            {
+              "ad": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "baslik": "Güney Kore Merkez Bankası bu yıl üçüncü kez faiz artırdı",
+          "ozet": "Financial Times'a göre banka, politika faizini çeyrek puan artırarak yüzde 3,25'e çıkardı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "Financial Times",
+              "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa"
+            }
+          ]
+        }
+      ]
     },
     {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-ndan-galibiyet-aciklamasi-fenerbahce-nin-buralarda-olmasi-yakisiyor-2559509"
+      "id": "bilim_teknoloji",
+      "ad": "Bilim, Teknoloji & Yapay Zekâ",
+      "haberler": [
+        {
+          "baslik": "Hera, DART'ın çarptığı asteroitte 'kaos' görüntüledi",
+          "ozet": "ESA'nın Hera görevi, NASA'nın 2022'de çarptığı Dimorphos asteroidini inceledi. Ars Technica, bir araştırmacının 'DART çok büyük bir dağınıklık yarattı' sözünü aktarıyor; Reuters yeni görüntülerde bir krater görüldüğünü bildiriyor.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+            },
+            {
+              "ad": "Scientific American",
+              "link": "https://www.scientificamerican.com/article/in-2022-nasa-struck-an-asteroid-now-we-are-finally-seeing-the-massive-impact-up-close/"
+            },
+            {
+              "ad": "Euronews Türkçe",
+              "link": "https://tr.euronews.com/2026/11/25/esanin-hera-misyonu-dartin-carptigi-dimorphosta-tam-bir-kaos-goruntulendi"
+            },
+            {
+              "ad": "Reuters",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5"
+            },
+            {
+              "ad": "BBC News",
+              "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Kızıldeniz'in bir mil altında gizemli göller keşfedildi",
+          "ozet": "ScienceDaily'ye göre bilim insanları Kızıldeniz'de yüzeyin bir milden fazla altında nadir su altı gölleri buldu; bunların Dünya'nın eski okyanusları ve yaşam olasılığı hakkında bilgi verebileceği belirtiliyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+            }
+          ]
+        },
+        {
+          "baslik": "Robotik diz protezi ameliyatının en büyük denemesinden şaşırtıcı sonuç",
+          "ozet": "ScienceDaily'ye göre robot destekli diz protezi ameliyatı daha yüksek cerrahi hassasiyet sağlıyor; ancak büyük klinik çalışma, hastaların beklenen iyileşmeyi yaşamadığını gösterdi.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm"
+            }
+          ]
+        },
+        {
+          "baslik": "Vücudun kalori yakma mekanizmasında beklenmedik bulgu",
+          "ozet": "ScienceDaily'ye göre araştırmacılar, bir ilacın kahverengi yağı belirgin biçimde etkinleştirmeden enerji harcamasını önemli ölçüde artırabildiğini buldu.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm"
+            }
+          ]
+        },
+        {
+          "baslik": "Big Bang'den hemen sonra oluşmuş olabilecek bir kara delik adayı",
+          "ozet": "ScienceDaily'ye göre 'Phoebe' adı verilen cisim, uzak bir yıldızı kısa süre büyüttüğünde tespit edildi ve Güneş'in yaklaşık üç katı kütleyle ilkel bir kara delik olabilir.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saglik",
+      "ad": "Sağlık",
+      "haberler": [
+        {
+          "baslik": "İngiltere'de DEHB ve otizm değerlendirmelerinde bekleme süreleri uzuyor",
+          "ozet": "BBC'ye göre bir aile hekimi, DEHB ve otizm değerlendirmeleri için uzun bekleme sürelerinin en çok ihtiyacı olanların görülememesine yol açtığını söylüyor.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "BBC Health",
+              "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "FDA, nadir mide kanseri için Cogent'in ilacını onayladı",
+          "ozet": "STAT News'e göre Cogent Biosciences, nadir bir mide kanseri tedavisi için FDA onayı aldı; ilaç, Pfizer'ın daha eski ilacı Sutent ile birlikte kullanılacak.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "STAT News",
+              "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Medicare'in 2027 hekim ödeme değişiklikleri bazı uzmanları kaygılandırıyor",
+          "ozet": "STAT News'e göre bazı aynı gün hizmetlerde ödeme oranlarının düşürülmesi, belirli uzmanlık dallarını diğerlerinden daha fazla etkileyebilir.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "STAT News",
+              "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spor",
+      "ad": "Spor",
+      "haberler": [
+        {
+          "baslik": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i 1-0 yendi",
+          "ozet": "Londra'da oynanan 5. hafta maçında Muric'in golüyle kazanan Fenerbahçe puanını 8'e yükseltti.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "Anadolu Ajansı",
+              "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081"
+            },
+            {
+              "ad": "BBC Türkçe",
+              "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "PSG'nin Şampiyonlar Ligi'ndeki 100 puanlık başlangıcı Roma'ya takıldı",
+          "ozet": "Roma, PSG deplasmanında Malen'in 78. dakikadaki penaltısıyla 2-2 berabere kaldı; PSG sezonun ilk puan kaybını yaşadı.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "France 24",
+              "link": "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty"
+            },
+            {
+              "ad": "Le Monde",
+              "link": "https://www.lemonde.fr/en/sports/article/2026/11/26/champions-league-malen-and-roma-deny-injury-hit-psg-in-2-2-draw_6788641_9.html"
+            },
+            {
+              "ad": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Lille, Bayern Münih'e sezonun ilk yenilgisini tattırdı",
+          "ozet": "BBC Sport'a göre Lille ikinci yarıda üç dakikada iki gol buldu; golün biri Pavlovic'in kendi kalesine attığı gol oldu.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "BBC Sport",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "baslik": "Liverpool, Isak'ın iki golüyle Club Brugge'ü yendi",
+          "ozet": "BBC Sport'a göre Liverpool, Isak ve Wirtz'in golleriyle son Şampiyonlar Ligi maçındaki yenilginin ardından toparlandı.",
+          "etiket": "tek kaynak",
+          "kaynaklar": [
+            {
+              "ad": "BBC Sport",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kultur",
+      "ad": "Kültür & Sanat",
+      "haberler": [
+        {
+          "baslik": "Duran Duran gitaristi Andy Taylor 65 yaşında öldü",
+          "ozet": "BBC'ye göre grubun en büyük hit şarkılarından bazılarının ortak bestecisi olan Taylor, prostat kanseri tedavisi görüyordu.",
+          "etiket": "teyitli",
+          "kaynaklar": [
+            {
+              "ad": "BBC Culture & Arts",
+              "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "ad": "The Guardian Culture",
+              "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i tek golle geçti",
-   "ozet": "UEFA Şampiyonlar Ligi'nin 5. haftasında Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'nin başkenti Londra'da karşılaşan Fenerbahçe, Muric'in golüyle rakibini 1-0 yenerek puanını 8'e yükseltti.",
-   "etiket": "teyitli",
-   "kaynaklar": [
+  ],
+  "farkli_bakislar": [],
+  "makaleler": [
     {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081"
+      "pmid": "43085809",
+      "baslik_en": "Preconception antidepressant use in fathers and risk of metabolic disorders in offspring: Danish population based cohort study.",
+      "baslik_tr": "Babalarda gebelik öncesi antidepresan kullanımı ve çocuklarda metabolik hastalık riski: Danimarka nüfus temelli kohort çalışması",
+      "dergi": "BMJ (Clinical research ed.)",
+      "yazarlar": [
+        "Chen J",
+        "Trinh NTH",
+        "Nordeng HME",
+        "et al."
+      ],
+      "tur": "Journal Article",
+      "ozet_en": "Danish national registers were used to follow about 1.37 million children born in 2000-2023. Children whose fathers used antidepressants in the three months before conception had a slightly higher risk of metabolic disorders (hazard ratio 1.20) than unexposed children. However, compared with children of fathers who took antidepressants only during pregnancy, no increased risk was found. The authors conclude the small increase probably reflects the fathers' underlying mental health conditions; the study is observational.",
+      "ozet_tr": "Danimarka ulusal kayıtlarından yararlanılarak 2000-2023 arasında doğan yaklaşık 1,37 milyon çocuk izlendi. Babası gebelikten önceki üç ayda antidepresan kullanan çocuklarda metabolik hastalık riski, kullanmayanlara göre hafif yüksekti (risk oranı 1,20). Babası antidepresanı yalnızca gebelik sırasında kullanan çocuklarla karşılaştırıldığında ise artmış risk bulunmadı. Yazarlar, hafif artışın büyük olasılıkla babaların altta yatan ruh sağlığı sorunlarından kaynaklandığını belirtiyor; çalışma gözlemsel.",
+      "neden_onemli": "Gebelik öncesi antidepresan kullanan babalar için, çocuklara yönelik risk kaygısının büyük ölçüde yersiz olabileceğini gösteriyor; ilaç kararları yine de hekimle verilmelidir.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43085809/",
+      "doi": "https://doi.org/10.1136/bmj-2026-101239"
     },
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss"
+      "pmid": "43072799",
+      "baslik_en": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "baslik_tr": "Çocuk ve ergenlerde akut davranış bozukluğunda kas içi olanzapin veya droperidol: PEAChY-M randomize klinik çalışması",
+      "dergi": "JAMA",
+      "yazarlar": [
+        "Bourke EM",
+        "Kochar A",
+        "Shellshear D",
+        "et al."
+      ],
+      "tur": "Journal Article",
+      "ozet_en": "This open-label randomized trial in 10 Australian emergency departments enrolled 348 children and adolescents aged 9-17 who needed intramuscular medication for acute behavioral disturbance. Successful sedation without extra sedatives at one hour occurred in 53% with olanzapine and 62% with droperidol, with no evidence that olanzapine was superior. One serious adverse event (apnea) occurred in the olanzapine group. The authors note that both drugs had limited effectiveness.",
+      "ozet_tr": "Bu açık etiketli randomize çalışmada, Avustralya'daki 10 acil servise başvuran ve akut davranış bozukluğu nedeniyle kas içi ilaç gereken 9-17 yaş arası 348 çocuk ve ergen yer aldı. Bir saat sonunda ek yatıştırıcı gerekmeden başarılı sedasyon olanzapinde yüzde 53, droperidolde yüzde 62 oranında görüldü; olanzapinin üstün olduğuna dair kanıt bulunmadı. Olanzapin grubunda bir ciddi yan etki (apne) bildirildi. Yazarlar iki ilacın da etkisinin sınırlı kaldığını belirtiyor.",
+      "neden_onemli": "Acil servislerde ajite çocuklarda ilaç seçimine dair kanıtı güçlendiriyor ve ilaç dışı yöntemlere duyulan ihtiyacı vurguluyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43072799/",
+      "doi": "https://doi.org/10.1001/jama.2026.25561"
     },
     {
-     "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3hVQUxnN0pFU3BQekNnOEtseUNkUUo3Qm5tOGVrMXZQc2Fja1Z2SzNQcnN1bUk2UlN0VHZ6MnIxM3Y4T3Y1enljZGJNV1ZDUDI3TGs1UGhjUXdSNWdFeEpjRDhjUTdiay1adjNITGVwVHdlY1lfcEw0b3BQRmJRWDN3S1pJX0UzbG44YjZUQ3dPZFlLcHRyZW9yOWZoM1dJX3laeEdzb3FKSm1JcUtj?oc=5"
+      "pmid": "43071371",
+      "baslik_en": "Population-Based Evaluation of a Multidimensional Diagnostic Schema for Chronic Obstructive Pulmonary Disease.",
+      "baslik_tr": "KOAH için çok boyutlu tanı şemasının nüfus temelli değerlendirmesi",
+      "dergi": "JAMA internal medicine",
+      "yazarlar": [
+        "Eriksson Ström J",
+        "Pesonen I",
+        "Bergqvist J",
+        "et al."
+      ],
+      "tur": "Journal Article",
+      "ozet_en": "In a Swedish population-based cohort of 29,281 adults aged 50-64, a multidimensional COPD definition that adds chest CT findings identified a similar number of cases as the standard GOLD definition, but about one third of its cases did not meet GOLD criteria. Those extra cases had clearly higher mortality (hazard ratio about 2.6), while GOLD-only cases did not. Roughly one third of multidimensional cases had no symptoms, suggesting a detection gap; the study is observational.",
+      "ozet_tr": "50-64 yaş arası 29.281 yetişkinin yer aldığı İsveç kohortunda, göğüs BT bulgularını da içeren çok boyutlu KOAH tanımı standart GOLD tanımıyla benzer sayıda vaka saptadı; ancak vakaların yaklaşık üçte biri GOLD ölçütlerini karşılamıyordu. Bu ek vakalarda ölüm riski belirgin biçimde yüksekti (risk oranı yaklaşık 2,6); yalnızca GOLD ile tanı alanlarda ise artış yoktu. Çok boyutlu vakaların yaklaşık üçte biri belirtisizdi; bu da mevcut tanı yaklaşımında bir boşluğa işaret ediyor. Çalışma gözlemsel.",
+      "neden_onemli": "Belirti vermeyen KOAH'ın gözden kaçabildiğini ve akciğer hastalığında riskin yalnızca solunum testiyle ölçülemeyebileceğini hatırlatıyor.",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43071371/",
+      "doi": "https://doi.org/10.1001/jamainternmed.2026.6202"
     }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İstanbul Valisi Gül'den sokakta kalan vatandaşların 112'ye bildirilmesi çağrısı",
-   "ozet": "İstanbul Valisi Davut Gül, kentte hava sıcaklığının gece 2 dereceye kadar düşmesinin beklendiğine işaret ederek, sokakta kalan ve barınmaya ihtiyaç duyan vatandaşların 112 Acil Çağrı Merkezi'ne…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067"
-    },
-    {
-     "ad": "Habertürk",
-     "link": "https://www.haberturk.com/gundem/istanbul-valisi-gul-den-asiri-soguk-uyarisi-3930161"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-valisi-gul-den-sokakta-kalan-yurttaslar-icin-cagri-112-ye-bildirin-2559499"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İzmir'de suya yüzde 63 indirim",
-   "ozet": "İzmir Büyükşehir Belediye Meclisi, kentte suyun metreküp fiyatına 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasını kararlaştırdı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html"
-    },
-    {
-     "ad": "Euronews Türkçe",
-     "link": "https://tr.euronews.com/2026/11/25/izmirde-suya-yuzde-63-indirim-yeni-tarife-1-ocakta-basliyor"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/izmirde-suya-yuzde-63-indirim-43391128"
-    }
-   ],
-   "neden_onemli": ""
-  }
- ],
- "bolumler": [
-  {
-   "id": "gundem_tr",
-   "ad": "Türkiye",
-   "haberler": [
-    {
-     "baslik": "HSK mazeret kararnamesi yayımlandı: 957 hakim ve savcının görev yeri değişti",
-     "ozet": "Hakimler ve Savcılar Kurulunun (HSK) mazeret kararnamesiyle adli ve idari yargıda görev yapan toplam 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi. HSK Birinci Dairesi tarafından…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785685/haber/hsk-mazeret-kararnamesi-yay%C4%B1mland%C4%B1-957-hakim-ve-savc%C4%B1n%C4%B1n-g%C3%B6rev-yeri-de%C4%9Fi%C5%9Fti"
-      },
-      {
-       "ad": "Sabah",
-       "link": "https://www.sabah.com.tr/gundem/2026/11/25/hsk-kararnamesi-yayimlandi-957-hakim-ve-savcinin-gorev-yeri-degisti"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/hsk-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-3795682"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/gundem/hsk-957-hakim-ve-savcinin-gorev-yerini-degistirdi-haberi-848889"
-      }
-     ]
-    },
-    {
-     "baslik": "GÖLCÜK 2. (SULH HUKUK MAH.) SATIŞ MEMURLUĞU",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/golcuk-2-sulh-hukuk-mah-satis-memurlugu-43391101"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-datca-sulh-hukuk-mahkemesi-satis-memurlugu-2559110"
-      }
-     ]
-    },
-    {
-     "baslik": "ALANYA 3. ASLİYE HUKUK MAHKEMESİ",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/resmi-ilanlar/alanya-3-asliye-hukuk-mahkemesi-43391057"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-tekman-asliye-hukuk-mahkemesi-hakimligi-2559111"
-      }
-     ]
-    },
-    {
-     "baslik": "Fon soruşturmasıyla ilgili ortak basın toplantısı düzenlenecek",
-     "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in katılımıyla yarın fon meselesine ilişkin ortak basın toplantısı düzenlenecek.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-duzenlenecek-43391202"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/fon-meselesi-hakkinda-ortak-basin-toplantisi-duzenlenecek-3930142"
-      }
-     ]
-    },
-    {
-     "baslik": "Arda Turan: 'Bu cehennemi yaşayacağız!'",
-     "ozet": "Shakhtar Donetsk Teknik Direktörü Arda Turan, Fenerbahçe yenilgisinin ardından değerlendirmelerde bulundu.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/arda-turan-bu-cehennemi-yasayacagiz-43391324"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/spor/arda-turan-dan-maglubiyet-sozleri-bu-cehennemi-yasayacagiz-2559507"
-      }
-     ]
-    },
-    {
-     "baslik": "Anadolu Efes İspanya'da kayıp!",
-     "ozet": "EuroLeague'in 14. haftasında temsilcimiz Anadolu Efes deplasmanda İspanya ekibi Kosner Baskonia'yla karşılaştı. Müsabakayı lacivert-beyazlılar 86-81 kaybetti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/spor/kosner-baskonia-86-anadolu-efes-81-mac-sonucu-3930169"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501"
-      }
-     ]
-    },
-    {
-     "baslik": "Bayern Münih'e Lille şoku!",
-     "ozet": "UEFA Şampiyonlar Ligi'nin 5. haftasında Alman ekibi Bayern Münih deplasmanda Fransız temsilcisi Lille'e konuk oldu. Maçta 1-0 öne geçen B. Münih, sahadan 2-1 mağlubiyetle ayrıldı. İşte Devler…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/spor/lille-2-bayern-munih-1-mac-sonucu-ozeti-ve-golleri-sampiyonlar-ligi-sonuclari-3930168"
-      },
-      {
-       "ad": "Cumhuriyet",
-       "link": "https://www.cumhuriyet.com.tr/spor/lille-den-bayern-munih-e-celme-fransa-da-muthis-geri-donus-2559508"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dunya",
-   "ad": "Dünya",
-   "haberler": [
-    {
-     "baslik": "İspanya'nın Kanarya Adaları'na bir günde yaklaşık 2.000 göçmen ulaşarak rekor kırdı",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X?oc=5"
-      },
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "ABD, sübvansiyonlu fabrikalar nedeniyle Çin, AB, Brezilya ve diğerlerine yönelik gümrük vergilerini artıracak",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5"
-      },
-      {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "Libya ordusu, Ukrayna'nın insansız hava aracı saldırısında yaralanan 2 deniz subayının ölmesinin ardından misilleme sözü verdi",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html"
-      }
-     ]
-    },
-    {
-     "baslik": "ABD, Çin dahil birçok ülkeye yeni tarifeler duyurdu",
-     "ozet": "Yeni vergiler, Çin ve AB de dahil olmak üzere Amerika'nın en büyük ticaret ortaklarının çoğunu etkileyecek.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "France 24",
-       "link": "https://www.france24.com/en/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china"
-      },
-      {
-       "ad": "The Guardian Business",
-       "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
-      },
-      {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
-      }
-     ]
-    },
-    {
-     "baslik": "İsrailli yargıçlar Netanyahu'ya yönelik en ciddi suçlamaların düşürülmesini tavsiye ediyor",
-     "ozet": "İsrail Başbakanı, yargıçların üç davadan birinde mahkumiyet şansının çok az olduğunu söylemesinin ardından duruşmasının sona ermesi gerektiğini söyledi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
-      }
-     ]
-    },
-    {
-     "baslik": "Kolombiya polisi 17 saat boyunca rehin tutulan 76 kişiyi kurtarmak için süpermarkete saldırdı",
-     "ozet": "Ülke cumhurbaşkanının nakit yüklü bir zırhlı aracın soygunu olarak tanımladığı olayın ters gitmesi sonrasında bir silahlı adam öldürüldü.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
-      }
-     ]
-    },
-    {
-     "baslik": "Güney Afrikalı Ramaphosa, azil tehdidi nedeniyle mahkeme savaşını kazandı",
-     "ozet": "Hırsızların çiftlikteki bir kanepenin içine gizlenmiş ABD doları banknotlarını çaldığı iddia edilen 2020 yılında hırsızlık olayı gerçekleşti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "New York Times",
-       "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ekonomi",
-   "ad": "Ekonomi & Piyasalar",
-   "haberler": [
-    {
-     "baslik": "Sümer Varlık Yönetim'e TMSF kayyum olarak atandı",
-     "ozet": "Sümer Varlık Yönetim AŞ'ye Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum olarak atandı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/sumer-varlik-yonetime-tmsf-kayyum-olarak-atandi/4137806"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/sirketler/sumer-varlik-yonetime-tmsf-kayyum-olarak-atandi-haberi-848873"
-      }
-     ]
-    },
-    {
-     "baslik": "Borsa günü düşüşle tamamladı",
-     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,83 değer kaybederek 10.655,74 puandan tamamladı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4137729"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/finans/haberler/avrupa-borsalari-gunu-dususle-tamamladi-haberi-848887"
-      }
-     ]
-    },
-    {
-     "baslik": "Türk Eximbank, 740 milyon dolarlık sendikasyon kredisi sağladı",
-     "ozet": "Türk Eximbank, dolar, avro ve yuan cinsinden 1, 2 ve 3 yıl vadeli dilimlerden oluşan 740 milyon dolar tutarındaki sendikasyon kredisini başarıyla tamamladı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/turk-eximbank-740-milyon-dolarlik-sendikasyon-kredisi-sagladi/4137447"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/turk-eximbank-a-740-milyon-dolarlik-sendikasyon-3795635"
-      }
-     ]
-    },
-    {
-     "baslik": "AA Finans 3. çeyrek Büyüme Beklenti Anketi sonuçlandı",
-     "ozet": "AA Finans'ın beklenti anketine katılan ekonomistler, Gayri Safi Yurt İçi Hasılanın (GSYH) üçüncü çeyrekte yıllık bazda yüzde 2,70 artacağını tahmin etti.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/aa-finans-3-ceyrek-buyume-beklenti-anketi-sonuclandi/4137174"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/bloomberg-ht-nin-buyume-anketi-sonuclandi-3795639"
-      }
-     ]
-    },
-    {
-     "baslik": "Finansçı Todd Boehly, Lukoil varlıkları için anlaşma imzaladı",
-     "ozet": "Rus petrol şirketinin hisseleri, Moskova'nın 2022'de Ukrayna'yı tam ölçekli işgalinden bu yana donduruldu",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Financial Times",
-       "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1"
-      },
-      {
-       "ad": "CNBC",
-       "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bilim_teknoloji",
-   "ad": "Bilim, Teknoloji & Yapay Zekâ",
-   "haberler": [
-    {
-     "baslik": "FCC, SpaceX'e 1 milyon uydu yerleştirme yetkisi verdi",
-     "ozet": "Bu takımyıldız yörüngedeki uydu sayısını yaklaşık 50 kat artıracaktır.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Ars Technica",
-       "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-      },
-      {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-      },
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879"
-      }
-     ]
-    },
-    {
-     "baslik": "Selçuk Bayraktar: Tüylerimizi diken diken eden şey gök vatandaki serüvenimiz adına çekilen çile, çaba",
-     "ozet": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, \"Tüylerimizi diken diken eden şey de sadece bu hangarlar, binalar, büyük tesisler değil, onun içinde taşınan ruh, gök vatandaki serüvenimiz adına…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/selcuk-bayraktar-tuylerimizi-diken-diken-eden-sey-gok-vatandaki-seruvenimiz-adina-cekilen-cile-caba/4137822"
-      }
-     ]
-    },
-    {
-     "baslik": "ASELSAN'ın havadaki yeni güç çarpanı TOLUN L hedefi tam isabetle vurdu",
-     "ozet": "ASELSAN tarafından geliştirilen 250 libre sınıfındaki TOLUN L KİLİT 310 (TOLUN L) , SADAK-4T çoklu taşıma salanıyla ilk kez entegre edildiği Bayraktar AKINCI'dan ateşlenerek hedefi tam isabetle vurdu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsanin-havadaki-yeni-guc-carpani-tolun-l-hedefi-tam-isabetle-vurdu/4137540"
-      }
-     ]
-    },
-    {
-     "baslik": "Turkcell Zeka Gücü Projesi'nin yeni teknoloji sınıfları hizmete açıldı",
-     "ozet": "Turkcell'in Milli Eğitim Bakanlığı himayesinde yürüttüğü Zeka Gücü Projesi kapsamında, 13 ilde tamamlanan teknoloji sınıflarının açılışı gerçekleştirildi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkcell-zeka-gucu-projesinin-yeni-teknoloji-siniflari-hizmete-acildi/4137136"
-      },
-      {
-       "ad": "Evrim Ağacı",
-       "link": "https://evrimagaci.org/siniftaki-ekranlardan-akilli-gozluklere-norvec-yeni-teknolojileri-neden-yeniden-gozden-geciriyor-24223"
-      }
-     ]
-    },
-    {
-     "baslik": "Malezya, Google'a YouTube'daki \"zararlı içeriklere karşı yeterli önlem almadığı\" gerekçesiyle dava açtı",
-     "ozet": "Malezya, ABD'li teknoloji şirketi Google'a, sahip olduğu YouTube platformundaki \"zararlı içeriklere karşı yeterli önlem almadığı\" gerekçesiyle yaklaşık 145,8 milyon dolarlık 2 ayrı dava açtığını…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/malezya-googlea-youtubedaki-zararli-iceriklere-karsi-yeterli-onlem-almadigi-gerekcesiyle-dava-acti/4137099"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "saglik",
-   "ad": "Sağlık",
-   "haberler": [
-    {
-     "baslik": "Binlerce kişi DEHB ve otizm değerlendirmeleri ararken uzun süredir beklenen 'trajedi'",
-     "ozet": "Bir doktor, DEHB ve otizm değerlendirmeleri için uzun süre beklemenin, en çok ihtiyacı olanların görülmediği anlamına geldiği konusunda uyarıyor.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "NHS Grampian cerrahı, tıbbi prosedürden sonra iyileşirken hastayı ameliyat etmeye hazırdı",
-     "ozet": "Doktor, arabayı kendi başına kullanamayacağını hissettiği için Dr. Gray'in Elgin'deki hastanesine götürülmek zorunda kaldı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cx30g76yvl1zo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Medicare'in 2027 doktor maaş değişiklikleri neden bazı uzmanları endişelendiriyor?",
-     "ozet": "Belirli aynı gün hizmetleri için Medicare doktorlarının ödeme oranlarında yapılan kesintiler, bazı uzmanları diğerlerinden daha fazla etkileyebilir.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "STAT News",
-       "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "spor",
-   "ad": "Spor",
-   "haberler": [
-    {
-     "baslik": "Glasner, henüz İngilizce öğrenemeyen Forest oyuncularını eleştiriyor",
-     "ozet": "Nottingham Forest yöneticisi Oliver Glasner, ekibinden bazılarının ülkede birkaç yıl kaldıktan sonra neden İngilizce konuşamadığını sorguladı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english"
-      }
-     ]
-    },
-    {
-     "baslik": "Fisilau, İngiltere'nin All Blacks rövanş maçında beşi değiştirmesiyle başlıyor",
-     "ozet": "Exeter arka sıra Greg Fisilau, Cumartesi günü Yeni Zelanda ile karşılaşacakları XV'deki beş değişiklikten birinde İngiltere'deki ilk startını yapacak.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/25/greg-fisilau-to-make-england-debut-start-in-blockbuster-all-blacks-rematch-rugby-union"
-      }
-     ]
-    },
-    {
-     "baslik": "Beşiktaş, Batum'a ulaştı",
-     "ozet": "Beşiktaş Futbol Direktörü Önder Özen, \"Biraz tehlikeli bir yolculuk oldu. Uçağı kullanan pilot da benim değerlendirmek haddime değil ama çok akıllıca bir karar verdi ve son anda inişten vazgeçti.\"…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/besiktas-batuma-ulasti-/4137720"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kultur",
-   "ad": "Kültür & Sanat",
-   "haberler": [
-    {
-     "baslik": "Etnospor Kültür Festivali'ndeki Türk el sanatları ziyaretçilerle buluştu",
-     "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nin yedinci gününde Türk el sanatları sergisi ziyaretçilerin ilgi odağı oldu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/etnospor-kultur-festivalindeki-turk-el-sanatlari-ziyaretcilerle-bulustu/4137854"
-      }
-     ]
-    },
-    {
-     "baslik": "İstanbul Ticaret Üniversitesi Yayınları yeni döneminde \"3T\" mottosuyla eserler yayınlıyor",
-     "ozet": "İstanbul Ticaret Üniversitesi Yayınları üniversitenin kuruluşunun 25. yılında tefekkür, teknoloji ve ticaret (3T) mottosuyla yeni yayın programı hazırladı.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/istanbul-ticaret-universitesi-yayinlari-yeni-doneminde-3t-mottosuyla-eserler-yayinliyor/4137736"
-      }
-     ]
-    }
-   ]
-  }
- ],
- "farkli_bakislar": [],
- "makaleler": [
-  {
-   "pmid": "43084300",
-   "baslik_en": "Simplified Regimen for Hypertension Management With Telemedicine and Blood Pressure Self-Monitoring: A Randomized Clinical Trial.",
-   "baslik_tr": "Teletıp ve Kan Basıncını Kendi Kendine İzleme ile Hipertansiyon Yönetimi için Basitleştirilmiş Rejim: Randomize Bir Klinik Araştırma.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Maimaitiaili R",
-    "Han J",
-    "Wan M",
-    "et al."
-   ],
-   "tur": "Randomized Controlled Trial, Multicenter Study",
-   "ozet_en": "IMPORTANCE: Hypertension control remains difficult despite effective medications, motivating integrated remote-management strategies. OBJECTIVE: To test whether home blood pressure (BP) monitoring (HBPM), telemedicine, clinician-supervised titration, and single-pill combination (SPC) delivery improve office BP compared with usual care. DESIGN, SETTING, AND PARTICIPANTS: This open-label, multicenter randomized clinical trial enrolled adults aged 18 to 75 years with treated essential hypertension who met protocol-defined office BP thresholds at screening at 4 Chinese medical centers from January 1, 2021, through July 20, 2023. Participants were randomized 1:1.",
-   "ozet_tr": "ÖNEMİ: Etkili ilaçlara rağmen hipertansiyon kontrolü halen zor olup, entegre uzaktan yönetim stratejilerini motive etmektedir. AMAÇ: Evde kan basıncı (KB) takibinin (HBPM), teletıp, klinisyen denetiminde titrasyon ve tek hap kombinasyonunun (SPC) verilmesinin, ofis kan basıncını normal bakımla karşılaştırıldığında iyileştirip iyileştirmediğini test etmek. TASARIM, YERLEŞİM VE KATILIMCILAR: Bu açık etiketli, çok merkezli randomize klinik çalışmaya, 1 Ocak 2021'den 20 Temmuz 2023'e kadar 4 Çin tıp merkezinde yapılan taramada protokol tarafından tanımlanan ofis KB eşiklerini karşılayan, tedavi gören esansiyel hipertansiyonu olan 18 ila 75 yaş arası yetişkinler dahil edildi. Katılımcılar 1:1 randomize edildi.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43084300/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.45941"
-  },
-  {
-   "pmid": "43084787",
-   "baslik_en": "Blood-Pressure-Lowering Treatment across the Cardiovascular Risk Spectrum.",
-   "baslik_tr": "Kardiyovasküler Risk Spektrumunda Kan Basıncını Düşürücü Tedavi.",
-   "dergi": "The New England journal of medicine",
-   "yazarlar": [
-    "Bidel Z",
-    "Nazarzadeh M",
-    "Mihaylova B",
-    "et al."
-   ],
-   "tur": "Meta-Analysis",
-   "ozet_en": "BACKGROUND: Treatment for lowering blood pressure reduces the risk of cardiovascular events among persons at high risk. Whether this benefit extends to those at lower risk remains unclear. METHODS: We performed a meta-analysis of individual participant data from randomized trials comparing antihypertensive treatment (intervention) with placebo, an active comparator, or usual care (comparator). The primary outcome was the first occurrence of a major cardiovascular event (fatal or nonfatal stroke, fatal or nonfatal ischemic heart disease, or heart failure resulting in death or hospitalization; composite outcome).",
-   "ozet_tr": "AMAÇ: Kan basıncını düşürmeye yönelik tedavi, yüksek risk altındaki kişilerde kardiyovasküler olay riskini azaltır. Bu faydanın daha düşük risk altındakileri de kapsayıp kapsamadığı belirsizliğini koruyor. YÖNTEMLER: Antihipertansif tedaviyi (müdahale) plasebo, aktif bir karşılaştırıcı veya olağan bakım (karşılaştırıcı) ile karşılaştıran randomize çalışmalardan elde edilen bireysel katılımcı verilerinin bir meta-analizini gerçekleştirdik. Birincil sonuç, majör bir kardiyovasküler olayın ilk kez ortaya çıkmasıydı (ölümcül veya ölümcül olmayan felç, ölümcül veya ölümcül olmayan iskemik kalp hastalığı veya ölüm veya hastaneye kaldırılmayla sonuçlanan kalp yetmezliği; bileşik sonuç).",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43084787/",
-   "doi": "https://doi.org/10.1056/NEJMoa2607848"
-  },
-  {
-   "pmid": "43084296",
-   "baslik_en": "Neonatal Care Length of Stay and Physiological Readiness for Discharge in Preterm Newborns.",
-   "baslik_tr": "Prematüre Yenidoğanlarda Yenidoğan Bakımında Kalış Süresi ve Taburcuya Fizyolojik Hazırlık.",
-   "dergi": "JAMA network open",
-   "yazarlar": [
-    "Tao S",
-    "Szatkowski L",
-    "Seaton SE",
-    "et al."
-   ],
-   "tur": "Multicenter Study",
-   "ozet_en": "IMPORTANCE: Preterm neonates need long hospital stays. Unnecessarily prolonged hospitalization can worsen outcomes, exacerbate parental stress, and increase costs of care. OBJECTIVE: To identify the postmenstrual age (PMA) when preterm neonates reach physiological maturity for discharge (breathing without support, feeding orally, and weighing ≥1700 g), the PMA at discharge from neonatal care, and the number of care days between physiological readiness and discharge.",
-   "ozet_tr": "ÖNEMİ: Prematüre yenidoğanların uzun süre hastanede kalması gerekir. Gereksiz yere uzun süreli hastanede kalma sonuçları kötüleşebilir, ebeveyn stresini şiddetlendirebilir ve bakım maliyetlerini artırabilir. AMAÇ: Prematüre yenidoğanların taburculuk için fizyolojik olgunluğa ulaştığı postmenstrüel yaşı (PMA), yenidoğan bakımından taburculuk sırasındaki PMA'yı ve fizyolojik hazırlık ile taburculuk arasındaki bakım günlerinin sayısını (desteksiz nefes alma, ağızdan beslenme ve ≥1700 g ağırlık) belirlemek.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43084296/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.46253"
-  }
- ]
+  ]
 }
