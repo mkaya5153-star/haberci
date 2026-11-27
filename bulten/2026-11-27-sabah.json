@@ -1,87 +1,63 @@
 {
  "tarih": "2026-11-27",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 60/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Türkiye'de fon soruşturmasında tutuklu sayısı ve tasfiye ödemeleri, Merkez Bankası'nın yeni likidite adımları ve yılın son MGK toplantısı öne çıkıyor. Dünyada Kuveyt ve Suudi Arabistan'daki saldırılar, Ukrayna'ya yönelik yeni Rus saldırı uyarısı ve AB liderlerinin ECB başkanlığı için Hernandez de Cos üzerindeki uzlaşısı gündemde. Bülten kaynaklarının dördüne (AFP, NPR, CNBC, Hacker News) erişilemedi.",
  "one_cikanlar": [
   {
-   "baslik": "Bankacılık Düzenleme ve Denetleme Kurumunun Başkanlığına Yusuf Kenan Bağır atandı",
-   "ozet": "Bankacılık Düzenleme ve Denetleme Kurumunun (BDDK) Başkanlığına Yusuf Kenan Bağır getirildi.",
+   "baslik": "Fon soruşturmasında 638 şüpheliden 138'i tutuklu; tasfiye ödemeleri sürüyor",
+   "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasında iddianamenin yazım aşamasına gelindiğini ve 638 şüpheliden 138'inin tutuklu olduğunu açıkladı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ise fon tasfiyelerinde toplam ödemenin 199,25 milyar liraya ulaşacağını, olağan fonlardaki ödemelerin yarın itibarıyla tamamlanacağını söyledi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858"
-    },
-    {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/ekonomi/bddk-baskanligina-yusuf-kenan-bagir-atandi-964601.html"
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/adalet-bakanı-gürlek-fon-soruşturmalarında-638-şüpheliden-138-i-tutuklu/a-80069441?maca=tur-rss-tur-all-1495-rdf"
     },
     {
      "ad": "Habertürk",
-     "link": "https://www.haberturk.com/ekonomi/son-dakika-bddk-baskanligina-yusuf-kenan-bagir-atandi-3930465"
+     "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-tutuklama-talebi-3930478"
     },
     {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/ekonomi/son-dakika-i-resmi-gazetede-yayimlandi-bddk-baskanligina-yeni-isim-7710243"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "İletişim Başkanı Duran'dan Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına ilişkin kararına tepki",
-   "ozet": "İletişim Başkanı Duran, Avrupa Parlamentosu'nun Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ettiği kararın…",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616"
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/26/45-milyar-tl-tahsil-edildi-638-supheli-var/"
     },
     {
-     "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cvde1371y6z3o?at_medium=RSS&at_campaign=rss"
+     "ad": "TRT Haber",
+     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-tasfiye-sureci-yarin-tamamlanacak-964575.html"
     },
     {
      "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785738/haber/d%C4%B1%C5%9Fi%C5%9Fleri-bakanl%C4%B1%C4%9F%C4%B1ndan-avrupa-parlamentosunun-libya-karar%C4%B1na-tepki"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/disislerinden-avrupa-parlamentosuna-libya-tepkisi-43392345"
-    },
-    {
-     "ad": "DW Türkçe",
-     "link": "https://www.dw.com/tr/ap-türkiye-libya-deniz-yetki-mutabakatını-uluslararası-hukuka-aykırı-buldu/a-80066615?maca=tur-rss-tur-all-1495-rdf"
+     "link": "https://www.indyturk.com/node/785739/cumhurba%C5%9Fkan%C4%B1-yard%C4%B1mc%C4%B1s%C4%B1-y%C4%B1lmaz-ve-iki-bakandan-fon-a%C3%A7%C4%B1klamas%C4%B1-fon-tasfiye-s%C3%BCrecinde"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Yatırımcıların mağduriyetinin nasıl giderileceğini ve soruşturmanın aşamasını gösteriyor."
   },
   {
-   "baslik": "Spain's De Cos to take over as ECB president from Lagarde",
-   "ozet": "",
+   "baslik": "Trump: Putin'den Avrupa'daki askerî saldırganlığı 'geri çekmesini' istedim",
+   "ozet": "Reuters'in aktardığına göre ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin'den Avrupa genelindeki askerî saldırganlığı geri çekmesini istediğini söyledi. Haber, DW English, France 24 ve Le Monde'da da yer aldı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf"
     },
     {
      "ad": "France 24",
-     "link": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+     "link": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
     },
     {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb"
-    },
-    {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+     "ad": "Le Monde",
+     "link": "https://www.lemonde.fr/en/international/article/2026/11/27/trump-urges-putin-to-end-military-aggression-in-europe_6789697_4.html"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "ABD-Rusya ilişkileri Ukrayna savaşının ve Avrupa güvenliğinin seyrini etkiliyor."
   },
   {
-   "baslik": "Two Italians killed in attack on Kuwait site, Iran denies involvement",
-   "ozet": "",
+   "baslik": "Kuveyt'te bir tesise saldırı: İki İtalyan öldü, İran sorumluluğu reddetti",
+   "ozet": "Reuters ve BBC'ye göre Kuveyt'teki bir tesise yönelik saldırıda iki İtalyan hayatını kaybetti. AP, saldırının İran'a ait insansız hava araçlarıyla yapıldığını bildirirken İran olayla ilgisi olmadığını söylüyor. Aynı gün Suudi Aramco'nun Cazan rafinerisine yönelik saldırıda bir işçi öldü, bazı operasyonlar durdu.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
@@ -97,39 +73,71 @@
      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
     },
     {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUFfcUhOc0dCeENHdXg3OW44TjRqZ3lma0NiVzNRMjZWYjZhc1duOG9pLXQ5U0FSdjM0RDB5VlFxTlhkWWFVUDFlMElTdk5FZkM4NS1GR2hCZ2lOdHltTVJNVG51MWlxZUZQV2pRcXlCd1JjSU4wWE51U0trR2JubTBmc1YzMEhDMHZpVFprM3ktSGlXVW9yQmhnVUNyRXRUNzFXaUdiSQ?oc=5"
+    },
+    {
+     "ad": "DW English",
+     "link": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Körfez'de güvenlik gerilimi enerji arzı ve bölgesel çatışma riskini artırıyor."
   },
   {
-   "baslik": "French actor Gerard Depardieu to face trial for rape, court rules",
-   "ozet": "",
+   "baslik": "AB liderleri Hernandez de Cos'u ECB başkanlığına aday gösterdi",
+   "ozet": "AB liderleri, görevinden ayrılacak Christine Lagarde'ın yerine İspanya Merkez Bankası eski başkanı Pablo Hernandez de Cos'u Avrupa Merkez Bankası başkanlığı için aday gösterdi. DW Türkçe'ye göre nihai karar aralık ayındaki zirvede verilecek ve görev Şubat'ta başlayacak.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHRHWGdZSTZmMFAtdFFZbVlVOTRTUEdYNDlQQVVVaGdua3JjQk1YRmlEOXhSeXk5a0thWjdtSUt2cWZpTVNkV3dveE9McHRhSWVpdjIxd2FuOW84bkRBTlNGcDJ4S3Z3MFBCd3RyWlBDai1mMXlKMkpFUnVBWmtDWk5tVzhFX2F6bzNuS3lYV0Q2bUtCbjlpMUlUZFJwYlM4eGhwcmdB?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5"
     },
     {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+     "ad": "France 24",
+     "link": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
     },
     {
-     "ad": "DW English",
-     "link": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf"
+     "ad": "The Guardian",
+     "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
     },
     {
-     "ad": "Al Jazeera",
-     "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORV9jQzQ1ZVNiVjB4bVUyT0FMS1JPeDZ1dk1QcWt3bDR2bnZDQjFLMWtjLWtQQUYyX2lIVUxNYjN0V3d1bmdlVEtyaXNOdWhVMWU4R18wcThUSHphd3NyVVNQOGZwVTFMUXpQdUZzOG1FUUlZWWRlaDhTbmstbTd4M0dEaGl0WXlFemZHTXVPYl9iSDFGbDNWb1VNVDZfVXFUTjdRMFd3?oc=5"
     },
     {
-     "ad": "Euronews",
-     "link": "https://www.euronews.com/2026/11/26/gerard-depardieu-to-stand-trial-over-rape-accusations-by-actress-charlotte-arnould"
+     "ad": "Anadolu Ajansı Ekonomi",
+     "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskanligina-ispanyol-ekonomist-hernandez-de-cosun-getirilmesinde-uzlasi-saglandi/4139322"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Euro bölgesinin para politikasını yönetecek ismi belirliyor."
+  },
+  {
+   "baslik": "Avrupa Parlamentosu Türkiye-Libya deniz mutabakatını hukuka aykırı buldu; Ankara tepki gösterdi",
+   "ozet": "Avrupa Parlamentosu kabul ettiği kararla 2019 tarihli Türkiye-Libya deniz yetki alanları mutabakatının uluslararası hukuka aykırı olduğunu savundu. İletişim Başkanı Duran ve Dışişleri Bakanlığı kararı tepkiyle karşıladı; DW Türkçe'ye göre Ankara kararı \"taraflı ve mesnetsiz\" buldu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785738/haber/d%C4%B1%C5%9Fi%C5%9Fleri-bakanl%C4%B1%C4%9F%C4%B1ndan-avrupa-parlamentosunun-libya-karar%C4%B1na-tepki"
+    },
+    {
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/son-dakika-disisleri-nden-ap-ye-libya-tepkisi-3930410"
+    },
+    {
+     "ad": "DW Türkçe",
+     "link": "https://www.dw.com/tr/ap-türkiye-libya-deniz-yetki-mutabakatını-uluslararası-hukuka-aykırı-buldu/a-80066615?maca=tur-rss-tur-all-1495-rdf"
+    },
+    {
+     "ad": "Euronews Türkçe",
+     "link": "https://tr.euronews.com/2026/11/26/apden-turkiye-libya-deniz-mutabakatina-karsi-abye-onlem-cagrisi"
+    }
+   ],
+   "neden_onemli": "Doğu Akdeniz'deki deniz yetki alanı tartışmasında Türkiye-AB ilişkilerini ilgilendiriyor."
   }
  ],
  "bolumler": [
@@ -138,68 +146,35 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Beşiktaş, işgalci İsrail'in takımını yendi",
-     "ozet": "Beşiktaş, UEFA Avrupa Ligi'nin beşinci haftasında Gürcistan'da ağırladığı işgalci İsrail ekibi Hapoel Beer-Sheva'yı 2-1 yendi.",
+     "baslik": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+     "ozet": "Bankacılık Düzenleme ve Denetleme Kurumunun başkanlığına Yusuf Kenan Bağır getirildi.",
      "etiket": "teyitli",
      "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858"
+      },
       {
        "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/besiktas-isgalci-israilin-takimini-yendi-964595.html"
+       "link": "https://www.trthaber.com/haber/ekonomi/bddk-baskanligina-yusuf-kenan-bagir-atandi-964601.html"
       },
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/26/besiktasin-israil-takimi-ile-macinda-saha-karisti-gurcistan-polisinden-filistin-bayragina-"
-      }
-     ]
-    },
-    {
-     "baslik": "Abdullah Öcalan'dan Özgür Özel'e İzleme Komisyonu mesajı",
-     "ozet": "PKK lideri Abdullah Öcalan Yeni Parti Genel Başkanı Özgür Özel'i partisinin 1. Olağan Kurultayı'nda genel başkan seçilmesi nedeniyle kutladı. Öcalan'ın DEM Parti İmralı Heyeti aracılığıyla Yeni…",
-     "etiket": "teyitli",
-     "kaynaklar": [
       {
        "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/ckn902gn0d8eo?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LTlR1QWlhb1dJdXdBeE5xelM5M2xzTkpDZGtBc0VBMnJydTZkZWtyU01NZnRjdUVrX3ROc3kzZkxnQkZ4TFdxajNGd3BnMV9BMWtuMTZJUXRwcWFsWUHSAWNBVV95cUxPTU1BemJIWDJGLXR4alRRbDdKRl9QZnZNem5kMzJDVTQxWGF3MWx6SEQ5LWVhTmRVdGxkR0JvX2FRQVBHdnJsR01xYTh5Y1NwUmR3YVljS280RmhwdkpTZG9IYlE?oc=5"
-      }
-     ]
-    },
-    {
-     "baslik": "Elon Musk'ın yörüngeye 'bir milyon uyduyla' veri merkezi kurma planı neden tepki alıyor?",
-     "ozet": "Starmind uydu takımı, yapay zeka işlem gücüne yönelik artan talebi karşılamanın en uygun maliyetli ve enerji verimli yolu olmayı hedefliyor.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/c69q8yv2n1rno?at_medium=RSS&at_campaign=rss"
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/ekonomi/son-dakika-bddk-baskanligina-yusuf-kenan-bagir-atandi-3930465"
       },
       {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/elon-musk-ın-uzayda-veri-merkezi-planına-fcc-den-onay-spacex-bir-milyon-uydu-fırlatacak/a-80064154?maca=tur-rss-tur-all-1495-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "Cevdet Yılmaz, Akın Gürlek ve Mehmet Şimşek, fon krizine dair hangi önemli bilgileri açıkladı?",
-     "ozet": "Cevdet Yılmaz, Akın Gürlek ve Mehmet Şimşek'in fon kriziyle ilgili kritik bilgileri paylaştığı yayından öne çıkan başlıklar neler? Üç üst düzey yetkili hangi önemli bilgileri verdi?",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Euronews Türkçe",
-       "link": "https://tr.euronews.com/2026/11/26/cevdet-yilmaz-akin-gurlek-ve-mehmet-simsek-fon-krizine-dair-hangi-onemli-bilgileri-aciklad"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkNtTm4xRTcxUlRuMmRkNkJBQUV6Smo1OGhETjdnUWF2OWdyX2FablNqWTJiZ1hQYmc1OGdjQmFpLVA3WWVuMWQzcFktY0VJZ0c5ZUJFbUpsVldrSWZIM0tEOVNsMVh0NGNISG5PSVdYTjlySEZKdDdFN25kdWotVnBfaUNxMjUyTlE?oc=5"
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/bddk-baskanligina-yusuf-kenan-bagir-atandi-p384749"
       }
      ]
     },
     {
      "baslik": "MGK toplantısı sona erdi, 9 maddelik bildiri yayımlandı",
-     "ozet": "2 saat 20 dakika süren toplantının ardından 9 maddelik karar açıklaması yayımlandı. Karar metninde Türkiye'nin güvenliğini ilgilendiren iç ve dış gelişmelere ilişkin değerlendirmeler yer aldı.",
+     "ozet": "Yılın son Milli Güvenlik Kurulu toplantısı 2 saat 20 dakika sürdü ve 9 maddelik bildiriyle sona erdi. BBC Türkçe'ye göre \"Terörsüz Türkiye\" sürecinin de ele alındığı toplantıdan, beklenenin aksine PKK'nın silah bıraktığının teyidi çıkmadı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -207,42 +182,60 @@
        "link": "https://tr.euronews.com/2026/11/26/mgk-toplantisi-sona-erdi-9-maddelik-bildiri-yayimlandi"
       },
       {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHFKTm1MVVZvZFRlWXg5ZF93MkhpTC1nNGNCN0RVVlI0YjJZNGZOcjdteDIxTEtYNTB6VnJHaUxGVy03TUltSXd1WjNGWldSdFJnbGpxZG82SnlqWVJSRWNsaGFtR0J1NDBCQWVjSDBFcG5PQVpxM19sdmUxUW9kTW5UYXFkU2tXZExveTM2SmxtTmI3Q3VGTkp5VDZVdUVMYmc?oc=5"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/c63rg9vy987qo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Gürcistan polisinin Beşiktaş taraftarlarına müdahalesine Ömer Çelik ve Süper Lig kulüplerinden tepki",
-     "ozet": "Beşiktaş'ın UEFA Avrupa Ligi'nin 5. haftasında İsrail temsilcisi Hapoel Beer-Sheva ile Gürcistan'ın Batum kentinde oynadığı karşılaşmada yaşanan olayların ardından Türkiye'den destek ve tepki…",
+     "baslik": "Öcalan'dan Özgür Özel'e kutlama ve İzleme Komisyonu mesajı",
+     "ozet": "BBC Türkçe'ye göre Abdullah Öcalan, Özgür Özel'in partisinin 1. Olağan Kurultayı'nda genel başkan seçilmesi nedeniyle kendisini kutladı. Mesaj DEM Parti İmralı Heyeti aracılığıyla iletildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/ckn902gn0d8eo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Merkez Bankası repo ihalelerine ara verdi, zorunlu karşılık faizini artırdı",
+     "ozet": "TCMB, bir hafta vadeli repo ihalelerine geçici olarak ara verilmesine ve zorunlu karşılıklara ilişkin yeni adımlara karar verdi. Independent Türkçe'ye göre zorunlu karşılık faizi artırıldı.",
      "etiket": "teyitli",
      "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar/4139619"
+      },
       {
        "ad": "Independent Türkçe",
-       "link": "https://www.indyturk.com/node/785743/haber/g%C3%BCrcistan-polisinin-be%C5%9Fikta%C5%9F-taraftarlar%C4%B1na-m%C3%BCdahalesine-%C3%B6mer-%C3%A7elik-ve-s%C3%BCper-lig"
+       "link": "https://www.indyturk.com/node/785745/haber/k%C4%B1sa-haberler"
       },
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celik-besiktas-taraftarina-siddet-kabul-edilemez-43392444"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/gurcistan-dan-yasanan-olaylara-iliskin-aciklama-3930467"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/tcmb-bir-hafta-vadeli-repo-ihalelerine-gecici-ara-verdi-3795855"
       }
      ]
     },
     {
-     "baslik": "Uyuşturucu soruşturmasında 3 kişiye tutuklama talebi... İzzet Özilhan ve Cem Karcı’ya adli kontrol",
-     "ozet": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü “uyuşturucu” soruşturması kapsamında, Saghar Shojaeı, iş insanı Muammer Kapucuoğlu ve sosyal medya fenomeni Cansu Taşkın tutuklama talebiyle sulh ceza…",
-     "etiket": "teyitli",
+     "baslik": "İstanbul'da kiralık sosyal konutlara yerleşim aralıkta 10 bin TL'den başlayacak",
+     "ozet": "Bakan Murat Kurum, kiralık sosyal konutların aralık ayında kullanıma açılacağını bildirdi.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/gundem/uyusturucu-sorusturmasinda-3-kisiye-tutuklama-talebi-izzet-ozilhan-ve-cem-karciya-adli-kontrol-43392388"
-      },
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/26/istanbulda-kiralik-sosyal-konutlara-yerlesim-aralik-ayinda-10-bin-tlden-baslayacak"
+      }
+     ]
+    },
+    {
+     "baslik": "Bakanlık ve kamu kurumlarına atamalar ile Yargıtay üyeliği kararları Resmî Gazete'de",
+     "ozet": "Cumhurbaşkanı Erdoğan imzalı bazı atama kararları ile HSK Genel Kurulunca alınan Yargıtay üyeliği kararları Resmî Gazete'de yayımlandı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
       {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcmF6dnJ0Y00xckNsMmRUWWlFX3NjZ29FWHQtOE5BTE1MN1JMMnptMHYyNnhxNlduVGN3bjFzd0poUW42WTdvamlxcW16SjFzNVpsc3RaaWRqMUNBTUdKYjBNbkNEdkpCOXNvcmU2bFNZcGRmTFV0ZS1KMll5VDQzQ2JBTTNyVC1kZTZZcXZLTF9GbDktWnJyMHdKTGo5MzZPcHkwTGJKX21hRTRVVnBxN2FUYzlfWFBUQ21WaGlUTHhOQTg3ay1wTW1QX3U5UXJoR1JrbQ?oc=5"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/bakanlik-ve-kamu-kurumlarina-iliskin-atama-ile-yargitay-uyeligi-kararlari-resmi-gazetede/4139867"
       }
      ]
     }
@@ -253,53 +246,42 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Mexico seeking talks with US on SpaceX airspace use",
-     "ozet": "",
+     "baslik": "Rusya'dan Ukrayna'ya balistik füze ve İHA saldırısı; Zelenskiy yeni kitlesel saldırı uyardı",
+     "ozet": "Euronews Türkçe'ye göre Ukrayna hava savunması Rusya'ya ait 87 füze ve İHA'yı düşürdü; saldırıda en az 3 kişi öldü. Zelenskiy, Rusya'nın önümüzdeki günlerde yeni bir kitlesel saldırı, özellikle enerji şebekesine yönelik saldırı hazırladığı uyarısında bulundu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3MtcGEzRThwZDdGaEZ4RktzRml6Y0hfNllQby1FQi02alpfdmdXM2ROZk1idmpVcHFoYXJaRG53UnEwWjhDXzRtYzVPWjB4UVJ5Tno1OXV6OGFJZEtyTHc2RHNYVE9Uc0hseU5IaEdHNXdOSlI0MkNWYTFUUXNjNVhHdXpQanEzaWhvQ3NaUk11Nlc5Z1lUR3VFak5WX2JPZWdPOUVDaFEtLWRzMVZ5cHJHLTg?oc=5"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/26/rusyadan-ukraynaya-balistik-fuze-ve-iha-saldirisi-en-az-3-olu"
       },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Attack on Saudi Aramco's Jazan refinery kills worker, halts some operations",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Thousands protest in Irbil as Baghdad moves to seize Kurdish oil and border control",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
       {
        "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHNOckdCekZXZ2M0ZVFPbWhiUEpOOVJsRFZmYTZ5M0dLclVrWF9wLUN0cEZTbmFNZGlYUGtsWHA0RUlhX2R5UFNESDQtVDJOZ1VGa0FhQ3luZVk3Y1B6ZFM2M3dtN2ZKNG1QdkZWOEM5emtlNjVyU3E2dDk3Wmg4WVpLbU1qZU43cG9lbk5OaXlKcWx6VjQ1SHkxODZvT1VBS3YyajRjVFlPSERWTDUwcHJTMi0?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3dNRHNDWkJtLWk2U1poUUJkTjNwb2lHcXZweUN1d3ZNRDRkZ0FsRU5adXNVRzcxWVVvbGE2ZTBYRzZDUlhPa3IwT3JlMlpzS055Z0Rqb3R0RTdHQkwwVXlzSXhXamVNU2c4cS1iQTZoREZicHZKUmVGRHNKQlQ1QjNGMnNWdm1lcWk1Nk9MZ1FJNmRtRjNmZEJB?oc=5"
       },
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5"
       }
      ]
     },
     {
-     "baslik": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
-     "ozet": "",
+     "baslik": "NATO, Polonya hava sahası için AWACS uçağı konuşlandırıyor",
+     "ozet": "Euronews Türkçe'ye göre NATO, Polonya'ya düşen üç Rus seyir füzesinin ardından bölgeye AWACS erken uyarı uçağı gönderiyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/26/nato-polonya-hava-sahasini-izlemek-icin-awacs-erken-uyari-ucagi-konuslandiriyor"
+      }
+     ]
+    },
+    {
+     "baslik": "AB liderleri uzun vadeli bütçe ve Ukrayna'ya 49 milyar dolarlık kredi konusunda anlaşamadı",
+     "ozet": "AP ve Bloomberg HT'ye göre AB liderleri birliğin 2028-2034 dönemi bütçesinin boyutu ile Ukrayna'ya verilecek 49 milyar dolarlık kredi konusunda ayrışmaya devam etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -307,44 +289,279 @@
        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss"
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/ab-liderleri-yeni-butcede-anlasamadi-3795864"
       }
      ]
     },
     {
-     "baslik": "At least 9 injured by large explosion and fire at major oil facility in Bangkok",
-     "ozet": "",
+     "baslik": "Husilerin Suudi Arabistan'a saldırıları sürüyor",
+     "ozet": "Arap Koalisyonu, Husilerin Suudi Arabistan'ın güneyine fırlattığı bir İHA'nın imha edildiğini açıkladı. BBC Türkçe, Husilerin saldırılarını artırdığı Riyad'daki durumu ele aldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzFENGpGWEdCaDJ4ZjBybVNUQTRvaEgxeVJycDhqdHMtOUlHMGF4Q0lIVVJILU83d0IyeFdxQ3Jza2xzd0ZoZV8zR2IwdXpQNTU4M0pBUGFBSHhsQWN3OGFtWWdyRV9JS250NGdrSTBPaDhSQ0VOdWRRdFh5UlJZZjVLRXNsUWpJYm5wbkJmZDdSLUtLY3dTNF84bHRpYUgw?oc=5"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guney-bolgesine-firlattigi-iha-imha-edildi/4139861"
       },
       {
-       "ad": "BBC News",
-       "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "baslik": "Guinea-Bissau junta delays presidential vote for 2 years",
-     "ozet": "The decision came exactly one year after the military took power on November 26, 2025. The junta said the conditions were insufficient to hold presidential elections for now.",
+     "baslik": "Netanyahu davasında hâkimlerden suçlamaların düşürülmesi çağrısı",
+     "ozet": "Euronews Türkçe'ye göre İsrail'de hâkimler Netanyahu'nun yolsuzluk davasındaki kritik suçlamaların düşürülmesi çağrısı yaptı; Netanyahu üç davada da suçlamaları reddediyor. İsrail 27 Ekim seçimlerinin ardından hâlâ hükümet kurmakta zorlanıyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/26/netanyahunun-yolsuzluk-davasi-hakimlerden-kritik-suclamalarin-dusurulmesi-cagrisi"
+      }
+     ]
+    },
+    {
+     "baslik": "Birleşik Krallık'ta net göç 1997'den bu yana en düşük düzeyde",
+     "ozet": "The Guardian'a göre Haziran'da biten yılda net göç 77 bin oldu; pandemi dönemi dışında 1997'den bu yana en düşük seviye. Haber NYT'de de yer aldı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW English",
-       "link": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf"
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss"
+       "ad": "New York Times",
+       "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ekonomi",
+   "ad": "Ekonomi & Piyasalar",
+   "haberler": [
+    {
+     "baslik": "ABD'de revize büyüme verisi: Trump soruşturma istedi",
+     "ozet": "Bloomberg HT'ye göre üçüncü çeyrek büyüme verisi yüzde 3,4'ten yüzde 4,3'e revize edildi. Trump seçim öncesi açıklanan verilere \"sahte\" dedi ve Ticaret Bakanlığı'nın soruşturulmasını istedi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5"
+      },
+      {
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+      },
+      {
+       "ad": "Bloomberg HT",
+       "link": "https://www.bloomberght.com/trump-tan-revize-edilen-buyume-verilerine-sorusturma-talebi-3795782"
       }
      ]
     },
     {
-     "baslik": "Marie-Antoinette’s porcelain ‘nipple bowl’ fetches record $3.1 million at Paris auction",
-     "ozet": "A \"jatte-teton\", or nipple bowl, that once belonged to French Queen Marie-Antoinette fetched a record €2.9 million ($3.1 million) at Paris auction Thursday. The breast-shaped porcelain bowl was one…",
+     "baslik": "FT: Fed, piyasadaki dalgalanmaya rağmen faiz artırımına hazırlanıyor",
+     "ozet": "Financial Times'a göre enflasyon ABD Merkez Bankası yetkililerinin öncelikli kaygısı; teknoloji kaynaklı satışın ekonomiye dair korku yaratmasına rağmen faiz artırımı bekleniyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "SAP'de yapay zekâ kaynaklı yeniden yapılanma: en az 10 bin iş kaybı değerlendiriliyor",
+     "ozet": "Bloomberg'e dayandırılan Reuters ve Financial Times haberlerine göre SAP en az 10 bin kişilik işten çıkarmayı değerlendiriyor.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5"
+      },
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Lula, piyasaları yatıştırmak için bankacı Trabuco'yu maliye bakanı yaptı",
+     "ozet": "Financial Times'a göre Brezilya varlıklarındaki satışın ardından Lula, Luiz Carlos Trabuco'yu maliye bakanlığına atadı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "baslik": "Bailey: Yayımlanmamış yapay zekâ modelleri şifreleme endişesini artırdı",
+     "ozet": "Financial Times'a göre İngiltere Merkez Bankası Başkanı Andrew Bailey, matematikteki ilerlemelerin finans sistemlerindeki verilerin tehdit altında olduğu korkusunu güçlendirdiğini söyledi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bilim_teknoloji",
+   "ad": "Bilim, Teknoloji & Yapay Zekâ",
+   "haberler": [
+    {
+     "baslik": "Gökbilimciler SpaceX'in 1 milyon uydu planından endişeli",
+     "ozet": "Euronews Türkçe'ye göre ABD Federal İletişim Komisyonu'nun SpaceX'in uzayda veri merkezleri için 1 milyon uydu konuşlandırmasına onay vermesi bilim dünyasında endişe yarattı. The Conversation'daki analize göre proje tam uygulanırsa operasyonel uydu sayısı yaklaşık 50 katına çıkacak.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/26/gokbilimcilerden-spacexin-1-milyon-uydu-planina-tepki-riskli-asteroitleri-goremeyebiliriz"
+      },
+      {
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/dunya/spacexten-uzaya-1-milyon-uydu-43392570"
+      },
+      {
+       "ad": "The Conversation",
+       "link": "https://theconversation.com/elon-musk-has-approval-to-launch-1-million-satellites-an-astronomer-explains-how-this-would-impact-the-sky-297646"
+      }
+     ]
+    },
+    {
+     "baslik": "Nvidia, Güneydoğu Asya'ya çip sevkiyatını durdurdu",
+     "ozet": "TechCrunch'a göre Nvidia, ABD'nin yapay zekâ çiplerinin Çin'e ulaşmasını engelleme çabasını sıkılaştırması üzerine üretim ortaklarından Malezya, Singapur, Tayland ve Endonezya'ya sunucu sevkiyatını durdurmalarını istedi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "TechCrunch",
+       "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      }
+     ]
+    },
+    {
+     "baslik": "Elektrikli araçları dört dakikada şarj edebilecek batarya teknolojisi",
+     "ozet": "Webtekno'ya göre Rice Üniversitesi araştırmacıları araçları dört dakikada şarj edebilen ve üretim maliyetini yüzde 80 düşüren yeni bir grafit geliştirdi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Webtekno",
+       "link": "https://www.webtekno.com/elektrikli-araclari-dort-dakikada-sarj-edecek-batarya-teknolojisi-h229525.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saglik",
+   "ad": "Sağlık",
+   "haberler": [
+    {
+     "baslik": "İngiltere'de grip nedeniyle hastane yatışları artıyor",
+     "ozet": "BBC'ye göre NHS yöneticisi grip vakalarında \"korkunç bir artış\" uyarısı yaptı; risk altındakilere mümkün olan en kısa sürede aşı olmaları çağrısı yapıldı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Health",
+       "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Yaşlanan yumurtalarda kromozom hatalarını azaltan mühendislik ürünü protein sistemi",
+     "ozet": "STAT News'e göre araştırmacılar yaşlı fare yumurtalarında normal kromozom bağlantılarını geri getiren bir protein sistemi geliştirdi; çalışma ileride tüp bebek sonuçlarının iyileştirilmesi umudunu doğuruyor.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "STAT News",
+       "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spor",
+   "ad": "Spor",
+   "haberler": [
+    {
+     "baslik": "Beşiktaş, Batum'da Hapoel Beer-Sheva'yı 2-1 yendi; maçta polis müdahalesi tartışma yarattı",
+     "ozet": "UEFA Avrupa Ligi karşılaşmasında Beşiktaş, Hapoel Beer-Sheva'yı 2-1 yendi. Reuters'e göre polisin tribüne girmesi üzerine maç bir süre durdu; Beşiktaş Başkanı Serdal Adalı müdahaleyi \"orantısız\" olarak niteledi, Kulüpler Birliği ve TFF de tepki gösterdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/kulupler-birliginden-besiktas-hapoel-beer-sheva-macinda-yasanan-olaylara-tepki/4139780"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785744/spor/be%C5%9Fikta%C5%9F-i%CC%87srail-ekibi-hapoel-beer-shevay%C4%B1-2-1-ma%C4%9Flup-etti"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/gundem/besiktas-macinda-yasananlara-siyasilerden-tepki-yagdi-3930444"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/26/olayli-besiktas-hapoel-beer-sheva-macini-besiktas-2-1-kazandi/"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/gurcistanda-besiktas-taraftarina-polis-mudahalesi-964594.html"
+      }
+     ]
+    },
+    {
+     "baslik": "Trabzonspor, Konferans Ligi'nde CSKA Sofya'yı deplasmanda 2-1 yendi",
+     "ozet": "Trabzonspor UEFA Konferans Ligi'nin dördüncü haftasında Bulgaristan'da CSKA Sofya'yı 2-1 mağlup etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785746/spor/uefa-konferans-liginde-trabzonspor-cska-sofyay%C4%B1-2-1-ma%C4%9Flup-etti"
+      },
+      {
+       "ad": "Habertürk",
+       "link": "https://www.haberturk.com/spor/uefa-konferans-ligi-nde-4-hafta-maclari-tamamlandi-3930462"
+      }
+     ]
+    },
+    {
+     "baslik": "A Milli Erkek Basketbol Takımı İtalya'ya 86-72 yenildi",
+     "ozet": "FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki üçüncü maçta Türkiye deplasmanda İtalya'ya yenildi.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-2027-dunya-kupasi-elemelerinde-italyaya-maglup-oldu/4139814"
+      }
+     ]
+    },
+    {
+     "baslik": "Büyük Britanya Davis Cup'ta 2019'dan bu yana ilk kez yarı finalde",
+     "ozet": "BBC Sport'a göre Henry Patten ve Neal Skupski, Bolonya'da Almanya'ya karşı belirleyici çiftler maçını kazanarak Büyük Britanya'yı yarı finale taşıdı.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "BBC Sport",
+       "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kultur",
+   "ad": "Kültür & Sanat",
+   "haberler": [
+    {
+     "baslik": "Marie-Antoinette'e ait porselen 'jatte-teton' Paris'te rekor fiyata satıldı",
+     "ozet": "France 24'e göre Fransa Kraliçesi Marie-Antoinette'e ait göğüs biçimli porselen kase Paris'teki müzayedede rekor olan 2,9 milyon euroya (3,1 milyon dolar) alıcı buldu.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -356,260 +573,15 @@
        "link": "https://www.lemonde.fr/en/france/article/2026/11/26/marie-antoinette-s-nipple-bowl-auctioned-for-record-3-1-million_6789565_7.html"
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "ekonomi",
-   "ad": "Ekonomi & Piyasalar",
-   "haberler": [
-    {
-     "baslik": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
-     "ozet": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar/4139619"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/tcmb-tl-zorunlu-karsilik-faizini-artirdi-3795856"
-      }
-     ]
     },
     {
-     "baslik": "Avrupa Merkez Bankası Başkanlığına İspanyol ekonomist Hernandez de Cos'un getirilmesinde uzlaşı sağlandı",
-     "ozet": "Avro Bölgesi ülkelerinin liderleri, Avrupa Merkez Bankası (ECB) Başkanlığına İspanya Merkez Bankasının eski Başkanı Pablo Hernandez de Cos'un getirilmesi konusunda anlaştı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskanligina-ispanyol-ekonomist-hernandez-de-cosun-getirilmesinde-uzlasi-saglandi/4139322"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/ab-liderleri-amb-baskanligi-icin-hernandez-de-cos-ta-uzlasti-3795852"
-      }
-     ]
-    },
-    {
-     "baslik": "Borsa günü yükselişle tamamladı",
-     "ozet": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4139309"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-848997"
-      }
-     ]
-    },
-    {
-     "baslik": "Ticaret Bakanı Bolat: Hizmet İhracatçıları Birliği üye sayısı 8 yılda 10 kat artarak 5 bin 880'e ulaştı",
-     "ozet": "Bolat, Hizmet İhracatçıları Birliğinin üye sayısının 8 yılda 10 kat artarak 5 bin 880'e ulaştığını belirterek, ihracatçıların Bakanlık desteklerinden eşit ve objektif şekilde yararlanabildiğini…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-hizmet-ihracatcilari-birligi-uye-sayisi-8-yilda-10-kat-artarak-5-bin-880e-ulasti/4138939"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/bakan-bolat-hizmet-ihracati-124-9-milyar-dolara-ulasti-3795763"
-      }
-     ]
-    },
-    {
-     "baslik": "ECB tutanaklarında \"kalıcı enflasyon baskısı\" uyarısı",
-     "ozet": "Avrupa Merkez Bankası (ECB) Yönetim Konseyi, enerji fiyatlarındaki son yükselişin kalıcı enflasyon baskısı riskini ön plana çıkardığını değerlendirdi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/ecb-tutanaklarinda-kalici-enflasyon-baskisi-uyarisi/4138912"
-      },
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/amb-tutanaklarinda-kalici-enflasyon-baskisi-uyarisi-3795767"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bilim_teknoloji",
-   "ad": "Bilim, Teknoloji & Yapay Zekâ",
-   "haberler": [
-    {
-     "baslik": "Kosova'da T3 Vakfı desteğiyle İHA inovasyon merkezi açılması planlanıyor",
-     "ozet": "Kosova Başbakanı Kurti, T3 Vakfı ile Podujeva Belediyesi arasında imzalanan anlaşma kapsamında, kentte insansız hava araçlarına (İHA) odaklanan bilim ve teknoloji inovasyon merkezinin gelecek yıl…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kosovada-t3-vakfi-destegiyle-iha-inovasyon-merkezi-acilmasi-planlaniyor/4139633"
-      }
-     ]
-    },
-    {
-     "baslik": "ABD merkezli sosyal medya platformu X, \"ebeveyn denetimi\" özelliğini kullanıma sundu",
-     "ozet": "ABD merkezli sosyal medya platformu X, \"ebeveyn denetimi\" özelliğinin kullanıma sunulduğunu duyurdu.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-merkezli-sosyal-medya-platformu-x-ebeveyn-denetimi-ozelligini-kullanima-sundu/4139591"
-      }
-     ]
-    },
-    {
-     "baslik": "Putin, yabancı yapay zeka teknolojilerine bağımlılık konusunda uyardı",
-     "ozet": "Rusya Devlet Başkanı Vladimir Putin, yabancı yapay zeka teknolojilerine bağımlılığın ülkenin güvenliği ve değerleri açısından risk oluşturduğunu belirterek, Rusya'nın kendi yapay zeka modellerini…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/putin-yabanci-yapay-zeka-teknolojilerine-bagimlilik-konusunda-uyardi/4139589"
-      }
-     ]
-    },
-    {
-     "baslik": "Polonya, Türkiye ile savunma sanayisi işbirliğini geliştirmek istiyor",
-     "ozet": "Polonya Milli Savunma Bakan Yardımcısı Magdalena Sobkowiak-Czarnecka, Türkiye ile savunma sanayisi alanındaki işbirliğinin geliştirilmesini istediklerini belirtti.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/polonya-turkiye-ile-savunma-sanayisi-isbirligini-gelistirmek-istiyor/4139520"
-      }
-     ]
-    },
-    {
-     "baslik": "TÜME Vakfı Mütevelli Heyeti Başkanı Karagöz: Biz TEKNOFEST gençliğinin ta kendisiyiz",
-     "ozet": "Tarım Teknolojileri Kümelenmesi (TÜME) Vakfı Mütevelli Heyeti Başkanı Abdulkadir Karagöz, \"Biz TEKNOFEST gençliğine alternatif gençler değiliz. Biz TEKNOFEST gençliğinin ta kendisiyiz.\" dedi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tume-vakfi-mutevelli-heyeti-baskani-karagoz-biz-teknofest-gencliginin-ta-kendisiyiz/4139283"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "saglik",
-   "ad": "Sağlık",
-   "haberler": [
-    {
-     "baslik": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-     "ozet": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Private dentists too expensive for millions, watchdog warns",
-     "ozet": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-     "ozet": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "spor",
-   "ad": "Spor",
-   "haberler": [
-    {
-     "baslik": "Russell says Verstappen's criticism 'quite amusing'",
-     "ozet": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/26/ill-do-my-talking-on-the-track-says-russell-after-verstappen-jibe"
-      }
-     ]
-    },
-    {
-     "baslik": "Former England scrum-half and commentator Starmer-Smith dies aged 81",
-     "ozet": "Former England international and rugby union commentator Nigel Starmer-Smith dies aged 81.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg20xdq2vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/26/former-england-scrum-half-and-commentator-nigel-starmer-smith-dies-at-81"
-      }
-     ]
-    },
-    {
-     "baslik": "Trabzonspor, Bulgaristan'dan 3 puanla dönüyor",
-     "ozet": "Trabzonspor, UEFA Konferans Ligi'nde uzatma dakikalarında attığı golle CSKA Sofya'yı deplasmanda 2-1 yendi.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/trabzonspor-bulgaristandan-3-puanla-donuyor-/4139806"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kultur",
-   "ad": "Kültür & Sanat",
-   "haberler": [
-    {
-     "baslik": "İsrail'in Gazze'deki katliamını anlatan NAZA belgeseli, BM Cenevre Ofisi'nde izleyiciyle buluştu",
-     "ozet": "İsrail'in Gazze'deki sivil katliamını belgeleyen NAZA belgeseli, Birleşmiş Milletler (BM) Cenevre Ofisi'nde izleyiciyle buluştu.",
+     "baslik": "Kırşehir, Ahilik ve Selçuklu mirasıyla kültür turizmine açılıyor",
+     "ozet": "Anadolu Ajansı'na göre Selçuklu mimarisi, yer altı şehirleri, Ahilik geleneği ve arkeolojik mirasıyla Kırşehir kültür turizminin keşfedilmeyi bekleyen rotaları arasında.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/israilin-gazzedeki-katliamini-anlatan-naza-belgeseli-bm-cenevre-ofisinde-izleyiciyle-bulustu/4139482"
-      }
-     ]
-    },
-    {
-     "baslik": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-     "ozet": "Yönetmen Ahmet Uluçay'ın 17'nci ölüm yıl dönümü dolayısıyla \"Karpuz Kabuğundan Gemiler Yapmak\" filmi 30 Kasım'da Kanal D ve D-Smart'ın sinema kanalı MovieSmart Türk'te izleyiciyle buluşacak.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501"
+       "link": "https://www.aa.com.tr/tr/kultur/ahiligin-baskenti-kirsehir-kultur-mirasini-turizme-tasiyor/4139187"
       }
      ]
     }
@@ -619,58 +591,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43097625",
-   "baslik_en": "Integrating established and emerging tools to assess wildlife condition from the ground, up.",
-   "baslik_tr": "Integrating established and emerging tools to assess wildlife condition from the ground, up.",
-   "dergi": "Science (New York, N.Y.)",
+   "pmid": "43098165",
+   "baslik_en": "Rafutrombopag for chemotherapy-induced thrombocytopenia in patients with solid tumours: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+   "baslik_tr": "Solid tümörlü hastalarda kemoterapiye bağlı trombositopeni için rafutrombopag: çok merkezli, randomize, çift kör, plasebo kontrollü faz 3 çalışması",
+   "dergi": "The Lancet. Oncology",
    "yazarlar": [
-    "Shero MR",
-    "Johnston DW",
-    "Kirkham AL",
+    "Qin S",
+    "Ma J",
+    "Zhang Y",
     "et al."
    ],
-   "tur": "Review",
-   "ozet_en": "Metabolic energy links individual physiology to population-level dynamics, making wildlife body condition a cornerstone of conservation science. Emerging technologies, including unoccupied aircraft systems, make remote assessment of animal condition possible at unprecedented scales, and physiologically grounded validation is essential for strong inference. Here we examine the strengths and challenges of traditional and remote methods, using a comparative perspective that emphasizes both lipid and lean mass dynamics in evaluating wildlife health.",
-   "ozet_tr": "Metabolic energy links individual physiology to population-level dynamics, making wildlife body condition a cornerstone of conservation science. Emerging technologies, including unoccupied aircraft systems, make remote assessment of animal condition possible at unprecedented scales, and physiologically grounded validation is essential for strong inference. Here we examine the strengths and challenges of traditional and remote methods, using a comparative perspective that emphasizes both lipid and lean mass dynamics in evaluating wildlife health.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43097625/",
-   "doi": "https://doi.org/10.1126/science.aed3374"
+   "tur": "Randomize kontrollü çalışma",
+   "ozet_en": "In a phase 3 randomised placebo-controlled trial at 43 sites in China, 213 adults with solid tumours and platinum chemotherapy-related low platelet counts received continuous rafutrombopag, rafutrombopag switched to placebo, or placebo. The composite primary endpoint, which included platelet recovery and completing the next chemotherapy cycle, was met by 76% with continuous rafutrombopag versus 39% with placebo. The switch strategy did not differ significantly from placebo, and serious adverse events were not more frequent with the drug. Participants were almost all Han Chinese, which limits generalisability.",
+   "ozet_tr": "43 merkezde yürütülen faz 3 randomize, plasebo kontrollü çalışmada, platin bazlı kemoterapiye bağlı trombosit düşüklüğü olan 213 katı tümörlü yetişkin sürekli rafutrombopag, rafutrombopagdan plaseboya geçiş ya da plasebo aldı. Trombosit düzelmesini ve bir sonraki kemoterapi kürünün tamamlanmasını içeren birleşik birincil sonuca sürekli rafutrombopag alanların %76'sı, plasebo alanların %39'u ulaştı. Geçiş stratejisi plasebodan anlamlı biçimde farklı değildi ve ciddi yan etkiler ilaçla daha sık değildi. Katılımcıların neredeyse tamamı Han Çinlisi olduğundan sonuçların genellenebilirliği sınırlıdır.",
+   "neden_onemli": "Kemoterapi alan hastalarda trombosit düşüklüğü tedavinin ertelenmesine yol açabiliyor; bu çalışma tedaviyi sürdürmeye yardımcı olabilecek bir ilacı test ediyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098165/",
+   "doi": "https://doi.org/10.1016/S1470-2045(26)00456-0"
   },
   {
-   "pmid": "43086443",
-   "baslik_en": "Structural basis of RNA-guided DNA integration by type I CAST systems.",
-   "baslik_tr": "Structural basis of RNA-guided DNA integration by type I CAST systems.",
-   "dergi": "Nature",
+   "pmid": "43078111",
+   "baslik_en": "Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+   "baslik_tr": "Britanya'da 2010-2024 arasında cinsel yolla bulaşan enfeksiyonlar, davranışsal riskler ve cinsel sağlık hizmetlerinden yararlanma: Natsal anketleri",
+   "dergi": "Lancet (London, England)",
    "yazarlar": [
-    "Finocchio G",
-    "Oberli S",
-    "Lampe GD",
+    "Knuppel A",
+    "Ogaz D",
+    "Trickett E",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "CRISPR-associated transposases (CASTs) achieve site-specific DNA integration by combining the RNA-guided targeting action of a nuclease-deficient CRISPR-Cas system with the assembly of a Tn7-like transpososome complex1,2. Understanding the detailed mechanisms of this elaborate process is paramount to engineering CAST systems into programmable genetic tools3-6. Type I-F Pseudoalteromonas CAST (PseCAST) shows the highest activity in mammalian cells so far7 and has been adapted extensively through directed evolution8. However, its continued rational engineering requires addressing critical gaps in our understanding of transpososome assembly and activation9.",
-   "ozet_tr": "CRISPR-associated transposases (CASTs) achieve site-specific DNA integration by combining the RNA-guided targeting action of a nuclease-deficient CRISPR-Cas system with the assembly of a Tn7-like transpososome complex1,2. Understanding the detailed mechanisms of this elaborate process is paramount to engineering CAST systems into programmable genetic tools3-6. Type I-F Pseudoalteromonas CAST (PseCAST) shows the highest activity in mammalian cells so far7 and has been adapted extensively through directed evolution8. However, its continued rational engineering requires addressing critical gaps in our understanding of transpososome assembly and activation9.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43086443/",
-   "doi": "https://doi.org/10.1038/s41586-026-11196-x"
+   "tur": "Tekrarlayan kesitsel ulusal anket",
+   "ozet_en": "Using the fourth National Surveys of Sexual Attitudes and Lifestyles (2022-24), researchers analysed 5,949 sexually experienced people aged 16-59 in Britain, with biological samples from 2,721. Prevalence of chlamydia, gonorrhoea and trichomonas was each below 1%, but chlamydia reached 4.0% in women aged 16-24. Most people with STI-associated behaviours had not used sexual health services in the past year, and chlamydia testing in young women fell from 54% to 18% since 2010-12. This is a cross-sectional survey, so it describes patterns rather than causes.",
+   "ozet_tr": "Araştırmacılar, Britanya'da 2022-24'te yapılan dördüncü Ulusal Cinsel Tutum ve Yaşam Tarzı Anketi'nin 16-59 yaş arası, cinsel deneyimi olan 5.949 katılımcısını analiz etti; 2.721 kişiden biyolojik örnek alındı. Klamidya, bel soğukluğu ve trikomonas yaygınlığı ayrı ayrı %1'in altındaydı; ancak 16-24 yaş kadınlarda klamidya %4,0'a ulaştı. Enfeksiyonla ilişkili davranışları olanların çoğu son bir yılda cinsel sağlık hizmeti kullanmamıştı ve genç kadınlarda klamidya testi 2010-12'den bu yana %54'ten %18'e düştü. Kesitsel bir anket olduğundan nedenleri değil örüntüleri gösterir.",
+   "neden_onemli": "Genç yetişkinlerde test oranlarının düşmesi, sağlık hizmetlerine erişim ve halk sağlığı programları açısından önem taşıyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43078111/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01605-3"
   },
   {
-   "pmid": "43084303",
-   "baslik_en": "Identification, Monitoring, and Management of Elevated Ketones in Ambulatory Settings: A Consensus Statement.",
-   "baslik_tr": "Identification, Monitoring, and Management of Elevated Ketones in Ambulatory Settings: A Consensus Statement.",
-   "dergi": "JAMA network open",
+   "pmid": "43071964",
+   "baslik_en": "Progress in Reducing the Black-White Mortality Gap From 1993 to 2023 in the United States: An Analysis of the National Mortality Database.",
+   "baslik_tr": "ABD'de 1993-2023 arasında Siyah-Beyaz ölüm farkının azaltılmasında ilerleme: Ulusal Ölüm Veritabanı analizi",
+   "dergi": "Annals of internal medicine",
    "yazarlar": [
-    "Shah VN",
-    "Bannuru RR",
-    "Durnwald C",
+    "Sung H",
+    "Jiang C",
+    "Gregg EW",
     "et al."
    ],
-   "tur": "Consensus Statement",
-   "ozet_en": "IMPORTANCE: Diabetic ketoacidosis (DKA), although preventable in most cases, is a leading cause of hospitalization in people with insulin-treated diabetes and is associated with suboptimal glycemic outcomes, increased risk for diabetes complications, and increased health care expenditure. This consensus statement outlines factors that may help identify individuals with diabetes who are at increased risk for elevated ketone levels; provides recommendations for ketone monitoring, including potential testing modalities; and discusses appropriate testing frequency and self-management strategies based on ketone severity.",
-   "ozet_tr": "IMPORTANCE: Diabetic ketoacidosis (DKA), although preventable in most cases, is a leading cause of hospitalization in people with insulin-treated diabetes and is associated with suboptimal glycemic outcomes, increased risk for diabetes complications, and increased health care expenditure. This consensus statement outlines factors that may help identify individuals with diabetes who are at increased risk for elevated ketone levels; provides recommendations for ketone monitoring, including potential testing modalities; and discusses appropriate testing frequency and self-management strategies based on ketone severity.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43084303/",
-   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.44508"
+   "tur": "Ulusal kayıt analizi",
+   "ozet_en": "This cross-sectional analysis of the US National Mortality Database compared age-standardised death rates between Black and White Americans in 1993 and 2023. The excess mortality rate for Black people fell by 56% in males and 68% in females. Among males the fall was driven mainly by cancer, HIV and heart disease; among females by heart disease, cancer and HIV. Progress was limited for maternal death, diabetes, hypertension and, among older men, cerebrovascular disease, and the comparison of only two years is a limitation.",
+   "ozet_tr": "ABD Ulusal Ölüm Veritabanı'ndaki bu kesitsel analiz, Siyah ve Beyaz Amerikalıların yaşa göre standardize ölüm hızlarını 1993 ve 2023 için karşılaştırdı. Siyahlardaki fazla ölüm hızı erkeklerde %56, kadınlarda %68 azaldı. Erkeklerde azalmayı en çok kanser, HIV ve kalp hastalığı; kadınlarda kalp hastalığı, kanser ve HIV belirledi. Anne ölümleri, diyabet, hipertansiyon ve yaşlı erkeklerde serebrovasküler hastalıklarda ilerleme sınırlı kaldı; yalnızca iki yılın karşılaştırılması bir sınırlılıktır.",
+   "neden_onemli": "Hangi hastalıklarda sağlık eşitsizliğinin kapandığını, hangilerinde kapanmadığını gösteriyor.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071964/",
+   "doi": "https://doi.org/10.7326/ANNALS-26-01235"
   }
  ]
 }
