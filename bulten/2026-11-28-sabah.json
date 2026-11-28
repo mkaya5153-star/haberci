@@ -1,131 +1,103 @@
 {
  "tarih": "2026-11-28",
  "donem": "sabah",
- "giris": "Bu bülten yapay zekâ kullanılmadan, 61/62 kaynaktan otomatik derlendi. Haberler kaç bağımsız kaynakta geçtiğine göre sıralanır; yabancı kaynaklı başlıklar makine çevirisidir, ayrıntı için kaynak bağlantısına gidin.",
+ "giris": "Türkiye'de fon tasfiyesinde ara ödemelerin tamamlanması, Özgür Özel'in 4 Aralık'ta yapacağı cumhurbaşkanı adaylığı açıklaması ve 2027 bütçesinin komisyondan geçmesi öne çıkıyor. Dünyada ABD'nin İran ablukası ve Gazze planı için toplanacak İsrail kabinesi gündemi belirliyor. Bülten kaynaklarından AFP, NPR ve CNBC'ye erişilemedi.",
  "one_cikanlar": [
   {
-   "baslik": "Canada's top court upholds Quebec law banning religious symbols in test of unity",
-   "ozet": "",
+   "baslik": "Fon tasfiyesinde ara ödemeler tamamlandı: yaklaşık yarım milyon yatırımcıya 199,55 milyar TL",
+   "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, fonların tasfiye sürecinde yaklaşık yarım milyon yatırımcıya toplam 199,55 milyar TL ödeme yapıldığını açıkladı. Ara ödeme süreci tamamlanmış oldu.",
+   "etiket": "teyitli",
+   "kaynaklar": [
+    {
+     "ad": "BBC Türkçe",
+     "link": "https://www.bbc.com/turkce/articles/cm3wgnj72l90o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "ad": "Independent Türkçe",
+     "link": "https://www.indyturk.com/node/785783/haber/fon-koordinasyon-kurulu-a%C3%A7%C4%B1klad%C4%B1-455-bin-yat%C4%B1r%C4%B1mc%C4%B1ya-19955-milyar-lira-%C3%B6dendi"
+    },
+    {
+     "ad": "Sabah",
+     "link": "https://www.sabah.com.tr/ekonomi/fonlarda-ara-odeme-tamam-7710920"
+    }
+   ],
+   "neden_onemli": "Fon soruşturması ve tasfiyesi çok sayıda yatırımcıyı ve piyasa güvenini doğrudan ilgilendiriyor."
+  },
+  {
+   "baslik": "ABD, İran'dan çıkmaya çalışan bir gemiyi etkisiz hale getirdi; Tahran ablukaya karşı koyacağını söyledi",
+   "ozet": "Reuters'in haberine göre ABD, İran'dan ayrılmaya çalışan bir gemiyi etkisiz hale getirdi. Tahran ise ablukayla karşı karşıya geleceğini açıkladı.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2xTN3lIM0VNZ0t1dTRlSy13WUo1T0JIek5NZThtRklXazNKZlhyUUN0VWxOOXpRY2drMkFOZXlZd1BFM0FrYWpPQjlnYk1kUzB0dzZVczV4b1B2YjZ2MmtJYXM5dEIwNi1VVW9TcUVGWHRPbUNybDdyV2ZzNTZObm5FQTUwLUt2VjNtOWx4N3c4MDdTZGFvS3VGdHVaSno4aWh6ZzNRRURtNmdTMmxrS1lIdmhTZVdCVWFyak9QY2FjRHJsd1dJWA?oc=5"
-    },
-    {
-     "ad": "BBC News",
-     "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5"
     },
     {
      "ad": "DW English",
-     "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
+     "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf"
     },
     {
-     "ad": "The Guardian",
-     "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+     "ad": "Al Jazeera",
+     "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Körfez'deki abluka gerilimi enerji ve deniz ticareti açısından bölgesel riskleri artırıyor."
   },
   {
-   "baslik": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da görüşecek",
-   "ozet": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın İstanbul'da Yunanistan Cumhurbaşkanı Konstantinos Tasulas ile görüşeceğini bildirdi.",
+   "baslik": "Netanyahu, Trump'ın Gazze planının uygulanması için pazar günü kabineyi toplayacak",
+   "ozet": "İsrail basınına göre geçici Başbakan Binyamin Netanyahu, ABD Başkanı Donald Trump'ın Gazze planının uygulanmasını onaylamak için pazar günü kabineyi toplayacak.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek/4140935"
+     "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-trumpin-gazze-planinin-uygulanmasini-onaylamak-icin-kabineyi-toplayacak/4141048"
     },
     {
-     "ad": "TRT Haber",
-     "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yarin-tasulas-ile-gorusecek-964687.html"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-gorusecek-43393667"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/gundem/2026/11/27/baskan-erdogan-yunan-mevkidasi-tasulas-ile-gorusecek"
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/israil-basini-netanyahu-trump-in-gazze-planinin-uygulanmasini-onaylamak-icin-kabineyi-toplayacak-3930744"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Plana ilişkin kabine kararı Gazze'deki sürecin yönünü belirleyebilir."
   },
   {
-   "baslik": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 18 şüpheli tutuklandı",
-   "ozet": "Ankara Cumhuriyet Başsavcılığınca yürütülen \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturması kapsamında gözaltına alınan 22 şüpheliden 18'i tutuklandı, 4'ü adli kontrol şartıyla serbest bırakıldı.",
+   "baslik": "Suudi Arabistan'ın Doğu bölgesinde Husi saldırı tehdidine karşı erken uyarı sistemi devreye alındı",
+   "ozet": "Anadolu Ajansı'na göre Yemen'deki İran destekli Husilerin saldırılarının hedefindeki Suudi Arabistan'ın Doğu bölgesi ile Harec kentinde erken uyarı sistemi devreye alındı. Associated Press'e göre Pakistan ve Türkiye de savunma anlaşması kapsamında Suudi Arabistan'a destek sözü verdi.",
    "etiket": "teyitli",
    "kaynaklar": [
     {
      "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-18-supheli-tutuklandi/4140952"
+     "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-dogu-bolgesi-ile-harec-kentinde-erken-uyari-sistemi-devreye-alindi/4141080"
     },
     {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785782/haber/alihan-kuri%C5%9F%E2%80%99-liderli%C4%9Fini-yapt%C4%B1%C4%9F%C4%B1-%C3%B6ne-s%C3%BCr%C3%BClen-su%C3%A7-%C3%B6rg%C3%BCt%C3%BCne-y%C3%B6nelik-operasyonda-18"
+     "ad": "Habertürk",
+     "link": "https://www.haberturk.com/dunya/suudi-arabistan-da-erken-uyari-sistemi-devreye-alindi-3930749"
     },
     {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/alihan-kuris-suc-orgutune-operasyon-18-supheli-tutuklandi-43393617"
-    },
-    {
-     "ad": "Sabah",
-     "link": "https://www.sabah.com.tr/yasam/son-dakika-haberleri-alihan-kuris-sorusturmasi-18-supheli-tutuklandi-7710665"
+     "ad": "Associated Press",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWNfVjBoUnQyN3lnTjdDVXdrSFZRaDFTYU9xQzk4ZkZtbE9nLUNxUUhJczE0aTVHRVliZ3Zlal9VanlaTWEyYmt0b2ZfcFlKV1c4SXVxLVE5SXRQaHl4bGJpcnpKWDJRWGVtZXRJOGVkMlIzR3I1TEVieldaZUNXSGdnT2ZxTXpfMkZoWWpycGZSZzRiQjhnN0dxd29Hc1lOZWpjMXppMXlDU3BhWkE?oc=5"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Körfez'deki saldırı tehdidi bölgesel güvenliği ve Türkiye'nin de dahil olduğu ittifak ilişkilerini etkiliyor."
   },
   {
-   "baslik": "TBMM Plan ve Bütçe Komisyonunda 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi kabul edildi",
-   "ozet": "TBMM Plan ve Bütçe Komisyonunda, 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ile 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi kabul edildi.",
+   "baslik": "Yeni Parti lideri Özel, cumhurbaşkanı adaylığı konusunda 4 Aralık'ta açıklama yapacak",
+   "ozet": "Yeni Parti Genel Başkanı Özgür Özel, cumhurbaşkanı adaylığı konusunda 4 Aralık Cuma günü Ankara'da basın toplantısı düzenleyeceğini duyurdu.",
    "etiket": "teyitli",
    "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/tbmm-plan-ve-butce-komisyonunda-2027-yili-merkezi-yonetim-butce-kanunu-teklifi-kabul-edildi/4140934"
-    },
-    {
-     "ad": "Independent Türkçe",
-     "link": "https://www.indyturk.com/node/785786/haber/2027-y%C4%B1l%C4%B1-merkezi-y%C3%B6netim-b%C3%BCt%C3%A7e-kanunu-teklifi-tbmm-plan-ve-b%C3%BCt%C3%A7e-komisyonunda"
-    },
-    {
-     "ad": "Hürriyet",
-     "link": "https://www.hurriyet.com.tr/gundem/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-43393698"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/siyaset/2027-yili-butcesi-plan-ve-butce-komisyonu-nda-kabul-edildi-arastirma-universitelerine-500-milyon-esnafa-33-milyar-tl-ek-odenek-ilave-edildi-2560057"
-    }
-   ],
-   "neden_onemli": ""
-  },
-  {
-   "baslik": "Bakan Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını açıkladı",
-   "ozet": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Yedigöller bölgesine gezi amacıyla giden araçtaki çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu açıkladı.",
-   "etiket": "teyitli",
-   "kaynaklar": [
-    {
-     "ad": "Anadolu Ajansı",
-     "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigoller-bolgesine-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967"
-    },
     {
      "ad": "BBC Türkçe",
-     "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss"
+     "link": "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o?at_medium=RSS&at_campaign=rss"
     },
     {
-     "ad": "Sözcü",
-     "link": "https://www.sozcu.com.tr/bolu-da-arac-kayboldu-p384993"
-    },
-    {
-     "ad": "Cumhuriyet",
-     "link": "https://www.cumhuriyet.com.tr/turkiye/aile-ve-sosyal-hizmetler-mudurlugu-ne-bagli-aractan-saatlerdir-haber-alinamiyor-7-8-cocuk-ile-gorevli-personelin-oldugu-tahmin-ediliyor-2560049"
+     "ad": "Medyascope",
+     "link": "https://medyascope.tv/2026/11/28/ozgur-ozel-fon-sistemi-ibb-ve-feto-borsasini-aklamak-icin/"
     },
     {
      "ad": "Google Haberler Türkiye",
-     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVlNtMWJ3U0d6YWFaZ2JfNnhXTlI4NzhNX2FESFBnbkUwOFJ0TTdPUHc2OXRjSHg1YlhXdmFsWVE3MTZwT2xkcUs2Y3hiank1T1c4N053Rm5SVUJkQ1JkcXdjLWxVZWdNTWYyRUxIOGU4TmlDZmtrUTRoajE3bU5xVk9saG1QWnI1ODJwQVVycUl5Tko3a0did3FpOTVhaktUMGdIV3RQTGx1dTE4dkV3NGZqS2dVVWhYaHZnWVZ5WkEtSmJjcWFURVh4YlN4ektSR3NXQjNRdm1PNEU4VncweE9DNmhkYlNGTVFfWHN6VVR2X25PZEM2QzFSRTBRdU5Uc3FBLW1WSm9VVnlscmc?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmJuQV9VREhZZUpXZzE0cUdaRWJEem83TVRpcHRrOFprNjYxeDRsZ0FZbVJzYURFbHpBN2Zya01YSTl1STYxRkhVRnVmY0x4UElPejRKX3RHRU93czBwMGZuaW5DNjd1NjF0ZHhwYWNqT3J3LWE2TV9kSTNSbEhQNXFMTHFDXzEzMDBVNWliU3M0ay1IS1E?oc=5"
     }
    ],
-   "neden_onemli": ""
+   "neden_onemli": "Muhalefetin cumhurbaşkanı adayı belirleme süreci siyasi gündemin merkezinde yer alıyor."
   }
  ],
  "bolumler": [
@@ -134,115 +106,135 @@
    "ad": "Türkiye",
    "haberler": [
     {
-     "baslik": "Mekke İttifakı bünyesindeki Stratejik Siyasi ve Savunma Komitesi'nin ortak açıklaması yayımlandı",
-     "ozet": "Mekke İttifakı bünyesindeki komitenin ortak açıklamasında, Husilerin Suudi Arabistan'a yönelik saldırılarının güçlü şekilde kınandığı yinelendi, ülkenin güvenliğinin korunmasına verilen desteğin…",
+     "baslik": "Bolu'da kaybolan araçtaki 10 kız çocuğu ve 3 görevliye ulaşıldı",
+     "ozet": "Aile ve Sosyal Hizmetler Bakanlığı'na bağlı Kocaeli Çocuk Evleri'nde kalan 10 kız çocuğu ve 3 görevli, Yedigöller gezisi dönüşünde araçla irtibatın kesilmesi üzerine aranmıştı. Bakan Mahinur Özdemir Göktaş çocuklara ve personele ulaşıldığını, sağlık durumlarının iyi olduğunu bildirdi.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/dunya/mekke-ittifaki-bunyesindeki-stratejik-siyasi-ve-savunma-komitesinin-ortak-aciklamasi-yayimlandi/4140932"
+       "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-yedigollere-gezi-amaciyla-giden-aractaki-cocuklara-ve-personele-ulasildigini-acikladi/4140967"
       },
       {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/mekke-i̇ttifakı-i̇slamabad-da-ortak-savunma-taahhüdü-gündemde/a-80076838?maca=tur-rss-tur-all-1495-rdf"
-      }
-     ]
-    },
-    {
-     "baslik": "Çaykur Rizespor, sahasında Kasımpaşa'yı 3-2 yendi",
-     "ozet": "Trendyol Süper Lig'in 13. haftasında Çaykur Rizespor, sahasında Kasımpaşa'yı 3-2 yendi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-sahasinda-kasimpasayi-3-2-yendi/4140901"
-      },
-      {
-       "ad": "Google Haberler Türkiye",
-       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56N0NSb3N1ZExMTEFKOE1TMThWRmVndEtKREtYU29LVGVaV1U5YVE2ZjNaaU9jYnBIUzdVaWFZZGVyMnI3RHpLcUoxVWZSZWNlZUJDX3l5WGh0T1l5SUxoYjBjblFyYVJmM0Q3UNIBdEFVX3lxTE96YmRTVXZDTFF0bTZqYUVpeXdUTk01OG40b1JjUkJuWGltQkpJMU1vQ2trZVJydWowY29NelRNVktySnRWSjg4VjN0aGtDaFJVX2hJbENLX2xsVDN0cWQ2ZWVHZ2MxdHJQU3FiNlVkaXo1SUJ1?oc=5"
-      },
-      {
-       "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-sahasinda-kasimpasayi-3-2-yendi/4140901"
-      }
-     ]
-    },
-    {
-     "baslik": "Basın İlan Kurumu Genel Kurulunda basın sektörüne ilişkin mevzuat düzenlemesi yapıldı",
-     "ozet": "BİK Genel Kurulunda resmi ilan fiyat tarifesinde yüzde 40,09 ve 40,68 artış yapılması kararlaştırılırken, fikir işçilerinin ikamet şartı, yapay zeka gibi otomatik üretilen içerikler, gerçeği…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı",
-       "link": "https://www.aa.com.tr/tr/ekonomi/basin-ilan-kurumu-genel-kurulunda-basin-sektorune-iliskin-mevzuat-duzenlemesi-yapildi/4140897"
-      },
-      {
-       "ad": "Habertürk",
-       "link": "https://www.haberturk.com/gundem/bik-ten-resmi-ilan-ucretleri-yapay-zeka-icerikleri-ve-trafik-kriterlerine-duzenleme-3930723"
-      },
-      {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/basin-ilan-kurumu-genel-kurulunda-basin-sektorune-iliskin-mevzuat-duzenlemesi-yapildi/4140897"
-      }
-     ]
-    },
-    {
-     "baslik": "Beşiktaş kafilesi yurda döndü",
-     "ozet": "UEFA Avrupa Ligi'nin beşinci haftasında dün İsrail ekibi Hapoel Beer-Sheva'yı Gürcistan'da ağırlayan Beşiktaş'ta kafileyi taşıyan uçak, İstanbul'a iniş yaptı.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/spor/besiktas-kafilesi-yurda-dondu-964658.html"
-      },
-      {
-       "ad": "Hürriyet",
-       "link": "https://www.hurriyet.com.tr/sporarena/besiktas-kafilesi-istanbula-dondu-43393427"
-      }
-     ]
-    },
-    {
-     "baslik": "Türk heyeti İslamabad'da ortak savunma toplantısına katılacak",
-     "ozet": "Dışişleri Bakanı Hakan Fidan, Milli Savunma Bakanı Yaşar Güler ve Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Mekke Ortak Savunma Anlaşması kapsamında tesis edilen Stratejik Siyasi ve Savunma…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "TRT Haber",
-       "link": "https://www.trthaber.com/haber/gundem/turk-heyeti-islamabadda-ortak-savunma-toplantisina-katilacak-964662.html"
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cmx289847rl5o?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "Sözcü",
-       "link": "https://www.sozcu.com.tr/turk-heyeti-islamabad-da-ortak-savunma-toplantisina-katilacak-p384965"
+       "link": "https://www.sozcu.com.tr/bolu-da-arac-kayboldu-p384993"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/turkiye/boluda-kaybolan-13-kisiye-ulasildi-964701.html"
       }
      ]
     },
     {
-     "baslik": "Yeni Parti lideri Özel, cumhurbaşkanı adayıyla ilgili 4 Aralık'ta açıklama yapacağını duyurdu",
-     "ozet": "Yeni Parti Genel Başkanı Özgür Özel, cumhurbaşkanı adaylığı konusunda 4 Aralık Cuma günü Ankara'da bir basın toplantısı düzenleyeceğini açıklayarak, \"Tüm Türkiye haftaya bugün başka bir şey konuşuyor…",
+     "baslik": "Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da görüşecek",
+     "ozet": "İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın İstanbul'da Yunanistan Cumhurbaşkanı Konstantinos Tasulas ile görüşeceğini bildirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek/4140935"
+      },
+      {
+       "ad": "TRT Haber",
+       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yarin-tasulas-ile-gorusecek-964687.html"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-tasulas-ile-gorusecek-p384983"
+      }
+     ]
+    },
+    {
+     "baslik": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 18 şüpheli tutuklandı",
+     "ozet": "Ankara Cumhuriyet Başsavcılığının yürüttüğü soruşturmada gözaltına alınan 22 şüpheliden 18'i tutuklandı, 4'ü adli kontrol şartıyla serbest bırakıldı.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-18-supheli-tutuklandi/4140952"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785782/haber/alihan-kuri%C5%9F%E2%80%99-liderli%C4%9Fini-yapt%C4%B1%C4%9F%C4%B1-%C3%B6ne-s%C3%BCr%C3%BClen-su%C3%A7-%C3%B6rg%C3%BCt%C3%BCne-y%C3%B6nelik-operasyonda-18"
+      },
+      {
+       "ad": "Sözcü",
+       "link": "https://www.sozcu.com.tr/son-dakika-alihan-kuris-suc-orgutu-sorusturmasinda-18-tutuklama-p384975"
+      }
+     ]
+    },
+    {
+     "baslik": "2027 bütçe teklifi TBMM Plan ve Bütçe Komisyonunda kabul edildi",
+     "ozet": "Komisyon, 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi ile 2025 Yılı Merkezi Yönetim Kesin Hesap Kanunu Teklifi'ni kabul etti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/gundem/tbmm-plan-ve-butce-komisyonunda-2027-yili-merkezi-yonetim-butce-kanunu-teklifi-kabul-edildi/4140934"
+      },
+      {
+       "ad": "Independent Türkçe",
+       "link": "https://www.indyturk.com/node/785786/haber/2027-y%C4%B1l%C4%B1-merkezi-y%C3%B6netim-b%C3%BCt%C3%A7e-kanunu-teklifi-tbmm-plan-ve-b%C3%BCt%C3%A7e-komisyonunda"
+      },
+      {
+       "ad": "Medyascope",
+       "link": "https://medyascope.tv/2026/11/27/2027-yili-butcesi-arastirma-universitelerine-500-milyon-ek-odenek/"
+      }
+     ]
+    },
+    {
+     "baslik": "Halk TV soruşturmasında üçüncü dalga: 9 kişi gözaltına alındı",
+     "ozet": "BBC Türkçe'ye göre soruşturma kapsamında 12 kişi hakkında gözaltı kararı verildi, 9 kişi gözaltına alındı. Gözaltına alınanlar arasında gazeteciler Ece Üner ve Deniz Bayramoğlu da var.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "BBC Türkçe",
-       "link": "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o?at_medium=RSS&at_campaign=rss"
+       "link": "https://www.bbc.com/turkce/articles/cmge3r8983wno?at_medium=RSS&at_campaign=rss"
       },
       {
-       "ad": "Medyascope",
-       "link": "https://medyascope.tv/2026/11/28/ozgur-ozel-fon-sistemi-ibb-ve-feto-borsasini-aklamak-icin/"
+       "ad": "Hürriyet",
+       "link": "https://www.hurriyet.com.tr/gundem/halk-tvde-ucuncu-dalga-iki-gazeteci-gozaltinda-43393809"
       }
      ]
     },
     {
-     "baslik": "Almanya'da 556 milyar euroluk 2027 bütçesi meclisten geçti",
-     "ozet": "Almanya Federal Meclisi, 556 milyar euroluk 2027 bütçesini kabul etti. Yeni borçlanmanın 210 milyar euroyu aşması bekleniyor.",
+     "baslik": "Beşiktaş'ın Gürcistan'daki maçı diplomatik krize döndü: UEFA soruşturma başlattı",
+     "ozet": "Gürcistan'ın Ankara Büyükelçisi Archil Kalandia, Beşiktaş maçındaki sert müdahale nedeniyle Dışişleri Bakanlığı'na çağrıldı. UEFA da Gürcistan'da oynanan Beşiktaş-Hapoel Beer Sheva maçında stadyumda çıkan olaylar için disiplin soruşturması başlattı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "DW Türkçe",
-       "link": "https://www.dw.com/tr/almanya-da-556-milyar-euroluk-2027-bütçesi-meclisten-geçti/a-80081038?maca=tur-rss-tur-all-1495-rdf"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/27/besiktas-maci-krizi-gurcistan-buyukelcisi-disisleri-bakanligina-cagrildi"
       },
       {
        "ad": "Sözcü",
-       "link": "https://www.sozcu.com.tr/son-dakika-2027-butcesi-meclis-komisyonundan-gecti-p384985"
+       "link": "https://www.sozcu.com.tr/gurcistan-buyukelcisi-disisleri-ne-cagrildi-p384960"
+      },
+      {
+       "ad": "DW Türkçe",
+       "link": "https://www.dw.com/tr/uefa-beşiktaş-hapoel-maçı-için-disiplin-soruşturması-başlattı/a-80075465?maca=tur-rss-tur-all-1495-rdf"
+      }
+     ]
+    },
+    {
+     "baslik": "IMF: Türkiye 2026'da zorlu bir yılla karşı karşıya",
+     "ozet": "Anadolu Ajansı'nın aktardığına göre IMF, Türkiye'nin Orta Doğu'daki çatışma ve yatırım fonu stresi nedeniyle 2026'da zorlu bir yıl geçirdiğini belirtti.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/ekonomi/imfden-turkiye-degerlendirmesi/4141093"
+      },
+      {
+       "ad": "Anadolu Ajansı Ekonomi",
+       "link": "https://www.aa.com.tr/tr/ekonomi/imfden-turkiye-degerlendirmesi/4141093"
+      },
+      {
+       "ad": "Dünya Gazetesi",
+       "link": "https://www.dunya.com/ekonomi/imfden-turkiye-degerlendirmesi-finansal-istikrar-korundu-siki-politika-surmeli-haberi-849146"
       }
      ]
     }
@@ -253,68 +245,46 @@
    "ad": "Dünya",
    "haberler": [
     {
-     "baslik": "Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption",
-     "ozet": "",
+     "baslik": "Kanada Yüksek Mahkemesi, Quebec'in dini sembolleri yasaklayan yasasını onadı",
+     "ozet": "Reuters'a göre Kanada'nın en yüksek mahkemesi, Quebec'in dini sembollerin kullanımını yasaklayan yasasını onayan bir karar verdi. Karar ülkede birlik açısından bir sınav olarak değerlendiriliyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2lSdWtGZDVPZzFmZWxiRm9aZ2ZkcDhYV2lDUHRfRjhpcVpyNk80a2JRSUdhUXBMT0MyUUFZUDFpUi1LRzVDLTBrTTZaYjhyeDh6OVNmSUhKWlZNdUhQZmZ1U2NBcWhoSE1VSFNRMTRlR2VHa1Zwbm9jcDJPdzRMMEJSSFdsaXVfOGZwRjkxOFp6d1YxdXlJZUdza3oyM21fMnQtTE1SZ01xS094NS1TY1pRRXFmMFE1b1VoN2c5cWI4dw?oc=5"
+       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2xTN3lIM0VNZ0t1dTRlSy13WUo1T0JIek5NZThtRklXazNKZlhyUUN0VWxOOXpRY2drMkFOZXlZd1BFM0FrYWpPQjlnYk1kUzB0dzZVczV4b1B2YjZ2MmtJYXM5dEIwNi1VVW9TcUVGWHRPbUNybDdyV2ZzNTZObm5FQTUwLUt2VjNtOWx4N3c4MDdTZGFvS3VGdHVaSno4aWh6ZzNRRURtNmdTMmxrS1lIdmhTZVdCVWFyak9QY2FjRHJsd1dJWA?oc=5"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Trump backs Iraqi leader's efforts to assert more state authority",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE9aRmVNN0dTb3V4aExjamVrY0F0X3hVb3g5ZWZZY1B1bVNzb2wwQkFXdi1ka3d2RFk1M1FDVGdUSXkwLTlRU3p0Q0RsRHM4cUsxcm5JOVFUN1U5bF9hYWtBVzZRYmhSVHEyaW8tZExhLVhfZmhZWHRXZzRTTXlONm9wTjRwNkxfY2MxVjZUUExpTGdqMU1jSDVxNXRNclIxa1hsRXcxTzhycGcxbW9vRDV0czJ4dw?oc=5"
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5"
       },
       {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "Spain's Sanchez insists he will defy polls as election campaign wraps up",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWJleDNqeFIxY19DeHdSdjNfMWJKYkxMMmtnTWJkZzZDYzFidEVrOXZ0Und0eTJldEx1c1llcnp6VmhSRnJWczVGOXNwbUM5RVZPbDNOUmFPaTRzbWp6YnRtTFM1Y3FxREs5WkFKaUZzeUh3d0hhci1rWlB0QlEwbFNxY1h6bEI0Mkp3NG55aXRBc2JzVmstZk5xeE0wMWg5TS1jVnE5T2U4UlBGR3Y3V0hHZzlfM3B3?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "End of an era as Marquez announces shock retirement after eighth MotoGP title",
-     "ozet": "",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Reuters",
-       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5"
+       "ad": "BBC News",
+       "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
       },
       {
        "ad": "DW English",
-       "link": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-all-1573-rdf"
+       "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
       }
      ]
     },
     {
-     "baslik": "Zelenskyy urges US to pressure Putin and questions Trump’s reference to Putin as a ‘friend’",
-     "ozet": "",
+     "baslik": "Tayvan yerel seçimler için sandık başında; Çin savaş uçağı gönderdi",
+     "ozet": "Reuters'a göre Tayvan'da yerel seçimler yapılırken Çin savaş uçakları gönderdi ve Taipei adaylarından birini eleştirdi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5"
+      },
+      {
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "baslik": "Zelenskiy, ABD'den Putin'e baskı yapmasını istedi",
+     "ozet": "Associated Press'e göre Ukrayna Devlet Başkanı Volodimir Zelenskiy ABD'yi Putin'e baskı yapmaya çağırdı ve Trump'ın Putin'den 'dost' olarak söz etmesini sorguladı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -328,32 +298,54 @@
      ]
     },
     {
-     "baslik": "Pakistan and Turkey pledge to support Saudi Arabia against Houthi attacks under defense pact",
-     "ozet": "",
-     "etiket": "teyitli",
+     "baslik": "Libya'ya yönelen Rus donanma filosu, bir savaş gemisinin batırılmasının ardından geri döndü",
+     "ozet": "Reuters'ın kaynaklarına göre Libya'ya giden Rus askeri filosu, 22 Kasım'da bir savaş gemisinin batırılmasının ardından geri döndü.",
+     "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWNfVjBoUnQyN3lnTjdDVXdrSFZRaDFTYU9xQzk4ZkZtbE9nLUNxUUhJczE0aTVHRVliZ3Zlal9VanlaTWEyYmt0b2ZfcFlKV1c4SXVxLVE5SXRQaHl4bGJpcnpKWDJRWGVtZXRJOGVkMlIzR3I1TEVieldaZUNXSGdnT2ZxTXpfMkZoWWpycGZSZzRiQjhnN0dxd29Hc1lOZWpjMXppMXlDU3BhWkE?oc=5"
-      },
-      {
-       "ad": "Al Jazeera",
-       "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5"
       }
      ]
     },
     {
-     "baslik": "Sales for Biden memoir fall far short of books by Obama, Clinton",
-     "ozet": "",
+     "baslik": "ABD Hava Kuvvetleri'nin Cloud One bulut platformuna siber saldırı",
+     "ozet": "Reuters ve NBC News'e göre bilgisayar korsanları ABD Hava Kuvvetleri'nin ana bulut platformu Cloud One'a sızdı.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Associated Press",
-       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMjJ5VGIwN2tfQ3dpMldmb0xJSVdTV09YYXlkQU1qYzVZM3o2RVNMeHk1RXpOazFrZmtiQmNpeXRYdi1IM0JWZ2VtSThYWXV4cWZvUEloMGxlUU55Uk1OTzRKb2J1Mmt2RXRFajVra0NCYUpiMlNycVNkSzRBa2puaWVYSkNhcDJWOTNRRk4xcGdwMWNi?oc=5"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5"
       },
       {
-       "ad": "The Guardian",
-       "link": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short"
+       "ad": "Anadolu Ajansı",
+       "link": "https://www.aa.com.tr/tr/dunya/nbc-news-abd-hava-kuvvetlerine-ait-cloud-one-bulut-platformuna-siber-saldiri-yapildi/4140914"
+      }
+     ]
+    },
+    {
+     "baslik": "Yeni Zelanda seçimlerinde kesin sonuç kilitlendi; karar merkezci yeni parti elinde",
+     "ozet": "Associated Press'e göre Yeni Zelanda seçiminin nihai sonucu kilitlendi ve hükümetin kurulmasında merkezci yeni bir parti belirleyici konumda.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "BM Filistin Özel Raportörü Albanese Kosta Rika'ya alınmadı",
+     "ozet": "BM Filistin Özel Raportörü Francesca Albanese, fahri doktora almak üzere gittiği Kosta Rika'ya giriş izni verilmeyince iki gece havaalanında bekletildi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "BBC Türkçe",
+       "link": "https://www.bbc.com/turkce/articles/cmvg20er901ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTFhaERnNklOT0hXZlRoWndkWUtRRnlCZ29PZ056TzdPaEpDdExUWWxGZTVadkRrS3ZUQm5yMUprcEw3WUZnMW80Y1ZBTGVjY2JNaExHV0o0SXIyWGpSb3hjUS1lVkR2N1VWeXFveTN4OFNEMTBET0NXR1E3WUVJQ3Q1djcwR2pHVlJQNTExNnVHSG8xZ2IwV3NZeXdaaFpMWVBsM2FXUFAwcktLNEpuV0U4QVEzSEhZX1JJOEhLRmc1bjd6ejFBLWd2NA?oc=5"
       }
      ]
     }
@@ -364,23 +356,23 @@
    "ad": "Ekonomi & Piyasalar",
    "haberler": [
     {
-     "baslik": "Emlak Katılım, Katılımevim, Birevim ve İktisat Katılım Bankasını bünyesine dahil etti",
-     "ozet": "Türkiye Emlak Katılım Bankası AŞ, Katılımevim Tasarruf Finansman AŞ, Birevim Tasarruf Finansman AŞ ve İktisat Katılım Bankası AŞ'yi bünyesine kattığını duyurdu.",
+     "baslik": "S&P Global, Fransa'nın kredi notu görünümünü negatife çevirdi",
+     "ozet": "S&P Global, Fransa'nın kredi notu görünümünü 'durağan'dan 'negatif'e revize etti.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-dahil-etti/4140188"
+       "link": "https://www.aa.com.tr/tr/ekonomi/sp-global-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4141077"
       },
       {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/emlak-katilim-katilimevim-birevim-ve-iktisat-katilim-bankasini-bunyesine-katti-3795969"
+       "ad": "Financial Times",
+       "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1"
       }
      ]
     },
     {
-     "baslik": "BAE Systems'a beş Avrupa ülkesinden 6 milyar dolarlık sipariş",
-     "ozet": "Finlandiya, İsveç, Norveç, Litvanya ve Hollanda, BAE Systems'tan 430'dan fazla CV90 muharebe aracı almak üzere anlaşma imzaladı. Ortak siparişin toplam değeri 6 milyar dolar olarak açıklandı.",
+     "baslik": "Beş Avrupa ülkesinden BAE Systems'a 6 milyar dolarlık CV90 siparişi",
+     "ozet": "Finlandiya, İsveç, Norveç, Litvanya ve Hollanda, BAE Systems'tan 430'dan fazla CV90 muharebe aracı almak için anlaşma imzaladı. Ortak siparişin değeri 6 milyar dolar.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
@@ -394,43 +386,39 @@
      ]
     },
     {
-     "baslik": "Fon tasfiyesinde ara ödeme süreci tamamlandı",
-     "ozet": "İletişim Başkanlığı, fon tasfiyelerinde ara ödemelerin tamamlandığını ve toplam 199,55 milyar lira ödendiğini açıkladı. Kamu kaynağı kullanılmayan süreçte, bundan sonra elde edilecek kaynaklar hak…",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/fon-tasfiyesinde-ara-odeme-sureci-tamamlandi-3795979"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/ekonomi/tasfiye-edilen-yatirim-fonlarinda-ara-odemeler-tamamlandi-haberi-849122"
-      }
-     ]
-    },
-    {
-     "baslik": "İran'dan abluka tepkisi: Düşman, havada ve denizde eylemimizi beklesin",
-     "ozet": "İran Devrim Muhafızları Ordusu Hava ve Uzay Kuvvetleri Komutanı Mecid Musevi, ABD'nin deniz ablukasını kırmaya kararlı olduklarını belirterek, \"Düşman, havada ve denizde eylemimizi beklesin.\" dedi.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "Bloomberg HT",
-       "link": "https://www.bloomberght.com/iran-dan-abluka-tepkisi-dusman-havada-ve-denizde-eylemimizi-beklesin-3795974"
-      },
-      {
-       "ad": "Dünya Gazetesi",
-       "link": "https://www.dunya.com/dunya/irandan-abdye-abluka-uyarisi-eylemlerimizi-bekleyin-haberi-849119"
-      }
-     ]
-    },
-    {
-     "baslik": "S&P Global, Fransa'nın kredi notu görünümünü negatife çevirdi",
-     "ozet": "Uluslararası kredi derecelendirme kuruluşu S&P Global, Fransa'ya ilişkin kredi notu görünümünü \"durağan\"dan \"negatif\"e revize etti.",
+     "baslik": "ABD mal ticareti açığı büyüdü; yapay zekâ ithalatı rekora taşıdı",
+     "ozet": "Reuters'a göre ABD'nin mal ticareti açığı daha da kötüleşti; yapay zekâ kaynaklı ithalat rekor seviyeye yükseldi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "Anadolu Ajansı Ekonomi",
-       "link": "https://www.aa.com.tr/tr/ekonomi/sp-global-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4141077"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUhkOFctdmNWVmE4V25NYVFPXy1fbmpLZnJubGRnZDZQVkk1alZaNE1hMjNJMkVxMFY5aFZVclJnTmM5WkhEVjM0OUFlMEVXc2pLX3VGMzBZOVFuZ0JqWHFTWWROTmY5dkFzMDdSTFR4THE2WEt6dmd6ZVVob1kwOFdyUHpvaVZndmExTTEtbG80VVN4?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Wall Street haftayı yükselişle kapattı; yılın en iyi haftası",
+     "ozet": "Associated Press'e göre ABD hisse senetleri dalgalı bir haftanın ardından yükselişle kapandı; bu, Wall Street'in bir yılı aşkın sürenin en iyi haftası oldu.",
+     "etiket": "tek kaynak",
+     "kaynaklar": [
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3hvSHlmM1QwQVMyanhDWEpTak5ZZkVwd2RBck9ObnBheXJoYWQxcUxMYXJqb2VhdWRiUVM2ZlNrSmNTYlZVZ1JmYXlRZ0lvclBleFJzRGZjUktHREZkY1JjOS15OVdGdmN5SVRmZUN2T1RVNTR2bnJwWjhfQnR5S015XzZtNmpNd19xbHFUbExjQk1OUTdPRDFxcUotZEZn?oc=5"
+      }
+     ]
+    },
+    {
+     "baslik": "Lula'nın Bradesco başkanını maliye için seçmesi Brezilya piyasalarını yükseltti",
+     "ozet": "Brezilya piyasaları, Devlet Başkanı Lula'nın Bradesco başkanını maliye sorumlusu olarak seçmesinin ardından yükseldi.",
+     "etiket": "teyitli",
+     "kaynaklar": [
+      {
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5"
+      },
+      {
+       "ad": "Associated Press",
+       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1lWSFNZVHRVSi1Dbm12NWtCT3RhaERTUnNHN3U1RHR2aHVXbzc5N2hCdGxIbkpINnRTZm85aElGWU1BOElob1p2cTd3anNkOGdlQ05rVktpX1F6RDM3WUxfZDg5czNCZi1wODMySzZsNlRULVBaN0RhOWlrSllDVHlvTERqV2F4eWxwYUc1Mm5VVm1kdVFZYVhMNXAzdHY0?oc=5"
       }
      ]
     }
@@ -441,61 +429,25 @@
    "ad": "Bilim, Teknoloji & Yapay Zekâ",
    "haberler": [
     {
-     "baslik": "The best Black Friday deals Ars could find",
-     "ozet": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+     "baslik": "OpenAI, Apple'a karşı dava açtı: ticari sırların ele geçirildiği iddiası",
+     "ozet": "OpenAI, Apple'ı ticari sırlarını ele geçirmekle ve donanım tedarikçilerine erişimini kısıtlamakla suçlayarak dava açtı. Reuters, davayı Apple'a karşı karşı dava olarak aktarıyor.",
      "etiket": "teyitli",
      "kaynaklar": [
       {
-       "ad": "Ars Technica",
-       "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+       "ad": "Reuters",
+       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5"
       },
       {
-       "ad": "The Verge",
-       "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
-      }
-     ]
-    },
-    {
-     "baslik": "Belçika'da yayıncılar kitaplara \"yapay zekasız\" etiketi basılmasını istiyor",
-     "ozet": "Belçika'da Fransızca yayın yapan yayınevleri, yapay zekanın yayıncılık sektöründe kullanımının yaygınlaşması nedeniyle insan emeğiyle hazırlanan kitapların özel bir etiketle belgelendirilmesini talep…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "ad": "The Guardian",
+       "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+      },
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/belcikada-yayincilar-kitaplara-yapay-zekasiz-etiketi-basilmasini-istiyor/4140960"
-      }
-     ]
-    },
-    {
-     "baslik": "Türk savunma sanayisinde güçler amfibi harekat için birleşti",
-     "ozet": "Türk savunma sanayisinde kara ve deniz platformlarında ortaya konulan yetenekler, askeri birliklerin ve araçların denizden karaya çıkarılarak kıyı bölgelerde operasyon gerçekleştirmesine imkan veren…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
+       "ad": "Le Monde",
+       "link": "https://www.lemonde.fr/en/pixels/article/2026/11/28/openai-countersues-apple-in-dispute-over-trade-secret-thefts_6790291_13.html"
+      },
       {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-savunma-sanayisinde-gucler-amfibi-harekat-icin-birlesti/4140747"
-      }
-     ]
-    },
-    {
-     "baslik": "Jensen Huang'ın yükselişi, ABD, Çin ve Tayvan arasındaki çip rekabetiyle kesişiyor",
-     "ozet": "Son günlerde yabancı istihbarat servislerinin hedefi olan, Çin'e bilgi aktardığı öne sürülen Alice Huang ile ilişkisiyle gündeme gelen Nvidia'nın Üst Yöneticisi (CEO) Jensen Huang, küresel çip…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Bilim-Teknoloji",
-       "link": "https://www.aa.com.tr/tr/bilim-teknoloji/jensen-huangin-yukselisi-abd-cin-ve-tayvan-arasindaki-cip-rekabetiyle-kesisiyor/4140545"
-      }
-     ]
-    },
-    {
-     "baslik": "Calvin Döngüsü Nedir? Fotosentezde Işığın Kullanılmadığı Tepkimeler Nasıl Gerçekleşir?",
-     "ozet": "Calvin döngüsü, fotosentezin ışığın kullanılmadığı tepkimeler evresini oluşturan ve atmosferdeki karbondioksidi (CO₂) organik moleküllere dönüştüren biyokimyasal tepkimeler dizisidir. Bu süreç, bitki…",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Evrim Ağacı",
-       "link": "https://evrimagaci.org/calvin-dongusu-nedir-fotosentezde-isigin-kullanilmadigi-tepkimeler-nasil-gerceklesir-24265"
+       "ad": "Al Jazeera",
+       "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss"
       }
      ]
     }
@@ -506,35 +458,13 @@
    "ad": "Sağlık",
    "haberler": [
     {
-     "baslik": "What's behind the surge in severe flu cases?",
-     "ozet": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
+     "baslik": "Uganda'da Afrika'nın ilk mRNA Ebola aşısı denemesi başladı",
+     "ozet": "Moderna'nın geliştirdiği deneysel mRNA aşısı, komşu DKC'deki Ebola salgını sürerken Uganda'da 224 gönüllü üzerinde deneniyor.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "My self-care ritual is a meal at a fancy restaurant - on my own",
-     "ozet": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
-      }
-     ]
-    },
-    {
-     "baslik": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-     "ozet": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "BBC Health",
-       "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
+       "ad": "Euronews Türkçe",
+       "link": "https://tr.euronews.com/2026/11/27/uganda-afrikanin-ilk-mrna-ebola-asi-denemesi-basladi"
       }
      ]
     }
@@ -545,39 +475,24 @@
    "ad": "Spor",
    "haberler": [
     {
-     "baslik": "Fury cleared to fight Joshua after wife retracts schizophrenia claim",
-     "ozet": "Tyson Fury is medically cleared to fight Anthony Joshua in December after the bout was put in jeopardy by claims of a schizophrenia diagnosis.",
-     "etiket": "teyitli",
-     "kaynaklar": [
-      {
-       "ad": "BBC Sport",
-       "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "ad": "The Guardian Sport",
-       "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-cleared-fight-anthony-joshua-mental-health-concerns-allayed-boxing"
-      }
-     ]
-    },
-    {
-     "baslik": "Suudi Arabistan'daki Etnospor Kültür Festivali'nin dokuzuncu günü sona erdi",
-     "ozet": "Suudi Arabistan'da düzenlenen Etnospor Kültür Festivali'nde dokuzuncu günün etkinlikleri sona erdi.",
+     "baslik": "Milli para halterciler Dünya Şampiyonası'nın ilk gününde 7 madalya kazandı",
+     "ozet": "Bahreyn'deki Dünya Para Halter Şampiyonası'nın ilk gününü milli sporcular 2'si altın toplam 7 madalyayla tamamladı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/suudi-arabistandaki-etnospor-kultur-festivalinin-dokuzuncu-gunu-sona-erdi/4140985"
+       "link": "https://www.aa.com.tr/tr/spor/milli-para-halterciler-dunya-sampiyonasinin-ilk-gununde-7-madalya-kazandi-/4140824"
       }
      ]
     },
     {
-     "baslik": "Konyaspor, Alanyaspor'u deplasmanda 2-1 mağlup etti",
-     "ozet": "Trendyol Süper Lig'in 13. haftasında TÜMOSAN Konyaspor, Corendon Alanyaspor'u deplasmanda 2-1 yendi.",
+     "baslik": "Milli sporculardan Avrupa Yıldızlar Tekvando Şampiyonası'nda 8 madalya",
+     "ozet": "Romanya'daki şampiyonanın ikinci gününde milli sporcular 3'ü altın toplam 8 madalya kazandı.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Spor",
-       "link": "https://www.aa.com.tr/tr/spor/konyaspor-alanyasporu-deplasmanda-2-1-maglup-etti/4140866"
+       "link": "https://www.aa.com.tr/tr/spor/milli-sporcular-avrupa-yildizlar-tekvando-sampiyonasinda-8-madalya-daha-kazandi/4140840"
       }
      ]
     }
@@ -588,24 +503,13 @@
    "ad": "Kültür & Sanat",
    "haberler": [
     {
-     "baslik": "\"6. Uluslararası Kahramanmaraş Edebiyat Ödülleri\" sahiplerini buldu",
-     "ozet": "Kahramanmaraş Büyükşehir Belediyesi tarafından bu yıl 6. kez düzenlenen \"Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri\" kapsamında \"Uluslararası Kahramanmaraş Edebiyat Ödülleri\" verildi.",
+     "baslik": "6. Uluslararası Kahramanmaraş Edebiyat Ödülleri sahiplerini buldu",
+     "ozet": "Kahramanmaraş Büyükşehir Belediyesi'nin bu yıl 6. kez düzenlediği Uluslararası Kahramanmaraş Şiir ve Edebiyat Günleri kapsamında edebiyat ödülleri verildi.",
      "etiket": "tek kaynak",
      "kaynaklar": [
       {
        "ad": "Anadolu Ajansı Kültür-Sanat",
        "link": "https://www.aa.com.tr/tr/kultur/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu/4140953"
-      }
-     ]
-    },
-    {
-     "baslik": "Suriyeli gazeteci yazar İbrahim el-Cebin, ülkesinin tarihsel kırılmalarını ve kimlik mücadelesini anlattı",
-     "ozet": "Suriyeli yazar ve gazeteci, aynı zamanda Dımaşk Düşünce Vakfı Mütevelli Heyeti Başkanı İbrahim el-Cebin, Suriye kimliğinin tek bir ideolojiye, mezhebe ya da topluluğa indirgenemeyeceğini belirtti.",
-     "etiket": "tek kaynak",
-     "kaynaklar": [
-      {
-       "ad": "Anadolu Ajansı Kültür-Sanat",
-       "link": "https://www.aa.com.tr/tr/kultur/suriyeli-gazeteci-yazar-ibrahim-el-cebin-ulkesinin-tarihsel-kirilmalarini-ve-kimlik-mucadelesini-anlatti/4140207"
       }
      ]
     }
@@ -615,58 +519,58 @@
  "farkli_bakislar": [],
  "makaleler": [
   {
-   "pmid": "43085815",
-   "baslik_en": "Prenatal exposure to drug treatment for attention deficit/hyperactivity disorder and risk of neurodevelopmental disorders: Scandinavian multinational cohort study.",
-   "baslik_tr": "Prenatal exposure to drug treatment for attention deficit/hyperactivity disorder and risk of neurodevelopmental disorders: Scandinavian multinational cohort study.",
-   "dergi": "BMJ (Clinical research ed.)",
+   "pmid": "43078110",
+   "baslik_en": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+   "dergi": "Lancet (London, England)",
    "yazarlar": [
-    "Bruno C",
-    "Cesta CE",
-    "Hjellvik V",
+    "Trickett E",
+    "Soldan K",
+    "Beddows S",
     "et al."
    ],
-   "tur": "Multicenter Study",
-   "ozet_en": "OBJECTIVE: To assess whether prenatal exposure to drug treatment for attention deficit/hyperactivity disorder (ADHD) increases the risk of neurodevelopmental disorders in children. DESIGN: Population based cohort study. SETTING: Nationwide register data on births, dispensed drugs, and specialist healthcare diagnoses from Denmark, Norway, and Sweden. PARTICIPANTS: 3 643 376 children born in 2000-21 followed up for a median 9 years after birth in Sweden and 10 years in Norway and Denmark. INTERVENTIONS: Prenatal exposure, defined as ≥1 filled prescription for ADHD drug treatment anytime during pregnancy or in the second/third trimester (≥98 days after the last menstrual period).",
-   "ozet_tr": "OBJECTIVE: To assess whether prenatal exposure to drug treatment for attention deficit/hyperactivity disorder (ADHD) increases the risk of neurodevelopmental disorders in children. DESIGN: Population based cohort study. SETTING: Nationwide register data on births, dispensed drugs, and specialist healthcare diagnoses from Denmark, Norway, and Sweden. PARTICIPANTS: 3 643 376 children born in 2000-21 followed up for a median 9 years after birth in Sweden and 10 years in Norway and Denmark. INTERVENTIONS: Prenatal exposure, defined as ≥1 filled prescription for ADHD drug treatment anytime during pregnancy or in the second/third trimester (≥98 days after the last menstrual period).",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43085815/",
-   "doi": "https://doi.org/10.1136/bmj-2026-101236"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43078110/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01554-0",
+   "baslik_tr": "İngiltere, İskoçya ve Galler'de 1999-2024 arasında HPV enfeksiyonu, aşılama ve rahim ağzı taraması (Natsal)",
+   "tur": "Kesitsel ulusal anketler",
+   "ozet_en": "Repeated nationally representative surveys (Natsal) with HPV testing compared HPV-16/18 prevalence before and after Britain's 2008 vaccination programme. Among women aged 18-29, HPV-16/18 prevalence was 86% lower than before vaccination, and all HPV-16/18 infections in the latest survey were in unvaccinated women. About 23% of vaccine-eligible women reported being unvaccinated and 5.3% of screening-eligible women had never been screened, with lower uptake in minority ethnic and religious groups and those born outside the UK. Biosample numbers were modest and the data are partly self-reported.",
+   "ozet_tr": "Ulusal düzeyde temsil gücü olan tekrarlayan anketler (Natsal), HPV testiyle birlikte, Britanya'da 2008 aşı programından önce ve sonra HPV-16/18 yaygınlığını karşılaştırdı. 18-29 yaş kadınlarda HPV-16/18 yaygınlığı aşılama öncesine göre %86 daha düşüktü ve son ankette görülen tüm HPV-16/18 enfeksiyonları aşısız kadınlarda saptandı. Aşıya uygun kadınların yaklaşık %23'ü aşısız olduğunu, tarama yaşındakilerin %5,3'ü hiç tarama yaptırmadığını bildirdi; azınlık etnik ve dini gruplarda ve Birleşik Krallık dışında doğanlarda katılım daha düşüktü. Biyolojik örnek sayısı sınırlıydı ve veriler kısmen bireylerin kendi bildirimine dayanıyor.",
+   "neden_onemli": "HPV aşısının rahim ağzı kanseri riskini azaltmada ne kadar etkili olabileceğini ve aşı ile taramaya erişimdeki eşitsizliği gösteriyor."
   },
   {
-   "pmid": "43086436",
-   "baslik_en": "Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST.",
-   "baslik_tr": "Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST.",
-   "dergi": "Nature",
+   "pmid": "43077202",
+   "baslik_en": "Bone Mineral Density, FRAX Score, and Fracture Risk in Asian Adults With Type 2 Diabetes.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Fatma S",
-    "Dubey S",
-    "Truong VH",
+    "Lui DTW",
+    "Zhang X",
+    "Zhang Y",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "Precise genomic integration of large DNA cargo remains a central challenge in genome engineering. CRISPR-associated transposases (CASTs)1,2 offer a promising solution by coupling RNA-guided DNA recognition to transposon-mediated integration. Because of their exceptional targeting fidelity, type I-F3 CASTs have been a major research focus1, yet the structural basis of their RNA-guided DNA integration has remained unclear. Here, using cryo-electron microscopy, computational protein design and functional assays, we report the licensing mechanisms that control DNA integration activity of Vibrio cholerae CAST (VchCAST).",
-   "ozet_tr": "Precise genomic integration of large DNA cargo remains a central challenge in genome engineering. CRISPR-associated transposases (CASTs)1,2 offer a promising solution by coupling RNA-guided DNA recognition to transposon-mediated integration. Because of their exceptional targeting fidelity, type I-F3 CASTs have been a major research focus1, yet the structural basis of their RNA-guided DNA integration has remained unclear. Here, using cryo-electron microscopy, computational protein design and functional assays, we report the licensing mechanisms that control DNA integration activity of Vibrio cholerae CAST (VchCAST).",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43086436/",
-   "doi": "https://doi.org/10.1038/s41586-026-11287-9"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43077202/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.45960",
+   "baslik_tr": "Tip 2 diyabetli Asyalı yetişkinlerde kemik mineral yoğunluğu, FRAX skoru ve kırık riski",
+   "tur": "Prospektif kohort",
+   "ozet_en": "This prospective Hong Kong cohort followed 5,817 adults, 629 of them with type 2 diabetes, for about 12 years. Lower femoral neck bone density and higher FRAX scores were linked to more hip and major osteoporotic fractures, and fracture rates were higher in people with diabetes (hip fracture 13.27 vs 3.77 per 1,000 person-years). At equal hip fracture risk, people with diabetes had higher bone density T scores than those without. The authors state that how much to adjust the T score in Asians with diabetes still needs external validation.",
+   "ozet_tr": "Hong Kong'daki bu prospektif kohort, 629'u tip 2 diyabetli olan 5.817 yetişkini yaklaşık 12 yıl izledi. Düşük kalça boynu kemik yoğunluğu ve yüksek FRAX skoru daha fazla kalça ve majör osteoporotik kırıkla ilişkiliydi; kırık oranları diyabetlilerde daha yüksekti (kalça kırığı 1.000 kişi-yılda 13,27'ye karşı 3,77). Eşit kalça kırığı riskinde diyabetlilerin kemik yoğunluğu T skorları daha yüksekti. Yazarlar, Asyalı diyabetlilerde T skorunun ne kadar düzeltileceğinin dış doğrulamaya ihtiyaç duyduğunu belirtiyor.",
+   "neden_onemli": "Diyabetli kişilerde kemik yoğunluğu ölçümünün kırık riskini olduğundan düşük gösterebileceğini hatırlatıyor."
   },
   {
-   "pmid": "43099185",
-   "baslik_en": "Performance of intracortical microelectrode arrays in people with implanted brain-computer interfaces over a 20-year period.",
-   "baslik_tr": "Performance of intracortical microelectrode arrays in people with implanted brain-computer interfaces over a 20-year period.",
-   "dergi": "Nature medicine",
+   "pmid": "43084297",
+   "baslik_en": "Maternal Prepregnancy Body Mass Index and Developmental Vulnerability at 36 Months.",
+   "dergi": "JAMA network open",
    "yazarlar": [
-    "Hahn NV",
-    "Stein E",
-    "Donoghue JP",
+    "Huang YD",
+    "Huang YS",
+    "Chen HC",
     "et al."
    ],
-   "tur": "",
-   "ozet_en": "The silicon microelectrode 'Utah' array has enabled people with paralysis to control computer cursors, operate prosthetic limbs and communicate using high-performance brain-computer interfaces. However, reports so far have typically been limited to one or two individuals, with no systematic assessment of array longevity, decoding accuracy and day-to-day stability. Here we present a comprehensive 20-year evaluation of neural data from the BrainGate clinical trials, spanning 2,289 recording sessions, 20 arrays and 14 participants.",
-   "ozet_tr": "The silicon microelectrode 'Utah' array has enabled people with paralysis to control computer cursors, operate prosthetic limbs and communicate using high-performance brain-computer interfaces. However, reports so far have typically been limited to one or two individuals, with no systematic assessment of array longevity, decoding accuracy and day-to-day stability. Here we present a comprehensive 20-year evaluation of neural data from the BrainGate clinical trials, spanning 2,289 recording sessions, 20 arrays and 14 participants.",
-   "neden_onemli": "",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43099185/",
-   "doi": "https://doi.org/10.1038/s41591-026-04530-3"
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43084297/",
+   "doi": "https://doi.org/10.1001/jamanetworkopen.2026.46120",
+   "baslik_tr": "Annenin gebelik öncesi beden kitle indeksi ve 36. ayda gelişimsel kırılganlık",
+   "tur": "Prospektif kohort",
+   "ozet_en": "Using the 2005 Taiwan Birth Cohort, researchers analysed 18,577 mother-child pairs to see how maternal prepregnancy BMI relates to developmental vulnerability at age 3. Children of underweight mothers had a higher risk of vulnerability in multiple developmental domains (adjusted risk ratio 1.19). Maternal obesity was linked more clearly to language-domain vulnerability (aRR 1.56). Milestones were caregiver-reported and the measure is a screening indicator, not a clinical diagnosis.",
+   "ozet_tr": "2005 Tayvan Doğum Kohortu'nu kullanan araştırmacılar, annenin gebelik öncesi BKİ'sinin 3 yaşındaki gelişimsel kırılganlıkla ilişkisini 18.577 anne-çocuk çiftinde inceledi. Zayıf annelerin çocuklarında birden fazla gelişim alanında kırılganlık riski daha yüksekti (düzeltilmiş risk oranı 1,19). Annede obezite ise dil alanındaki kırılganlıkla daha belirgin ilişkiliydi (1,56). Dönüm noktaları bakım verenlerce bildirildi ve ölçüt klinik tanı değil, tarama göstergesidir.",
+   "neden_onemli": "Gebelik öncesi kilonun çocuğun erken gelişimiyle bağlantılı olabileceğini gösteriyor; bu bir tıbbi tavsiye değildir."
   }
  ]
 }
